@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carbon Monoxide Detection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081149Z" creationid="LanHK" creationdate="20210525T081149Z">
+        <seg>Carbon Monoxide Detection / Phát khiện khó CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cause &amp; effect matrix</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T080102Z" creationid="LanHK" creationdate="20210525T080102Z">
@@ -107,6 +115,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T070107Z" creationid="LanHK" creationdate="20210525T070107Z">
         <seg>DOCUMENT VERIFICATION / XÁC NHẬN VĂN BẢN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data Protection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081222Z" creationid="LanHK" creationdate="20210525T081222Z">
+        <seg>Data Protection / Bảo mật thông tin</seg>
       </tuv>
     </tu>
     <tu>
@@ -203,6 +219,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153653Z" creationid="Kieu Lan" creationdate="20210405T153653Z">
         <seg>Electrical Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electricity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081250Z" creationid="LanHK" creationdate="20210525T081250Z">
+        <seg>Electricity / Điện</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +374,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>enclosure??	</note>
       <tuv lang="EN-US">
         <seg>Fire resisting enclosure</seg>
       </tuv>
@@ -386,8 +411,8 @@
       <tuv lang="EN-US">
         <seg>Food Safety</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T092140Z" creationid="LanHK" creationdate="20210405T092140Z">
-        <seg>Food Safety An toàn vệ sinh thực phẩm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081205Z" creationid="LanHK" creationdate="20210405T092140Z">
+        <seg>Food Safety / An toàn vệ sinh thực phẩm</seg>
       </tuv>
     </tu>
     <tu>
@@ -464,6 +489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Health &amp; Safety</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081215Z" creationid="LanHK" creationdate="20210525T081215Z">
+        <seg>Health &amp; Safety / Sức khỏe &amp; An toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal Means of Escape</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T075059Z" creationid="LanHK" creationdate="20210525T075055Z">
@@ -528,6 +561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leisure Activity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081203Z" creationid="LanHK" creationdate="20210525T081203Z">
+        <seg>Leisure Activity / Hoạt động giải trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Life Safety Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T075256Z" creationid="LanHK" creationdate="20210525T075256Z">
@@ -556,6 +597,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T074914Z" creationid="LanHK" creationdate="20210525T074914Z">
         <seg>Linen and Refuse Chutes / Ống thả đồ giặt và Ống thả rác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MECHANICAL SERVICES</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081315Z" creationid="LanHK" creationdate="20210525T081315Z">
+        <seg>MECHANICAL SERVICES / </seg>
       </tuv>
     </tu>
     <tu>
@@ -722,8 +771,8 @@
       <tuv lang="EN-US">
         <seg>Security</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T092103Z" creationid="LanHK" creationdate="20210405T092103Z">
-        <seg>Security An ninh</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081158Z" creationid="LanHK" creationdate="20210405T092103Z">
+        <seg>Security / An ninh</seg>
       </tuv>
     </tu>
     <tu>
@@ -748,6 +797,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T080547Z" creationid="LanHK" creationdate="20210525T080547Z">
         <seg>Smoke Control Systems / Hệ thống kiểm soát khói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smoke and heat control system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081143Z" creationid="LanHK" creationdate="20210525T081143Z">
+        <seg>Smoke and heat control system / Hệ thống kiểm soát khói và nhiệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,10 +874,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UTILITY SERVICES</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081231Z" creationid="LanHK" creationdate="20210525T081231Z">
+        <seg>UTILITY SERVICES DỊCH VỤ ĐIỆN NƯỚC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vertical Means of Escape</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T075106Z" creationid="LanHK" creationdate="20210525T075106Z">
         <seg>Vertical Means of Escape / Phương thức thoát hiểm chiều đứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T081245Z" creationid="LanHK" creationdate="20210525T081239Z">
+        <seg>Water / Nước</seg>
       </tuv>
     </tu>
     <tu>
