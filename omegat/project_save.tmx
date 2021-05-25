@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cause &amp; effect matrix</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T080102Z" creationid="LanHK" creationdate="20210525T080102Z">
+        <seg>Cause &amp; effect matrix / Ma trận nhân quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T070113Z" creationid="LanHK" creationdate="20210525T070113Z">
@@ -303,6 +311,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Sprinkler Plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T080157Z" creationid="LanHK" creationdate="20210525T080123Z">
+        <seg>Fire Sprinkler Plant / Sprinkler chữa cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Sprinkler and Hose reel Low rise</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T080233Z" creationid="LanHK" creationdate="20210525T080233Z">
+        <seg>Fire Sprinkler and Hose reel Low rise / Sprinkler và Cuộn vòi chữa cháy trong nhà thấp tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Suppression</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T080113Z" creationid="LanHK" creationdate="20210525T080108Z">
+        <seg>Fire Suppression / Chữa cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First Issue</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071052Z" creationid="LanHK" creationdate="20210525T071052Z">
@@ -415,6 +447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impaired hearing provisions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T080047Z" creationid="LanHK" creationdate="20210525T080047Z">
+        <seg>Impaired hearing provisions / Phương án dành cho người khiếm thính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Issue</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071024Z" creationid="LanHK" creationdate="20210525T071024Z">
@@ -467,6 +507,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T074914Z" creationid="LanHK" creationdate="20210525T074914Z">
         <seg>Linen and Refuse Chutes / Ống thả đồ giặt và Ống thả rác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main Fire Panel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T080053Z" creationid="LanHK" creationdate="20210525T080053Z">
+        <seg>Main Fire Panel / Tủ báo cháy chính</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +678,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>?? hai cái này có khác nhau??</note>
       <tuv lang="EN-US">
         <seg>Sounders and Alarm</seg>
       </tuv>
@@ -643,6 +692,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T073334Z" creationid="LanHK" creationdate="20210525T073334Z">
         <seg>Structural Fire Resistance / Kết cấu chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Fire Integrity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T080023Z" creationid="LanHK" creationdate="20210525T080023Z">
+        <seg>System Fire Integrity / Khả năng chịu lửa của hệ thống</seg>
       </tuv>
     </tu>
     <tu>
