@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air Conditioning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T091700Z" creationid="LanHK" creationdate="20210525T091658Z">
+        <seg>Air Conditioning / Điều hòa không khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All air Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T091721Z" creationid="LanHK" creationdate="20210525T091721Z">
+        <seg>All air Systems Tất cả các hệ thống khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atriums</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T080643Z" creationid="LanHK" creationdate="20210525T080643Z">
@@ -94,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Central Heating Production/ Distribution</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T091637Z" creationid="LanHK" creationdate="20210525T091637Z">
+        <seg>Central Heating Production/ Distribution /  Hệ thống phân phối nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Central Heating and Chilling Plant</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T091247Z" creationid="LanHK" creationdate="20210525T091247Z">
@@ -133,6 +157,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>trong mục của nó có giải thích, cần đi hỏi</note>
       <tuv lang="EN-US">
         <seg>Condenser Water Circuits</seg>
       </tuv>
@@ -243,6 +268,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T074801Z" creationid="LanHK" creationdate="20210525T074801Z">
         <seg>Deviations from the InterContinental Hotels Group Standards / Sai lệch so với tiêu chuẩn IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribution Options</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T091644Z" creationid="LanHK" creationdate="20210525T091644Z">
+        <seg>Distribution Options / Các phương thức phân phối</seg>
       </tuv>
     </tu>
     <tu>
@@ -565,6 +598,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T091205Z" creationid="LanHK" creationdate="20210525T090917Z">
         <seg>Guest room load estimation / Ước tính tải phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HVAC System Selection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T091709Z" creationid="LanHK" creationdate="20210525T091709Z">
+        <seg>HVAC System Selection / Lựa chọn hệ thống HVAC</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1087,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T043951Z" creationid="LanHK" creationdate="20210505T043951Z">
         <seg>Yes Có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoning of Air Conditioning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T091652Z" creationid="LanHK" creationdate="20210525T091652Z">
+        <seg>Zoning of Air Conditioning / Phân vùng điều hòa không khí</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
