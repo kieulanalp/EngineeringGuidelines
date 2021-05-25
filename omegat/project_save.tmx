@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aims and Objectives</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T083315Z" creationid="LanHK" creationdate="20210525T083315Z">
+        <seg>Aims and Objectives / Định hướng và Mục tiêu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atriums</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T080643Z" creationid="LanHK" creationdate="20210525T080643Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T095656Z" creationid="LanHK" creationdate="20210405T095656Z">
         <seg>Back of House Khu BOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building Orientation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T083333Z" creationid="LanHK" creationdate="20210525T083333Z">
+        <seg>Building Orientation / Hướng tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -107,6 +123,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T075518Z" creationid="LanHK" creationdate="20210525T075454Z">
         <seg>Control requirements / Yêu cầu về điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooling Load Estimates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T090907Z" creationid="LanHK" creationdate="20210525T090907Z">
+        <seg>Cooling Load Estimates / Ước tính công suất làm mát</seg>
       </tuv>
     </tu>
     <tu>
@@ -537,6 +561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>InterContinental Brand Standard Manual</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T083245Z" creationid="LanHK" creationdate="20210525T083245Z">
+        <seg>InterContinental Brand Standard Manual Hướng dẫn Tiêu chuẩn Thương hiệu InterContinental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Issue</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071024Z" creationid="LanHK" creationdate="20210525T071024Z">
@@ -653,6 +685,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153537Z" creationid="Kieu Lan" creationdate="20210405T153537Z">
         <seg>Mechanical Cơ khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical services, system included</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T083300Z" creationid="LanHK" creationdate="20210525T083300Z">
+        <seg>Mechanical services, system included / Các máy móc, hệ thống bao gồm</seg>
       </tuv>
     </tu>
     <tu>
@@ -785,6 +825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selection of maximum and minimum temperatures</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T083329Z" creationid="LanHK" creationdate="20210525T083329Z">
+        <seg>Selection of maximum and minimum temperatures / Lựa chọn nhiệt độ tối đa và tối thiểu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Signed</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071044Z" creationid="LanHK" creationdate="20210525T071044Z">
@@ -813,6 +861,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T081143Z" creationid="LanHK" creationdate="20210525T081143Z">
         <seg>Smoke and heat control system / Hệ thống kiểm soát khói và nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solar Shading - Sun Paths</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T083351Z" creationid="LanHK" creationdate="20210525T083351Z">
+        <seg>Solar Shading - Sun Paths / Che nắng - Đường đi của mặt trời</seg>
       </tuv>
     </tu>
     <tu>
