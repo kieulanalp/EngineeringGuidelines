@@ -77,6 +77,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>hmmm??</note>
+      <tuv lang="EN-US">
+        <seg>Control requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075518Z" creationid="LanHK" creationdate="20210525T075454Z">
+        <seg>Control requirements / Yêu cầu về điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>DOCUMENT VERIFICATION</seg>
       </tuv>
@@ -102,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075532Z" creationid="LanHK" creationdate="20210525T075532Z">
+        <seg>Definitions / Định nghĩa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210504T072013Z" creationid="LanHK" creationdate="20210504T072013Z">
@@ -121,6 +138,14 @@
         <seg>Design Standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T074637Z" creationid="LanHK" creationdate="20210525T074637Z">
+        <seg>Design Standards / Tiêu chuẩn Thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075428Z" creationid="LanHK" creationdate="20210525T075428Z">
         <seg>Design Standards / Tiêu chuẩn Thiết kế</seg>
       </tuv>
     </tu>
@@ -234,6 +259,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071126Z" creationid="LanHK" creationdate="20210525T071126Z">
         <seg>Final incorporating all comments from IHG workshops and illustrations / Bản cuối, bao gồm tất cả comment từ các workshop IHG và hình minh họa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Alarm and Detection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075423Z" creationid="LanHK" creationdate="20210525T075423Z">
+        <seg>Fire Alarm and Detection / Phát hiện và Báo cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,10 +631,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sounders and Alarm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075953Z" creationid="LanHK" creationdate="20210525T075953Z">
+        <seg>Sounders and Alarm / Báo động âm thanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Structural Fire Resistance</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T073334Z" creationid="LanHK" creationdate="20210525T073334Z">
         <seg>Structural Fire Resistance / Kết cấu chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Types</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075409Z" creationid="LanHK" creationdate="20210525T075409Z">
+        <seg>System Types / Các loại hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075557Z" creationid="LanHK" creationdate="20210525T075557Z">
+        <seg>Type of systems / Các loại hệ thống</seg>
       </tuv>
     </tu>
     <tu>
