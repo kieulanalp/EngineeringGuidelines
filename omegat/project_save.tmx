@@ -449,6 +449,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh Air Load Estimation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T091131Z" creationid="LanHK" creationdate="20210525T091131Z">
+        <seg>Fresh Air Load Estimation / Ước tính </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front Desk</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093037Z" creationid="LanHK" creationdate="20210405T093037Z">
@@ -517,6 +525,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210429T062900Z" creationid="LanHK" creationdate="20210429T062900Z">
         <seg>Guest Rooms Phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest room load estimation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T090917Z" creationid="LanHK" creationdate="20210525T090917Z">
+        <seg>Guest room load estimation / Ước tính công suất phòng khách</seg>
       </tuv>
     </tu>
     <tu>
