@@ -216,6 +216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Define the design criteria for IHG hotel projects.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T092547Z" creationid="LanHK" creationdate="20210525T092547Z">
+        <seg>Define the design criteria for IHG hotel projects. / Xá=c định các tiêu chí thiết kế cho các dự án khách sạn IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Definitions</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T075532Z" creationid="LanHK" creationdate="20210525T075532Z">
@@ -894,6 +902,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T074850Z" creationid="LanHK" creationdate="20210525T074850Z">
         <seg>Protection of Voids / Bảo vệ không gian trống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide clear indication of responsibilities.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T092601Z" creationid="LanHK" creationdate="20210525T092601Z">
+        <seg>Provide clear indication of responsibilities. / Xác định rõ phạm vi trách nhiệm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide clear written and illustrative information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T092622Z" creationid="LanHK" creationdate="20210525T092622Z">
+        <seg>Provide clear written and illustrative information. / Cung cấp thông tin được trình bày mạch lạc cùng hình ảnh minh họa</seg>
       </tuv>
     </tu>
     <tu>
