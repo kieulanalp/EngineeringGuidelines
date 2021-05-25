@@ -473,6 +473,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Green engage Design Standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T083227Z" creationid="LanHK" creationdate="20210525T083227Z">
+        <seg>Green engage Design Standards / Tiêu chuẩn Thiết kế Green Engage (Tiêu chuẩn Xanh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest Room</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153638Z" creationid="Kieu Lan" creationdate="20210405T153638Z">
@@ -603,8 +611,8 @@
       <tuv lang="EN-US">
         <seg>MECHANICAL SERVICES</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081315Z" creationid="LanHK" creationdate="20210525T081315Z">
-        <seg>MECHANICAL SERVICES / </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T083157Z" creationid="LanHK" creationdate="20210525T081315Z">
+        <seg>MECHANICAL SERVICES / Các máy móc</seg>
       </tuv>
     </tu>
     <tu>
