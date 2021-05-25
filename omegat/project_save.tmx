@@ -1099,6 +1099,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TECHNICAL SUBMISSIONS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T094423Z" creationid="LanHK" creationdate="20210525T094423Z">
+        <seg>TECHNICAL SUBMISSIONS / TRÌNH DUYỆT VỀ KỸ THUẬT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following diagram illustrates the designer’s responsibilities in relation to design approvals:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T093106Z" creationid="LanHK" creationdate="20210525T093106Z">
@@ -1211,10 +1219,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•Documentation may be required to highlight any variances from local standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T094411Z" creationid="LanHK" creationdate="20210525T094411Z">
+        <seg>•Documentation may be required to highlight any variances from local standards / Có thể yêu cầu tài liệu để làm rõ các khác biệt so với tiêu chuẩn địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>•Resolve conflicts with IHG</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T094202Z" creationid="LanHK" creationdate="20210525T094202Z">
         <seg>•Resolve conflicts with IHG / Giải quyết các mâu thuẫn với IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•Submissions to be made in English and formatted in accordance with this manual</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T101801Z" creationid="LanHK" creationdate="20210525T101801Z">
+        <seg>•Submissions to be made in English and formatted in accordance with this manual / Tài liệu trình bằng tiếng Anh và được format theo như hướng dẫn này</seg>
       </tuv>
     </tu>
     <tu>
