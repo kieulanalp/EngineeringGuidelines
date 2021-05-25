@@ -906,6 +906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide a summary of systems that have been proven and are acceptable. (This does not preclude designers from proposing alternatives, particularly as technology advances. Any alternatives proposed however should be submitted with sufficient detail for comparison and in particular the benefits listed, for IHG approval).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T092913Z" creationid="LanHK" creationdate="20210525T092913Z">
+        <seg>Provide a summary of systems that have been proven and are acceptable. (This does not preclude designers from proposing alternatives, particularly as technology advances. Any alternatives proposed however should be submitted with sufficient detail for comparison and in particular the benefits listed, for IHG approval). / Cung cấp tóm tắt các hệ thống đã được chứng minh và chấp nhận (Không có nghĩa là thiết kế không thể đề xuất giải pháp thay thế, đặc biệt là khi kỹ thuật phát triển. Bất cứ giải pháp nào được đề xuất đều cần đệ trình cho IHG cùng với đầy đủ thông tin so sánh và đặc biệt là liệt kê các lợi ích, để IHG xem xét phê duyệt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide clear indication of responsibilities.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T092601Z" creationid="LanHK" creationdate="20210525T092601Z">
@@ -918,6 +926,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T092622Z" creationid="LanHK" creationdate="20210525T092622Z">
         <seg>Provide clear written and illustrative information. / Cung cấp thông tin được trình bày mạch lạc cùng hình ảnh minh họa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide examples of cost effective simple designs that are proven for use. (This does not preclude the designers from putting forward alternatives that are more cost effective or can provide other benefits).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T092731Z" creationid="LanHK" creationdate="20210525T092731Z">
+        <seg>Provide examples of cost effective simple designs that are proven for use. (This does not preclude the designers from putting forward alternatives that are more cost effective or can provide other benefits). / Cung cấp ví dụ về các thiết kế đơn giản với mức giá tối ưu đã qua kiểm nghiệm thực tế (Điều này không có nghĩa là thiết kế không thể đưa ra các giải pháp khác tối ưu hơn hoặc đem lại các lợi ích khác)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1055,6 +1071,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T075409Z" creationid="LanHK" creationdate="20210525T075409Z">
         <seg>System Types / Các loại hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T093039Z" creationid="LanHK" creationdate="20210525T093039Z">
+        <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below: / Các tiêu chuẩn được áp dụng sẽ thay đổi phụ thuộc vào vị trí của khách sạn, do đó sẽ có các yêu cầu mâu thuẫn giữa tiêu chuẩn thương hiệu, quy định địa phương, tiêu chuẩn quốc tế và các tiêu chí tiết kiệm năng lượng. Trong tất cả mọi trường hợp, IHG sẽ được thông báo về các yêu cầu mâu thuẫn như sau:</seg>
       </tuv>
     </tu>
     <tu>
