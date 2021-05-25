@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>APPROVALS AND APPLICATIONS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T094257Z" creationid="LanHK" creationdate="20210525T094257Z">
+        <seg>REGULATORY APPROVALS AND APPLICATIONS / XIN PHÊ DUYỆT TỪ CƠ QUAN CHỨC NĂNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011557Z" creationid="LanHK" creationdate="20210406T011549Z">
@@ -946,6 +954,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REGULATORY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T094214Z" creationid="LanHK" creationdate="20210525T094214Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Re-issue as design guideline</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071142Z" creationid="LanHK" creationdate="20210525T071142Z">
@@ -1175,6 +1191,38 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T091652Z" creationid="LanHK" creationdate="20210525T091652Z">
         <seg>Zoning of Air Conditioning / Phân vùng điều hòa không khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•Designer is responsible for making applications and obtaining all local regulatory approvals</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T094345Z" creationid="LanHK" creationdate="20210525T094345Z">
+        <seg>•Designer is responsible for making applications and obtaining all local regulatory approvals / Thiết kế chịu trách nhiệm làm tất cả hồ sơ xin phê duyệt tại tất cả các cơ quan chức năng địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•Designer to provide submissions as detailed within this manual</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T094155Z" creationid="LanHK" creationdate="20210525T094155Z">
+        <seg>•Designer to provide submissions as detailed within this manual / Thiết kế trình thông tin theo như hướng dẫn trong tài liệu này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•Resolve conflicts with IHG</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T094202Z" creationid="LanHK" creationdate="20210525T094202Z">
+        <seg>•Resolve conflicts with IHG / Giải quyết các mâu thuẫn với IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•Used to verify conformance with IHG Requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T094137Z" creationid="LanHK" creationdate="20210525T094137Z">
+        <seg>•Used to verify conformance with IHG Requirements / Nhằm xác nhận độ phù hợp với các Tiêu chuẩn</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
