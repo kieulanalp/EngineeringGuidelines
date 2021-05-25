@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Addendum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T070956Z" creationid="LanHK" creationdate="20210525T070956Z">
+        <seg>Addendum / Sửa đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071029Z" creationid="LanHK" creationdate="20210525T071029Z">
+        <seg>Author / Tác giả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONTENTS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071151Z" creationid="LanHK" creationdate="20210525T071151Z">
+        <seg>CONTENTS / MỤC LỤC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Client:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T070113Z" creationid="LanHK" creationdate="20210525T070113Z">
+        <seg>Client: / Khách hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOCUMENT VERIFICATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T070107Z" creationid="LanHK" creationdate="20210525T070107Z">
+        <seg>DOCUMENT VERIFICATION / XÁC NHẬN VĂN BẢN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T070126Z" creationid="LanHK" creationdate="20210525T070126Z">
+        <seg>Date / Ngày tháng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document Title:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T070122Z" creationid="LanHK" creationdate="20210525T070122Z">
+        <seg>Document Title: / Tên tài liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineering Design Guidelines</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T070039Z" creationid="LanHK" creationdate="20210525T070039Z">
+        <seg>Engineering Design Guidelines / Hướng dẫn Thiết kế Kỹ thuật </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final incorporating all comments from IHG workshops and illustrations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071126Z" creationid="LanHK" creationdate="20210525T071126Z">
+        <seg>Final incorporating all comments from IHG workshops and illustrations / Bản cuối, bao gồm tất cả comment từ các workshop IHG và hình minh họa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Safety</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T073328Z" creationid="LanHK" creationdate="20210525T073328Z">
+        <seg>Fire Safety / PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Separation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T073502Z" creationid="LanHK" creationdate="20210525T073502Z">
+        <seg>Fire Separation / Chống cháy lan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First Issue</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071052Z" creationid="LanHK" creationdate="20210525T071052Z">
+        <seg>First Issue / Bản đầu tiên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For Comment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071056Z" creationid="LanHK" creationdate="20210525T071056Z">
+        <seg>For Comment </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GENERAL</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T073304Z" creationid="LanHK" creationdate="20210525T073304Z">
+        <seg>GENERAL /THÔNG TIN CHUNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INTRODUCTION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071157Z" creationid="LanHK" creationdate="20210525T071157Z">
+        <seg>INTRODUCTION / GIỚI THIỆU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Issue</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071024Z" creationid="LanHK" creationdate="20210525T071024Z">
+        <seg>Issue / Nội dung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>November 2015</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T070049Z" creationid="LanHK" creationdate="20210525T070049Z">
+        <seg>November 2015 / Tháng Mười một, 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re-issue as design guideline</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071142Z" creationid="LanHK" creationdate="20210525T071142Z">
+        <seg>Re-issue as design guideline / Phát hành lại thành Hướng dẫn thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rev.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071001Z" creationid="LanHK" creationdate="20210525T071001Z">
+        <seg>Rev. / Bản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reviewer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071038Z" creationid="LanHK" creationdate="20210525T071038Z">
+        <seg>Reviewer / Biên tập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revision: 2.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T070059Z" creationid="LanHK" creationdate="20210525T070059Z">
+        <seg>Revision: 2.1 / Bản 2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signed</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T071044Z" creationid="LanHK" creationdate="20210525T071044Z">
+        <seg>Signed / Đã ký</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Structural Fire Resistance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T073334Z" creationid="LanHK" creationdate="20210525T073334Z">
+        <seg>Structural Fire Resistance / Kết cấu chống cháy</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
