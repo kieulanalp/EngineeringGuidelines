@@ -206,6 +206,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Escape Signage</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075233Z" creationid="LanHK" creationdate="20210525T075233Z">
+        <seg>Escape Signage / Biển báo thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Means of Escape</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075218Z" creationid="LanHK" creationdate="20210525T075218Z">
+        <seg>External Means of Escape / Phương thức thoát hiểm bên ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fastenings on exits doors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075227Z" creationid="LanHK" creationdate="20210525T075227Z">
+        <seg>Fastenings on exits doors / Chốt trên cửa thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final incorporating all comments from IHG workshops and illustrations</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071126Z" creationid="LanHK" creationdate="20210525T071126Z">
@@ -288,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210504T063308Z" creationid="LanHK" creationdate="20210405T091918Z">
-        <seg>General Chung</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075033Z" creationid="LanHK" creationdate="20210405T091918Z">
+        <seg>General / Thông tin chung</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horizontal Means of Escape</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075059Z" creationid="LanHK" creationdate="20210525T075055Z">
+        <seg>Horizontal Means of Escape / Phương thức thoát hiểm chiều ngang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hot Water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154708Z" creationid="Kieu Lan" creationdate="20210405T154706Z">
@@ -374,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Life Safety Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075256Z" creationid="LanHK" creationdate="20210525T075256Z">
+        <seg>Life Safety Systems / Các hệ thống An toàn sinh mạng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighting</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154539Z" creationid="Kieu Lan" creationdate="20210405T154539Z">
@@ -394,6 +434,30 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T074914Z" creationid="LanHK" creationdate="20210525T074914Z">
         <seg>Linen and Refuse Chutes / Ống thả đồ giặt và Ống thả rác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Means of Escape</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075028Z" creationid="LanHK" creationdate="20210525T075028Z">
+        <seg>Means of Escape / Phương thức thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Means of Escape for Disabled Guest</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075241Z" creationid="LanHK" creationdate="20210525T075241Z">
+        <seg>Means of Escape for Disabled Guest / Phương thức thoát hiểm cho khách khuyết tật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Means of Escape from Places of Assembly</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075156Z" creationid="LanHK" creationdate="20210525T075156Z">
+        <seg>Means of Escape from Places of Assembly / Phương thức thoát hiểm từ nơi hội họp</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +498,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T070049Z" creationid="LanHK" creationdate="20210525T070049Z">
         <seg>November 2015 / Tháng Mười một, 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Objectives</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075403Z" creationid="LanHK" creationdate="20210525T075403Z">
+        <seg>Objectives / Mục tiêu</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +602,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T073334Z" creationid="LanHK" creationdate="20210525T073334Z">
         <seg>Structural Fire Resistance / Kết cấu chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Means of Escape</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T075106Z" creationid="LanHK" creationdate="20210525T075106Z">
+        <seg>Vertical Means of Escape / Phương thức thoát hiểm chiều đứng</seg>
       </tuv>
     </tu>
     <tu>
