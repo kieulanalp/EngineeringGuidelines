@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Access</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210406T011557Z" creationid="LanHK" creationdate="20210406T011549Z">
+        <seg>Access Truy cập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Addendum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T070956Z" creationid="LanHK" creationdate="20210525T070956Z">
@@ -18,6 +26,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071029Z" creationid="LanHK" creationdate="20210525T071029Z">
         <seg>Author / Tác giả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BRAND SAFETY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074809Z" creationid="LanHK" creationdate="20210525T074809Z">
+        <seg>BRAND SAFETY / TIÊU CHUẨN AN TOÀN THƯƠNG HIỆU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back of House</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210405T095656Z" creationid="LanHK" creationdate="20210405T095656Z">
+        <seg>Back of House Khu BOH</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cold Water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154657Z" creationid="Kieu Lan" creationdate="20210405T154657Z">
+        <seg>Cold Water Nước lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T044432Z" creationid="LanHK" creationdate="20210505T044432Z">
+        <seg>Comments Nhận xét</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DOCUMENT VERIFICATION</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T070107Z" creationid="LanHK" creationdate="20210525T070107Z">
@@ -54,10 +94,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T044813Z" creationid="LanHK" creationdate="20210505T044813Z">
+        <seg>Date: Ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T072013Z" creationid="LanHK" creationdate="20210504T072013Z">
+        <seg>Description Mô tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design Criteria</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153659Z" creationid="Kieu Lan" creationdate="20210405T153659Z">
+        <seg>Design Criteria Tiêu chí thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design Standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074637Z" creationid="LanHK" creationdate="20210525T074637Z">
+        <seg>Design Standards / Tiêu chuẩn Thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Designers Responsibilities</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074645Z" creationid="LanHK" creationdate="20210525T074645Z">
+        <seg>Designers Responsibilities / Trách nhiệm của Thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deviations from the InterContinental Hotels Group Standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074801Z" creationid="LanHK" creationdate="20210525T074801Z">
+        <seg>Deviations from the InterContinental Hotels Group Standards / Sai lệch so với tiêu chuẩn IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Document Title:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T070122Z" creationid="LanHK" creationdate="20210525T070122Z">
         <seg>Document Title: / Tên tài liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drainage</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154714Z" creationid="Kieu Lan" creationdate="20210405T154714Z">
+        <seg>Drainage Thoát nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153653Z" creationid="Kieu Lan" creationdate="20210405T153653Z">
+        <seg>Electrical Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevators</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074901Z" creationid="LanHK" creationdate="20210525T074901Z">
+        <seg>Elevators / Thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency Lighting</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T084943Z" creationid="LanHK" creationdate="20210505T084943Z">
+        <seg>Emergency Lighting Chiếu sáng khẩn cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Energy Targets</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153551Z" creationid="Kieu Lan" creationdate="20210405T153551Z">
+        <seg>Energy Targets&lt;t0/&gt; &lt;t1/&gt;Mục tiêu về Năng lượng</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +198,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equipment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210405T095638Z" creationid="LanHK" creationdate="20210405T095638Z">
+        <seg>Equipment Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final incorporating all comments from IHG workshops and illustrations</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071126Z" creationid="LanHK" creationdate="20210525T071126Z">
         <seg>Final incorporating all comments from IHG workshops and illustrations / Bản cuối, bao gồm tất cả comment từ các workshop IHG và hình minh họa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Dampers- Requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074842Z" creationid="LanHK" creationdate="20210525T074842Z">
+        <seg>Fire Dampers- Requirements / Van chặn lửa - Yêu cầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Resisting Doors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074854Z" creationid="LanHK" creationdate="20210525T074854Z">
+        <seg>Fire Resisting Doors / Cửa ngăn cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food Safety</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210405T092140Z" creationid="LanHK" creationdate="20210405T092140Z">
+        <seg>Food Safety An toàn vệ sinh thực phẩm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For Comment</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071056Z" creationid="LanHK" creationdate="20210525T071056Z">
@@ -110,10 +270,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Front Desk</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210405T093037Z" creationid="LanHK" creationdate="20210405T093037Z">
+        <seg>Front Desk Tiền sảnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GENERAL</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T073304Z" creationid="LanHK" creationdate="20210525T073304Z">
         <seg>GENERAL /THÔNG TIN CHUNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T063308Z" creationid="LanHK" creationdate="20210405T091918Z">
+        <seg>General Chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General - Fire Safety</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074819Z" creationid="LanHK" creationdate="20210525T074819Z">
+        <seg>General - Fire Safety / Thông tin chung - PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Design Principals</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074652Z" creationid="LanHK" creationdate="20210525T074652Z">
+        <seg>General Design Principals / Nguyên tắc thiết kế chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Manager</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210405T092217Z" creationid="LanHK" creationdate="20210405T092217Z">
+        <seg>General Manager Tổng quản lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153638Z" creationid="Kieu Lan" creationdate="20210405T153638Z">
+        <seg>Guest Room Phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T062900Z" creationid="LanHK" creationdate="20210429T062900Z">
+        <seg>Guest Rooms Phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot Water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154708Z" creationid="Kieu Lan" creationdate="20210405T154706Z">
+        <seg>Hot Water Nước nóng</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +358,114 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Item</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T043949Z" creationid="LanHK" creationdate="20210505T043949Z">
+        <seg>Item Hạng mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Laundry</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210406T011646Z" creationid="LanHK" creationdate="20210406T011646Z">
+        <seg>Laundry Giặt là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lighting</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154539Z" creationid="Kieu Lan" creationdate="20210405T154539Z">
+        <seg>Lighting Chiếu sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lightning Protection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153800Z" creationid="Kieu Lan" creationdate="20210405T153800Z">
+        <seg>Lightning Protection Chống sét</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linen and Refuse Chutes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074914Z" creationid="LanHK" creationdate="20210525T074914Z">
+        <seg>Linen and Refuse Chutes / Ống thả đồ giặt và Ống thả rác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153537Z" creationid="Kieu Lan" creationdate="20210405T153537Z">
+        <seg>Mechanical Cơ khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T034923Z" creationid="LanHK" creationdate="20210407T034923Z">
+        <seg>N/A Không có thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NO</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T045533Z" creationid="LanHK" creationdate="20210505T045533Z">
+        <seg>NO KHÔNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T062846Z" creationid="LanHK" creationdate="20210429T062846Z">
+        <seg>No Không</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>November 2015</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T070049Z" creationid="LanHK" creationdate="20210525T070049Z">
         <seg>November 2015 / Tháng Mười một, 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plumbing and Drainage</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154651Z" creationid="Kieu Lan" creationdate="20210405T154651Z">
+        <seg>Plumbing and Drainage&lt;t0/&gt; &lt;t1/&gt;Hệ Thống Bơm và Thoát Nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210405T095459Z" creationid="LanHK" creationdate="20210405T095459Z">
+        <seg>Pool Bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protection of Openings in Fire Resisting Construction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074834Z" creationid="LanHK" creationdate="20210525T074834Z">
+        <seg>Protection of Openings in Fire Resisting Construction / Bảo vệ các khoảng trống trong kết cấu chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protection of Voids</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074850Z" creationid="LanHK" creationdate="20210525T074850Z">
+        <seg>Protection of Voids / Bảo vệ không gian trống</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Security</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210405T092103Z" creationid="LanHK" creationdate="20210405T092103Z">
+        <seg>Security An ninh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Signed</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071044Z" creationid="LanHK" creationdate="20210525T071044Z">
@@ -182,10 +518,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smoke Control</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T040433Z" creationid="LanHK" creationdate="20210505T040433Z">
+        <seg>Smoke Control Kiểm soát khói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Structural Fire Resistance</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T073334Z" creationid="LanHK" creationdate="20210525T073334Z">
         <seg>Structural Fire Resistance / Kết cấu chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210525T074858Z" creationid="LanHK" creationdate="20210406T012807Z">
+        <seg>Windows / Cửa sổ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YES</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T045513Z" creationid="LanHK" creationdate="20210505T045513Z">
+        <seg>YES CÓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T043951Z" creationid="LanHK" creationdate="20210505T043951Z">
+        <seg>Yes Có</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
