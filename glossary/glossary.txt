@@ -1,1 +1,4 @@
 Fire Safety	PCCC
+Means of Escape	Phương thức thoát hiểm
+Sprinkler	Sprinkler
+Brand Standards	bộ Tiêu chuẩn Thương hiệu
