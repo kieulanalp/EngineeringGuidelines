@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An intelligent analogue addressable, automatic fire alarm and detection system must be installed to cover the whole hotel. The system must also provide signals to other building systems where the hotel is part of a larger complex to alert them in the event of fire system activation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210531T052854Z" creationid="Kieu Lan" creationdate="20210531T052854Z">
+        <seg>An intelligent analogue addressable, automatic fire alarm and detection system must be installed to cover the whole hotel. The system must also provide signals to other building systems where the hotel is part of a larger complex to alert them in the event of fire system activation. / Yêu cầu lắp đặt hệ thống phát hiện và báo cháy định địa chỉ analogue thông minh trên khắp khách sạn. Hệ thống cũng phải báo tín hiệu tới các hệ thống tòa nhà khác nếu khách sạn thuộc một tổ hợp tòa nhà lớn hơn, để báo động cho các bên khác trong trường hợp hệ thống cứu hỏa bị kích hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atriums</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T080643Z" creationid="LanHK" creationdate="20210525T080643Z">
