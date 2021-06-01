@@ -1179,6 +1179,31 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The agreed variation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T094601Z" creationid="LanHK" creationdate="20210601T094601Z">
+        <seg>The agreed variation / Thay đổi được chấp nhận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>The cost/ programme benefit ??</note>
+      <tuv lang="EN-US">
+        <seg>The cost/ programme benefit to the project</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T094935Z" creationid="LanHK" creationdate="20210601T094935Z">
+        <seg>The cost/ programme benefit to the project / Lợi ích về chi phí/chương trình đối với dự án</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The date</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T094625Z" creationid="LanHK" creationdate="20210601T094625Z">
+        <seg>The date / Ngày tháng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following diagram illustrates the designer’s responsibilities in relation to design approvals:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T093106Z" creationid="LanHK" creationdate="20210525T093106Z">
@@ -1199,6 +1224,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T094533Z" creationid="LanHK" creationdate="20210601T094050Z">
         <seg>The item reference and applicable section of the InterContinental Hotels Group standards / Hạng mục được quan tâm và mục tiêu chuẩn IHG áp dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reason for the variation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T094544Z" creationid="LanHK" creationdate="20210601T094544Z">
+        <seg>The reason for the variation / Lý do có thay đổi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1263,6 +1296,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T093327Z" creationid="LanHK" creationdate="20210601T092745Z">
         <seg>Where deviations from InterContinental Hotels Group standards are agreed (must be in writing), the designers must maintain a schedule of the agreed variations including: / Nếu các khác biệt so với tiêu chuẩn IHG phải được chấp thuận bằng văn bản, Thiết kế phải duy trì lịch tiến độ của các hạng mục thay đổi đã được chấp thuận, bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who agreed the variation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T094603Z" creationid="LanHK" creationdate="20210601T094603Z">
+        <seg>Who agreed the variation / Người chấp thuận thay đổi này</seg>
       </tuv>
     </tu>
     <tu>
