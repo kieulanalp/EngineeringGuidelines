@@ -6,18 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>1. POSITION LARGE ELECTRICITY CONSUMING PLANT NEAR MAIN SUPPLY SOURCE TO REDUCE VOLTAGE DROP etc 2 ÇËNTRALISE’PLANT ANO RISERS to AID BALANCING, TO REDUCE PIPE HEAT LOSSES / GAINS AND TO REDUii</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>1. POSITION LARGE ELECTRICITY CONSUMING PLANT NEAR MAIN SUPPLY SOURCE TO REDUCE VOLTAGE DROP etc 2 ÇËNTRALISE’PLANT ANO RISERS to AID BALANCING, TO REDUCE PIPE HEAT LOSSES    /    GAINS AND TO REDUii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.6.4 Definitions</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210531T053934Z" creationid="Kieu Lan" creationdate="20210531T053934Z">
-        <seg>2.6.4 Definitions / Định nghĩa</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T053934Z">
+        <seg>2.6.4 Definitions    /    Định nghĩa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.7.8 Fog / Water Misting Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>2.7.8 Fog    /    Water Misting Systems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>25 year plant / system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>25 year plant    /    system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.18.1 Frost Protection - Alternative may be simpler / more economical</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>4.18.1 Frost Protection - Alternative may be simpler    /    more economical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>410 liters/guest / day w/o laundry</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>410 liters/guest    /    day w/o laundry</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>APPROVALS AND APPLICATIONS</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T094257Z" creationid="LanHK" creationdate="20210525T094257Z">
-        <seg>REGULATORY APPROVALS AND APPLICATIONS / XIN PHÊ DUYỆT TỪ CƠ QUAN CHỨC NĂNG</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094257Z">
+        <seg>REGULATORY APPROVALS AND APPLICATIONS    /    XIN PHÊ DUYỆT TỪ CƠ QUAN CHỨC NĂNG</seg>
       </tuv>
     </tu>
     <tu>
@@ -32,64 +72,88 @@
       <tuv lang="EN-US">
         <seg>Addendum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T070956Z" creationid="LanHK" creationdate="20210525T070956Z">
-        <seg>Addendum / Sửa đổi</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070956Z">
+        <seg>Addendum    /    Sửa đổi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Aims and Objectives</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T083315Z" creationid="LanHK" creationdate="20210525T083315Z">
-        <seg>Aims and Objectives / Định hướng và Mục tiêu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083315Z">
+        <seg>Aims and Objectives    /    Định hướng và Mục tiêu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Air Conditioning</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091700Z" creationid="LanHK" creationdate="20210525T091658Z">
-        <seg>Air Conditioning / Điều hòa không khí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091658Z">
+        <seg>Air Conditioning    /    Điều hòa không khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Algeria Egypt Libya Morocco / Western Sahara Tunisia</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Algeria Egypt Libya Morocco    /    Western Sahara Tunisia</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>All air Systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091737Z" creationid="LanHK" creationdate="20210525T091721Z">
-        <seg>All air Systems / Tất cả các hệ thống khí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091721Z">
+        <seg>All air Systems    /    Tất cả các hệ thống khí</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>An intelligent analogue addressable, automatic fire alarm and detection system must be installed to cover the whole hotel. The system must also provide signals to other building systems where the hotel is part of a larger complex to alert them in the event of fire system activation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210531T052854Z" creationid="Kieu Lan" creationdate="20210531T052854Z">
-        <seg>An intelligent analogue addressable, automatic fire alarm and detection system must be installed to cover the whole hotel. The system must also provide signals to other building systems where the hotel is part of a larger complex to alert them in the event of fire system activation. / Yêu cầu lắp đặt hệ thống phát hiện và báo cháy định địa chỉ analogue thông minh trên khắp khách sạn. Hệ thống cũng phải báo tín hiệu tới các hệ thống tòa nhà khác nếu khách sạn thuộc một tổ hợp tòa nhà lớn hơn, để báo động cho các bên khác trong trường hợp hệ thống cứu hỏa bị kích hoạt</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T052854Z">
+        <seg>An intelligent analogue addressable, automatic fire alarm and detection system must be installed to cover the whole hotel. The system must also provide signals to other building systems where the hotel is part of a larger complex to alert them in the event of fire system activation.    /    Yêu cầu lắp đặt hệ thống phát hiện và báo cháy định địa chỉ analogue thông minh trên khắp khách sạn. Hệ thống cũng phải báo tín hiệu tới các hệ thống tòa nhà khác nếu khách sạn thuộc một tổ hợp tòa nhà lớn hơn, để báo động cho các bên khác trong trường hợp hệ thống cứu hỏa bị kích hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As an alternative to a conventional public address / voice alarm system a voice-enhanced sounder system that broadcasts a voice alarm message through the detector sounder base may be used and this system is likely to be considerably less expensive. It must be noted, however, that in public areas the system may need to be enhanced by additional sounders to ensure the intelligibility of the message. This is illustrated as follows:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>As an alternative to a conventional public address    /    voice alarm system a voice-enhanced sounder system that broadcasts a voice alarm message through the detector sounder base may be used and this system is likely to be considerably less expensive. It must be noted, however, that in public areas the system may need to be enhanced by additional sounders to ensure the intelligibility of the message. This is illustrated as follows:-</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Atriums</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080643Z" creationid="LanHK" creationdate="20210525T080643Z">
-        <seg>Atriums / Các khoảng thông tầng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080643Z">
+        <seg>Atriums    /    Các khoảng thông tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Australia / Asia Pacific</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Australia    /    Asia Pacific</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Author</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071029Z" creationid="LanHK" creationdate="20210525T071029Z">
-        <seg>Author / Tác giả</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071029Z">
+        <seg>Author    /    Tác giả</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>BRAND SAFETY</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074809Z" creationid="LanHK" creationdate="20210525T074809Z">
-        <seg>BRAND SAFETY / TIÊU CHUẨN AN TOÀN THƯƠNG HIỆU</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074809Z">
+        <seg>BRAND SAFETY    /    TIÊU CHUẨN AN TOÀN THƯƠNG HIỆU</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,82 +166,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bahrain Iran Iraq Israel / Occupied Territories Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Bahrain Iran Iraq Israel    /    Occupied Territories Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brand Standard Manual</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T100828Z" creationid="LanHK" creationdate="20210601T095957Z">
-        <seg>Brand Standard Manual     /    Hướng dẫn Tiêu chuẩn Thương hiệu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095957Z">
+        <seg>Brand Standard Manual        /       Hướng dẫn Tiêu chuẩn Thương hiệu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Building Orientation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T083333Z" creationid="LanHK" creationdate="20210525T083333Z">
-        <seg>Building Orientation / Hướng tòa nhà</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083333Z">
+        <seg>Building Orientation    /    Hướng tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>CONTENTS</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071151Z" creationid="LanHK" creationdate="20210525T071151Z">
-        <seg>CONTENTS / MỤC LỤC</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071151Z">
+        <seg>CONTENTS    /    MỤC LỤC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calculations and / or smoke modeling of the system must be provided to IHG for approval.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Calculations and    /    or smoke modeling of the system must be provided to IHG for approval.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Car Parking Garages</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210601T085522Z" creationid="Kieu Lan" creationdate="20210601T085522Z">
-        <seg>Car Parking Garages / Gara để xe</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T085522Z">
+        <seg>Car Parking Garages    /    Gara để xe</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Carbon Monoxide Detection</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081149Z" creationid="LanHK" creationdate="20210525T081149Z">
-        <seg>Carbon Monoxide Detection / Phát khiện khó CO</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081149Z">
+        <seg>Carbon Monoxide Detection    /    Phát khiện khó CO</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cause &amp; effect matrix</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080102Z" creationid="LanHK" creationdate="20210525T080102Z">
-        <seg>Cause &amp; effect matrix / Ma trận nhân quả</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080102Z">
+        <seg>Cause &amp; effect matrix    /    Ma trận nhân quả</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Central Heating Production/ Distribution</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091637Z" creationid="LanHK" creationdate="20210525T091637Z">
-        <seg>Central Heating Production/ Distribution /  Hệ thống phân phối nhiệt</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091637Z">
+        <seg>Central Heating Production/ Distribution    /     Hệ thống phân phối nhiệt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Central Heating and Chilling Plant</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091247Z" creationid="LanHK" creationdate="20210525T091247Z">
-        <seg>Central Heating and Chilling Plant / Cụm máy sưởi và làm lạnh trung tâm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091247Z">
+        <seg>Central Heating and Chilling Plant    /    Cụm máy sưởi và làm lạnh trung tâm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Chilled water Plant Solutions</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091341Z" creationid="LanHK" creationdate="20210525T091331Z">
-        <seg>Chilled water Plant Solutions / Giải pháp Máy làm lạnh bằng nước</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091331Z">
+        <seg>Chilled water Plant Solutions    /    Giải pháp Máy làm lạnh bằng nước</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Client:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T070113Z" creationid="LanHK" creationdate="20210525T070113Z">
-        <seg>Client: / Khách hàng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070113Z">
+        <seg>Client:    /    Khách hàng</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +266,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154657Z" creationid="Kieu Lan" creationdate="20210405T154657Z">
         <seg>Cold Water Nước lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combustible pipes of up to 160mm in diameter are permitted where they are provided with a non-combustible sleeve for a minimum of 1000mm each side of the wall / floor.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Combustible pipes of up to 160mm in diameter are permitted where they are provided with a non-combustible sleeve for a minimum of 1000mm each side of the wall    /    floor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201,8 +289,8 @@
       <tuv lang="EN-US">
         <seg>Condenser Water Circuits</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091446Z" creationid="LanHK" creationdate="20210525T091446Z">
-        <seg>Condenser Water Circuits / </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091446Z">
+        <seg>Condenser Water Circuits    /    </seg>
       </tuv>
     </tu>
     <tu>
@@ -210,56 +298,56 @@
       <tuv lang="EN-US">
         <seg>Control requirements</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075518Z" creationid="LanHK" creationdate="20210525T075454Z">
-        <seg>Control requirements / Yêu cầu về điều khiển</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075454Z">
+        <seg>Control requirements    /    Yêu cầu về điều khiển</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cooling Load Estimates</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091140Z" creationid="LanHK" creationdate="20210525T090907Z">
-        <seg>Cooling Load Estimates / Ước tính tải làm mát</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T090907Z">
+        <seg>Cooling Load Estimates    /    Ước tính tải làm mát</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>DESIGN STAGE VERIFICATION SCHEDULES</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T094102Z" creationid="LanHK" creationdate="20210525T094102Z">
-        <seg>DESIGN STAGE VERIFICATION SCHEDULES / XÁC ĐỊNH TIẾN ĐỘ CÁC GIAI ĐOẠN DỰ ÁN</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094102Z">
+        <seg>DESIGN STAGE VERIFICATION SCHEDULES    /    XÁC ĐỊNH TIẾN ĐỘ CÁC GIAI ĐOẠN DỰ ÁN</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>DEVIATIONS SCHEDULE</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210601T090429Z" creationid="Kieu Lan" creationdate="20210601T090429Z">
-        <seg>DEVIATIONS SCHEDULE / Tiến độ các hạng mục khác biệt so với tiêu chuẩn</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T090429Z">
+        <seg>DEVIATIONS SCHEDULE    /    Tiến độ các hạng mục khác biệt so với tiêu chuẩn</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>DOCUMENT VERIFICATION</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T070107Z" creationid="LanHK" creationdate="20210525T070107Z">
-        <seg>DOCUMENT VERIFICATION / XÁC NHẬN VĂN BẢN</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070107Z">
+        <seg>DOCUMENT VERIFICATION    /    XÁC NHẬN VĂN BẢN</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Data Protection</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081222Z" creationid="LanHK" creationdate="20210525T081222Z">
-        <seg>Data Protection / Bảo mật thông tin</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081222Z">
+        <seg>Data Protection    /    Bảo mật thông tin</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Date</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T070126Z" creationid="LanHK" creationdate="20210525T070126Z">
-        <seg>Date / Ngày tháng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070126Z">
+        <seg>Date    /    Ngày tháng</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,16 +362,16 @@
       <tuv lang="EN-US">
         <seg>Define the design criteria for IHG hotel projects.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T092547Z" creationid="LanHK" creationdate="20210525T092547Z">
-        <seg>Define the design criteria for IHG hotel projects. / Xá=c định các tiêu chí thiết kế cho các dự án khách sạn IHG</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092547Z">
+        <seg>Define the design criteria for IHG hotel projects.    /    Xá=c định các tiêu chí thiết kế cho các dự án khách sạn IHG</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Definitions</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075532Z" creationid="LanHK" creationdate="20210525T075532Z">
-        <seg>Definitions / Định nghĩa</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075532Z">
+        <seg>Definitions    /    Định nghĩa</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,48 +394,48 @@
       <tuv lang="EN-US">
         <seg>Design Standards</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074637Z" creationid="LanHK" creationdate="20210525T074637Z">
-        <seg>Design Standards / Tiêu chuẩn Thiết kế</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074637Z">
+        <seg>Design Standards    /    Tiêu chuẩn Thiết kế</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Design standards</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075428Z" creationid="LanHK" creationdate="20210525T075428Z">
-        <seg>Design Standards / Tiêu chuẩn Thiết kế</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075428Z">
+        <seg>Design Standards    /    Tiêu chuẩn Thiết kế</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Designers Responsibilities</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074645Z" creationid="LanHK" creationdate="20210525T074645Z">
-        <seg>Designers Responsibilities / Trách nhiệm của Thiết kế</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074645Z">
+        <seg>Designers Responsibilities    /    Trách nhiệm của Thiết kế</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Deviations from the InterContinental Hotels Group Standards</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074801Z" creationid="LanHK" creationdate="20210525T074801Z">
-        <seg>Deviations from the InterContinental Hotels Group Standards / Sai lệch so với tiêu chuẩn IHG</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074801Z">
+        <seg>Deviations from the InterContinental Hotels Group Standards    /    Sai lệch so với tiêu chuẩn IHG</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Distribution Options</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091644Z" creationid="LanHK" creationdate="20210525T091644Z">
-        <seg>Distribution Options / Các phương thức phân phối</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091644Z">
+        <seg>Distribution Options    /    Các phương thức phân phối</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Document Title:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T070122Z" creationid="LanHK" creationdate="20210525T070122Z">
-        <seg>Document Title: / Tên tài liệu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070122Z">
+        <seg>Document Title:    /    Tên tài liệu</seg>
       </tuv>
     </tu>
     <tu>
@@ -356,6 +444,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154714Z" creationid="Kieu Lan" creationdate="20210405T154714Z">
         <seg>Drainage Thoát nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each primary controller shall include an internal 365-day clock / calendar with the possibility to operat autonomously or in master / slave configuration. More than one master / slave group may reside on the same bus network.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Each primary controller shall include an internal 365-day clock    /    calendar with the possibility to operat autonomously or in master    /    slave configuration. More than one master    /    slave group may reside on the same bus network.</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,16 +466,16 @@
       <tuv lang="EN-US">
         <seg>Electricity</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081250Z" creationid="LanHK" creationdate="20210525T081250Z">
-        <seg>Electricity / Điện</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081250Z">
+        <seg>Electricity    /    Điện</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Elevators</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074901Z" creationid="LanHK" creationdate="20210525T074901Z">
-        <seg>Elevators / Thang máy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074901Z">
+        <seg>Elevators    /    Thang máy</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,24 +490,24 @@
       <tuv lang="EN-US">
         <seg>Energy Targets</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091223Z" creationid="Kieu Lan" creationdate="20210405T153551Z">
-        <seg>Energy Targets / Mục tiêu về Năng lượng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210405T153551Z">
+        <seg>Energy Targets    /    Mục tiêu về Năng lượng</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Engineering Design Guidelines</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T070039Z" creationid="LanHK" creationdate="20210525T070039Z">
-        <seg>Engineering Design Guidelines / Hướng dẫn Thiết kế Kỹ thuật </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070039Z">
+        <seg>Engineering Design Guidelines    /    Hướng dẫn Thiết kế Kỹ thuật </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Environmental</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091228Z" creationid="LanHK" creationdate="20210525T091228Z">
-        <seg>Environmental / Môi trường</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091228Z">
+        <seg>Environmental    /    Môi trường</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,80 +522,88 @@
       <tuv lang="EN-US">
         <seg>Escape Signage</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075233Z" creationid="LanHK" creationdate="20210525T075233Z">
-        <seg>Escape Signage / Biển báo thoát hiểm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075233Z">
+        <seg>Escape Signage    /    Biển báo thoát hiểm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>External Means of Escape</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075218Z" creationid="LanHK" creationdate="20210525T075218Z">
-        <seg>External Means of Escape / Phương thức thoát hiểm bên ngoài</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075218Z">
+        <seg>External Means of Escape    /    Phương thức thoát hiểm bên ngoài</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>FIP - Fire Indicator Panel (also known as Fire Alarm Panel)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210531T053942Z" creationid="Kieu Lan" creationdate="20210531T053942Z">
-        <seg>FIP - Fire Indicator Panel (also known as Fire Alarm Panel) / Tủ báo cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T053942Z">
+        <seg>FIP - Fire Indicator Panel (also known as Fire Alarm Panel)    /    Tủ báo cháy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fastenings on exits doors</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075227Z" creationid="LanHK" creationdate="20210525T075227Z">
-        <seg>Fastenings on exits doors / Chốt trên cửa thoát hiểm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075227Z">
+        <seg>Fastenings on exits doors    /    Chốt trên cửa thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fault priority (urgent / not urgent)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Fault priority (urgent    /    not urgent)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Final incorporating all comments from IHG workshops and illustrations</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071126Z" creationid="LanHK" creationdate="20210525T071126Z">
-        <seg>Final incorporating all comments from IHG workshops and illustrations / Bản cuối, bao gồm tất cả comment từ các workshop IHG và hình minh họa</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071126Z">
+        <seg>Final incorporating all comments from IHG workshops and illustrations    /    Bản cuối, bao gồm tất cả comment từ các workshop IHG và hình minh họa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fire Alarm and Detection</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075423Z" creationid="LanHK" creationdate="20210525T075423Z">
-        <seg>Fire Alarm and Detection / Phát hiện và Báo cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075423Z">
+        <seg>Fire Alarm and Detection    /    Phát hiện và Báo cháy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fire Dampers- Requirements</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074842Z" creationid="LanHK" creationdate="20210525T074842Z">
-        <seg>Fire Dampers- Requirements / Van chặn lửa - Yêu cầu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074842Z">
+        <seg>Fire Dampers- Requirements    /    Van chặn lửa - Yêu cầu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fire Resisting Doors</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074854Z" creationid="LanHK" creationdate="20210525T074854Z">
-        <seg>Fire Resisting Doors / Cửa ngăn cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074854Z">
+        <seg>Fire Resisting Doors    /    Cửa ngăn cháy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fire Safety</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T073328Z" creationid="LanHK" creationdate="20210525T073328Z">
-        <seg>Fire Safety / PCCC</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T073328Z">
+        <seg>Fire Safety    /    PCCC</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fire Separation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T073502Z" creationid="LanHK" creationdate="20210525T073502Z">
-        <seg>Fire Separation / Chống cháy lan</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T073502Z">
+        <seg>Fire Separation    /    Chống cháy lan</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,24 +618,32 @@
       <tuv lang="EN-US">
         <seg>Fire Sprinkler Plant</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080157Z" creationid="LanHK" creationdate="20210525T080123Z">
-        <seg>Fire Sprinkler Plant / Sprinkler chữa cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080123Z">
+        <seg>Fire Sprinkler Plant    /    Sprinkler chữa cháy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fire Sprinkler and Hose reel Low rise</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080233Z" creationid="LanHK" creationdate="20210525T080233Z">
-        <seg>Fire Sprinkler and Hose reel Low rise / Sprinkler và Cuộn vòi chữa cháy trong nhà thấp tầng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080233Z">
+        <seg>Fire Sprinkler and Hose reel Low rise    /    Sprinkler và Cuộn vòi chữa cháy trong nhà thấp tầng</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fire Suppression</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080113Z" creationid="LanHK" creationdate="20210525T080108Z">
-        <seg>Fire Suppression / Chữa cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080108Z">
+        <seg>Fire Suppression    /    Chữa cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Suppression systems shall be strictly in accordance with this brief and the local authorities / fire officer’s specific requirements.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Fire Suppression systems shall be strictly in accordance with this brief and the local authorities    /    fire officer’s specific requirements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -539,16 +651,16 @@
       <tuv lang="EN-US">
         <seg>Fire resisting enclosure</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081119Z" creationid="LanHK" creationdate="20210525T081119Z">
-        <seg>Fire resisting enclosure / Hộp điện chống cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081119Z">
+        <seg>Fire resisting enclosure    /    Hộp điện chống cháy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>First Issue</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071052Z" creationid="LanHK" creationdate="20210525T071052Z">
-        <seg>First Issue / Bản đầu tiên</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071052Z">
+        <seg>First Issue    /    Bản đầu tiên</seg>
       </tuv>
     </tu>
     <tu>
@@ -572,8 +684,8 @@
       <tuv lang="EN-US">
         <seg>Food Safety</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081205Z" creationid="LanHK" creationdate="20210405T092140Z">
-        <seg>Food Safety / An toàn vệ sinh thực phẩm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210405T092140Z">
+        <seg>Food Safety    /    An toàn vệ sinh thực phẩm</seg>
       </tuv>
     </tu>
     <tu>
@@ -588,16 +700,16 @@
       <tuv lang="EN-US">
         <seg>Four Pipe Fan Units</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T092006Z" creationid="LanHK" creationdate="20210525T091906Z">
-        <seg>Four Pipe Fan Units / FCU 4 ống</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091906Z">
+        <seg>Four Pipe Fan Units    /    FCU 4 ống</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fresh Air Load Estimation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091210Z" creationid="LanHK" creationdate="20210525T091131Z">
-        <seg>Fresh Air Load Estimation / Ước tính tải khi tươi</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091131Z">
+        <seg>Fresh Air Load Estimation    /    Ước tính tải khi tươi</seg>
       </tuv>
     </tu>
     <tu>
@@ -620,32 +732,32 @@
       <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075033Z" creationid="LanHK" creationdate="20210405T091918Z">
-        <seg>General / Thông tin chung</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210405T091918Z">
+        <seg>General    /    Thông tin chung</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>General - Fire Safety</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074819Z" creationid="LanHK" creationdate="20210525T074819Z">
-        <seg>General - Fire Safety / Thông tin chung - PCCC</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074819Z">
+        <seg>General - Fire Safety    /    Thông tin chung - PCCC</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>General Design Principals</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074652Z" creationid="LanHK" creationdate="20210525T074652Z">
-        <seg>General Design Principals / Nguyên tắc thiết kế chung</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074652Z">
+        <seg>General Design Principals    /    Nguyên tắc thiết kế chung</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>General Design Principles</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210601T090515Z" creationid="Kieu Lan" creationdate="20210601T090515Z">
-        <seg>General Design Principles / Nguyên tắc thiết kế chung</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T090515Z">
+        <seg>General Design Principles    /    Nguyên tắc thiết kế chung</seg>
       </tuv>
     </tu>
     <tu>
@@ -660,16 +772,24 @@
       <tuv lang="EN-US">
         <seg>Green Engage Recommendations</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T100824Z" creationid="LanHK" creationdate="20210601T100824Z">
-        <seg>Green Engage Recommendations    /    Các khuyến nghị của </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T100824Z">
+        <seg>Green Engage Recommendations       /       Các khuyến nghị của </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Green engage Design Standards</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T083227Z" creationid="LanHK" creationdate="20210525T083227Z">
-        <seg>Green engage Design Standards / Tiêu chuẩn Thiết kế Green Engage (Tiêu chuẩn Xanh)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083227Z">
+        <seg>Green engage Design Standards    /    Tiêu chuẩn Thiết kế Green Engage (Tiêu chuẩn Xanh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gross area public / BOH (m2)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Gross area public    /    BOH (m2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -692,32 +812,64 @@
       <tuv lang="EN-US">
         <seg>Guest room load estimation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091205Z" creationid="LanHK" creationdate="20210525T090917Z">
-        <seg>Guest room load estimation / Ước tính tải phòng khách</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T090917Z">
+        <seg>Guest room load estimation    /    Ước tính tải phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOSEREEL / HOSE RACK (MAY BE OMITTED IN SOME</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>HOSEREEL    /    HOSE RACK (MAY BE OMITTED IN SOME</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>HVAC System Selection</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091709Z" creationid="LanHK" creationdate="20210525T091709Z">
-        <seg>HVAC System Selection / Lựa chọn hệ thống HVAC</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091709Z">
+        <seg>HVAC System Selection    /    Lựa chọn hệ thống HVAC</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Health &amp; Safety</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081215Z" creationid="LanHK" creationdate="20210525T081215Z">
-        <seg>Health &amp; Safety / Sức khỏe &amp; An toàn</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081215Z">
+        <seg>Health &amp; Safety    /    Sức khỏe &amp; An toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health club reception / dry areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Health club reception    /    dry areas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heating / Cooling Control Option</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Heating    /    Cooling Control Option</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heating / Cooling Control Options</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Heating    /    Cooling Control Options</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Horizontal Means of Escape</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075059Z" creationid="LanHK" creationdate="20210525T075055Z">
-        <seg>Horizontal Means of Escape / Phương thức thoát hiểm chiều ngang</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075055Z">
+        <seg>Horizontal Means of Escape    /    Phương thức thoát hiểm chiều ngang</seg>
       </tuv>
     </tu>
     <tu>
@@ -732,8 +884,16 @@
       <tuv lang="EN-US">
         <seg>Hotels are unique developments in that they are operational for 24 hours a day, with guests paying for comfort highest standards of life safety is an expectation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210601T090556Z" creationid="Kieu Lan" creationdate="20210601T090556Z">
-        <seg>Hotels are unique developments in that they are operational for 24 hours a day, with guests paying for comfort highest standards of life safety is an expectation. / Khách sạn là dạng dự án phát triển độc đáo vì chúng hoạt động</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T090556Z">
+        <seg>Hotels are unique developments in that they are operational for 24 hours a day, with guests paying for comfort highest standards of life safety is an expectation.    /    Khách sạn là dạng dự án phát triển độc đáo vì chúng hoạt động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IHG / EMPLOYERS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>IHG    /    EMPLOYERS</seg>
       </tuv>
     </tu>
     <tu>
@@ -748,16 +908,40 @@
       <tuv lang="EN-US">
         <seg>INTRODUCTION</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071157Z" creationid="LanHK" creationdate="20210525T071157Z">
-        <seg>INTRODUCTION / GIỚI THIỆU</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071157Z">
+        <seg>INTRODUCTION    /    GIỚI THIỆU</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Impaired hearing provisions</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080047Z" creationid="LanHK" creationdate="20210525T080047Z">
-        <seg>Impaired hearing provisions / Phương án dành cho người khiếm thính</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080047Z">
+        <seg>Impaired hearing provisions    /    Phương án dành cho người khiếm thính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general the occupancy of an assembly room should be based upon a figure of 1m2 / person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>In general the occupancy of an assembly room should be based upon a figure of 1m2    /    person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In high rise buildings to protect against the ingress of smoke and as an alternative to access to escape stairs by fire resisting lobbies or open vestibules / balconies, escape stairs may be protected by a stair pressurization system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>In high rise buildings to protect against the ingress of smoke and as an alternative to access to escape stairs by fire resisting lobbies or open vestibules    /    balconies, escape stairs may be protected by a stair pressurization system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Individually controlled / tested</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Individually controlled    /    tested</seg>
       </tuv>
     </tu>
     <tu>
@@ -772,8 +956,8 @@
       <tuv lang="EN-US">
         <seg>Issue</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071024Z" creationid="LanHK" creationdate="20210525T071024Z">
-        <seg>Issue / Nội dung</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071024Z">
+        <seg>Issue    /    Nội dung</seg>
       </tuv>
     </tu>
     <tu>
@@ -788,8 +972,8 @@
       <tuv lang="EN-US">
         <seg>Kitchen Hood Suppression</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080344Z" creationid="LanHK" creationdate="20210525T080344Z">
-        <seg>Kitchen Hood Suppression / Hệ thống chữa cháy tích hợp trong chụp hút mùi bếp</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080344Z">
+        <seg>Kitchen Hood Suppression    /    Hệ thống chữa cháy tích hợp trong chụp hút mùi bếp</seg>
       </tuv>
     </tu>
     <tu>
@@ -804,16 +988,16 @@
       <tuv lang="EN-US">
         <seg>Leisure Activity</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081203Z" creationid="LanHK" creationdate="20210525T081203Z">
-        <seg>Leisure Activity / Hoạt động giải trí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081203Z">
+        <seg>Leisure Activity    /    Hoạt động giải trí</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Life Safety Systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075256Z" creationid="LanHK" creationdate="20210525T075256Z">
-        <seg>Life Safety Systems / Các hệ thống An toàn sinh mạng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075256Z">
+        <seg>Life Safety Systems    /    Các hệ thống An toàn sinh mạng</seg>
       </tuv>
     </tu>
     <tu>
@@ -836,64 +1020,64 @@
       <tuv lang="EN-US">
         <seg>Linen and Refuse Chutes</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074914Z" creationid="LanHK" creationdate="20210525T074914Z">
-        <seg>Linen and Refuse Chutes / Ống thả đồ giặt và Ống thả rác</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074914Z">
+        <seg>Linen and Refuse Chutes    /    Ống thả đồ giặt và Ống thả rác</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>MCP - Manual Call Point - (also known as Break Glass Alarm)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210531T054021Z" creationid="Kieu Lan" creationdate="20210531T054021Z">
-        <seg>MCP - Manual Call Point - (also known as Break Glass Alarm) / Nút báo động khẩn cấp</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T054021Z">
+        <seg>MCP - Manual Call Point - (also known as Break Glass Alarm)    /    Nút báo động khẩn cấp</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>MECHANICAL SERVICES</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T083157Z" creationid="LanHK" creationdate="20210525T081315Z">
-        <seg>MECHANICAL SERVICES / Các máy móc</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081315Z">
+        <seg>MECHANICAL SERVICES    /    Các máy móc</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Main Fire Panel</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080053Z" creationid="LanHK" creationdate="20210525T080053Z">
-        <seg>Main Fire Panel / Tủ báo cháy chính</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080053Z">
+        <seg>Main Fire Panel    /    Tủ báo cháy chính</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Main Plant Location</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091216Z" creationid="LanHK" creationdate="20210525T091216Z">
-        <seg>Main Plant Location / Vị trí phòng máy chính</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091216Z">
+        <seg>Main Plant Location    /    Vị trí phòng máy chính</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Means of Escape</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075028Z" creationid="LanHK" creationdate="20210525T075028Z">
-        <seg>Means of Escape / Phương thức thoát hiểm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075028Z">
+        <seg>Means of Escape    /    Phương thức thoát hiểm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Means of Escape for Disabled Guest</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075241Z" creationid="LanHK" creationdate="20210525T075241Z">
-        <seg>Means of Escape for Disabled Guest / Phương thức thoát hiểm cho khách khuyết tật</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075241Z">
+        <seg>Means of Escape for Disabled Guest    /    Phương thức thoát hiểm cho khách khuyết tật</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Means of Escape from Places of Assembly</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075156Z" creationid="LanHK" creationdate="20210525T075156Z">
-        <seg>Means of Escape from Places of Assembly / Phương thức thoát hiểm từ nơi hội họp</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075156Z">
+        <seg>Means of Escape from Places of Assembly    /    Phương thức thoát hiểm từ nơi hội họp</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,18 +1090,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Mechanical    /    plant rooms and adjoining rooms or areas (120 minutes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical services, system included</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T083300Z" creationid="LanHK" creationdate="20210525T083300Z">
-        <seg>Mechanical services, system included / Các máy móc, hệ thống bao gồm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083300Z">
+        <seg>Mechanical services, system included    /    Các máy móc, hệ thống bao gồm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multi-Function Chiller- Total Heat Recovery</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091354Z" creationid="LanHK" creationdate="20210525T091354Z">
-        <seg>Multi-Function Chiller- Total Heat Recovery / Chiller đa chức năng - Thu hồi nhiệt toàn bộ</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091354Z">
+        <seg>Multi-Function Chiller- Total Heat Recovery    /    Chiller đa chức năng - Thu hồi nhiệt toàn bộ</seg>
       </tuv>
     </tu>
     <tu>
@@ -948,16 +1140,24 @@
       <tuv lang="EN-US">
         <seg>November 2015</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T070049Z" creationid="LanHK" creationdate="20210525T070049Z">
-        <seg>November 2015 / Tháng Mười một, 2015</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070049Z">
+        <seg>November 2015    /    Tháng Mười một, 2015</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Objectives</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075403Z" creationid="LanHK" creationdate="20210525T075403Z">
-        <seg>Objectives / Mục tiêu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075403Z">
+        <seg>Objectives    /    Mục tiêu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Occupancy of the function room equals 400 people (1m2 / person)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Occupancy of the function room equals 400 people (1m2    /    person)</seg>
       </tuv>
     </tu>
     <tu>
@@ -972,8 +1172,8 @@
       <tuv lang="EN-US">
         <seg>Other relevant documentation is provided below:-</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T095941Z" creationid="LanHK" creationdate="20210601T095941Z">
-        <seg>Other relevant documentation is provided below:- / Các tài liệu có liên quan được liệt kê dưới đây</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095941Z">
+        <seg>Other relevant documentation is provided below:-    /    Các tài liệu có liên quan được liệt kê dưới đây</seg>
       </tuv>
     </tu>
     <tu>
@@ -996,64 +1196,64 @@
       <tuv lang="EN-US">
         <seg>Pre-action Dry Sprinkler</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080307Z" creationid="LanHK" creationdate="20210525T080255Z">
-        <seg>Pre-action Dry Sprinkler / Sprinkler khô pre-action</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080255Z">
+        <seg>Pre-action Dry Sprinkler    /    Sprinkler khô pre-action</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Property Section 1 Fire and Life Safety.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T100831Z" creationid="LanHK" creationdate="20210601T100751Z">
-        <seg>Property Section 1 Fire and Life Safety.     /    Mục về tài sản 1 Tiêu chuẩn An toàn Sinh mạng và PCCC</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T100751Z">
+        <seg>Property Section 1 Fire and Life Safety.        /       Mục về tài sản 1 Tiêu chuẩn An toàn Sinh mạng và PCCC</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Protection of Openings in Fire Resisting Construction</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074834Z" creationid="LanHK" creationdate="20210525T074834Z">
-        <seg>Protection of Openings in Fire Resisting Construction / Bảo vệ các khoảng trống trong kết cấu chống cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074834Z">
+        <seg>Protection of Openings in Fire Resisting Construction    /    Bảo vệ các khoảng trống trong kết cấu chống cháy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Protection of Voids</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074850Z" creationid="LanHK" creationdate="20210525T074850Z">
-        <seg>Protection of Voids / Bảo vệ không gian trống</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074850Z">
+        <seg>Protection of Voids    /    Bảo vệ không gian trống</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Provide a summary of systems that have been proven and are acceptable. (This does not preclude designers from proposing alternatives, particularly as technology advances. Any alternatives proposed however should be submitted with sufficient detail for comparison and in particular the benefits listed, for IHG approval).</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T092913Z" creationid="LanHK" creationdate="20210525T092913Z">
-        <seg>Provide a summary of systems that have been proven and are acceptable. (This does not preclude designers from proposing alternatives, particularly as technology advances. Any alternatives proposed however should be submitted with sufficient detail for comparison and in particular the benefits listed, for IHG approval). / Cung cấp tóm tắt các hệ thống đã được chứng minh và chấp nhận (Không có nghĩa là thiết kế không thể đề xuất giải pháp thay thế, đặc biệt là khi kỹ thuật phát triển. Bất cứ giải pháp nào được đề xuất đều cần đệ trình cho IHG cùng với đầy đủ thông tin so sánh và đặc biệt là liệt kê các lợi ích, để IHG xem xét phê duyệt)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092913Z">
+        <seg>Provide a summary of systems that have been proven and are acceptable. (This does not preclude designers from proposing alternatives, particularly as technology advances. Any alternatives proposed however should be submitted with sufficient detail for comparison and in particular the benefits listed, for IHG approval).    /    Cung cấp tóm tắt các hệ thống đã được chứng minh và chấp nhận (Không có nghĩa là thiết kế không thể đề xuất giải pháp thay thế, đặc biệt là khi kỹ thuật phát triển. Bất cứ giải pháp nào được đề xuất đều cần đệ trình cho IHG cùng với đầy đủ thông tin so sánh và đặc biệt là liệt kê các lợi ích, để IHG xem xét phê duyệt)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Provide clear indication of responsibilities.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T092601Z" creationid="LanHK" creationdate="20210525T092601Z">
-        <seg>Provide clear indication of responsibilities. / Xác định rõ phạm vi trách nhiệm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092601Z">
+        <seg>Provide clear indication of responsibilities.    /    Xác định rõ phạm vi trách nhiệm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Provide clear written and illustrative information.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T092622Z" creationid="LanHK" creationdate="20210525T092622Z">
-        <seg>Provide clear written and illustrative information. / Cung cấp thông tin được trình bày mạch lạc cùng hình ảnh minh họa</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092622Z">
+        <seg>Provide clear written and illustrative information.    /    Cung cấp thông tin được trình bày mạch lạc cùng hình ảnh minh họa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Provide examples of cost effective simple designs that are proven for use. (This does not preclude the designers from putting forward alternatives that are more cost effective or can provide other benefits).</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T092731Z" creationid="LanHK" creationdate="20210525T092731Z">
-        <seg>Provide examples of cost effective simple designs that are proven for use. (This does not preclude the designers from putting forward alternatives that are more cost effective or can provide other benefits). / Cung cấp ví dụ về các thiết kế đơn giản với mức giá tối ưu đã qua kiểm nghiệm thực tế (Điều này không có nghĩa là thiết kế không thể đưa ra các giải pháp khác tối ưu hơn hoặc đem lại các lợi ích khác)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092731Z">
+        <seg>Provide examples of cost effective simple designs that are proven for use. (This does not preclude the designers from putting forward alternatives that are more cost effective or can provide other benefits).    /    Cung cấp ví dụ về các thiết kế đơn giản với mức giá tối ưu đã qua kiểm nghiệm thực tế (Điều này không có nghĩa là thiết kế không thể đưa ra các giải pháp khác tối ưu hơn hoặc đem lại các lợi ích khác)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1068,64 +1268,72 @@
       <tuv lang="EN-US">
         <seg>Re-issue as design guideline</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071142Z" creationid="LanHK" creationdate="20210525T071142Z">
-        <seg>Re-issue as design guideline / Phát hành lại thành Hướng dẫn thiết kế</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071142Z">
+        <seg>Re-issue as design guideline    /    Phát hành lại thành Hướng dẫn thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reliability / Lifespan - LED’s last longer than any other form of artificial lighting. The average lifespan on a 12V halogen lamp is 4000 hours compared with the 50,000 hours of an LED.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Reliability    /    Lifespan - LED’s last longer than any other form of artificial lighting. The average lifespan on a 12V halogen lamp is 4000 hours compared with the 50,000 hours of an LED.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Rev.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071001Z" creationid="LanHK" creationdate="20210525T071001Z">
-        <seg>Rev. / Bản</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071001Z">
+        <seg>Rev.    /    Bản</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Reviewer</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071038Z" creationid="LanHK" creationdate="20210525T071038Z">
-        <seg>Reviewer / Biên tập</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071038Z">
+        <seg>Reviewer    /    Biên tập</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Revision: 2.1</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T070059Z" creationid="LanHK" creationdate="20210525T070059Z">
-        <seg>Revision: 2.1 / Bản 2.1</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070059Z">
+        <seg>Revision: 2.1    /    Bản 2.1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>SIP - Sub Indicator Panel (also known as Repeater or Sub Alarm Panel)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210531T054013Z" creationid="Kieu Lan" creationdate="20210531T054013Z">
-        <seg>SIP - Sub Indicator Panel (also known as Repeater or Sub Alarm Panel) / Repeater hay Tủ báo cháy phụ</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T054013Z">
+        <seg>SIP - Sub Indicator Panel (also known as Repeater or Sub Alarm Panel)    /    Repeater hay Tủ báo cháy phụ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Security</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081158Z" creationid="LanHK" creationdate="20210405T092103Z">
-        <seg>Security / An ninh</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210405T092103Z">
+        <seg>Security    /    An ninh</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Selection of maximum and minimum temperatures</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T083329Z" creationid="LanHK" creationdate="20210525T083329Z">
-        <seg>Selection of maximum and minimum temperatures / Lựa chọn nhiệt độ tối đa và tối thiểu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083329Z">
+        <seg>Selection of maximum and minimum temperatures    /    Lựa chọn nhiệt độ tối đa và tối thiểu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Signed</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T071044Z" creationid="LanHK" creationdate="20210525T071044Z">
-        <seg>Signed / Đã ký</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071044Z">
+        <seg>Signed    /    Đã ký</seg>
       </tuv>
     </tu>
     <tu>
@@ -1140,24 +1348,24 @@
       <tuv lang="EN-US">
         <seg>Smoke Control Systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080547Z" creationid="LanHK" creationdate="20210525T080547Z">
-        <seg>Smoke Control Systems / Hệ thống kiểm soát khói</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080547Z">
+        <seg>Smoke Control Systems    /    Hệ thống kiểm soát khói</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Smoke and heat control system</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081143Z" creationid="LanHK" creationdate="20210525T081143Z">
-        <seg>Smoke and heat control system / Hệ thống kiểm soát khói và nhiệt</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081143Z">
+        <seg>Smoke and heat control system    /    Hệ thống kiểm soát khói và nhiệt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Solar Shading - Sun Paths</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T083351Z" creationid="LanHK" creationdate="20210525T083351Z">
-        <seg>Solar Shading - Sun Paths / Che nắng - Đường đi của mặt trời</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083351Z">
+        <seg>Solar Shading - Sun Paths    /    Che nắng - Đường đi của mặt trời</seg>
       </tuv>
     </tu>
     <tu>
@@ -1165,64 +1373,88 @@
       <tuv lang="EN-US">
         <seg>Sounders and Alarm</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075953Z" creationid="LanHK" creationdate="20210525T075953Z">
-        <seg>Sounders and Alarm / Báo động âm thanh</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075953Z">
+        <seg>Sounders and Alarm    /    Báo động âm thanh</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sprinkler Alarm Valve</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080248Z" creationid="LanHK" creationdate="20210525T080248Z">
-        <seg>Sprinkler Alarm Valve / Van báo động sprinkler</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080248Z">
+        <seg>Sprinkler Alarm Valve    /    Van báo động sprinkler</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Stair Pressurization System</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080556Z" creationid="LanHK" creationdate="20210525T080556Z">
-        <seg>Stair Pressurization System / Hệ thống tăng áp cầu thang</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080556Z">
+        <seg>Stair Pressurization System    /    Hệ thống tăng áp cầu thang</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Structural Fire Resistance</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T073334Z" creationid="LanHK" creationdate="20210525T073334Z">
-        <seg>Structural Fire Resistance / Kết cấu chống cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T073334Z">
+        <seg>Structural Fire Resistance    /    Kết cấu chống cháy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>System Fire Integrity</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080023Z" creationid="LanHK" creationdate="20210525T080023Z">
-        <seg>System Fire Integrity / Khả năng chịu lửa của hệ thống</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080023Z">
+        <seg>System Fire Integrity    /    Khả năng chịu lửa của hệ thống</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>System Types</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075409Z" creationid="LanHK" creationdate="20210525T075409Z">
-        <seg>System Types / Các loại hệ thống</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075409Z">
+        <seg>System Types    /    Các loại hệ thống</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>TECHNICAL SUBMISSIONS</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T094423Z" creationid="LanHK" creationdate="20210525T094423Z">
-        <seg>TECHNICAL SUBMISSIONS / TRÌNH DUYỆT VỀ KỸ THUẬT</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094423Z">
+        <seg>TECHNICAL SUBMISSIONS    /    TRÌNH DUYỆT VỀ KỸ THUẬT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TYPICAL FIRE ALARM &amp; DETECTION SYSTEM FOR ENTRY ! LOBBY / PUBLIC AREA LEVELS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>TYPICAL FIRE ALARM &amp; DETECTION SYSTEM FOR ENTRY ! LOBBY    /    PUBLIC AREA LEVELS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 5.2 - Requirement for a Generator / Back up Power</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Table 5.2 - Requirement for a Generator    /    Back up Power</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The agreed variation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T094601Z" creationid="LanHK" creationdate="20210601T094601Z">
-        <seg>The agreed variation / Thay đổi được chấp nhận</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094601Z">
+        <seg>The agreed variation    /    Thay đổi được chấp nhận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The central heating distribution plant shall utilise modulating high efficiency / low Nox boilers, with condensing boilers used, having proprietary automatic controls compatible with the BMS system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>The central heating distribution plant shall utilise modulating high efficiency    /    low Nox boilers, with condensing boilers used, having proprietary automatic controls compatible with the BMS system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,24 +1462,24 @@
       <tuv lang="EN-US">
         <seg>The cost/ programme benefit to the project</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T094935Z" creationid="LanHK" creationdate="20210601T094935Z">
-        <seg>The cost/ programme benefit to the project / Lợi ích về chi phí/chương trình đối với dự án</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094935Z">
+        <seg>The cost/ programme benefit to the project    /    Lợi ích về chi phí/chương trình đối với dự án</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The date</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T094625Z" creationid="LanHK" creationdate="20210601T094625Z">
-        <seg>The date / Ngày tháng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094625Z">
+        <seg>The date    /    Ngày tháng</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The following diagram illustrates the designer’s responsibilities in relation to design approvals:-</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T093106Z" creationid="LanHK" creationdate="20210525T093106Z">
-        <seg>The following diagram illustrates the designer’s responsibilities in relation to design approvals: / Sơ đồ dưới đây thể hiện các trách nhiệm của thiết kế liên quan đến vấn đề phê duyệt thiết kế</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T093106Z">
+        <seg>The following diagram illustrates the designer’s responsibilities in relation to design approvals:    /    Sơ đồ dưới đây thể hiện các trách nhiệm của thiết kế liên quan đến vấn đề phê duyệt thiết kế</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,64 +1494,88 @@
       <tuv lang="EN-US">
         <seg>The item reference and applicable section of the InterContinental Hotels Group standards</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T094533Z" creationid="LanHK" creationdate="20210601T094050Z">
-        <seg>The item reference and applicable section of the InterContinental Hotels Group standards / Hạng mục được quan tâm và mục tiêu chuẩn IHG áp dụng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094050Z">
+        <seg>The item reference and applicable section of the InterContinental Hotels Group standards    /    Hạng mục được quan tâm và mục tiêu chuẩn IHG áp dụng</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The objective of this section of the guide is to provide guidance on how to design the systems in accordance with IHG requirements and the relevant standards and codes of practice.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T095930Z" creationid="LanHK" creationdate="20210601T095930Z">
-        <seg>The objective of this section of the guide is to provide guidance on how to design the systems in accordance with IHG requirements and the relevant standards and codes of practice. / Mục tiêu của mục này trong tài liệu hướng dẫn là để cung cấp hướng dẫn làm sao để thiết kế các hệ thống tuân thủ theo yêu cầu của IHG và các tiêu chuẩn liên quan cũng như các quy tắc hành nghề.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095930Z">
+        <seg>The objective of this section of the guide is to provide guidance on how to design the systems in accordance with IHG requirements and the relevant standards and codes of practice.    /    Mục tiêu của mục này trong tài liệu hướng dẫn là để cung cấp hướng dẫn làm sao để thiết kế các hệ thống tuân thủ theo yêu cầu của IHG và các tiêu chuẩn liên quan cũng như các quy tắc hành nghề.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The objectives of these systems are for the protection of life and property in the event of a fire or incident. This section of the manual must also be read in conjunction with the IHG ‘Brand Safety Standards’.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T095443Z" creationid="LanHK" creationdate="20210601T095443Z">
-        <seg>The objectives of these systems are for the protection of life and property in the event of a fire or incident. This section of the manual must also be read in conjunction with the IHG ‘Brand Safety Standards’. / Mục tiêu của các hệ thống này là để bảo vệ sinh mạng cũng như tài sản khi xảy ra hỏa hoạn hoặc sự cố. Mục này của tài liệu hướng dẫn cần phải được đọc cùng với "Tiêu chuẩn An toàn Thương hiệu" IHG</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095443Z">
+        <seg>The objectives of these systems are for the protection of life and property in the event of a fire or incident. This section of the manual must also be read in conjunction with the IHG ‘Brand Safety Standards’.    /    Mục tiêu của các hệ thống này là để bảo vệ sinh mạng cũng như tài sản khi xảy ra hỏa hoạn hoặc sự cố. Mục này của tài liệu hướng dẫn cần phải được đọc cùng với "Tiêu chuẩn An toàn Thương hiệu" IHG</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The reason for the variation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T094544Z" creationid="LanHK" creationdate="20210601T094544Z">
-        <seg>The reason for the variation / Lý do có thay đổi</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094544Z">
+        <seg>The reason for the variation    /    Lý do có thay đổi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T093039Z" creationid="LanHK" creationdate="20210525T093039Z">
-        <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below: / Các tiêu chuẩn được áp dụng sẽ thay đổi phụ thuộc vào vị trí của khách sạn, do đó sẽ có các yêu cầu mâu thuẫn giữa tiêu chuẩn thương hiệu, quy định địa phương, tiêu chuẩn quốc tế và các tiêu chí tiết kiệm năng lượng. Trong tất cả mọi trường hợp, IHG sẽ được thông báo về các yêu cầu mâu thuẫn như sau:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T093039Z">
+        <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below:    /    Các tiêu chuẩn được áp dụng sẽ thay đổi phụ thuộc vào vị trí của khách sạn, do đó sẽ có các yêu cầu mâu thuẫn giữa tiêu chuẩn thương hiệu, quy định địa phương, tiêu chuẩn quốc tế và các tiêu chí tiết kiệm năng lượng. Trong tất cả mọi trường hợp, IHG sẽ được thông báo về các yêu cầu mâu thuẫn như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system shall be directly linked to the hotel’s Property Management System (PMS) / Front Office System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>The system shall be directly linked to the hotel’s Property Management System (PMS)    /    Front Office System</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There shall be no restrictions on the mix of devices connected to the bus; permissible bus devices include primary HVAC controllers, room units, individual room controllers (terminal units) and devices from third-party manufacturers (EIB / KNX). Each bus shall support a minimum number of 60 devices. All bus devices shall reside on the same network without any intermediate interface</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>There shall be no restrictions on the mix of devices connected to the bus; permissible bus devices include primary HVAC controllers, room units, individual room controllers (terminal units) and devices from third-party manufacturers (EIB    /    KNX). Each bus shall support a minimum number of 60 devices. All bus devices shall reside on the same network without any intermediate interface</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>These Engineering and Brand Safety Design Standards have been prepared to enable designers and specifiers of the mechanical, electrical and public health (MEP) services to understand the priorities and requirements of the IHG brand. The standards are not intended to provide inflexible prescriptive requirements but rather form a strategic framework of value, good practice, innovation energy efficiency and longevity from which the designers and specifiers can work. In summary the Brand Standards have been prepared in order to:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T092532Z" creationid="LanHK" creationdate="20210525T092532Z">
-        <seg>These Engineering and Brand Safety Design Standards have been prepared to enable designers and specifiers of the mechanical, electrical and public health (MEP) services to understand the priorities and requirements of the IHG brand. The standards are not intended to provide inflexible prescriptive requirements but rather form a strategic framework of value, good practice, innovation energy efficiency and longevity from which the designers and specifiers can work. In summary the Brand Standards have been prepared in order to: / Bộ tiêu chuẩn Thiết kế Kỹ thuật và An toàn Thương hiệu này được soạn thảo nhằm hỗ trợ thiết kế và các chuyên gia MEP hiểu được các ưu tiên và yêu cầu của thương hiệu IHG. Bộ tiêu chuẩn này không nhằm mục đích cung cấp các yêu cầu không linh hoạt, mà nhằm tạo ra một khung chiến lược bao gồm các giá trị, tiêu chuẩn hành nghề thực tiễn, các phát kiến về tối ưu hóa và đảm bảo năng lượng, từ đó giúp thiết kế và chuyên gia làm việc. Tóm lại, bộ Tiêu chuẩn Thương hiệu được soạn thảo nhằm:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092532Z">
+        <seg>These Engineering and Brand Safety Design Standards have been prepared to enable designers and specifiers of the mechanical, electrical and public health (MEP) services to understand the priorities and requirements of the IHG brand. The standards are not intended to provide inflexible prescriptive requirements but rather form a strategic framework of value, good practice, innovation energy efficiency and longevity from which the designers and specifiers can work. In summary the Brand Standards have been prepared in order to:    /    Bộ tiêu chuẩn Thiết kế Kỹ thuật và An toàn Thương hiệu này được soạn thảo nhằm hỗ trợ thiết kế và các chuyên gia MEP hiểu được các ưu tiên và yêu cầu của thương hiệu IHG. Bộ tiêu chuẩn này không nhằm mục đích cung cấp các yêu cầu không linh hoạt, mà nhằm tạo ra một khung chiến lược bao gồm các giá trị, tiêu chuẩn hành nghề thực tiễn, các phát kiến về tối ưu hóa và đảm bảo năng lượng, từ đó giúp thiết kế và chuyên gia làm việc. Tóm lại, bộ Tiêu chuẩn Thương hiệu được soạn thảo nhằm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To provide ceramic / FR connections within junction boxes and Voice Alarm speakers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>To provide ceramic    /    FR connections within junction boxes and Voice Alarm speakers</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Type of systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075557Z" creationid="LanHK" creationdate="20210525T075557Z">
-        <seg>Type of systems / Các loại hệ thống</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075557Z">
+        <seg>Type of systems    /    Các loại hệ thống</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Typical guest Floor Fire Protection System</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080334Z" creationid="LanHK" creationdate="20210525T080334Z">
-        <seg>Typical guest Floor Fire Protection System / Hệ thống phòng cháy điển hình tại tầng phòng khách</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080334Z">
+        <seg>Typical guest Floor Fire Protection System    /    Hệ thống phòng cháy điển hình tại tầng phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,40 +1590,56 @@
       <tuv lang="EN-US">
         <seg>Vertical Means of Escape</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T075106Z" creationid="LanHK" creationdate="20210525T075106Z">
-        <seg>Vertical Means of Escape / Phương thức thoát hiểm chiều đứng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075106Z">
+        <seg>Vertical Means of Escape    /    Phương thức thoát hiểm chiều đứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W_08 Ozone Water Treatment / Chemical Reduction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>W_08 Ozone Water Treatment    /    Chemical Reduction</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Water</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T081245Z" creationid="LanHK" creationdate="20210525T081239Z">
-        <seg>Water / Nước</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081239Z">
+        <seg>Water    /    Nước</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Where deviations from InterContinental Hotels Group standards are agreed (must be in writing), the designers must maintain a schedule of the agreed variations including:-</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T093327Z" creationid="LanHK" creationdate="20210601T092745Z">
-        <seg>Where deviations from InterContinental Hotels Group standards are agreed (must be in writing), the designers must maintain a schedule of the agreed variations including: / Nếu các khác biệt so với tiêu chuẩn IHG phải được chấp thuận bằng văn bản, Thiết kế phải duy trì lịch tiến độ của các hạng mục thay đổi đã được chấp thuận, bao gồm:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T092745Z">
+        <seg>Where deviations from InterContinental Hotels Group standards are agreed (must be in writing), the designers must maintain a schedule of the agreed variations including:    /    Nếu các khác biệt so với tiêu chuẩn IHG phải được chấp thuận bằng văn bản, Thiết kế phải duy trì lịch tiến độ của các hạng mục thay đổi đã được chấp thuận, bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where the electrical supply to the development is provided from the electricity supply authority / company at low voltage, the substation arrangement must be selected and installed in accordance with the supply authority’s requirements and shall be provided from dual incoming supplies as detailed in the activity section of this document.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Where the electrical supply to the development is provided from the electricity supply authority    /    company at low voltage, the substation arrangement must be selected and installed in accordance with the supply authority’s requirements and shall be provided from dual incoming supplies as detailed in the activity section of this document.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Who agreed the variation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T094603Z" creationid="LanHK" creationdate="20210601T094603Z">
-        <seg>Who agreed the variation / Người chấp thuận thay đổi này</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094603Z">
+        <seg>Who agreed the variation    /    Người chấp thuận thay đổi này</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Windows</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T074858Z" creationid="LanHK" creationdate="20210406T012807Z">
-        <seg>Windows / Cửa sổ</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210406T012807Z">
+        <seg>Windows    /    Cửa sổ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,72 +1662,72 @@
       <tuv lang="EN-US">
         <seg>Zoning of Air Conditioning</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T091652Z" creationid="LanHK" creationdate="20210525T091652Z">
-        <seg>Zoning of Air Conditioning / Phân vùng điều hòa không khí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091652Z">
+        <seg>Zoning of Air Conditioning    /    Phân vùng điều hòa không khí</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•Any variances from standards to be highlighted otherwise compliance is mandatory</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210601T090405Z" creationid="Kieu Lan" creationdate="20210601T090405Z">
-        <seg>•Any variances from standards to be highlighted otherwise compliance is mandatory / Bất cứ khác biệt nào so với tiêu chuẩn đều phải được đánh dấu rõ ràng, còn đâu buộc phải tuân thủ</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T090405Z">
+        <seg>•Any variances from standards to be highlighted otherwise compliance is mandatory    /    Bất cứ khác biệt nào so với tiêu chuẩn đều phải được đánh dấu rõ ràng, còn đâu buộc phải tuân thủ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•Designer is responsible for making applications and obtaining all local regulatory approvals</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T094345Z" creationid="LanHK" creationdate="20210525T094345Z">
-        <seg>•Designer is responsible for making applications and obtaining all local regulatory approvals / Thiết kế chịu trách nhiệm làm tất cả hồ sơ xin phê duyệt tại tất cả các cơ quan chức năng địa phương</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094345Z">
+        <seg>•Designer is responsible for making applications and obtaining all local regulatory approvals    /    Thiết kế chịu trách nhiệm làm tất cả hồ sơ xin phê duyệt tại tất cả các cơ quan chức năng địa phương</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•Designer to maintain a schedule of any agreed deviations from IHG Standards</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210601T090506Z" creationid="Kieu Lan" creationdate="20210601T090506Z">
-        <seg>•Designer to maintain a schedule of any agreed deviations from IHG Standards / Thiết kế cần duy trì lịch theo dõi tiến độ bất cứ hạng mục nào có khác biệt với Tiêu chuẩn IHG đã được chấp thuận</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T090506Z">
+        <seg>•Designer to maintain a schedule of any agreed deviations from IHG Standards    /    Thiết kế cần duy trì lịch theo dõi tiến độ bất cứ hạng mục nào có khác biệt với Tiêu chuẩn IHG đã được chấp thuận</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•Designer to provide submissions as detailed within this manual</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T094155Z" creationid="LanHK" creationdate="20210525T094155Z">
-        <seg>•Designer to provide submissions as detailed within this manual / Thiết kế trình thông tin theo như hướng dẫn trong tài liệu này</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094155Z">
+        <seg>•Designer to provide submissions as detailed within this manual    /    Thiết kế trình thông tin theo như hướng dẫn trong tài liệu này</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•Documentation may be required to highlight any variances from local standards</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T094411Z" creationid="LanHK" creationdate="20210525T094411Z">
-        <seg>•Documentation may be required to highlight any variances from local standards / Có thể yêu cầu tài liệu để làm rõ các khác biệt so với tiêu chuẩn địa phương</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094411Z">
+        <seg>•Documentation may be required to highlight any variances from local standards    /    Có thể yêu cầu tài liệu để làm rõ các khác biệt so với tiêu chuẩn địa phương</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•Resolve conflicts with IHG</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T094202Z" creationid="LanHK" creationdate="20210525T094202Z">
-        <seg>•Resolve conflicts with IHG / Giải quyết các mâu thuẫn với IHG</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094202Z">
+        <seg>•Resolve conflicts with IHG    /    Giải quyết các mâu thuẫn với IHG</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•Submissions to be made in English and formatted in accordance with this manual</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T101801Z" creationid="LanHK" creationdate="20210525T101801Z">
-        <seg>•Submissions to be made in English and formatted in accordance with this manual / Tài liệu trình bằng tiếng Anh và được format theo như hướng dẫn này</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T101801Z">
+        <seg>•Submissions to be made in English and formatted in accordance with this manual    /    Tài liệu trình bằng tiếng Anh và được format theo như hướng dẫn này</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•Used to verify conformance with IHG Requirements</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T094137Z" creationid="LanHK" creationdate="20210525T094137Z">
-        <seg>•Used to verify conformance with IHG Requirements / Nhằm xác nhận độ phù hợp với các Tiêu chuẩn</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094137Z">
+        <seg>•Used to verify conformance with IHG Requirements    /    Nhằm xác nhận độ phù hợp với các Tiêu chuẩn</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
