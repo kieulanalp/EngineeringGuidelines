@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Car Parking Garages</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210601T085522Z" creationid="Kieu Lan" creationdate="20210601T085522Z">
+        <seg>Car Parking Garages / Gara để xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carbon Monoxide Detection</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T081149Z" creationid="LanHK" creationdate="20210525T081149Z">
