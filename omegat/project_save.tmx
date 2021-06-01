@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>Brand Standard Manual</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T095957Z" creationid="LanHK" creationdate="20210601T095957Z">
-        <seg>Brand Standard Manual Hướng dẫn Tiêu chuẩn Thương hiệu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T100828Z" creationid="LanHK" creationdate="20210601T095957Z">
+        <seg>Brand Standard Manual     /    Hướng dẫn Tiêu chuẩn Thương hiệu</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Green Engage Recommendations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T100824Z" creationid="LanHK" creationdate="20210601T100824Z">
+        <seg>Green Engage Recommendations    /    Các khuyến nghị của </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Green engage Design Standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T083227Z" creationid="LanHK" creationdate="20210525T083227Z">
@@ -726,6 +734,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210601T090556Z" creationid="Kieu Lan" creationdate="20210601T090556Z">
         <seg>Hotels are unique developments in that they are operational for 24 hours a day, with guests paying for comfort highest standards of life safety is an expectation. / Khách sạn là dạng dự án phát triển độc đáo vì chúng hoạt động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IHG Brand Safety Standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101155Z" creationid="LanHK" creationdate="20210601T100802Z">
+        <seg>IHG Brand Safety Standards     /    Tiêu chuẩn An toàn thương hiệu IHG</seg>
       </tuv>
     </tu>
     <tu>
@@ -988,8 +1004,8 @@
       <tuv lang="EN-US">
         <seg>Property Section 1 Fire and Life Safety.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T100751Z" creationid="LanHK" creationdate="20210601T100751Z">
-        <seg>Property Section 1 Fire and Life Safety. Mục về tài sản 1 Tiêu chuẩn An toàn Sinh mạng và PCCC</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T100831Z" creationid="LanHK" creationdate="20210601T100751Z">
+        <seg>Property Section 1 Fire and Life Safety.     /    Mục về tài sản 1 Tiêu chuẩn An toàn Sinh mạng và PCCC</seg>
       </tuv>
     </tu>
     <tu>
