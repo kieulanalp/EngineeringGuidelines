@@ -2276,6 +2276,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where double doors have rebates (overlap) at the join, door selectors must be provided to ensure the doors close in the correct order.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T063746Z" creationid="LanHK" creationdate="20210602T063746Z">
+        <seg>Where double doors have rebates (overlap) at the join, door selectors must be provided to ensure the doors close in the correct order.        /       Nếu cánh cửa đôi có khớp ở vị trí cánh cửa gặp nhau, cần có selector để đảm bảo cửa đóng khớp đúng thứ t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where the electrical supply to the development is provided from the electricity supply authority / company at low voltage, the substation arrangement must be selected and installed in accordance with the supply authority’s requirements and shall be provided from dual incoming supplies as detailed in the activity section of this document.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
