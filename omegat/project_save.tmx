@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As an alternative to fire dampers if permitted by local codes, ventilation ducts may either be fire resisting or fully enclosed in fire resisting material of the same standard as the structure throughout their entire length.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T034211Z" creationid="LanHK" creationdate="20210602T034211Z">
+        <seg>As an alternative to fire dampers if permitted by local codes, ventilation ducts may either be fire resisting or fully enclosed in fire resisting material of the same standard as the structure throughout their entire length.        /       Nếu quy định địa phương cho phép, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atriums</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080643Z">
