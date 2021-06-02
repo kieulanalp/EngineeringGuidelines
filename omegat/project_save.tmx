@@ -616,6 +616,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elevator</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T070624Z" creationid="LanHK" creationdate="20210602T070624Z">
+        <seg>Elevator        /       thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevator opening directly into, for example, a public area or a guestroom corridoi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T070657Z" creationid="LanHK" creationdate="20210602T070657Z">
+        <seg>Elevator opening directly into, for example, a public area or a guestroom corridor.        /        Thang máy mở trực tiếp ra khu vực công cộng hoặc một hành lang phòng khách (ví dụ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevator shafts must have the same fire resistance as the structure of the building.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T070533Z" creationid="LanHK" creationdate="20210602T070533Z">
+        <seg>Elevator shafts must have the same fire resistance as the structure of the building.        /       Trục thang máy phải có mức chống cháy tương đương kết cấu tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elevator shafts, flues &amp; pipe chases in all construction above four stories</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T024908Z" creationid="LanHK" creationdate="20210602T024908Z">
@@ -909,6 +933,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081119Z">
         <seg>Fire resisting enclosure    /    Hộp điện chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire resisting landing doors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T070616Z" creationid="LanHK" creationdate="20210602T070616Z">
+        <seg>Fire resisting landing doors        /       Cửa thang máy chống cháy</seg>
       </tuv>
     </tu>
     <tu>
