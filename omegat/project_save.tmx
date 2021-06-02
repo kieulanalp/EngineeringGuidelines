@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A vent at roof level</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T102954Z" creationid="LanHK" creationdate="20210602T102954Z">
+        <seg>A vent at roof level        /       có lỗ thông trên tầng mái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALTERNATIVE FIRE DAMPER FOR F/A DUCT FROM CORRIDOR</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T044057Z" creationid="LanHK" creationdate="20210602T044057Z">
@@ -1958,6 +1966,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081143Z">
         <seg>Smoke and heat control system    /    Hệ thống kiểm soát khói và nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smoke detector at the top of the chute</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T101755Z" creationid="LanHK" creationdate="20210602T101755Z">
+        <seg>Smoke detector at the top of the chute        /       đầu báo khói trên đỉnh ống</seg>
       </tuv>
     </tu>
     <tu>
