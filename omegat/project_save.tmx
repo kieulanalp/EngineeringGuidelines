@@ -728,6 +728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File resisting walls extend to the floor above and do not end at the false ceiling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T050108Z" creationid="LanHK" creationdate="20210602T050108Z">
+        <seg>File resisting walls extend to the floor above and do not end at the false ceiling        /       tường chống cháy kéo dài đến tầng trên và không dừng ở trần nổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final incorporating all comments from IHG workshops and illustrations</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071126Z">
