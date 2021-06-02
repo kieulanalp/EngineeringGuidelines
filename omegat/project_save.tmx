@@ -1034,6 +1034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOCAL STANDARDS INSTITUTE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T021814Z" creationid="LanHK" creationdate="20210602T021814Z">
+        <seg>LOCAL STANDARDS INSTITUTE        /       CƠ QUAN TIÊU CHUẨN ĐỊA PHƯƠNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laundry</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011646Z" creationid="LanHK" creationdate="20210406T011646Z">
@@ -1463,6 +1471,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075953Z">
         <seg>Sounders and Alarm    /    Báo động âm thanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specialists in fire engineering, fire alarm and emergency lighting design installation provide technical assistance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T021801Z" creationid="LanHK" creationdate="20210602T021801Z">
+        <seg>Specialists in fire engineering, fire alarm and emergency lighting design installation provide technical assistance.        /       Chuyên gia về kỹ thuật PCCC, báo cháy và lắp đặt thiết kế ánh sáng khẩn cấp hỗ trợ về mặt kỹ thuật</seg>
       </tuv>
     </tu>
     <tu>
