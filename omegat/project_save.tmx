@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALTERNATIVE FIRE DAMPER FOR F/A DUCT FROM CORRIDOR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T044057Z" creationid="LanHK" creationdate="20210602T044057Z">
+        <seg>ALTERNATIVE FIRE DAMPER FOR F/A DUCT FROM CORRIDOR        /       PHƯƠNG ÁN THAY THẾ CHO ĐƯỜNG ỐNG F/A TỪ HÀNH LANG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>APPROVALS AND APPLICATIONS</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094257Z">
@@ -676,6 +684,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T014641Z" creationid="LanHK" creationdate="20210602T014641Z">
         <seg>FIRE AUTHORITY AND BUILDING CONTROL/CERTIFIER Implementation, Legislation, Check Assessments        /       CƠ QUAN KIỂM SOÁT PCCC VÀ TÒA NHÀ / ĐƠN VỊ CẤP CHỨNG CHỈ Thực hiện, Chính sách, Kiểm soát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIRE DAMPER FOR ANY DUCT FROM LOBBY OR RISER SHAFT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T043610Z" creationid="LanHK" creationdate="20210602T043454Z">
+        <seg>FIRE DAMPER FOR ANY DUCT FROM LOBBY OR RISER SHAFT        /       VAN CHẶN LỬA CHO BẤT CỨ ĐƯỜNG ỐNG NÀO TỪ LOBBY HOẶC TRỤC ỐNG ĐỨNG</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REFER DETAIL ADJACENT FOR TYPICAL LAYOUT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T043646Z" creationid="LanHK" creationdate="20210602T043646Z">
+        <seg>REFER DETAIL ADJACENT FOR TYPICAL LAYOUT        /       THAM KHẢO CHI TIẾT BÊN DƯỚI CHO MẶT BẰNG ĐIỂN HÌNH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REGULATORY</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T094214Z" creationid="LanHK" creationdate="20210525T094214Z">
@@ -1831,6 +1855,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>TYPICAL FIRE ALARM &amp; DETECTION SYSTEM FOR ENTRY ! LOBBY    /    PUBLIC AREA LEVELS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TYPICAL GUEST ROOM DETAIL.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T043618Z" creationid="LanHK" creationdate="20210602T043618Z">
+        <seg>TYPICAL GUEST ROOM DETAIL.        /       CHI TIẾT PHÒNG KHÁCH ĐIỂN HÌNH</seg>
       </tuv>
     </tu>
     <tu>
