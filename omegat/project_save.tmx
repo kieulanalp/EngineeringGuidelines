@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.2.10 Car Parking Garages</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T104422Z" creationid="LanHK" creationdate="20210602T104422Z">
+        <seg>2.2.10 Car Parking Garages        /       Gara để xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.2.4 TYPICAL GUEST FLOOR FIRE DAMPER REQUIREMENT</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043256Z" creationid="LanHK" creationdate="20210602T043256Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T085522Z">
         <seg>Car Parking Garages    /    Gara để xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Car parking garages below hotels should be sprinkler protected and connected to the hotel's fire alarm and detection system. Where sprinklers are provided thermal detectors need not be unless there is a specific local code requirement. Where they are not sprinkler protected they must:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T104722Z" creationid="LanHK" creationdate="20210602T104722Z">
+        <seg>Car parking garages below hotels should be sprinkler protected and connected to the hotel's fire alarm and detection system. Where sprinklers are provided thermal detectors need not be unless there is a specific local code requirement. Where they are not sprinkler protected they must:        /       Gara để xe bên dưới khách sạn nên được sprinkler bảo vệ và kết nối vào hệ thống phát hiện và báo cháy của khách sạn. Nếu có sprinkler, không cần bố trí đầu báo nhiệt trừ khi có quy định địa phương cụ thể yêu cầu điều này. Nếu gara không có sprinkler bảo vệ, chúng cần</seg>
       </tuv>
     </tu>
     <tu>
