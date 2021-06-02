@@ -592,6 +592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doors do not need to be fire I esisting</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T100811Z" creationid="LanHK" creationdate="20210602T100811Z">
+        <seg>Doors do not need to be fire resisting        /       Cửa không cần chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drainage</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154714Z" creationid="Kieu Lan" creationdate="20210405T154714Z">
@@ -1298,6 +1306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I esisting tlooi s</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T100753Z" creationid="LanHK" creationdate="20210602T100753Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IHG Brand Safety Standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101155Z" creationid="LanHK" creationdate="20210601T100802Z">
@@ -1486,6 +1502,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153800Z" creationid="Kieu Lan" creationdate="20210405T153800Z">
         <seg>Lightning Protection Chống sét</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like other vertical shafts linen chutes must have the same fire resistance as the structure. In addition linen chutes must have:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T101133Z" creationid="LanHK" creationdate="20210602T101133Z">
+        <seg>Like other vertical shafts linen chutes must have the same fire resistance as the structure. In addition linen chutes must have:        /       Cũng như các trục ống đứng khác, ống thả đồ giặt phải có mức chống cháy tương đương kết cấu. Ngoài ra ống thả đồ giặt cầm có</seg>
       </tuv>
     </tu>
     <tu>
