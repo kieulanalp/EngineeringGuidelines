@@ -1162,6 +1162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kitchens and adjoining rooms or areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T030411Z" creationid="LanHK" creationdate="20210602T030357Z">
+        <seg>Kitchens and adjoining rooms or areas        /       Bếp và các phòng hoặc khu vực liền kề</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCAL GOVERNMENT DEPARTMENTS e.g. home office, provide guidance</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T014542Z" creationid="LanHK" creationdate="20210602T014542Z">
@@ -1308,8 +1316,8 @@
       <tuv lang="EN-US">
         <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T030343Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)        /       Phòng máy và các phòng liền kề hoặc khu vực liền kề (120p)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T030402Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)        /       Phòng máy và các phòng hoặc khu vực liền kề (120p)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,6 +1406,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T014204Z" creationid="LanHK" creationdate="20210602T014204Z">
         <seg>Once this has been approved in principle by InterContinental Hotels Group, the designer must be responsible for obtaining the approval of the local regulatory authority which should follow the process as indicated below:        /       Một khi các nội dung này đã được phê duyệt bởi IHG, thiết kế phải chịu trách nhiệm xin phê duyệt của cơ quan quản lý địa phương, tuân theo quy trình được mô tả dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Openings have to be made in fire resisting construction for the passage of pipes, cables and ductwork but to prevent the spread of fire via these openings they have to be protected.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T030847Z" creationid="LanHK" creationdate="20210602T030847Z">
+        <seg>Openings have to be made in fire resisting construction for the passage of pipes, cables and ductwork but to prevent the spread of fire via these openings they have to be protected.        /       Các lỗ hở cần tạo trong kết cấu chống cháy để đi ống, cáp và ống thông khí</seg>
       </tuv>
     </tu>
     <tu>
