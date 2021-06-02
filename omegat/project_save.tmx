@@ -1114,6 +1114,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IHG Engineering Design Guidelines</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T043004Z" creationid="LanHK" creationdate="20210602T043004Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IHG FIRE AND LIFE SAFETY</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T022614Z" creationid="LanHK" creationdate="20210602T022614Z">
@@ -2024,6 +2032,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075557Z">
         <seg>Type of systems    /    Các loại hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Guest Floor Fire Damper Requirement</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T043155Z" creationid="LanHK" creationdate="20210602T043155Z">
+        <seg>Typical Guest Floor Fire Damper Requirement        /       Yêu cầu về Van chặn lửa cho tầng phòng khách điển hình</seg>
       </tuv>
     </tu>
     <tu>
