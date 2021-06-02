@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>An option to fire dampers in a bathroom or rest room exhaust duct, which requires no maintenance, is a subduct.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T041328Z" creationid="LanHK" creationdate="20210602T041328Z">
-        <seg>An option to fire dampers in a bathroom or rest room exhaust duct, which requires no maintenance, is a subduct.        /       Một lựa chọn van chặn lửa cho ống thải khí trong phòng tắm hoặc phòng vệ sinh mà không yêu cầu bảo trì là một ống phụ</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T041435Z" creationid="LanHK" creationdate="20210602T041328Z">
+        <seg>An option to fire dampers in a bathroom or rest room exhaust duct, which requires no maintenance, is a subduct.        /       Một lựa chọn thay thế van chặn lửa cho ống thải khí trong phòng tắm hoặc phòng vệ sinh mà không yêu cầu bảo trì là một ống phụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1759,6 +1759,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T073334Z">
         <seg>Structural Fire Resistance    /    Kết cấu chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sub duct (option to Fire Damper)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T041804Z" creationid="LanHK" creationdate="20210602T041416Z">
+        <seg>Sub duct (option to Fire Damper)        /       Ống phụ (lựa chọn thay thế cho Van chặn lửa)</seg>
       </tuv>
     </tu>
     <tu>
