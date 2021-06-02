@@ -2292,6 +2292,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where vision panels are provided the glazing must have the same fire resistance as the door.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T064234Z" creationid="LanHK" creationdate="20210602T064234Z">
+        <seg>Where vision panels are provided the glazing must have the same fire resistance as the door.        /      Nếu cửa có kính, kính phải có mức chống cháy tương đương với cánh cửa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Who agreed the variation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094603Z">
