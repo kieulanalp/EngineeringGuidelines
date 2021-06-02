@@ -856,6 +856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File resitting chute or ' cunte located In fire</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T103719Z" creationid="LanHK" creationdate="20210602T103719Z">
+        <seg>File resitting chute or chute located In fire resisting shaft        /       Ống chống cháy hoặc ống bố trí trong trục ống chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final incorporating all comments from IHG workshops and illustrations</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071126Z">
@@ -1106,6 +1114,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GO Minirte</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T103905Z" creationid="LanHK" creationdate="20210602T103905Z">
+        <seg>60 minute self-closing and locking fire resisting door at each floor        /       Cửa chống cháy 60p tự đóng và tự khóa tại mỗi tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210405T091918Z">
@@ -1325,6 +1341,14 @@
         <seg>I esisting tlooi s</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T100753Z" creationid="LanHK" creationdate="20210602T100753Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I existing 3hilft</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T103721Z" creationid="LanHK" creationdate="20210602T103721Z">
         <seg></seg>
       </tuv>
     </tu>
