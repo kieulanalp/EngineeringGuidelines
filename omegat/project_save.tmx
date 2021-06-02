@@ -1459,6 +1459,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The anticipated risk of a fire and its severity.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T012916Z" creationid="LanHK" creationdate="20210602T012916Z">
+        <seg>The anticipated risk of a fire and its severity.        /       Nguy cơ hỏa hoạn dự đoán và mức độ nghiêm trọng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The architectural provisions for resisting the spread of fire and smoke, including provisions for escape</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T012943Z" creationid="LanHK" creationdate="20210602T012943Z">
+        <seg>The architectural provisions for resisting the spread of fire and smoke, including provisions for escape        /       Các yếu tố kiến trúc chống cháy lan, chống khói lan, bao gồm cả việc cung cấp lối thoát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The central heating distribution plant shall utilise modulating high efficiency / low Nox boilers, with condensing boilers used, having proprietary automatic controls compatible with the BMS system.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -1488,6 +1504,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T012734Z" creationid="LanHK" creationdate="20210602T012734Z">
         <seg>The design of these systems is to ensure they are effective, fit for purpose and will ensure a safe environment for guests and staff whilst simplifying the operation and maintenance of the fire systems as much as practically possible. Section 1.1 of this document identifies acceptable standards to achieve these aims.        /       Việc thiết kế các hệ thống này là nhằm đảm bảo tính hiệu quả, phù hợp với chức năng và sẽ đảm bảo một môi trường an toàn cho khách khứa và nhân viên, đồng thời đơn giản hóa việc vận hành và bảo trì hệ thống PCCC hết mức có thể. Mục 1.1 của tài liệu này liệt kê các tiêu chuẩn được chấp nhận để đạt được những mục tiêu trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The designers (including fire, MEP, architectural, interior) must provide a fire safety strategy for the whole building, which must include all passive and active systems, and clearly show:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T012846Z" creationid="LanHK" creationdate="20210602T012846Z">
+        <seg>The designers (including fire, MEP, architectural, interior) must provide a fire safety strategy for the whole building, which must include all passive and active systems, and clearly show:-        /       Thiết kế (gồm PCCC, MEP, Kiến trúc, Nội thất) phải cung cấp một bản chiến lược PCCC cho toàn bộ tòa nhà, trong đó gồm tất cả các hệ thôgns bị động và chủ động, và chiến lược này cần cho thấy rõ</seg>
       </tuv>
     </tu>
     <tu>
