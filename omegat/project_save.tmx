@@ -1298,6 +1298,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lift</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T044104Z" creationid="LanHK" creationdate="20210602T044104Z">
+        <seg>Lift        /       Thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighting</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154539Z" creationid="Kieu Lan" creationdate="20210405T154539Z">
@@ -1855,6 +1863,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>TYPICAL FIRE ALARM &amp; DETECTION SYSTEM FOR ENTRY ! LOBBY    /    PUBLIC AREA LEVELS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TYPICAL FIRE DAMPER IN EACH SUPPLY AND- EXHAUST DUCT FROM FIRE SHAFT (UNLESS SHAFT IS SEALED AND FIRE RATED AT FLOOR LEVEL.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T044445Z" creationid="LanHK" creationdate="20210602T044445Z">
+        <seg>TYPICAL FIRE DAMPER IN EACH SUPPLY AND- EXHAUST DUCT FROM FIRE SHAFT (UNLESS SHAFT IS SEALED AND FIRE RATED AT FLOOR LEVEL.        /       VAN CHẶN LỬA ĐIỂN HÌNH CHO MỖI ỐNG CẤP VÀ ỐNG THẢI TỪ TRỤC ỐNG CỨU HỎA</seg>
       </tuv>
     </tu>
     <tu>
