@@ -1676,6 +1676,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The minimum fire resistance of the structure of a building depends upon its height and whether it is high, medium or low rise.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T022938Z" creationid="LanHK" creationdate="20210602T022938Z">
+        <seg>The minimum fire resistance of the structure of a building depends upon its height and whether it is high, medium or low rise.        /       Mức chống cháy tối thiểu của kết cấu tòa nhà phụ thuộc vào chiều cao tòa nhà và liệu tòa nhà là thấp, trung hay cao tầng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The objective of this section of the guide is to provide guidance on how to design the systems in accordance with IHG requirements and the relevant standards and codes of practice.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095930Z">
@@ -1712,6 +1720,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T093039Z">
         <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below:    /    Các tiêu chuẩn được áp dụng sẽ thay đổi phụ thuộc vào vị trí của khách sạn, do đó sẽ có các yêu cầu mâu thuẫn giữa tiêu chuẩn thương hiệu, quy định địa phương, tiêu chuẩn quốc tế và các tiêu chí tiết kiệm năng lượng. Trong tất cả mọi trường hợp, IHG sẽ được thông báo về các yêu cầu mâu thuẫn như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The structure of the building includes:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T023101Z" creationid="LanHK" creationdate="20210602T023101Z">
+        <seg>The structure of the building includes:        /       Kết cấu tòa nhà bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
