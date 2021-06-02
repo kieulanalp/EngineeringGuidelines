@@ -1066,6 +1066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to structural fire resistance, separation to prevent the spread of fire and smoke must be provided to protect means of escape and to enclose high fire risk areas of the hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T025713Z" creationid="LanHK" creationdate="20210602T025713Z">
+        <seg>In addition to structural fire resistance, separation to prevent the spread of fire and smoke must be provided to protect means of escape and to enclose high fire risk areas of the hotel.        /       Ngoài các kết cấu chống cháy, việc phân khoang ngăn cháy và khói lan phải được cung cấp để đảm bảo đường thoát hiểm và các khu vực có nguy cơ cháy cao trong khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general the occupancy of an assembly room should be based upon a figure of 1m2 / person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -1976,6 +1984,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210406T012807Z">
         <seg>Windows    /    Cửa sổ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wood frame construction between all elevated floors and balconies</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T024941Z" creationid="LanHK" creationdate="20210602T024941Z">
+        <seg>Wood frame construction between all elevated floors and balconies        /       Cấu trúc khung gỗ giữa tất cả các sàn được nâng và ban công</seg>
       </tuv>
     </tu>
     <tu>
