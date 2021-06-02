@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COMPETENT ENGINEERS&amp; ARCHITECT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T021701Z" creationid="LanHK" creationdate="20210602T021701Z">
+        <seg>COMPETENT ENGINEERS &amp; ARCHITECT        /       KỸ SƯ VÀ KIẾN TRÚC SƯ ĐỦ CHUYÊN MÔN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTENTS</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071151Z">
@@ -316,6 +324,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T090907Z">
         <seg>Cooling Load Estimates    /    Ước tính tải làm mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DESIGN FOR APPROVAL</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014650Z" creationid="LanHK" creationdate="20210602T014650Z">
+        <seg>DESIGN FOR APPROVAL        /       PHÊ DUYỆT THIẾT KẾ</seg>
       </tuv>
     </tu>
     <tu>
@@ -548,6 +564,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T053942Z">
         <seg>FIP - Fire Indicator Panel (also known as Fire Alarm Panel)    /    Tủ báo cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIRE AUTHORITY AND BUILDING CONTROL/CERTIFIER Implementation, Legislation, Check Assessments</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014641Z" creationid="LanHK" creationdate="20210602T014641Z">
+        <seg>FIRE AUTHORITY AND BUILDING CONTROL/CERTIFIER Implementation, Legislation, Check Assessments        /       CƠ QUAN KIỂM SOÁT PCCC VÀ TÒA NHÀ / ĐƠN VỊ CẤP CHỨNG CHỈ Thực hiện, Chính sách, Kiểm soát</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,14 +946,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>IHG / EMPLOYERS</seg>
-      </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>IHG    /    EMPLOYERS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>IHG Brand Safety Standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101155Z" creationid="LanHK" creationdate="20210601T100802Z">
@@ -1006,6 +1022,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080344Z">
         <seg>Kitchen Hood Suppression    /    Hệ thống chữa cháy tích hợp trong chụp hút mùi bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOCAL GOVERNMENT DEPARTMENTS e.g. home office, provide guidance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014542Z" creationid="LanHK" creationdate="20210602T014542Z">
+        <seg>LOCAL GOVERNMENT DEPARTMENTS e.g. home office, provide guidance        /       BAN NGÀNH ĐỊA PHƯƠNG e.g home office, cung cấp hướng dẫn</seg>
       </tuv>
     </tu>
     <tu>
@@ -1784,6 +1808,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091652Z">
         <seg>Zoning of Air Conditioning    /    Phân vùng điều hòa không khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and their Fire Risk Assessors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014748Z" creationid="LanHK" creationdate="20210602T014748Z">
+        <seg>and their Fire Risk Assessors         /        IHG/NHÀ TUYỂN DỤNG và đơn vị đánh giá rủi ro hỏa hoạn</seg>
       </tuv>
     </tu>
     <tu>
