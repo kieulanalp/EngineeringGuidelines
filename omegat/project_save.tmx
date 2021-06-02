@@ -1036,8 +1036,8 @@
       <tuv lang="EN-US">
         <seg>LOCAL STANDARDS INSTITUTE</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T021814Z" creationid="LanHK" creationdate="20210602T021814Z">
-        <seg>LOCAL STANDARDS INSTITUTE        /       CƠ QUAN TIÊU CHUẨN ĐỊA PHƯƠNG</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T022217Z" creationid="LanHK" creationdate="20210602T021814Z">
+        <seg>LOCAL STANDARDS INSTITUTE        /       ĐẶT RA TIÊU CHUẨN NỘI BỘ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1286,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080255Z">
         <seg>Pre-action Dry Sprinkler    /    Sprinkler khô pre-action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Produces standards for equipment that can be used by employers to demonstrate compliance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T021836Z" creationid="LanHK" creationdate="20210602T021836Z">
+        <seg>Produces standards for equipment that can be used by employers to demonstrate compliance.        /       </seg>
       </tuv>
     </tu>
     <tu>
