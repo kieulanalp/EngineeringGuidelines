@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Americas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T024004Z" creationid="LanHK" creationdate="20210602T024004Z">
+        <seg>Americas        /       châu Mỹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An intelligent analogue addressable, automatic fire alarm and detection system must be installed to cover the whole hotel. The system must also provide signals to other building systems where the hotel is part of a larger complex to alert them in the event of fire system activation.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T052854Z">
@@ -524,6 +532,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081250Z">
         <seg>Electricity    /    Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevator shafts, flues &amp; pipe chases in all construction above four stories</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T024908Z" creationid="LanHK" creationdate="20210602T024908Z">
+        <seg>Elevator shafts, flues &amp; pipe chases in all construction above four stories        /       Trục thang máy, đường ống khí thải và ống dẫn trong tất cả các tòa nhà hơn bốn tầng</seg>
       </tuv>
     </tu>
     <tu>
@@ -1832,6 +1848,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023134Z" creationid="LanHK" creationdate="20210602T023134Z">
         <seg>The structural frame of a building        /       Khung kết cấu của tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The structure of all hotels</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T024012Z" creationid="LanHK" creationdate="20210602T024012Z">
+        <seg>The structure of all hotels         /       Kết cấu tất cả các khách sạn</seg>
       </tuv>
     </tu>
     <tu>
