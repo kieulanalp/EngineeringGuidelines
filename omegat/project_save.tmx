@@ -772,8 +772,8 @@
       <tuv lang="EN-US">
         <seg>Green Engage Recommendations</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T100824Z">
-        <seg>Green Engage Recommendations       /       Các khuyến nghị của </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T012300Z" creationid="LanHK" creationdate="20210601T100824Z">
+        <seg>Green Engage Recommendations       /       Các khuyến nghị theo Cam kết Tiêu chuẩn Xanh</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not applicable.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T012308Z" creationid="LanHK" creationdate="20210602T012308Z">
+        <seg>Not applicable        /       không áp dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>November 2015</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070049Z">
@@ -1496,6 +1504,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094050Z">
         <seg>The item reference and applicable section of the InterContinental Hotels Group standards    /    Hạng mục được quan tâm và mục tiêu chuẩn IHG áp dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The life safety systems for the hotel include the “passive” as well as “active” design features, which must be designed as a coordinated total fire safety solution.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T012514Z" creationid="LanHK" creationdate="20210602T012514Z">
+        <seg>The life safety systems for the hotel include the “passive” as well as “active” design features, which must be designed as a coordinated total fire safety solution.        /       Hệ thống PCCC cho khách sạn bao gồm các tính năng "bị động" cũng như "chủ động", cả hai đều phải được thiết kế như một giải pháp PCCC phối hợp toàn diện</seg>
       </tuv>
     </tu>
     <tu>
