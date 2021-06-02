@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At all levels elevators must be protected by fire resisting landing doors or lobbies with access via self-closing fire resisting doors.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T100128Z" creationid="LanHK" creationdate="20210602T100128Z">
+        <seg>At all levels elevators must be protected by fire resisting landing doors or lobbies with access via self-closing fire resisting doors.        /       Tại tất cả các tầng, thang máy phải được bảo vệ bởi cửa chống cháy hoặc sảnh thang máy tiếp cận qua cửa chống cháy tự đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atriums</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080643Z">
