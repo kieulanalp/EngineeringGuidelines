@@ -616,6 +616,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elevatoi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T100013Z" creationid="LanHK" creationdate="20210602T100013Z">
+        <seg>Elevator        /       Thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elevator</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T070624Z" creationid="LanHK" creationdate="20210602T070624Z">
