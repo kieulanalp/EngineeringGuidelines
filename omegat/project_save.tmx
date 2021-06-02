@@ -1484,6 +1484,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The design of these systems is to ensure they are effective, fit for purpose and will ensure a safe environment for guests and staff whilst simplifying the operation and maintenance of the fire systems as much as practically possible. Section 1.1 of this document identifies acceptable standards to achieve these aims.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T012734Z" creationid="LanHK" creationdate="20210602T012734Z">
+        <seg>The design of these systems is to ensure they are effective, fit for purpose and will ensure a safe environment for guests and staff whilst simplifying the operation and maintenance of the fire systems as much as practically possible. Section 1.1 of this document identifies acceptable standards to achieve these aims.        /       Việc thiết kế các hệ thống này là nhằm đảm bảo tính hiệu quả, phù hợp với chức năng và sẽ đảm bảo một môi trường an toàn cho khách khứa và nhân viên, đồng thời đơn giản hóa việc vận hành và bảo trì hệ thống PCCC hết mức có thể. Mục 1.1 của tài liệu này liệt kê các tiêu chuẩn được chấp nhận để đạt được những mục tiêu trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following diagram illustrates the designer’s responsibilities in relation to design approvals:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T093106Z">
@@ -1680,6 +1688,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091652Z">
         <seg>Zoning of Air Conditioning    /    Phân vùng điều hòa không khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>‘Passive’ meaning fire resisting walls, floors, doors and ‘active’ meaning fire alarm and detection, sprinkler, smoke control systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T012608Z" creationid="LanHK" creationdate="20210602T012608Z">
+        <seg>‘Passive’ meaning fire resisting walls, floors, doors and ‘active’ meaning fire alarm and detection, sprinkler, smoke control systems.        /       "Bị động" là tường, sàn, cửa ngăn cháy và "chủ động" là phát hiện và báo cháy, sprinkler, các hệ thống kiểm soát khói.</seg>
       </tuv>
     </tu>
     <tu>
