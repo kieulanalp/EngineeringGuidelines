@@ -1178,6 +1178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once this has been approved in principle by InterContinental Hotels Group, the designer must be responsible for obtaining the approval of the local regulatory authority which should follow the process as indicated below:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014204Z" creationid="LanHK" creationdate="20210602T014204Z">
+        <seg>Once this has been approved in principle by InterContinental Hotels Group, the designer must be responsible for obtaining the approval of the local regulatory authority which should follow the process as indicated below:        /       Một khi các nội dung này đã được phê duyệt bởi IHG, thiết kế phải chịu trách nhiệm xin phê duyệt của cơ quan quản lý địa phương, tuân theo quy trình được mô tả dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other Fire Suppression System</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T080540Z" creationid="LanHK" creationdate="20210525T080540Z">
@@ -1196,8 +1204,8 @@
       <tuv lang="EN-US">
         <seg>Outline schematic layouts to illustrate the fire strategy</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T013926Z" creationid="LanHK" creationdate="20210602T013926Z">
-        <seg>Outline schematic layouts to illustrate the fire strategy         /       Sơ đồ nguyên tắc để minh họa cho chiến lược PCC</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T013940Z" creationid="LanHK" creationdate="20210602T013926Z">
+        <seg>Outline schematic layouts to illustrate the fire strategy         /       Sơ đồ nguyên tắc để minh họa cho chiến lược PCCC</seg>
       </tuv>
     </tu>
     <tu>
@@ -1399,6 +1407,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075953Z">
         <seg>Sounders and Alarm    /    Báo động âm thanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specific requirements for maintenance of the fire systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014101Z" creationid="LanHK" creationdate="20210602T014048Z">
+        <seg>Specific requirements for maintenance of the fire systems.        /       Các yêu cầu cụ thể về bảo trì hệ thống PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specific requirements for staff training in fire safety routines.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014026Z" creationid="LanHK" creationdate="20210602T014026Z">
+        <seg>Specific requirements for staff training in fire safety routines.        /       Yêu cầu cụ thể về việc huấn luyện các quy trình PCCC cho nhân viên</seg>
       </tuv>
     </tu>
     <tu>
