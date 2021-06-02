@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A fire detection and alarm system sequence matrix- refer to example at the end of this section.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T013444Z" creationid="LanHK" creationdate="20210602T013444Z">
+        <seg>A fire detection and alarm system sequence matrix- refer to example at the end of this section.        /       Một ma trận trình tự hệ thống phát hiện và báo cháy - tham khảo ví dụ cuối mục này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>APPROVALS AND APPLICATIONS</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094257Z">
@@ -1186,6 +1194,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outline schematic layouts to illustrate the fire strategy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T013926Z" creationid="LanHK" creationdate="20210602T013926Z">
+        <seg>Outline schematic layouts to illustrate the fire strategy         /       Sơ đồ nguyên tắc để minh họa cho chiến lược PCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plumbing and Drainage</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154651Z" creationid="Kieu Lan" creationdate="20210405T154651Z">
@@ -1552,6 +1568,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095443Z">
         <seg>The objectives of these systems are for the protection of life and property in the event of a fire or incident. This section of the manual must also be read in conjunction with the IHG ‘Brand Safety Standards’.    /    Mục tiêu của các hệ thống này là để bảo vệ sinh mạng cũng như tài sản khi xảy ra hỏa hoạn hoặc sự cố. Mục này của tài liệu hướng dẫn cần phải được đọc cùng với "Tiêu chuẩn An toàn Thương hiệu" IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The provision of facilities to assist the fire services in locating and fighting fires.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T013538Z" creationid="LanHK" creationdate="20210602T013538Z">
+        <seg>The provision of facilities to assist the fire services in locating and fighting fires.        /       Cơ sở vật chất được cung cấp để hỗ trợ lực lượng PCCC xác định vị trí và dập lửa</seg>
       </tuv>
     </tu>
     <tu>
