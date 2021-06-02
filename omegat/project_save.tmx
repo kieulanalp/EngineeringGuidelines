@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Back of house areas and guestrooms and guestroom corridors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T030147Z" creationid="LanHK" creationdate="20210602T030147Z">
+        <seg>Back of house areas and guestrooms and guestroom corridors        /       Khu BOH và phòng khách và hành lang phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bahrain Iran Iraq Israel / Occupied Territories Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -962,6 +970,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guestrooms and adjoining guestrooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T030233Z" creationid="LanHK" creationdate="20210602T030228Z">
+        <seg>Guestrooms and adjoining guestrooms        /       Phòng khách và các phòng khách liền kề</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guestrooms and guestroom corridors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T030214Z" creationid="LanHK" creationdate="20210602T030214Z">
+        <seg>Guestrooms and guestroom corridors        /       Phòng khách và hành lang phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOSEREEL / HOSE RACK (MAY BE OMITTED IN SOME</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -1284,8 +1308,8 @@
       <tuv lang="EN-US">
         <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Mechanical    /    plant rooms and adjoining rooms or areas (120 minutes)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T030343Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)        /       Phòng máy và các phòng liền kề hoặc khu vực liền kề (120p)</seg>
       </tuv>
     </tu>
     <tu>
