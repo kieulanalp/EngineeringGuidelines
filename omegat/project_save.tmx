@@ -552,6 +552,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIRE SAFETY REGULATIONS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014431Z" creationid="LanHK" creationdate="20210602T014431Z">
+        <seg>FIRE SAFETY REGULATIONS         /       QUY ĐỊNH PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FLOW CHART OF FIRE SAFETY LEGISLATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014218Z" creationid="LanHK" creationdate="20210602T014218Z">
+        <seg>FLOW CHART OF FIRE SAFETY LEGISLATION        /       SƠ ĐỒ QUY TRÌNH XIN GIẤY PHÉP PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fastenings on exits doors</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075227Z">
@@ -702,6 +718,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071056Z" creationid="LanHK" creationdate="20210525T071056Z">
         <seg>For Comment </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For relevant Country/State Local Requirement</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014505Z" creationid="LanHK" creationdate="20210602T014459Z">
+        <seg>For relevant Country/State Local Requirement        /       Các quy định, yêu cầu quốc gia/địa phương quan trọng</seg>
       </tuv>
     </tu>
     <tu>
@@ -1156,8 +1180,8 @@
       <tuv lang="EN-US">
         <seg>November 2015</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070049Z">
-        <seg>November 2015    /    Tháng Mười một, 2015</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014346Z" creationid="LanHK" creationdate="20210525T070049Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1350,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071038Z">
         <seg>Reviewer    /    Biên tập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revision 2.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T014303Z" creationid="LanHK" creationdate="20210602T014303Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
