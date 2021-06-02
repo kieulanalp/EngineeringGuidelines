@@ -2082,6 +2082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smoke s co extraction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T105432Z" creationid="LanHK" creationdate="20210602T105432Z">
+        <seg>Smoke &amp; CO extraction        /       Hút khói và khí CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Solar Shading - Sun Paths</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083351Z">
@@ -2440,6 +2448,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>To provide ceramic    /    FR connections within junction boxes and Voice Alarm speakers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two 30 minute self-closing fire resisting floors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T112128Z" creationid="LanHK" creationdate="20210602T112128Z">
+        <seg>Two 30 minute self-closing fire resisting floors        /       2 cửa chống cháy tự đóng </seg>
       </tuv>
     </tu>
     <tu>
