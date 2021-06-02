@@ -1716,6 +1716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The minimum fire resistance of the structure is detailed in the table below:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T023628Z" creationid="LanHK" creationdate="20210602T023628Z">
+        <seg>The minimum fire resistance of the structure is detailed in the table below:        /       Mức chống cháy tối thiểu của kết cấu cụ thể như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The minimum fire resistance of the structure of a building depends upon its height and whether it is high, medium or low rise.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T022938Z" creationid="LanHK" creationdate="20210602T022938Z">
