@@ -640,6 +640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elevatoi Ä stall lobby with access via self-closing, f¡I e</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T100751Z" creationid="LanHK" creationdate="20210602T100751Z">
+        <seg>Elevator &amp; stair lobby with access via self-closing, fire resisting doors         /       Sảnh thang máy và thang bộ tiếp cậnh qua cửa chống cháy tự đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elevator</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T070624Z" creationid="LanHK" creationdate="20210602T070624Z">
