@@ -2284,6 +2284,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where self-closing fire resisting doors are located in areas of heavy use consideration should be given to providing electromagnetic door holders to keep them open during normal operations. The door holders must release allowing the doors to close upon operation of either the main fire alarm system or smoke detectors that are located within 1m of either side of the doors.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T065624Z" creationid="LanHK" creationdate="20210602T065624Z">
+        <seg>Where self-closing fire resisting doors are located in areas of heavy use consideration should be given to providing electromagnetic door holders to keep them open during normal operations. The door holders must release allowing the doors to close upon operation of either the main fire alarm system or smoke detectors that are located within 1m of either side of the doors.        /       Trong trường hợp cửa chống cháy bố trí ở khu vực được sử dụng nhiều, cần cân nhắc bố trí giữ cửa điện từ để giữ cửa mở trong giờ vận hành bình thường. Giữ cửa cần nhả để đóng cửa trong trường hợp kích hoạt hoặc hệ thống báo cháy chính hoặc đầu báo khói trong vòng 1m mỗi bên của cửa/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where the electrical supply to the development is provided from the electricity supply authority / company at low voltage, the substation arrangement must be selected and installed in accordance with the supply authority’s requirements and shall be provided from dual incoming supplies as detailed in the activity section of this document.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
