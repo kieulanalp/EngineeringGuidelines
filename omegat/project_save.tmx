@@ -1426,6 +1426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ing and</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T103911Z" creationid="LanHK" creationdate="20210602T103911Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>InterContinental Brand Standard Manual</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T083245Z" creationid="LanHK" creationdate="20210525T083245Z">
@@ -1878,6 +1886,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092731Z">
         <seg>Provide examples of cost effective simple designs that are proven for use. (This does not preclude the designers from putting forward alternatives that are more cost effective or can provide other benefits).    /    Cung cấp ví dụ về các thiết kế đơn giản với mức giá tối ưu đã qua kiểm nghiệm thực tế (Điều này không có nghĩa là thiết kế không thể đưa ra các giải pháp khác tối ưu hơn hoặc đem lại các lợi ích khác)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide sprinklers at top and every alternate or 3rd level -86 0 C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T104406Z" creationid="LanHK" creationdate="20210602T104406Z">
+        <seg>Provide sprinklers at top and every alternate or 3rd level -86°C        /       Bố trí sprinkler trên đỉnh ống và cách tầng hoặc mỗi ba tầng  -86°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -2568,6 +2584,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T013405Z" creationid="LanHK" creationdate="20210602T013203Z">
         <seg>details of the standards/codes to be adopted in the design of these services.        /       Tính đầy đủ của các dịch vụ được thiết kế để phát hiện và chống lan lửa và khói - bao gồm chi tiết về các tiêu chuẩn/quy tắc sẽ được áp dụng khi thiết kế các dịch vụ này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>locking fire resisting dooi at each floor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T103913Z" creationid="LanHK" creationdate="20210602T103913Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
