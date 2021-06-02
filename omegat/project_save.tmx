@@ -1922,6 +1922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Self-closing and locking fire resisting doors at each level, including the terminus of the chute</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T101209Z" creationid="LanHK" creationdate="20210602T101155Z">
+        <seg>Self-closing and locking fire resisting doors at each level, including the terminus of the chute        /       Cửa chống cháy tự đóng và tự khóa trên mỗi tầng, bao gồm cả cửa cuối ống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Signed</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071044Z">
@@ -2264,6 +2272,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>The system shall be directly linked to the hotel’s Property Management System (PMS)    /    Front Office System</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The terminus door held open by a fusible link that will release the door in the event of a fire in the linen room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T101432Z" creationid="LanHK" creationdate="20210602T101432Z">
+        <seg>The terminus door held open by a fusible link that will release the door in the event of a fire in the linen room        /       Cửa cuối cùng được giữ mở bằng mối nối có thể tan chảy, nhằm đóng cửa trong trường hợp có cháy trong phòng giặt là</seg>
       </tuv>
     </tu>
     <tu>
