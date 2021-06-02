@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>120 Minute fire resisting construction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T051540Z" creationid="LanHK" creationdate="20210602T051540Z">
+        <seg>120 Minute fire resisting construction        /       Kết cấu chống cháy 120p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.2.4 TYPICAL GUEST FLOOR FIRE DAMPER REQUIREMENT</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043256Z" creationid="LanHK" creationdate="20210602T043256Z">
@@ -62,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>60 Minute fire resisting construction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T051520Z" creationid="LanHK" creationdate="20210602T051520Z">
+        <seg>60 Minute fire resisting construction        /       Kết cấu chống cháy 60p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60 minutes</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023844Z" creationid="LanHK" creationdate="20210602T023844Z">
         <seg>60 minutes        /       60p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>90 minute fire resisting construction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T051530Z" creationid="LanHK" creationdate="20210602T051530Z">
+        <seg>90 Minute fire resisting construction        /       Kết cấu chống cháy 90p</seg>
       </tuv>
     </tu>
     <tu>
@@ -1036,8 +1060,16 @@
       <tuv lang="EN-US">
         <seg>Greater China &amp; Australasia</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T051359Z" creationid="LanHK" creationdate="20210602T023811Z">
-        <seg>Greater China &amp; Australasia        /       Trung Quốc và châu Đại Tây Dương</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T051449Z" creationid="LanHK" creationdate="20210602T023811Z">
+        <seg>Greater China &amp; Australasia        /       Trung Quốc và châu Đại Dương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greater China, Asia &amp; Australasia</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T051445Z" creationid="LanHK" creationdate="20210602T051445Z">
+        <seg>Greater China, Asia &amp; Australasia        /       Trung Quốc, châu Á &amp; châu Đại Dương</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1118,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T090917Z">
         <seg>Guest room load estimation    /    Ước tính tải phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guestroom doors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T051546Z" creationid="LanHK" creationdate="20210602T051546Z">
+        <seg>Guestroom doors        /       Cửa phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,6 +2272,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210406T012807Z">
         <seg>Windows    /    Cửa sổ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the exception of doors to service riser shafts, which must be kept locked shut and connecting guestroom doors, all other fire resisting doors must be provided with a hydraulic, overhead self-closing device that is callable of closing the door fully and overcoming the latch. Disabled accessible doors must have delayed action self-closing devices that give sufficient time for guests to enter the room before the door automatically closes. For guestroom pipe/duct riser shafts, which are fire stopped vertically and back filled and sealed horizontally between floors, a fire resisting door is not required.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T061234Z" creationid="LanHK" creationdate="20210602T061234Z">
+        <seg>With the exception of doors to service riser shafts, which must be kept locked shut and connecting guestroom doors, all other fire resisting doors must be provided with a hydraulic, overhead self-closing device that is callable of closing the door fully and overcoming the latch. Disabled accessible doors must have delayed action self-closing devices that give sufficient time for guests to enter the room before the door automatically closes. For guestroom pipe/duct riser shafts, which are fire stopped vertically and back filled and sealed horizontally between floors, a fire resisting door is not required        /       Ngoại trừ cửa vào trục ống đứng dịch vụ luôn phải khóa kín và cửa phòng connecting, tát cả các cửa chống cháy khác phải có tay co thủy lực phía trên có thể đóng cửa hoàn toàn và chốt cửa. Cửa phòng khuyết tật phải có chức năng đóng cửa chậm để đảm bảo khách có đủ thời gian vào phòng trước khi cửa tự đóng. Đối với trục đứng ống dẫn/thông khí phòng khách có chống cháy lan theo chiều dọc và được seal kín theo chiều ngang giữa các tầng, không cần có cửa chống cháy</seg>
       </tuv>
     </tu>
     <tu>
