@@ -1530,6 +1530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linen chutes must be located in housekeeping rooms or service areas on the guestroom floors and should not open directly into guestroom corridors. Smoke detection must be provided in the housekeeping rooms.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T103131Z" creationid="LanHK" creationdate="20210602T103131Z">
+        <seg>Linen chutes must be located in housekeeping rooms or service areas on the guestroom floors and should not open directly into guestroom corridors. Smoke detection must be provided in the housekeeping rooms.        /       Ống thả đồ giặt phải được bố trí trong phòng housekeeping hoặc khu dịch vụ trên tầng phòng khách và không được mở trực tiếp ra hành lang phòng khách. Phải có đầu báo khói trong phòng giặt là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load bearing walls</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023113Z" creationid="LanHK" creationdate="20210602T023107Z">
