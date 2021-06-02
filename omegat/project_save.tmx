@@ -954,6 +954,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IHG FIRE AND LIFE SAFETY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T022614Z" creationid="LanHK" creationdate="20210602T022614Z">
+        <seg>IHG FIRE AND LIFE SAFETY        /       TIÊU CHUẨN AN TOÀN PCCC IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INTRODUCTION</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071157Z">
@@ -1519,6 +1527,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080556Z">
         <seg>Stair Pressurization System    /    Hệ thống tăng áp cầu thang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standards - minimum requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210602T022643Z" creationid="LanHK" creationdate="20210602T022643Z">
+        <seg>Standards - minimum requirements        /       Tiêu chẩun - yêu cầu tối thiểu</seg>
       </tuv>
     </tu>
     <tu>
