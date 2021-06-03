@@ -698,8 +698,8 @@
       <tuv lang="EN-US">
         <seg>Doors on escape routes must never be locked to prevent their use in an emergency and key operated locks must not be installed.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T110557Z" creationid="PHUONG.DTM" creationdate="20210603T110557Z">
-        <seg>Doors on escape routes must never be locked to prevent their use in an emergency and key operated locks must not be installed.     /      Các cửa trên lối thoát hiểm không bao giờ được phép đóng, tránh ngăn cản việc sử dụng trong trường hợp khẩn cấn và khóa dạng sử dụng chìa khóa để mở không được phép sử dụng.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T113646Z" creationid="PHUONG.DTM" creationdate="20210603T110557Z">
+        <seg>Doors on escape routes must never be locked to prevent their use in an emergency and key operated locks must not be installed.     /      Các cửa trên lối thoát hiểm không bao giờ được phép đóng, tránh ngăn cản việc sử dụng trong trường hợp khẩn cấp và khóa dạng sử dụng chìa khóa để mở không được phép sử dụng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -879,6 +879,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>Phương dịch
+</note>
       <tuv lang="EN-US">
         <seg>Escape signage</seg>
       </tuv>
@@ -1614,8 +1616,8 @@
       <tuv lang="EN-US">
         <seg>In exceptional circumstances it may be necessary to provide additional security on exit doors and this can be done by providing electromagnetic fastenings. Where electromagnetic fastenings are proposed they must meet the following requirements</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T112203Z" creationid="PHUONG.DTM" creationdate="20210603T112203Z">
-        <seg>In exceptional circumstances it may be necessary to provide additional security on exit doors and this can be done by providing electromagnetic fastenings. Where electromagnetic fastenings are proposed they must meet the following requirements      /      Không các trường hợp ngoại lệ, có thể cần cung cấp bổ sung an ninh trên các cửa thoát hiểm và việc này có thể thực hiện bằng việc cung cấp chốt điện từ . Tại nơi chốt điện từ được đề xuất, phải tuân thủ các yêu cầu sau</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T113816Z" creationid="PHUONG.DTM" creationdate="20210603T112203Z">
+        <seg>In exceptional circumstances it may be necessary to provide additional security on exit doors and this can be done by providing electromagnetic fastenings. Where electromagnetic fastenings are proposed they must meet the following requirements      /      Trong các trường hợp ngoại lệ, có thể cần cung cấp bổ sung an ninh trên các cửa thoát hiểm và việc này có thể thực hiện bằng việc cung cấp chốt điện từ . Tại nơi chốt điện từ được đề xuất, phải tuân thủ các yêu cầu sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -2656,8 +2658,8 @@
       <tuv lang="EN-US">
         <seg>The structure beneath and within 1.8m either side of the stair must be fire resisting</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T104918Z" creationid="PHUONG.DTM" creationdate="20210603T104352Z">
-        <seg>The structure beneath and within 1.8m either side of the stair must be fire resisting     /     Cấu trúc bên dưới và trong phạm vi 1.8m tại mỗi bên cạnh của thang phải được chống cháy </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T113603Z" creationid="PHUONG.DTM" creationdate="20210603T104352Z">
+        <seg>The structure beneath and within 1.8m either side of the stair must be fire resisting     /     Cấu trúc bên dưới và trong phạm vi 1.8m tại mỗi mặt cạnh của thang phải được chống cháy </seg>
       </tuv>
     </tu>
     <tu>
@@ -2832,8 +2834,8 @@
       <tuv lang="EN-US">
         <seg>Where doors on escape routes are required to be secured, for example final exit doors to the outside of the building, guests and visitors must be able to easily pass through the doors in an emergency and panic fastenings must be used.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T111649Z" creationid="PHUONG.DTM" creationdate="20210603T111649Z">
-        <seg>Where doors on escape routes are required to be secured, for example final exit doors to the outside of the building, guests and visitors must be able to easily pass through the doors in an emergency and panic fastenings must be used.     /      Tại nơi cửa trên lối thoát nạn được yêu cầu phải đảm bảo an toàn, ví dụ cửa thoát nạn cuối ra bên ngoài của tòa nhà, khách phải dễ dàng di chuyển được qua các cửa trong trường hợp khẩn cấp và phải có thanh đầy cửa.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T113700Z" creationid="PHUONG.DTM" creationdate="20210603T111649Z">
+        <seg>Where doors on escape routes are required to be secured, for example final exit doors to the outside of the building, guests and visitors must be able to easily pass through the doors in an emergency and panic fastenings must be used.     /      Tại nơi cửa trên lối thoát nạn được yêu cầu phải đảm bảo an toàn, ví dụ cửa thoát nạn cuối ra bên ngoài của tòa nhà, khách phải dễ dàng di chuyển được qua các cửa trong trường hợp khẩn cấp và phải có thanh đẩy cửa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2856,8 +2858,8 @@
       <tuv lang="EN-US">
         <seg>Where external fire escapes are proposed the following safeguards must be put in place:</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T104222Z" creationid="PHUONG.DTM" creationdate="20210603T104222Z">
-        <seg>Where external fire escapes are proposed the following safeguards must be put in place:      /      Tại nơi thoát nạn ra ngoài được đề xuất, các biện pháp an toàn dưới đây phải được thực hiện tại địa điểm:</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T113452Z" creationid="PHUONG.DTM" creationdate="20210603T104222Z">
+        <seg>Where external fire escapes are proposed the following safeguards must be put in place:      /      Tại nơi thoát hiểm ra ngoài được đề xuất, các biện pháp an toàn dưới đây phải được thực hiện tại địa điểm:</seg>
       </tuv>
     </tu>
     <tu>
