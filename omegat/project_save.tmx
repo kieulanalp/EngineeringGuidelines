@@ -680,6 +680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each floor must have a minimum of two emergency exits remote from each other.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T014840Z" creationid="LanHK" creationdate="20210603T014840Z">
+        <seg>Each floor must have a minimum of two emergency exits remote from each other.        /       Mỗi tầng phải có tối thiểu hai lối thoát hiểm cách xa nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each primary controller shall include an internal 365-day clock / calendar with the possibility to operat autonomously or in master / slave configuration. More than one master / slave group may reside on the same bus network.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -2376,6 +2384,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T012514Z" creationid="LanHK" creationdate="20210602T012514Z">
         <seg>The life safety systems for the hotel include the “passive” as well as “active” design features, which must be designed as a coordinated total fire safety solution.        /       Hệ thống PCCC cho khách sạn bao gồm các tính năng "bị động" cũng như "chủ động", cả hai đều phải được thiết kế như một giải pháp PCCC phối hợp toàn diện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum distance to reach an emergency exit on a guestroom floor must be no more than 30m or 60m in a sprinkler protected building.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T015028Z" creationid="LanHK" creationdate="20210603T015028Z">
+        <seg>The maximum distance to reach an emergency exit on a guestroom floor must be no more than 30m or 60m in a sprinkler protected building.        /       Khoảng cách tối đa để tới một lối thoát hiểm trên tầng phòng khách không được vượt quá 30m hoặc 60m trong tòa nhà có sprinkler</seg>
       </tuv>
     </tu>
     <tu>
