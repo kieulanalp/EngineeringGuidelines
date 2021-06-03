@@ -2773,6 +2773,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where doors on escape routes are required to be secured, for example final exit doors to the outside of the building, guests and visitors must be able to easily pass through the doors in an emergency and panic fastenings must be used.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T111649Z" creationid="PHUONG.DTM" creationdate="20210603T111649Z">
+        <seg>Where doors on escape routes are required to be secured, for example final exit doors to the outside of the building, guests and visitors must be able to easily pass through the doors in an emergency and panic fastenings must be used.     /      Tại nơi cửa trên lối thoát nạn được yêu cầu phải đảm bảo an toàn, ví dụ cửa thoát nạn cuối ra bên ngoài của tòa nhà, khách phải dễ dàng di chuyển được qua các cửa trong trường hợp khẩn cấp và phải có thanh đầy cửa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where double doors have rebates (overlap) at the join, door selectors must be provided to ensure the doors close in the correct order.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T063748Z" creationid="LanHK" creationdate="20210602T063746Z">
