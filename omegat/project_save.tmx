@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of two escape stairs must be provided from all above and below ground areas of the hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T015632Z" creationid="LanHK" creationdate="20210603T015632Z">
+        <seg>A minimum of two escape stairs must be provided from all above and below ground areas of the hotel.        /       Phải có tối thiểu hai thang bộ từ tất cả các khu vực trên và dưới mức mặt đất của khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A vent at roof level</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T102954Z" creationid="LanHK" creationdate="20210602T102954Z">
@@ -1250,6 +1258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General Requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T015311Z" creationid="LanHK" creationdate="20210603T015311Z">
+        <seg>General Requirements        /       Yêu cầu chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Greater China &amp; Australasia</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T051449Z" creationid="LanHK" creationdate="20210602T023811Z">
@@ -1940,8 +1956,8 @@
       <tuv lang="EN-US">
         <seg>Primary corridors 1.3m</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210603T015251Z" creationid="LanHK" creationdate="20210603T015251Z">
-        <seg>Primary corridors 1.3m        /       hành lang chính</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T015254Z" creationid="LanHK" creationdate="20210603T015251Z">
+        <seg>Primary corridors 1.3m        /       hành lang chính 1.3m</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2118,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T054013Z">
         <seg>SIP - Sub Indicator Panel (also known as Repeater or Sub Alarm Panel)    /    Repeater hay Tủ báo cháy phụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secondary corridors 1.1m</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T015301Z" creationid="LanHK" creationdate="20210603T015301Z">
+        <seg>Secondary corridors 1.1m        /       hành lang phụ 1.1m</seg>
       </tuv>
     </tu>
     <tu>
