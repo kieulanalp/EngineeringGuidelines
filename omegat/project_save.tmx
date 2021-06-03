@@ -1602,6 +1602,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended that exits from the ground floor are not via the escape stair enclosure. Where this is unavoidable the final exit must be of sufficient width for the likely number of people using the stair and those escaping from the ground floor.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T023249Z" creationid="LanHK" creationdate="20210603T023249Z">
+        <seg>It is recommended that exits from the ground floor are not via the escape stair enclosure. Where this is unavoidable the final exit must be of sufficient width for the likely number of people using the stair and those escaping from the ground floor.        /       Khuyến nghị các lối thoát từ tầng mặt đất không thông qua thang bộ thoát hiểm khép kín. Nếu không thể tránh được, cửa thoát hiểm cuối cùng phải đủ rộng cho tổng số người sử dụng cầu thang và số người thoát hiểm từ tầng mặt đất dự kiến</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is very important that the openings around pipes and ducts are sealed with solid fire resisting material to maintain the fire resistance of the wall or floor. Suitable materials include concrete, gypsum and expanding fire resistant foam.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T042931Z" creationid="LanHK" creationdate="20210602T042931Z">
