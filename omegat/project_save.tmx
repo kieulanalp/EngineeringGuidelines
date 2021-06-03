@@ -687,6 +687,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>k,bkjhk</note>
+      <tuv lang="EN-US">
+        <seg>Doors within this area and those opening onto the stair, other than from guestrooms corridors, must be fire</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T104418Z" creationid="PHUONG.DTM" creationdate="20210603T104418Z">
+        <seg>Doors within this area and those opening onto the stair, other than from guestrooms corridors, must be fire </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Drainage</seg>
       </tuv>
@@ -2552,6 +2561,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023134Z" creationid="LanHK" creationdate="20210602T023134Z">
         <seg>The structural frame of a building        /       Khung kết cấu của tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The structure beneath and within 1.8m either side of the stair must be fire resisting</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T104352Z" creationid="PHUONG.DTM" creationdate="20210603T104352Z">
+        <seg>The structure beneath and within 1.8m either side of the stair must be fire resisting     /     Cấu trúc bên dưới và trong phạm vi 1.8m tại mỗi bên cạnh của thang phải được chống cháy</seg>
       </tuv>
     </tu>
     <tu>
