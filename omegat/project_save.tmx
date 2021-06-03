@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>90 Minutes fire resisting structure</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T012756Z" creationid="LanHK" creationdate="20210603T012756Z">
+        <seg>90 Minutes fire resisting structure        /       Kết cấu chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90 minute fire resisting construction</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T051530Z" creationid="LanHK" creationdate="20210602T051530Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091721Z">
         <seg>All air Systems    /    Tất cả các hệ thống khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All areas of the hotel must be provided with sufficient means of escape to allow guests, visitors and staff to safely leave the building in the event of emergency. Means of escape must comply with the following principles:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T012918Z" creationid="LanHK" creationdate="20210603T012918Z">
+        <seg>All areas of the hotel must be provided with sufficient means of escape to allow guests, visitors and staff to safely leave the building in the event of emergency. Means of escape must comply with the following principles:        /       Tất cả các khu vực của khách sạn phải có đủ phương thức thoát hiểm để cho phép khách, người đến thăm và nhân viên rời khỏi tòa nhà an toàn trong trường hợp xảy ra sự cố. Phương thức thoát hiểm phải tuân thủ các nguyên tắc sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +386,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Calculations and    /    or smoke modeling of the system must be provided to IHG for approval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Car Parking Garage</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T012731Z" creationid="LanHK" creationdate="20210603T012731Z">
+        <seg>Car Parking Garage    /    Gara để xe</seg>
       </tuv>
     </tu>
     <tu>
@@ -708,6 +732,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T070624Z" creationid="LanHK" creationdate="20210602T070624Z">
         <seg>Elevator        /       thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevator anti stair lobby</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T012816Z" creationid="LanHK" creationdate="20210603T012816Z">
+        <seg>Elevator and stair lobby        /       Sảnh thang máy và thang bộ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,6 +2448,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T101432Z" creationid="LanHK" creationdate="20210602T101432Z">
         <seg>The terminus door held open by a fusible link that will release the door in the event of a fire in the linen room        /       Cửa cuối cùng được giữ mở bằng mối nối có thể tan chảy, nhằm đóng cửa trong trường hợp có cháy trong phòng giặt là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There must be at least two means of escape from all areas so that if one is destructed by fire an alternative</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210603T012926Z" creationid="LanHK" creationdate="20210603T012926Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
