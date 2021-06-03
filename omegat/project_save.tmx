@@ -687,12 +687,11 @@
       </tuv>
     </tu>
     <tu>
-      <note>k,bkjhk</note>
       <tuv lang="EN-US">
         <seg>Doors within this area and those opening onto the stair, other than from guestrooms corridors, must be fire</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T104418Z" creationid="PHUONG.DTM" creationdate="20210603T104418Z">
-        <seg>Doors within this area and those opening onto the stair, other than from guestrooms corridors, must be fire </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T105145Z" creationid="PHUONG.DTM" creationdate="20210603T104418Z">
+        <seg>Doors within this area and those opening onto the stair, other than from guestrooms corridors, must be fire      /      Cửa trong khu vực này và các không gian mở vào thang bộ, khác ngoài từ hành lang phòng khách, phải là cửa chống cháy và có cơ chế tự đóng </seg>
       </tuv>
     </tu>
     <tu>
@@ -904,6 +903,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>c P dịch mục này</note>
       <tuv lang="EN-US">
         <seg>External Means of Escape</seg>
       </tuv>
@@ -2567,8 +2567,8 @@
       <tuv lang="EN-US">
         <seg>The structure beneath and within 1.8m either side of the stair must be fire resisting</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T104352Z" creationid="PHUONG.DTM" creationdate="20210603T104352Z">
-        <seg>The structure beneath and within 1.8m either side of the stair must be fire resisting     /     Cấu trúc bên dưới và trong phạm vi 1.8m tại mỗi bên cạnh của thang phải được chống cháy</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T104918Z" creationid="PHUONG.DTM" creationdate="20210603T104352Z">
+        <seg>The structure beneath and within 1.8m either side of the stair must be fire resisting     /     Cấu trúc bên dưới và trong phạm vi 1.8m tại mỗi bên cạnh của thang phải được chống cháy </seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,6 +2881,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T013152Z" creationid="LanHK" creationdate="20210602T013152Z">
         <seg>of occupants, identification of fire compartmentation, fire doors and shutters.        /       Các yếu tố kiến trúc chống cháy lan, chống khói lan, bao gồm cả việc cung cấp lối thoát cho người trong tòa nhà, xác định khoang ngăn cháy lan, cửa ra vào và cửa cuốn chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>resisting and self-closing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T104813Z" creationid="PHUONG.DTM" creationdate="20210603T104813Z">
+        <seg> resisting and self-closing</seg>
       </tuv>
     </tu>
     <tu>
