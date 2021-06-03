@@ -2,3 +2,4 @@ Fire Safety	PCCC
 Sprinkler	Sprinkler
 Brand Standards	bộ Tiêu chuẩn Thương hiệu
 Means of Escape	Lối thoát hiểm
+sprinkler protected building	tòa nhà có sprinkler	Guestroom dead-end corridors must not exceed 8m or 15m in a sprinkler protected building
