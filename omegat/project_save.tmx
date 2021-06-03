@@ -1594,6 +1594,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>electromagnetic fastenings - chốt điện từ???</note>
+      <tuv lang="EN-US">
+        <seg>In exceptional circumstances it may be necessary to provide additional security on exit doors and this can be done by providing electromagnetic fastenings. Where electromagnetic fastenings are proposed they must meet the following requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T112203Z" creationid="PHUONG.DTM" creationdate="20210603T112203Z">
+        <seg>In exceptional circumstances it may be necessary to provide additional security on exit doors and this can be done by providing electromagnetic fastenings. Where electromagnetic fastenings are proposed they must meet the following requirements      /      Không các trường hợp ngoại lệ, có thể cần cung cấp bổ sung an ninh trên các cửa thoát hiểm và việc này có thể thực hiện bằng việc cung cấp chốt điện từ . Tại nơi chốt điện từ được đề xuất, phải tuân thủ các yêu cầu sau</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>In general the occupancy of an assembly room should be based upon a figure of 1m2 / person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.</seg>
       </tuv>
