@@ -342,6 +342,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be at least 760 x 1200mm in size</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104536Z" creationid="PHUONG.DTM" creationdate="20210604T104536Z">
+        <seg>Be at least 760 x 1200mm in size        /         Tối thiểu kích thước 760 x 1200mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be located so that they do not obstruct escape routes for other guests</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104717Z" creationid="PHUONG.DTM" creationdate="20210604T104717Z">
+        <seg>Be located so that they do not obstruct escape routes for other guests        /         Được đặt tại vị trí không cản trở đường thoát hiểm của khách khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be provided with mechanical or natural smoke and carbon monoxide ventilation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T105054Z" creationid="LanHK" creationdate="20210602T105040Z">
@@ -1493,6 +1509,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have direct access to a final exit from the building</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104648Z" creationid="PHUONG.DTM" creationdate="20210604T104648Z">
+        <seg>Have direct access to a final exit from the building        /         Có tiếp cận trực tiếp tới lối thoát hiểm cuối ra ngoài tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have direct two-way communication with a continuously staffed position such as reception with</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110433Z" creationid="PHUONG.DTM" creationdate="20210604T110433Z">
+        <seg>Have direct two-way communication with a continuously staffed position such as reception with        /         Có kết nối 2 chiều trực tiếp với vị trí luôn có nhân viên trực ví dụ sảnh lễ tân với hướng dẫn bằng các nào để sử dụng kết nối.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Health &amp; Safety</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081215Z">
@@ -2226,6 +2258,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092731Z">
         <seg>Provide examples of cost effective simple designs that are proven for use. (This does not preclude the designers from putting forward alternatives that are more cost effective or can provide other benefits).    /    Cung cấp ví dụ về các thiết kế đơn giản với mức giá tối ưu đã qua kiểm nghiệm thực tế (Điều này không có nghĩa là thiết kế không thể đưa ra các giải pháp khác tối ưu hơn hoặc đem lại các lợi ích khác)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide protection from fire, for example, by being located in a protected stair</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104611Z" creationid="PHUONG.DTM" creationdate="20210604T104611Z">
+        <seg>Provide protection from fire, for example, by being located in a protected stair        /          Cung cấp bảo vệ chống cháy, ví dụ, bố trí tại một thang bộ chống cháy</seg>
       </tuv>
     </tu>
     <tu>
