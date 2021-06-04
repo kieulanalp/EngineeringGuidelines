@@ -2992,8 +2992,8 @@
       <tuv lang="EN-US">
         <seg>Where text is provided it must be in the local language and English</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T044918Z" creationid="PHUONG.DTM" creationdate="20210604T044918Z">
-        <seg>Where text is provided it must be in the local language and English        /       Tại nơi có cung cấp phần chữ thì phải bằng ngôn ngữ địa phương và tiếng Anh</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T044928Z" creationid="PHUONG.DTM" creationdate="20210604T044918Z">
+        <seg>Where text is provided it must be in the local language and English        /       Tại nơi có cung cấp phần chữ thì phải bằng ngôn ngữ địa phương và tiếng Anh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3118,10 +3118,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>notice must be secured to the inside of the door at a height where it can be easily read</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T045213Z" creationid="PHUONG.DTM" creationdate="20210604T045213Z">
+        <seg>notice must be secured to the inside of the door at a height where it can be easily read        /        Thông báo phải được bảo đẩm bên trong cửa tại cao độ có thể dễ đọc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of occupants, identification of fire compartmentation, fire doors and shutters.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T013152Z" creationid="LanHK" creationdate="20210602T013152Z">
         <seg>of occupants, identification of fire compartmentation, fire doors and shutters.        /       Các yếu tố kiến trúc chống cháy lan, chống khói lan, bao gồm cả việc cung cấp lối thoát cho người trong tòa nhà, xác định khoang ngăn cháy lan, cửa ra vào và cửa cuốn chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>plan must be oriented so that it shows the layout of the floor from the guest or meeting room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T045114Z" creationid="PHUONG.DTM" creationdate="20210604T045009Z">
+        <seg>plan must be oriented so that it shows the layout of the floor from the guest or meeting room        /       Sơ đồ phải được định hướng để thể hiện mặt bằng tầng từ vị thế của khách hoặc phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>plan must show the direction to the primary and secondary escape routes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T045014Z" creationid="PHUONG.DTM" creationdate="20210604T044923Z">
+        <seg>plan must show the direction to the primary and secondary escape routes        /        Sơ đồ phải thể hiện được hướng tới đường thoát hiểm ban đầu và thứ hai.</seg>
       </tuv>
     </tu>
     <tu>
