@@ -2310,6 +2310,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Signs above doors must be between 2m and 2.5m above the</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T043120Z" creationid="PHUONG.DTM" creationdate="20210604T043120Z">
+        <seg>Signs above doors must be between 2m and 2.5m above the      /       Các biển phía trên cửa phải ở cao độ giữa 2m~2.5m phía trên sàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signs indicating escape routes must have a directional arrow</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042935Z" creationid="PHUONG.DTM" creationdate="20210604T042935Z">
+        <seg>Signs indicating escape routes must have a directional arrow      /      Các biển chỉ hướng thoát nạn phải có mũi tên chỉ hướng, tuy nhiên không sử dụng chỉ riêng mũi tên. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke Control</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T040433Z" creationid="LanHK" creationdate="20210505T040433Z">
@@ -2778,6 +2794,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042524Z" creationid="PHUONG.DTM" creationdate="20210604T042524Z">
         <seg>They must be clear and easily understood       /       Phải rõ ràng và dễ hiểu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They must be fixed above doors and not to them so that they</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T043026Z" creationid="PHUONG.DTM" creationdate="20210604T043026Z">
+        <seg>They must be fixed above doors and not to them so that they       /       Biển phải cố định phía trên cửa, không phải tại cửa để nhìn thấy được biển nếu cửa mở</seg>
       </tuv>
     </tu>
     <tu>
