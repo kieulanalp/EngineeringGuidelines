@@ -533,6 +533,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Communication with continuously staffed position</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110936Z" creationid="PHUONG.DTM" creationdate="20210604T110936Z">
+        <seg>Communication with continuously staffed position        /         Kết nối tới vị trí luôn có nhân viên trực</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>trong mục của nó có giải thích, cần đi hỏi</note>
       <tuv lang="EN-US">
         <seg>Condenser Water Circuits</seg>
@@ -3050,6 +3058,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081239Z">
         <seg>Water    /    Nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wheelchair space</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110905Z" creationid="PHUONG.DTM" creationdate="20210604T110905Z">
+        <seg>Wheelchair space        /         Không gian cho xe lăn </seg>
       </tuv>
     </tu>
     <tu>
