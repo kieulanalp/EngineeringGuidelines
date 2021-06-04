@@ -2495,6 +2495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Space occupied by flow of people escaping</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110853Z" creationid="PHUONG.DTM" creationdate="20210604T110853Z">
+        <seg>Space occupied by flow of people escaping        /         Không gian chiếm bởi dòng người thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specialists in fire engineering, fire alarm and emergency lighting design installation provide technical assistance.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T021801Z" creationid="LanHK" creationdate="20210602T021801Z">
