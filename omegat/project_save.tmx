@@ -892,16 +892,16 @@
       <tuv lang="EN-US">
         <seg>Escape signage must be used to help people identify exits and exit routes. This is of particular importance for guests and visitors who are unfamiliar with the layout of the building.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042434Z" creationid="PHUONG.DTM" creationdate="20210604T042434Z">
-        <seg>Escape signage must be used to help people identify exits and exit routes. This is of particular importance for guests and visitors who are unfamiliar with the layout of the building. / Biển báo thoát hiểm phải được sử dụng để giúp con người xác định lối thoát hiểm và đường thoát hiểm. Việc này là vô cùng quan trọng cho khách và người tham quan khi không quen thuộc với mặt bằng tòa nhà. </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042548Z" creationid="PHUONG.DTM" creationdate="20210604T042434Z">
+        <seg>Escape signage must be used to help people identify exits and exit routes. This is of particular importance for guests and visitors who are unfamiliar with the layout of the building.       /       Biển báo thoát hiểm phải được sử dụng để giúp con người xác định lối thoát hiểm và đường thoát hiểm. Việc này là vô cùng quan trọng cho khách và người tham quan khi không quen thuộc với mặt bằng tòa nhà. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Escape signs must meet the following requirements:</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042454Z" creationid="PHUONG.DTM" creationdate="20210604T042454Z">
-        <seg>Escape signs must meet the following requirements: / Biển báo thoát nạn phải tuân thủ theo các yêu cầu sau:</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042531Z" creationid="PHUONG.DTM" creationdate="20210604T042454Z">
+        <seg>Escape signs must meet the following requirements:       /       Biển báo thoát nạn phải tuân thủ theo các yêu cầu sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2503,6 +2503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text may be used in addition to the pictogram but not on its own</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042823Z" creationid="PHUONG.DTM" creationdate="20210604T042823Z">
+        <seg>Text may be used in addition to the pictogram but not on its own      /      Phần chữ có thể sử dụng bên cạnh phần biểu tượng nhưng không được phép chỉ có phần chữ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The above requirements apply to exit doors that are also staff entrances and which are secured by fastenings operated by key-cards, key pads and by similar devices.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T113001Z" creationid="PHUONG.DTM" creationdate="20210603T113001Z">
@@ -2762,6 +2770,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092532Z">
         <seg>These Engineering and Brand Safety Design Standards have been prepared to enable designers and specifiers of the mechanical, electrical and public health (MEP) services to understand the priorities and requirements of the IHG brand. The standards are not intended to provide inflexible prescriptive requirements but rather form a strategic framework of value, good practice, innovation energy efficiency and longevity from which the designers and specifiers can work. In summary the Brand Standards have been prepared in order to:    /    Bộ tiêu chuẩn Thiết kế Kỹ thuật và An toàn Thương hiệu này được soạn thảo nhằm hỗ trợ thiết kế và các chuyên gia MEP hiểu được các ưu tiên và yêu cầu của thương hiệu IHG. Bộ tiêu chuẩn này không nhằm mục đích cung cấp các yêu cầu không linh hoạt, mà nhằm tạo ra một khung chiến lược bao gồm các giá trị, tiêu chuẩn hành nghề thực tiễn, các phát kiến về tối ưu hóa và đảm bảo năng lượng, từ đó giúp thiết kế và chuyên gia làm việc. Tóm lại, bộ Tiêu chuẩn Thương hiệu được soạn thảo nhằm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They must be clear and easily understood</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042524Z" creationid="PHUONG.DTM" creationdate="20210604T042524Z">
+        <seg>They must be clear and easily understood       /       Phải rõ ràng và dễ hiểu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They must include a pictogram ("running man") to overcome language problems (or symbol universally</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042734Z" creationid="PHUONG.DTM" creationdate="20210604T042734Z">
+        <seg>They must include a pictogram ("running man") to overcome language problems (or symbol universally      /       Phải bao gồm một biểu tượng người chạy thoát hiểm để tránh vấn đề ngôn ngữ (hoặc biểu tượng quốc tế được công nhận) </seg>
       </tuv>
     </tu>
     <tu>
