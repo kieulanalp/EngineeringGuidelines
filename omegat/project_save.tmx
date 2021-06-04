@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Issues that must be addressed at the design stage include:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T102118Z" creationid="PHUONG.DTM" creationdate="20210604T102118Z">
+        <seg>Issues that must be addressed at the design stage include:        /         Các vấn đề phải được lưu ý trong thiết kế bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended that exits from the ground floor are not via the escape stair enclosure. Where this is unavoidable the final exit must be of sufficient width for the likely number of people using the stair and those escaping from the ground floor.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T023249Z" creationid="LanHK" creationdate="20210603T023249Z">
@@ -2688,6 +2696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The location of disabled guestrooms - evacuation of disabled guests from ground floor guestrooms will be</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104052Z" creationid="PHUONG.DTM" creationdate="20210604T104052Z">
+        <seg>The location of disabled guestrooms - evacuation of disabled guests from ground floor guestrooms will be         /         Vị trí của các phòng người khuyết tật - sơ tán khách là người khuyết tật từ phòng khách tầng mặt đất sẽ dễ dàng hơn nhiều so với ở các tầng cao. Nếu không có tầng phòng khách tại tầng mặt đất, các phòng cho người khuyết tật cần bố trí gần với thang bộ thoát hiểm và thang máy phòng cháy. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum distance to reach an emergency exit on a guestroom floor must be no more than 30m or 60m in a sprinkler protected building.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T015028Z" creationid="LanHK" creationdate="20210603T015028Z">
@@ -2724,6 +2740,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T044847Z" creationid="PHUONG.DTM" creationdate="20210604T044847Z">
         <seg>The notice should be as graphical as possible so that it can be understood by the widest number of people        /       Thông báo càng bằng hình ảnh càng tốt để hiểu được bởi số đông, không bị cản trở bởi ngôn ngữ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of disabled guestrooms - this must depend upon the number of staff available at all times to</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T102230Z" creationid="PHUONG.DTM" creationdate="20210604T102230Z">
+        <seg>The number of disabled guestrooms - this must depend upon the number of staff available at all times to         /        Số lượng phòng người khuyết tật - việc này phải phụ thuộc số lượng nhân viên trực tại mọi thời điểm để cung cấp các mức độ hỗ trợ cần thiết cho khách khuyết tât.</seg>
       </tuv>
     </tu>
     <tu>
