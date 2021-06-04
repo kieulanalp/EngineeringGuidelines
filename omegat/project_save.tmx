@@ -890,6 +890,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Escape signage must be used to help people identify exits and exit routes. This is of particular importance for guests and visitors who are unfamiliar with the layout of the building.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042434Z" creationid="PHUONG.DTM" creationdate="20210604T042434Z">
+        <seg>Escape signage must be used to help people identify exits and exit routes. This is of particular importance for guests and visitors who are unfamiliar with the layout of the building. / Biển báo thoát hiểm phải được sử dụng để giúp con người xác định lối thoát hiểm và đường thoát hiểm. Việc này là vô cùng quan trọng cho khách và người tham quan khi không quen thuộc với mặt bằng tòa nhà. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escape signs must meet the following requirements:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042454Z" creationid="PHUONG.DTM" creationdate="20210604T042454Z">
+        <seg>Escape signs must meet the following requirements: / Biển báo thoát nạn phải tuân thủ theo các yêu cầu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Escape stairs must be remote from each other as described in the sub section Horizontal Means of Escape above.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T020245Z" creationid="LanHK" creationdate="20210603T015816Z">
