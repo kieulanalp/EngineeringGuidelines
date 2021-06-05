@@ -737,6 +737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Door to the lift</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T034532Z" creationid="PHUONG.DTM" creationdate="20210605T034532Z">
+        <seg>Door to the lift         /         Cửa tới thang chống cháy tối thiểu 2 giờ. Toàn bộ các điều khiển thang, cả bên trong và tại tầng kết thúc phải có cao độ không thấp hơn 900mm và không cao hơn 1200mm ở khoảng cách 400mm từ tường trước mặt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Doors and door frames in fire resisting walls including those to stairs, linen chutes, service riser shafts and elevator landing doors must be fire resisting. The minimum fire resistance is detailed in the table below:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T050347Z" creationid="LanHK" creationdate="20210602T050347Z">
