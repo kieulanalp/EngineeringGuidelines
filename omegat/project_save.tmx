@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This switch should cause the lift to return to the exit level and then become controllable</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T024445Z" creationid="PHUONG.DTM" creationdate="20210605T024445Z">
+        <seg>This switch should cause the lift to return to the exit level and then become controllable        /         Công tắc này cần khiến thang về tầng thoát nạn và kiểm soát được.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To improve their ability to prevent the passage of smoke and heat fire resisting doors must also be fitted with smoke seals along both sides and the top. The gap between the door and threshold must be provided with a flexible edge seal that just contacts the floor without excessive friction and where this is not practical the gap must not be in excess of 3mm.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T062110Z" creationid="LanHK" creationdate="20210602T062110Z">
