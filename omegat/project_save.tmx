@@ -280,8 +280,8 @@
       <tuv lang="EN-US">
         <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft. -</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T030623Z" creationid="PHUONG.DTM" creationdate="20210605T030623Z">
-        <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft.        /         Bất kỳ tủ điện phụ nào, bảng điện, máy phát, bơm thủy lực hay các thiết bị khác phải được bảo vệ chống cháy trong </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T030810Z" creationid="PHUONG.DTM" creationdate="20210605T030623Z">
+        <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft.        /         Bất kỳ tủ điện phụ nào, bảng điện, máy phát, bơm thủy lực hay các thiết bị khác phải được bảo vệ chống cháy trong thời gian trong ít hơn trục thang máy. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2821,6 +2821,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T020228Z" creationid="PHUONG.DTM" creationdate="20210605T020228Z">
         <seg>The lift must be located within a protected enclosure        /         Thang phải được bố trí trong một khu vực kín được bảo vệ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lift should</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T034312Z" creationid="PHUONG.DTM" creationdate="20210605T034312Z">
+        <seg>The lift should        /         Thang máy cần có tối thiểu tải trọng 400kg. Cần có một cửa với độ mở thông thủy tối thiểu 800mm.  </seg>
       </tuv>
     </tu>
     <tu>
