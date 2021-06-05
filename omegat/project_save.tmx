@@ -278,6 +278,23 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft. -</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T030623Z" creationid="PHUONG.DTM" creationdate="20210605T030623Z">
+        <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft.        /         Bất kỳ tủ điện phụ nào, bảng điện, máy phát, bơm thủy lực hay các thiết bị khác phải được bảo vệ chống cháy trong </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Any power switches or isolators???</note>
+      <tuv lang="EN-US">
+        <seg>Any power switches or isolators must be clearly identified and labels must be provided at the main switchboard and at the alternative power supply indicating the location of the other supply</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T030322Z" creationid="PHUONG.DTM" creationdate="20210605T030322Z">
+        <seg>Any power switches or isolators must be clearly identified and labels must be provided at the main switchboard and at the alternative power supply indicating the location of the other supply       /         Bất kỳ công tắc điện hay isolator nào phải được nhận dạng rõ ràng và được gắn nhãn trên tủ điện chính và nguồn điện thay thế thể rõ vị trí thay thế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As an alternative to a conventional public address / voice alarm system a voice-enhanced sounder system that broadcasts a voice alarm message through the detector sounder base may be used and this system is likely to be considerably less expensive. It must be noted, however, that in public areas the system may need to be enhanced by additional sounders to ensure the intelligibility of the message. This is illustrated as follows:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -2707,6 +2724,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T012916Z" creationid="LanHK" creationdate="20210602T012916Z">
         <seg>The anticipated risk of a fire and its severity.        /       Nguy cơ hỏa hoạn dự đoán và mức độ nghiêm trọng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T025912Z" creationid="PHUONG.DTM" creationdate="20210605T025912Z">
+        <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply        /         Cáp truyền tải nguồn điện thay thế phải độc lập khỏi nguồn chính và đi dây trong không gian có khả năng cháy thấp.</seg>
       </tuv>
     </tu>
     <tu>
