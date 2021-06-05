@@ -2784,6 +2784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lift should be provided with a switch marked "EVACUATION LIFT" at exit level</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T023819Z" creationid="PHUONG.DTM" creationdate="20210605T023819Z">
+        <seg>The lift should be provided with a switch marked "EVACUATION LIFT" at exit level        /         Thang máy phải có một công tắc ghi chú "THANG SƠ TÁN" tại tầng thoát nạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The location of disabled guestrooms - evacuation of disabled guests from ground floor guestrooms will be</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104052Z" creationid="PHUONG.DTM" creationdate="20210604T104052Z">
