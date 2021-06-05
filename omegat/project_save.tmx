@@ -232,8 +232,16 @@
       <tuv lang="EN-US">
         <seg>All controls must also have suitable tactile indication on or adjacent to the buttons</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T034642Z" creationid="PHUONG.DTM" creationdate="20210605T034642Z">
-        <seg>All controls must also have suitable tactile indication on or adjacent to the buttons        /         Tất cả các điều khiển phải có chỉ dẫn xúc giác hoặc cạnh các nút </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T034718Z" creationid="PHUONG.DTM" creationdate="20210605T034642Z">
+        <seg>All controls must also have suitable tactile indication on or adjacent to the buttons        /         Tất cả nút điều khiển phải có chỉ dẫn xúc giác hoặc cạnh các nút bấm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All lifts should incorporate a signalling system that provides visual notification the lift is answering and if the lift serves more than 3 storeys then a visual and audible system should be provided</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T034946Z" creationid="PHUONG.DTM" creationdate="20210605T034946Z">
+        <seg>All lifts should incorporate a signalling system that provides visual notification the lift is answering and if the lift serves more than 3 storeys then a visual and audible system should be provided        /         Tất cả các thang cần kết hợp hệ thống tín hiệu để cung cấp thông báo trực quan rằng thang đang phản hồi và nếu thang phục vụ nhiều hơn 3 tầng thì hệ thống nghe nhìn phải được cung cấp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -781,6 +789,15 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T110744Z" creationid="PHUONG.DTM" creationdate="20210603T110744Z">
         <seg>Doors onto escape stairs must be operable in both directions to prevent people being trapped in a stair and to allow guests who do not wish to use lifts to pass between floors. This does not apply to doors onto external escape stairs.     /       Các cửa vào thang thoát hiểm phải mở được cả hai chiều để tránh người bị bẫy trong một thang và để cho phép khách không muốn dùng thang máy có thể di chuyển giữa các tầng. Việc này không áp dụng đối với cửa thang thoát nạn ra bên ngoài.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>a door edge pressure system???	</note>
+      <tuv lang="EN-US">
+        <seg>Doors to the lift should stay in the full opening position for 5 seconds before closing. The system may</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041031Z" creationid="PHUONG.DTM" creationdate="20210605T041031Z">
+        <seg>Doors to the lift should stay in the full opening position for 5 seconds before closing. The system may         /         Cửa thang phải ở trạng thái mở hoàn toàn trong vòng 5 giây trước khi đóng. Hệ thống có thể được ghi đè và mở lại bằng thiết bị điện tử phù hợp, tuy nhiên không phải là hệ thống áp suất cạnh cửa </seg>
       </tuv>
     </tu>
     <tu>
