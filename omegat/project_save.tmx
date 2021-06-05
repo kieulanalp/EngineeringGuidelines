@@ -970,6 +970,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evacuation lifts - these are lifts that are specifically designed for the evacuation of disabled guests and are</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T015721Z" creationid="PHUONG.DTM" creationdate="20210605T015721Z">
+        <seg>Evacuation lifts - these are lifts that are specifically designed for the evacuation of disabled guests and are        /         Thang sơ tán - các thang được thiết kế cụ thể cho mục đích thoát nạn của người khuyết tật và được cung cấp mức độ an toàn bổ sung để đảm bảo thang là an toàn sử dụng trong trường hợp cháy. Các thang sơ tán cũng đồng thời là thang phòng cháy. Thang sơ tán phải tuân thủ theo các yêu cầu sau" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Executive Corridor</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043416Z" creationid="LanHK" creationdate="20210602T043416Z">
