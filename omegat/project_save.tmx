@@ -3010,6 +3010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ramp must be made of non-combustible materials</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T045808Z" creationid="PHUONG.DTM" creationdate="20210605T045808Z">
+        <seg>The ramp must be made of non-combustible materials        /         Dốc phải làm bằng vật liệu khó bắt cháy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ramp must be permanently fixed</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041329Z" creationid="PHUONG.DTM" creationdate="20210605T041329Z">
