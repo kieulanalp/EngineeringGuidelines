@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50 to 500 people - a minimum of two exits</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T081458Z" creationid="LanHK" creationdate="20210609T081458Z">
+        <seg>50 to 500 people - a minimum of two exits         /       50-500 người - tối thiểu 2 lối thoát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>500 to 1000 people - a minimum of three exits</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T081515Z" creationid="LanHK" creationdate="20210609T081515Z">
+        <seg>500 to 1000 people - a minimum of three exits         /       500-1000 người - tối thiểu 3 lối thoát`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60 Minute fire resisting construction</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T051520Z" creationid="LanHK" creationdate="20210602T051520Z">
@@ -3182,6 +3198,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T102230Z" creationid="PHUONG.DTM" creationdate="20210604T102230Z">
         <seg>The number of disabled guestrooms - this must depend upon the number of staff available at all times to         /        Số lượng phòng người khuyết tật - việc này phải phụ thuộc số lượng nhân viên trực tại mọi thời điểm để cung cấp các mức độ hỗ trợ cần thiết cho khách khuyết tât.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of exits must meet the following minimum requirements:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T081443Z" creationid="LanHK" creationdate="20210609T081443Z">
+        <seg>The number of exits must meet the following minimum requirements:         /       Số lượng lối thoát phải đáp ứng tối thiểu như sau</seg>
       </tuv>
     </tu>
     <tu>
