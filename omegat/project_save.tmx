@@ -1423,6 +1423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free from</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073629Z" creationid="LanHK" creationdate="20210609T073629Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh Air Load Estimation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091131Z">
@@ -2096,6 +2104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073413Z" creationid="LanHK" creationdate="20210609T073413Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum cross slope 1:48</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041252Z" creationid="PHUONG.DTM" creationdate="20210605T041252Z">
@@ -2200,6 +2216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073510Z" creationid="LanHK" creationdate="20210609T073510Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum width 1120mm</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041224Z" creationid="PHUONG.DTM" creationdate="20210605T041224Z">
@@ -2236,6 +2260,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210429T062846Z" creationid="LanHK" creationdate="20210429T062846Z">
         <seg>No Không</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-slip</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073702Z" creationid="LanHK" creationdate="20210609T073702Z">
+        <seg>Non-slip          /       không trơn trượt</seg>
       </tuv>
     </tu>
     <tu>
@@ -2668,6 +2700,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083351Z">
         <seg>Solar Shading - Sun Paths    /    Che nắng - Đường đi của mặt trời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solid and</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073557Z" creationid="LanHK" creationdate="20210609T073557Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,6 +3162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The surfaces of treads and landings must be:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073545Z" creationid="LanHK" creationdate="20210609T073545Z">
+        <seg>The surfaces of treads and landings must be:        /       Bề mặt bậc thang và chiếu nghie phải đấp ứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system shall be directly linked to the hotel’s Property Management System (PMS) / Front Office System</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -3480,6 +3528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>free from holes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073619Z" creationid="LanHK" creationdate="20210609T073619Z">
+        <seg>Solid and free from holes         /       Chắc chắn và không có lỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>locking fire resisting dooi at each floor</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103913Z" creationid="LanHK" creationdate="20210602T103913Z">
@@ -3520,10 +3576,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>projections that may cause trips</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073654Z" creationid="LanHK" creationdate="20210609T073623Z">
+        <seg>Free from projections that may cause trips          /       Không có các yếu tố chìa ra có thể gây vấp ngã</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>resisting and self-closing</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T104813Z" creationid="PHUONG.DTM" creationdate="20210603T104813Z">
         <seg> resisting and self-closing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>riser height 180m</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073530Z" creationid="LanHK" creationdate="20210609T073506Z">
+        <seg>Maximum riser height 180m        /       Chiều cao bậc tối đa 180mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tread depth 280mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T073533Z" creationid="LanHK" creationdate="20210609T073526Z">
+        <seg>Minimum tread depth 280mm        /       Độ rộng bậc tối thiểu 280mm</seg>
       </tuv>
     </tu>
     <tu>
