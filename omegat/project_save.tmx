@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A self-closing mechanism</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T075942Z" creationid="LanHK" creationdate="20210609T075942Z">
+        <seg>A self-closing mechanism         /       tay co tự đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A vent at roof level</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T102954Z" creationid="LanHK" creationdate="20210602T102954Z">
@@ -1332,6 +1340,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Fire resisting doors that are</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T075025Z" creationid="LanHK" creationdate="20210609T075025Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>enclosure??	</note>
       <tuv lang="EN-US">
         <seg>Fire resisting enclosure</seg>
@@ -1844,6 +1860,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T043342Z" creationid="PHUONG.DTM" creationdate="20210604T043342Z">
         <seg>In large open spaces such as hotel lobbies signs may be mounted higher than 2.5m but care must be taken       /       Tại các không gian lớn như sảnh khách sạn, biển có thể gắn tại cao độ lớn hơn 2.5m nhưng phải đảm bảo biển dễ nhìn thấy được. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In newly constructed buildings storerooms must not open directly into escape stairs. In existing buildings storerooms that do open directly into escape stairs must be provided with:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T075018Z" creationid="LanHK" creationdate="20210609T075018Z">
+        <seg>In newly constructed buildings storerooms must not open directly into escape stairs. In existing buildings storerooms that do open directly into escape stairs must be provided with:         /       Trong các tòa nhà mới xây, phòng kho của tòa nhà không được phép mở thẳng ra thang bộ thoát hiểm. Trong các tòa nhà sẵn có, các phòng kho sẽ mở trực tiếp ra thang bộ thoát hiểm phải được cung cấp</seg>
       </tuv>
     </tu>
     <tu>
@@ -3548,6 +3572,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073619Z" creationid="LanHK" creationdate="20210609T073619Z">
         <seg>Solid and free from holes         /       Chắc chắn và không có lỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>locked shut</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T075038Z" creationid="LanHK" creationdate="20210609T075038Z">
+        <seg>Fire resisting doors that are locked shut         /       Cửa chống cháy được khóa kín</seg>
       </tuv>
     </tu>
     <tu>
