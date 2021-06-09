@@ -2016,6 +2016,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ladders are not permitted for means of escape.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T080159Z" creationid="LanHK" creationdate="20210609T080159Z">
+        <seg>Ladders are not permitted for means of escape.         /       Không được sử dụng thang đơn làm thang thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laundry</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011646Z" creationid="LanHK" creationdate="20210406T011646Z">
@@ -2712,6 +2720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smoke detection.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T075949Z" creationid="LanHK" creationdate="20210609T075949Z">
+        <seg>Smoke detection.         /       Báo khói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke detector at the top of the chute</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T101755Z" creationid="LanHK" creationdate="20210602T101755Z">
@@ -2789,6 +2805,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T014026Z" creationid="LanHK" creationdate="20210602T014026Z">
         <seg>Specific requirements for staff training in fire safety routines.        /       Yêu cầu cụ thể về việc huấn luyện các quy trình PCCC cho nhân viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spiral staircases should not be used for means of escape.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T080038Z" creationid="LanHK" creationdate="20210609T080038Z">
+        <seg>Spiral staircases should not be used for means of escape.         /       Cầu thang xoắn không nên được sử dụng làm thang thoát hiểm</seg>
       </tuv>
     </tu>
     <tu>
