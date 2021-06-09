@@ -3504,6 +3504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When determining the width of exits and exit routes a minimum of 5mm should be allowed for each person occupying the room.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210609T083240Z" creationid="LanHK" creationdate="20210609T083240Z">
+        <seg>When determining the width of exits and exit routes a minimum of 5mm should be allowed for each person occupying the room.         /       Khi xác định chiều rộng cửa thoát hiểm và lối thoát hiểm, cần tính tối thiều 5mm cho mỗi người trong phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where deviations from InterContinental Hotels Group standards are agreed (must be in writing), the designers must maintain a schedule of the agreed variations including:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T092745Z">
