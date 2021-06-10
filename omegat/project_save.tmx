@@ -3386,6 +3386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The route must be at least 3m from any opening or vent unless the route is protected from fire within the</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T040509Z" creationid="LanHK" creationdate="20210610T040509Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The route must be even and without trip hazards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T035815Z" creationid="LanHK" creationdate="20210610T035815Z">
@@ -3836,6 +3844,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T040503Z" creationid="LanHK" creationdate="20210610T040503Z">
         <seg>Where the route leads to an escape stair or route within the building this must be fire protected and access back into the building must only be secured by panic fastenings    /    Nếu lối thoát dẫn đến thang bộ thoát hiểm hoặc lối đi trong tòa nhà, lối đi phải chống cháy và cửa dẫn vào trong toàn nhà phải có thanh đẩy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>building</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T064111Z" creationid="LanHK" creationdate="20210610T064111Z">
+        <seg>The route must be at least 3m from any opening or vent unless the route is protected from fire within the building    /    Lối đi phải cách bất cứ lỗ mở hoặc lỗ thông gió nào tối thiểu 3m trừ khi lối đi được bảo vệ khỏi hỏa hoạn bên trong tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
