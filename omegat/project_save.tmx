@@ -1132,6 +1132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example of a function room with an area of 400m2:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T033525Z" creationid="LanHK" creationdate="20210610T033525Z">
+        <seg>Example of a function room with an area of 400m2:     /    Ví dụ về một phòng chức năng với diện tích 400m2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Executive Corridor</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043416Z" creationid="LanHK" creationdate="20210602T043416Z">
