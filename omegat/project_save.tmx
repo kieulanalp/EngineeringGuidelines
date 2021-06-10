@@ -1833,8 +1833,8 @@
       <tuv lang="EN-US">
         <seg>HOSEREEL / HOSE RACK (MAY BE OMITTED IN SOME</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>HOSEREEL    /    HOSE RACK (MAY BE OMITTED IN SOME</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T070746Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>SPRINKLER VALVE ARRANGEMENT - REFER TO DETAIL OPPOSITE &amp; 2.7.4    /   Bố trí van sprinkler</seg>
       </tuv>
     </tu>
     <tu>
@@ -2188,6 +2188,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T022217Z" creationid="LanHK" creationdate="20210602T021814Z">
         <seg>LOCAL STANDARDS INSTITUTE        /       ĐẶT RA TIÊU CHUẨN NỘI BỘ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOCATIONS)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T070544Z" creationid="LanHK" creationdate="20210610T070544Z">
+        <seg>HOSEREEL    /    HOSE RACK (MAY BE OMITTED IN SOME LOCATIONS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,8 +2610,8 @@
       <tuv lang="EN-US">
         <seg>PENDANT SPRINKLER HEAD SPRINKLER VALVE ARRANGEMENT - REFER TO DETAIL OPPOSITE it 2.7.4</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T070537Z" creationid="LanHK" creationdate="20210610T070537Z">
-        <seg>PENDANT SPRINKLER HEAD </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T070720Z" creationid="LanHK" creationdate="20210610T070537Z">
+        <seg>PENDANT SPRINKLER HEAD    /    Sprinkler hướng xuống</seg>
       </tuv>
     </tu>
     <tu>
