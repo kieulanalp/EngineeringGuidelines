@@ -3386,6 +3386,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The route must be even and without trip hazards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T035815Z" creationid="LanHK" creationdate="20210610T035815Z">
+        <seg>The route must be even and without trip hazards    /    Lối đi phải bằng phỏng và không có nguy cơ gây vấp ngã</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The route must be protected by suitable barriers at least 1100mm high and with no gaps greater than 100mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T040010Z" creationid="LanHK" creationdate="20210610T035857Z">
+        <seg>The route must be protected by suitable barriers at least 1100mm high and with no gaps greater than 100mm to prevent falling    /    Lối thoát phải được bảo vệ bằng lan can thích hợp cao tối thiểu 110mm và không có khoảng hở lớn hơn 100m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T093039Z">
@@ -3900,6 +3916,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T032803Z" creationid="LanHK" creationdate="20210610T032803Z">
         <seg>to be the primary fire command centre such as the main reception or security office (24 hours manned) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to prevent falling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T035904Z" creationid="LanHK" creationdate="20210610T035904Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
