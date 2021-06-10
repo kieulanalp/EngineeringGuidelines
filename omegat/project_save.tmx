@@ -1213,6 +1213,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External escape routes must be easy and safe to use at all times and must where necessary be protected from fire within the building.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T034231Z" creationid="LanHK" creationdate="20210610T034231Z">
+        <seg>External escape routes must be easy and safe to use at all times and must where necessary be protected from fire within the building.    /    Lối thoát hiểm bên ngoài phải có thể sử dụng dễ dàng và an toàn bất cứ lúc nào và phải được bảo vệ khỏi đám cháy trong tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FFCP - Fire Fan Control Panel</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T025049Z" creationid="LanHK" creationdate="20210610T025049Z">
@@ -3652,6 +3660,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T063748Z" creationid="LanHK" creationdate="20210602T063746Z">
         <seg>Where double doors have rebates (overlap) at the join, door selectors must be provided to ensure the doors close in the correct order.        /       Nếu cánh cửa đôi có khớp ở vị trí cánh cửa gặp nhau, cần có selector để đảm bảo cửa đóng khớp đúng thứ tự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where escape routes are across roofs the following safeguards must be put in place:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T035751Z" creationid="LanHK" creationdate="20210610T035751Z">
+        <seg>Where escape routes are across roofs the following safeguards must be put in place:    /    Nếu đường thoát hiểm dẫn qua mái nhà, phải có các biện pháp đảm bảo an toàn như sau</seg>
       </tuv>
     </tu>
     <tu>
