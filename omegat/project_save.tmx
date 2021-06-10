@@ -2822,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pump or accumulator</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T074527Z" creationid="LanHK" creationdate="20210610T074527Z">
+        <seg>Pump or accumulator    /    </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REFER DETAIL ADJACENT FOR TYPICAL LAYOUT</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043646Z" creationid="LanHK" creationdate="20210602T043646Z">
@@ -3906,6 +3914,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081239Z">
         <seg>Water    /    Nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water supply</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T074310Z" creationid="LanHK" creationdate="20210610T074310Z">
+        <seg>Water supply    /    Nguồn cấp nước</seg>
       </tuv>
     </tu>
     <tu>
