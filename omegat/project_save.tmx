@@ -2312,6 +2312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mimic Panel - an engraved panel identifying site buildings and/or building sectional layout with or without a visual (LED) indication of where alarm/s have been activated.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T024759Z" creationid="LanHK" creationdate="20210610T024759Z">
+        <seg>Mimic Panel - an engraved panel identifying site buildings and/or building sectional layout with or without a visual (LED) indication of where alarm/s have been activated.    /    Bảng mimic - Một bảng báo xác định các tòa nhà hoặc khu trong trong mặt bằng tòa nhà, có hoặc không có đèn LED báo vị trí nơi báo động kích hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073510Z" creationid="LanHK" creationdate="20210609T073510Z">
