@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.6.5 Description</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T025143Z" creationid="LanHK" creationdate="20210610T025143Z">
+        <seg>2.6.5 Description    /    Mô tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.7.8 Fog / Water Misting Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -1201,6 +1209,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T014218Z" creationid="LanHK" creationdate="20210602T014218Z">
         <seg>FLOW CHART OF FIRE SAFETY LEGISLATION        /       SƠ ĐỒ QUY TRÌNH XIN GIẤY PHÉP PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FR - Fire Resistance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T025054Z" creationid="LanHK" creationdate="20210610T025054Z">
+        <seg>FR - Fire Resistance     /    Chống cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,6 +3138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fire alarm and detection system must be installed to cover the whole hotel. The system must comprise the following equipment, to provide life and property protection to all areas:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T025245Z" creationid="LanHK" creationdate="20210610T025245Z">
+        <seg>The fire alarm and detection system must be installed to cover the whole hotel. The system must comprise the following equipment, to provide life and property protection to all areas:    /    Hệ thống phát hiện và báo cháy cần được lắp đặt để bảo vệ toàn bộ khách sạn. Hệ thống phải bao gồm các thiết bị sau, để đảm bảo bảo vệ an toàn sinh mạng và tài sản cho tất cả các khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following diagram illustrates the designer’s responsibilities in relation to design approvals:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T093106Z">
@@ -3504,6 +3528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VA- Voice Alarm Speaker</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T025131Z" creationid="LanHK" creationdate="20210610T025131Z">
+        <seg>VA- Voice Alarm Speaker     /    Hệ thống âm thanh thông báo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vertical Means of Escape</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T013408Z" creationid="LanHK" creationdate="20210525T075106Z">
@@ -3788,6 +3820,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073530Z" creationid="LanHK" creationdate="20210609T073506Z">
         <seg>Maximum riser height 180m        /       Chiều cao bậc tối đa 180mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to be the primary fire command centre such as the main reception or security office (24 hours manned)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T032803Z" creationid="LanHK" creationdate="20210610T032803Z">
+        <seg>to be the primary fire command centre such as the main reception or security office (24 hours manned) </seg>
       </tuv>
     </tu>
     <tu>
