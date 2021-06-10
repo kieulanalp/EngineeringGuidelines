@@ -906,6 +906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each pressure zone in the building will be fed by the fire pump with the installation being controlled by a wet sprinkler alarm valve located in an accessible location for the fire brigade to isolate the water supply when necessary.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065128Z" creationid="LanHK" creationdate="20210610T065128Z">
+        <seg>dfEach pressure zone in the building will be fed by the fire pump with the installation being controlled by a wet sprinkler alarm valve located in an accessible location for the fire brigade to isolate the water supply when necessary.    /    Mỗi khu tăng áp trong tòa nhà có bơm cứu hỏa điều khiển bởi van báo động sprinkler ướt ở một vị trí dễ tiếp cận để lực lượng cứu hỏa cách ly nguồn cấp nước khi cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each primary controller shall include an internal 365-day clock / calendar with the possibility to operat autonomously or in master / slave configuration. More than one master / slave group may reside on the same bus network.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
