@@ -73,6 +73,9 @@
       <tuv lang="EN-US">
         <seg>2.7.8 Fog / Water Misting Systems</seg>
       </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T074550Z">
+        <seg>2.7.8 Fog / Water Misting Systems     /    Hệ thống phun sương</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -1591,8 +1594,8 @@
       <tuv lang="EN-US">
         <seg>Fog/Water Misting Systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080621Z" creationid="LanHK" creationdate="20210525T080621Z">
-        <seg>Fog/Water Misting Systems /</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T074603Z" creationid="LanHK" creationdate="20210525T080621Z">
+        <seg>Fog/Water Misting Systems    /    Hệ thống phun sương</seg>
       </tuv>
     </tu>
     <tu>
