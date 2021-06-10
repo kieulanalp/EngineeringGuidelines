@@ -3033,6 +3033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Section valves</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T091240Z" creationid="LanHK" creationdate="20210610T091240Z">
+        <seg>Section valves    /    Van </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Security</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210405T092103Z">
@@ -3805,6 +3813,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>To provide ceramic    /    FR connections within junction boxes and Voice Alarm speakers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tubes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T075055Z" creationid="LanHK" creationdate="20210610T075055Z">
+        <seg>Tubes     /    Ống</seg>
       </tuv>
     </tu>
     <tu>
