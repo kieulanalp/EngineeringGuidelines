@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>- ALL AREAS TO BE REACHED WTH 30m HOSE,</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T071126Z" creationid="LanHK" creationdate="20210610T071126Z">
+        <seg>- ALL AREAS TO BE REACHED WTH 30m HOSE,    /    Tất cả các khu vực có thể tiếp cận bởi cuộn vòi 30m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1. POSITION LARGE ELECTRICITY CONSUMING PLANT NEAR MAIN SUPPLY SOURCE TO REDUCE VOLTAGE DROP etc 2 ÇËNTRALISE’PLANT ANO RISERS to AID BALANCING, TO REDUCE PIPE HEAT LOSSES / GAINS AND TO REDUii</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -1833,8 +1841,8 @@
       <tuv lang="EN-US">
         <seg>HOSEREEL / HOSE RACK (MAY BE OMITTED IN SOME</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T070746Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>SPRINKLER VALVE ARRANGEMENT - REFER TO DETAIL OPPOSITE &amp; 2.7.4    /   Bố trí van sprinkler</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T070825Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>SPRINKLER VALVE ARRANGEMENT - REFER TO DETAIL OPPOSITE &amp; 2.7.4    /   Bố trí van sprinkler - tham khảo chi tiết đối diện &amp; 2.7.4</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,8 +2202,8 @@
       <tuv lang="EN-US">
         <seg>LOCATIONS)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T070544Z" creationid="LanHK" creationdate="20210610T070544Z">
-        <seg>HOSEREEL    /    HOSE RACK (MAY BE OMITTED IN SOME LOCATIONS)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T070957Z" creationid="LanHK" creationdate="20210610T070544Z">
+        <seg>HOSEREEL/HOSE RACK (MAY BE OMITTED IN SOME LOCATIONS)    /    Cuộn vòi/Giá treo vòi cứu hỏa (có thể không bố trí tại một số vị trí)</seg>
       </tuv>
     </tu>
     <tu>
