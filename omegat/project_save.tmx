@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A - ACTIVATION OF SMOKE DETECTORS SOUNDS AN ALARM IN THE ROOM &amp; ALERTS REMOTE ANNUNCIATOR PANEL</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065529Z" creationid="LanHK" creationdate="20210610T065529Z">
+        <seg>A - ACTIVATION OF SMOKE DETECTORS SOUNDS AN ALARM IN THE ROOM &amp; ALERTS REMOTE ANNUNCIATOR PANEL    /    A - KÍCH HOẠT ĐẦU BÁO KHÓI KHIẾN KÍCH HOẠT MỘT BÁO ĐỘNG TRONG PHÒNG VÀ BÁO VỀ BẢNG ĐIỀU KHIỂN TỪ XA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fire detection and alarm system sequence matrix- refer to example at the end of this section.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T013444Z" creationid="LanHK" creationdate="20210602T013444Z">
@@ -1575,6 +1583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For use where:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065235Z" creationid="LanHK" creationdate="20210610T065235Z">
+        <seg>For use where:-    /    Sử dụng tại các vị trí nơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Four Pipe Fan Units</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091906Z">
@@ -2184,6 +2200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leaks in the system could cause problems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065322Z" creationid="LanHK" creationdate="20210610T065322Z">
+        <seg>Leaks in the system could cause problems    /    Rò rỉ nước trong hệ thống có thể gây sự cố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leisure Activity</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081203Z">
@@ -2610,7 +2634,7 @@
       <tuv lang="EN-US">
         <seg>Pre-action Dry Sprinkler System</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T065159Z" creationid="LanHK" creationdate="20210610T065159Z">
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065228Z" creationid="LanHK" creationdate="20210610T065159Z">
         <seg>Pre-action Dry Sprinkler System    /    Hệ thống sprinkler pre-action khô</seg>
       </tuv>
     </tu>
@@ -2820,6 +2844,46 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T054013Z">
         <seg>SIP - Sub Indicator Panel (also known as Repeater or Sub Alarm Panel)    /    Repeater hay Tủ báo cháy phụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMOKE DETECTORS IN OPERATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065414Z" creationid="LanHK" creationdate="20210610T065414Z">
+        <seg>SMOKE DETECTORS IN OPERATION    /   ĐẦU BÁO KHÓI VẬN HÀNH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPRINKLER 'WATER VALVE SHUT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065356Z" creationid="LanHK" creationdate="20210610T065356Z">
+        <seg>SPRINKLER WATER VALVE SHUT    /    VAN NƯỚC SPRINKLER ĐÓNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPRINKLER PIPEWORK IN ROOM EMPTY OF WATER</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065407Z" creationid="LanHK" creationdate="20210610T065407Z">
+        <seg>SPRINKLER PIPEWORK IN ROOM EMPTY OF WATER    /    ĐƯỜNG ỐNG SPRINKLER TRONG PHÒNG KHÔNG CÓ NƯỚC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STAGE ONE - NORMAL OPERATION - MDNITORING/SENSING</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065347Z" creationid="LanHK" creationdate="20210610T065347Z">
+        <seg>STAGE ONE - NORMAL OPERATION - MONITORING/SENSING    /    GIAI ĐOẠN 1 - VẬN HÀNH BÌNH THƯỜNG - THEO DÕI/CẢM BIẾN </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STAGE TWO - ONE SMOKE DETECTOR ACTIVATED</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T065427Z" creationid="LanHK" creationdate="20210610T065427Z">
+        <seg>STAGE TWO - ONE SMOKE DETECTOR ACTIVATED    /    GIAI ĐOẠN 2 - MỘT ĐẦU BÁO KHÓI KÍCH HOẠT</seg>
       </tuv>
     </tu>
     <tu>
