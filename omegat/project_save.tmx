@@ -3394,6 +3394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The route must be illuminated by normal and emergency lighting unless there is sufficient borrowed light, for</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T040017Z" creationid="LanHK" creationdate="20210610T040017Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The route must be protected by suitable barriers at least 1100mm high and with no gaps greater than 100mm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T040010Z" creationid="LanHK" creationdate="20210610T035857Z">
@@ -3728,6 +3736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where the route leads to an escape stair or route within the building this must be fire protected and access</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T040136Z" creationid="LanHK" creationdate="20210610T040136Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where vision panels are provided the glazing must have the same fire resistance as the door.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T064234Z" creationid="LanHK" creationdate="20210602T064234Z">
@@ -3816,6 +3832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>back into the building must only be secured by panic fastenings</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T040503Z" creationid="LanHK" creationdate="20210610T040503Z">
+        <seg>Where the route leads to an escape stair or route within the building this must be fire protected and access back into the building must only be secured by panic fastenings    /    Nếu lối thoát dẫn đến thang bộ thoát hiểm hoặc lối đi trong tòa nhà, lối đi phải chống cháy và cửa dẫn vào trong toàn nhà phải có thanh đẩy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>details of the standards/codes to be adopted in the design of these services.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T013405Z" creationid="LanHK" creationdate="20210602T013203Z">
@@ -3828,6 +3852,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T013810Z" creationid="LanHK" creationdate="20210603T012946Z">
         <seg>There must be at least two means of escape from all areas so that if one is destructed by fire an alternative escape route will be available         /       Phải có tối thiểu hai lối thoát hiểm từ tất cả các khu vực để đảm bảo nếu một lối bị phá hủy trong hỏa hoạn, lối còn lại vẫn sử dụng được</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>example, from neighboring street lamps and buildings</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T040130Z" creationid="LanHK" creationdate="20210610T040130Z">
+        <seg>The route must be illuminated by normal and emergency lighting unless there is sufficient borrowed light, for example, from neighboring street lamps and buildings     /    Lối đi phải có chiếu sáng thông thường và chiếu sáng khẩn cấp trừ khi có đủ ánh sáng từ nguồn mượn, vd từ đèn đường hoặc đèn các tòa nhà xung quanh</seg>
       </tuv>
     </tu>
     <tu>
