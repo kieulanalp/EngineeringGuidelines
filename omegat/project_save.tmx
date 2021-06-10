@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of two exits is required each of which should be 1m wide</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T033727Z" creationid="LanHK" creationdate="20210610T033723Z">
+        <seg>A minimum of two exits is required each of which should be 1m wide     /     Yêu cầu tối thiểu 2 cửa thoát hiểm, mỗi cửa rộng 1m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A primary electricity supply must be provided exclusively to the lift from a sub-main circuit</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T025355Z" creationid="PHUONG.DTM" creationdate="20210605T025355Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T034718Z" creationid="PHUONG.DTM" creationdate="20210605T034642Z">
         <seg>All controls must also have suitable tactile indication on or adjacent to the buttons        /         Tất cả nút điều khiển phải có chỉ dẫn xúc giác hoặc cạnh các nút bấm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All exits must not discharge into the same area such as the breakout space so that a fire cannot cut-off all means of escape.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T033819Z" creationid="LanHK" creationdate="20210610T033819Z">
+        <seg>All exits must not discharge into the same area such as the breakout space so that a fire cannot cut-off all means of escape.    /    Tất cả cửa thoát hiểm không được dẫn ra cùng một không gian, vd như khu breakout, để đảm bảo đám cháy không cắt đứt tất cả đường thoát hiểm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,8 +2466,8 @@
       <tuv lang="EN-US">
         <seg>Occupancy of the function room equals 400 people (1m2 / person)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Occupancy of the function room equals 400 people (1m2    /    person)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210610T033600Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Occupancy of the function room equals 400 people (1m2/person)    /    Sức chứa phòng 400 người (1m^2/người)</seg>
       </tuv>
     </tu>
     <tu>
