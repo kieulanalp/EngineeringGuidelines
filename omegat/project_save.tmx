@@ -3803,6 +3803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system cannot work without these 2 areas working together.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T032609Z" creationid="LanHK" creationdate="20210611T032609Z">
+        <seg>The system cannot work without these 2 areas working together.    /    Hệ thống không thể vận hành nếu không có hai bộ phận này phối hợp với nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system shall be directly linked to the hotel’s Property Management System (PMS) / Front Office System</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
