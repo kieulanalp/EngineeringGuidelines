@@ -1414,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fast response automatic sprinklers are spaced 1800mm apart or less along both sides of the glass and not</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T072015Z" creationid="LanHK" creationdate="20210611T072015Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fastenings on exits doors</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075227Z">
@@ -2677,6 +2685,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210429T062846Z" creationid="LanHK" creationdate="20210429T062846Z">
         <seg>No Không</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-fire resisting glass may be used where:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T072010Z" creationid="LanHK" creationdate="20210611T072010Z">
+        <seg>Non-fire resisting glass may be used where:     /     Kính không chống cháy có thể được sử dụng khi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4485,6 +4501,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103913Z" creationid="LanHK" creationdate="20210602T103913Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>more than 300mm from the glass</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T072121Z" creationid="LanHK" creationdate="20210611T072121Z">
+        <seg>Fast response automatic sprinklers are spaced 1800mm apart or less along both sides of the glass and not more than 300mm from the glass     /     sprinkler tự động phản ứng nhanh được bố trí cách nhau 1800mm hoặc ít hơn dọc hai bên kính và cách mặt kính không quá 300mm</seg>
       </tuv>
     </tu>
     <tu>
