@@ -2129,6 +2129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general atria may be either enclosed by fire resisting glazing or may be provided with a smoke and heat</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T061736Z" creationid="LanHK" creationdate="20210611T061736Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general hotel management is responsible for the evacuation of guests including those with disabilities and reliance should not be placed upon assistance from the fire brigade who will be responsible for carrying out rescues and fighting the fire. An evacuation strategy must be developed with hotel operators at the design stage to ensure that unreasonable demands are not placed upon the hotel, particularly with regard to staffing levels, so that they are able to effectively manage the facilities provided.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T102011Z" creationid="PHUONG.DTM" creationdate="20210604T102011Z">
@@ -4397,6 +4405,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T034922Z" creationid="LanHK" creationdate="20210611T034922Z">
         <seg>Where there are no suitable local codes of practice, standards or regulations governing smoke and heat control in atria the system must comply with NFPA 92B.    /    Nếu không có quy định, tiêu chuẩn hoặc quy chế địa phương phù hợp cho việc kiểm soát nhiệt và khói trong không gian thông tầng, hệ thống phải tuân theo NFPA 29B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>control system that will keep escape routes clear for sufficient time to allow the occupants to escape.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T061847Z" creationid="LanHK" creationdate="20210611T061847Z">
+        <seg>In general atria may be either enclosed by fire resisting glazing or may be provided with a smoke and heat control system that will keep escape routes clear for sufficient time to allow the occupants to escape.     /     Nhìn chung các không gian thông tầng có thể được khép kín bằng kính chống cháy hoặc được cung cấp hệ thống kiểm soát khói và nhiệt giúp giữ các lối thoát hiểm thông thoáng đủ lâu để người trong tòa nhà thoát hiểm</seg>
       </tuv>
     </tu>
     <tu>
