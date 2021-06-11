@@ -3562,6 +3562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The automatic sprinklers are located so that the entire surface of the glass is wet upon their operation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T085116Z" creationid="LanHK" creationdate="20210611T085116Z">
+        <seg>The automatic sprinklers are located so that the entire surface of the glass is wet upon their operation     /     Sprinkler tự động được bố trí sao để làm ướt toàn bộ bề mặt kính khi kích hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T030650Z" creationid="PHUONG.DTM" creationdate="20210605T025912Z">
