@@ -496,6 +496,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic sprinklers are not required on the atrium side of the glass wall when there is no walkway or other floor area on the atrium side above the main floor level.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T091545Z" creationid="LanHK" creationdate="20210611T091545Z">
+        <seg>Automatic sprinklers are not required on the atrium side of the glass wall when there is no walkway or other floor area on the atrium side above the main floor level.     /     Không yêu cầu sprinkler tự động ở mặt kính phía giếng trời nếu không có lối đi hoặc tầng khác ở phía giếng trời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B - ACTIVATION OF SECOND SMOKE DETECTOR OPENS THE SPRINKLER WATER FLOW CONTROL VALVE TO FILL UP THE SPRINKLER PIPEWORK WITH WATER</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065710Z" creationid="LanHK" creationdate="20210610T065710Z">
