@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A pressurisation system comprises two main components:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T015428Z" creationid="LanHK" creationdate="20210611T015428Z">
+        <seg>A pressurisation system comprises two main components:-    /    Một hệ thống tăng áp bao gồm hai thành phần chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A primary electricity supply must be provided exclusively to the lift from a sub-main circuit</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T025355Z" creationid="PHUONG.DTM" creationdate="20210605T025355Z">
@@ -291,6 +299,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091658Z">
         <seg>Air Conditioning    /    Điều hòa không khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air release to allow smoke to be relieved from the adjoining fire area</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T020910Z" creationid="LanHK" creationdate="20210611T020910Z">
+        <seg>Air release to allow smoke to be relieved from the adjoining fire area    /    nhả khí để đảm bảo khói thoát ra khỏi khu vực cháy liền kề</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,6 +3366,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T041804Z" creationid="LanHK" creationdate="20210602T041416Z">
         <seg>Sub duct (option to Fire Damper)        /       Ống phụ (lựa chọn thay thế cho Van chặn lửa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supply air (outside air) injected into the area to be protected</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T015449Z" creationid="LanHK" creationdate="20210611T015449Z">
+        <seg>Supply air (outside air) injected into the area to be protected    /    Nguồn khí bổ sung (từ bên ngoài) được bơm vào trong khu vực cần bảo vệ</seg>
       </tuv>
     </tu>
     <tu>
