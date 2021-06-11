@@ -858,6 +858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect the power</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T012912Z" creationid="LanHK" creationdate="20210611T012912Z">
+        <seg>Disconnect the power    /    Ngắt điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribution Options</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091644Z">
@@ -2913,6 +2921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Release the agent into the protected areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T012927Z" creationid="LanHK" creationdate="20210611T012927Z">
+        <seg>Release the agent into the protected areas    /    Xả chất chống cháy ra các khu vực được bảo vệ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reliability / Lifespan - LED’s last longer than any other form of artificial lighting. The average lifespan on a 12V halogen lamp is 4000 hours compared with the 50,000 hours of an LED.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -3081,6 +3097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shut down the air handlers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T012903Z" creationid="LanHK" creationdate="20210611T012903Z">
+        <seg>Shut down the air handlers    /    Tắt hệ AHU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Signed</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071044Z">
@@ -3137,6 +3161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smoke control systems must be provided where these form part of the building life safety strategy and where required by the appropriate codes and standards. In particular the requirements indicated below must be compiled with.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T013225Z" creationid="LanHK" creationdate="20210611T013225Z">
+        <seg>Smoke control systems must be provided where these form part of the building life safety strategy and where required by the appropriate codes and standards. In particular the requirements indicated below must be compiled with.    /    Hệ thống kiểm soát khói phải được bố trí ở những nơi nó là một phần của chiến lược PCCC của tòa nhà và ở nơi cần thiết, đáp ứng các tiêu chuẩn và quy tắc phù hợp. Đặc biệt, các yêu cầu dưới đây cần phải tuân thủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke detection.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T075949Z" creationid="LanHK" creationdate="20210609T075949Z">
@@ -3181,6 +3213,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073557Z" creationid="LanHK" creationdate="20210609T073557Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound an alarm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T012815Z" creationid="LanHK" creationdate="20210611T012815Z">
+        <seg>Sound an alarm    /    Phát âm báo động</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,6 +3430,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T012916Z" creationid="LanHK" creationdate="20210602T012916Z">
         <seg>The anticipated risk of a fire and its severity.        /       Nguy cơ hỏa hoạn dự đoán và mức độ nghiêm trọng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The area must be sealed on activation, and it may be necessary to carry out a pressure test to ensure this has been achieved.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T013004Z" creationid="LanHK" creationdate="20210611T013004Z">
+        <seg>The area must be sealed on activation, and it may be necessary to carry out a pressure test to ensure this has been achieved.    /    Khu vực cần phải được khép kín khi đầu báo kích hoạt, và có thể sẽ cần tiến hành kiểm tra áp suất để đảm bảo đạt được điều này</seg>
       </tuv>
     </tu>
     <tu>
