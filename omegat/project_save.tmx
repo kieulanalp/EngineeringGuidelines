@@ -3564,8 +3564,8 @@
       <tuv lang="EN-US">
         <seg>The automatic sprinklers are located so that the entire surface of the glass is wet upon their operation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T085116Z" creationid="LanHK" creationdate="20210611T085116Z">
-        <seg>The automatic sprinklers are located so that the entire surface of the glass is wet upon their operation     /     Sprinkler tự động được bố trí sao để làm ướt toàn bộ bề mặt kính khi kích hoạt</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T085121Z" creationid="LanHK" creationdate="20210611T085116Z">
+        <seg>The automatic sprinklers are located so that the entire surface of the glass is wet upon their operation     /     Sprinkler tự động được bố trí sao để làm ướt toàn bộ bề mặt kính khi vận hành</seg>
       </tuv>
     </tu>
     <tu>
@@ -3671,6 +3671,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210608T014750Z" creationid="PHUONG.DTM" creationdate="20210608T014750Z">
         <seg>The following systems must be provided as required by the relevant codes, or to enhance the life safety provisions of the entire Hotel:        /        Các hệ thống dưới đây phải được cung cấp tuân thủ theo luật liên quan, hoặc để tăng cường an toàn PCCC cho cả tòa nhà-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The glass is wired, laminated or tempered</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T085322Z" creationid="LanHK" creationdate="20210611T085322Z">
+        <seg>The glass is wired, laminated or tempered     /     Kính là kính cốt thép, kính laminate, kính cường lực</seg>
       </tuv>
     </tu>
     <tu>
