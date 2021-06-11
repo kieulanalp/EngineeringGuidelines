@@ -2121,6 +2121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general HVAC systems do not have the capacity for use as a smoke management system for an atrium,</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T034927Z" creationid="LanHK" creationdate="20210611T034927Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general hotel management is responsible for the evacuation of guests including those with disabilities and reliance should not be placed upon assistance from the fire brigade who will be responsible for carrying out rescues and fighting the fire. An evacuation strategy must be developed with hotel operators at the design stage to ensure that unreasonable demands are not placed upon the hotel, particularly with regard to staffing levels, so that they are able to effectively manage the facilities provided.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T102011Z" creationid="PHUONG.DTM" creationdate="20210604T102011Z">
@@ -4217,6 +4225,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where there are no suitable local codes of practice, standards or regulations governing smoke and heat</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T034833Z" creationid="LanHK" creationdate="20210611T034833Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where vision panels are provided the glazing must have the same fire resistance as the door.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T064234Z" creationid="LanHK" creationdate="20210602T064234Z">
@@ -4329,6 +4345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>control in atria the system must comply with NFPA 92B.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T034922Z" creationid="LanHK" creationdate="20210611T034922Z">
+        <seg>Where there are no suitable local codes of practice, standards or regulations governing smoke and heat control in atria the system must comply with NFPA 92B.    /    Nếu không có quy định, tiêu chuẩn hoặc quy chế địa phương phù hợp cho việc kiểm soát nhiệt và khói trong không gian thông tầng, hệ thống phải tuân theo NFPA 29B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>details of the standards/codes to be adopted in the design of these services.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T013405Z" creationid="LanHK" creationdate="20210602T013203Z">
@@ -4373,6 +4397,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103913Z" creationid="LanHK" creationdate="20210602T103913Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nor are the supply and exhaust air grilles located for their proper use in such a system, therefore, a dedicated smoke management system must be provided.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T035134Z" creationid="LanHK" creationdate="20210611T035134Z">
+        <seg>In general HVAC systems do not have the capacity for use as a smoke management system for an atrium, nor are the supply and exhaust air grilles located for their proper use in such a system, therefore, a dedicated smoke management system must be provided.    /    Hệ thống HVAC bình thường không có chức năng kiểm soát khói cho giếng trời, và lưới cấp/xả khí cũng không được bố trí tại vị trí phù hợp cho hệ thống kiểm soát khói, vì vậy, cần có một hệ thống kiểm soát khói chuyên dụng</seg>
       </tuv>
     </tu>
     <tu>
