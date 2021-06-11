@@ -3595,6 +3595,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The entire hotel must be provided with a fully addressable fire alarm and detection system including a</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T061349Z" creationid="LanHK" creationdate="20210611T061349Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fastening must release upon operation of the fire alarm system</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T112305Z" creationid="PHUONG.DTM" creationdate="20210603T112229Z">
@@ -4361,6 +4369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>broadcast voice evacuation message to ensure a speedy response to any alarm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T061731Z" creationid="LanHK" creationdate="20210611T061731Z">
+        <seg>The entire hotel must be provided with a fully addressable fire alarm and detection system including a broadcast voice evacuation message to ensure a speedy response to any alarm.     /     Toàn bộ khách sạn phải được cung cấp hệ thống thông báo sơ tán khẩn cấp để đảm bảo phản ứng kịp thời khi có bất cứ báo động nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>building</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T064111Z" creationid="LanHK" creationdate="20210610T064111Z">
@@ -4427,8 +4443,8 @@
       <tuv lang="EN-US">
         <seg>in particular the fire load in the base of the atrium must be controlled by the sprinkler system.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T061335Z" creationid="LanHK" creationdate="20210611T061335Z">
-        <seg>The entire building is to be protected throughout by an approved, supervised automatic sprinkler system and in particular the fire load in the base of the atrium must be controlled by the sprinkler system.     /     toàn bộ tòa nhà phải được bảo vệ bởi một hệ thống sprinkler tự động được phê duyệt, được giám sát và đặc biệt là sức cháy tại tầng sàn không gian thông tầng phải được kiểm soát bởi hệ thống sprinkler` </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T061339Z" creationid="LanHK" creationdate="20210611T061335Z">
+        <seg>The entire building is to be protected throughout by an approved, supervised automatic sprinkler system and in particular the fire load in the base of the atrium must be controlled by the sprinkler system.     /     toàn bộ tòa nhà phải được bảo vệ bởi một hệ thống sprinkler tự động được phê duyệt, được giám sát và đặc biệt là sức cháy tại tầng sàn không gian thông tầng phải được kiểm soát bởi hệ thống sprinkler</seg>
       </tuv>
     </tu>
     <tu>
