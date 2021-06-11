@@ -393,8 +393,8 @@
       <tuv lang="EN-US">
         <seg>An atrium is a large vertical opening that spans two or more floors. As a general rule an atrium has a relatively large plan area and to be considered an atrium the opening must have a minimum horizontal dimension of 6.1 m and a minimum area of 95 sqm. A monumental stair may or may not be considered as an atrium space.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T034716Z" creationid="LanHK" creationdate="20210611T033920Z">
-        <seg>An atrium is a large vertical opening that spans two or more floors. As a general rule an atrium has a relatively large plan area and to be considered an atrium the opening must have a minimum horizontal dimension of 6.1 m and a minimum area of 95 sqm. A monumental stair may or may not be considered as an atrium space.    /    Không gian thông tầng là một không gian mở lớn theo chiều dọc, từ hai tầng trở lên. Nhìn chung, một không gian thông tầng có diện tích mặt sàn khá lớn và để được coi là một không gian thông tầng, khoảng mở phải có kích thước chiều ngang tối thiểu 6.1m và diện tích tối thiểu 95sqm. Cầu thang monumental có thể được hoặc không được coi là không gian thông tầng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T033920Z">
+        <seg>An atrium is a large vertical opening that spans two or more floors. As a general rule an atrium has a relatively large plan area and to be considered an atrium the opening must have a minimum horizontal dimension of 6.1 m and a minimum area of 95 sqm. A monumental stair may or may not be considered as an atrium space.    /    giếng trời là một không gian mở lớn theo chiều dọc, từ hai tầng trở lên. Nhìn chung, một giếng trời có diện tích mặt sàn khá lớn và để được coi là một giếng trời, khoảng mở phải có kích thước chiều ngang tối thiểu 6.1m và diện tích tối thiểu 95sqm. Cầu thang monumental có thể được hoặc không được coi là giếng trời</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,8 +474,8 @@
       <tuv lang="EN-US">
         <seg>Atriums</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080643Z">
-        <seg>Atriums    /    Các khoảng thông tầng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T070906Z" creationid="LanHK" creationdate="20210525T080643Z">
+        <seg>Atriums    /    Các giếng trời</seg>
       </tuv>
     </tu>
     <tu>
@@ -4003,8 +4003,8 @@
       <tuv lang="EN-US">
         <seg>This document provides basic guidance on the areas to be considered when an atrium is proposed in a hotel or when an existing hotel has an atrium.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T033356Z" creationid="LanHK" creationdate="20210611T032845Z">
-        <seg>This document provides basic guidance on the areas to be considered when an atrium is proposed in a hotel or when an existing hotel has an atrium.    /    Văn bản này cung cấp hướng dẫn cơ bản về các khu vực cần cân nhắc khi đề xuất thiết kế không gian thông tầng trong khách sạn hoặc khách sạn sẵn có có không gian thông tầng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T032845Z">
+        <seg>This document provides basic guidance on the areas to be considered when an atrium is proposed in a hotel or when an existing hotel has an atrium.    /    Văn bản này cung cấp hướng dẫn cơ bản về các khu vực cần cân nhắc khi đề xuất thiết kế giếng trời trong khách sạn hoặc khách sạn sẵn có có giếng trời</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,16 +4403,16 @@
       <tuv lang="EN-US">
         <seg>control in atria the system must comply with NFPA 92B.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T034922Z" creationid="LanHK" creationdate="20210611T034922Z">
-        <seg>Where there are no suitable local codes of practice, standards or regulations governing smoke and heat control in atria the system must comply with NFPA 92B.    /    Nếu không có quy định, tiêu chuẩn hoặc quy chế địa phương phù hợp cho việc kiểm soát nhiệt và khói trong không gian thông tầng, hệ thống phải tuân theo NFPA 29B</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T034922Z">
+        <seg>Where there are no suitable local codes of practice, standards or regulations governing smoke and heat control in atria the system must comply with NFPA 92B.    /    Nếu không có quy định, tiêu chuẩn hoặc quy chế địa phương phù hợp cho việc kiểm soát nhiệt và khói trong giếng trời, hệ thống phải tuân theo NFPA 29B</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>control system that will keep escape routes clear for sufficient time to allow the occupants to escape.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T061847Z" creationid="LanHK" creationdate="20210611T061847Z">
-        <seg>In general atria may be either enclosed by fire resisting glazing or may be provided with a smoke and heat control system that will keep escape routes clear for sufficient time to allow the occupants to escape.     /     Nhìn chung các không gian thông tầng có thể được khép kín bằng kính chống cháy hoặc được cung cấp hệ thống kiểm soát khói và nhiệt giúp giữ các lối thoát hiểm thông thoáng đủ lâu để người trong tòa nhà thoát hiểm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T061847Z">
+        <seg>In general atria may be either enclosed by fire resisting glazing or may be provided with a smoke and heat control system that will keep escape routes clear for sufficient time to allow the occupants to escape.     /     Nhìn chung các giếng trời có thể được khép kín bằng kính chống cháy hoặc được cung cấp hệ thống kiểm soát khói và nhiệt giúp giữ các lối thoát hiểm thông thoáng đủ lâu để người trong tòa nhà thoát hiểm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4427,8 +4427,8 @@
       <tuv lang="EN-US">
         <seg>distributed.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T035234Z" creationid="LanHK" creationdate="20210611T035222Z">
-        <seg>The use of combustible furnishings and decorations on the floor of the atrium must be limited and sparsely distributed.     /    Việc sử dụng nội thất và trang trí dễ cháy trên mặt sàn không gian thông tầng phải được giới hạn và bố trí cách xa nhau</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T035222Z">
+        <seg>The use of combustible furnishings and decorations on the floor of the atrium must be limited and sparsely distributed.     /    Việc sử dụng nội thất và trang trí dễ cháy trên mặt sàn giếng trời phải được giới hạn và bố trí cách xa nhau</seg>
       </tuv>
     </tu>
     <tu>
@@ -4459,8 +4459,8 @@
       <tuv lang="EN-US">
         <seg>in particular the fire load in the base of the atrium must be controlled by the sprinkler system.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T061339Z" creationid="LanHK" creationdate="20210611T061335Z">
-        <seg>The entire building is to be protected throughout by an approved, supervised automatic sprinkler system and in particular the fire load in the base of the atrium must be controlled by the sprinkler system.     /     toàn bộ tòa nhà phải được bảo vệ bởi một hệ thống sprinkler tự động được phê duyệt, được giám sát và đặc biệt là sức cháy tại tầng sàn không gian thông tầng phải được kiểm soát bởi hệ thống sprinkler</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T061335Z">
+        <seg>The entire building is to be protected throughout by an approved, supervised automatic sprinkler system and in particular the fire load in the base of the atrium must be controlled by the sprinkler system.     /     toàn bộ tòa nhà phải được bảo vệ bởi một hệ thống sprinkler tự động được phê duyệt, được giám sát và đặc biệt là sức cháy tại tầng sàn giếng trời phải được kiểm soát bởi hệ thống sprinkler</seg>
       </tuv>
     </tu>
     <tu>
@@ -4547,16 +4547,16 @@
       <tuv lang="EN-US">
         <seg>roof and adjacent to each return air intake from the atrium. Beam type smoke detectors must be provided within the atrium.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T044839Z" creationid="LanHK" creationdate="20210611T043510Z">
-        <seg>Smoke detectors must be provided on the underside of each floor protruding into the atrium, at the atrium roof and adjacent to each return air intake from the atrium. Beam type smoke detectors must be provided within the atrium.     /    Phải có đầu báo khói dưới mỗi tầng mở ra không gian thông tầng, trên mái không gian thông tầng và liền kề các ống khí hồi từ không gian thông tầng. Phải bố trí đầu báo khói dạng tia trong không gian thông tầng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T043510Z">
+        <seg>Smoke detectors must be provided on the underside of each floor protruding into the atrium, at the atrium roof and adjacent to each return air intake from the atrium. Beam type smoke detectors must be provided within the atrium.     /    Phải có đầu báo khói dưới mỗi tầng mở ra giếng trời, trên mái giếng trời và liền kề các ống khí hồi từ giếng trời. Phải bố trí đầu báo khói dạng tia trong giếng trời</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>self-closing, fire resisting doors.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T045652Z" creationid="LanHK" creationdate="20210611T045652Z">
-        <seg>The atrium must be separated from adjacent spaces by at least 60 minute fire resisting construction with self-closing, fire resisting doors.     /     Không gian thông tầng phải được tách biệt với các không gian liền kể bởi kết cấu chống cháy tối thiểu 60p với cửa chống cháy tự đóng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T045652Z">
+        <seg>The atrium must be separated from adjacent spaces by at least 60 minute fire resisting construction with self-closing, fire resisting doors.     /     giếng trời phải được tách biệt với các không gian liền kể bởi kết cấu chống cháy tối thiểu 60p với cửa chống cháy tự đóng</seg>
       </tuv>
     </tu>
     <tu>
