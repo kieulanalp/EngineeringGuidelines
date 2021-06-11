@@ -5,4 +5,4 @@ Means of Escape	Lối thoát hiểm
 sprinkler protected building	tòa nhà có sprinkler	Guestroom dead-end corridors must not exceed 8m or 15m in a sprinkler protected building
 sealed shut	đóng kín
 escape stair	thang bộ thoát hiểm
-atrium	không gian thông tầng
+atrium	giếng trời
