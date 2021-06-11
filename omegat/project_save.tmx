@@ -4289,6 +4289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where escape routes pass through the atrium at upper levels a smoke and heat control system must be provided that will keep escape routes clear for sufficient time to allow the occupants to escape.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T093730Z" creationid="LanHK" creationdate="20210611T093730Z">
+        <seg>Where escape routes pass through the atrium at upper levels a smoke and heat control system must be provided that will keep escape routes clear for sufficient time to allow the occupants to escape.     /     Nếu có đường thoát hiểm dẫn qua các tầng trên của giếng trời,  cần có hệ thống kiểm soát khói và nhiệt giúp giữ các lối thoát hiểm thông thoáng đủ lâu để người trong tòa nhà thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where exits open onto roadways, into service yards and similar areas they must discharge onto pavements protected by barriers to prevent guests spilling onto the road or from being struck by vehicles.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T110042Z" creationid="PHUONG.DTM" creationdate="20210603T110042Z">
