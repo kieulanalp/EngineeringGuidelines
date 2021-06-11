@@ -2233,6 +2233,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It must be emphasized that the actual fire protection measures provided must be determined by a suitably qualified fire engineer taking into account local codes and regulations, IHG standards and the individual design of the building. Full details of these measures including calculations and modeling must be provided to IHG for approval prior to installation and IHG reserves the right to have these reviewed by a third party fire engineer at the applicants expense.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210611T033757Z" creationid="LanHK" creationdate="20210611T033757Z">
+        <seg>It must be emphasized that the actual fire protection measures provided must be determined by a suitably qualified fire engineer taking into account local codes and regulations, IHG standards and the individual design of the building. Full details of these measures including calculations and modeling must be provided to IHG for approval prior to installation and IHG reserves the right to have these reviewed by a third party fire engineer at the applicants expense    /    Cần phải nhấn mạnh rằng các biện pháp PCCC cần được xác định bởi một kỹ sư PCCC có chuyên môn, cân nhắc các quy chế và quy định địa phương, tiêu chuẩn IHG và thiết kế của tiêng tòa nhà. Chi tiết đầy đủ về các biện pháp này bao gồm tính toán và dựng mẫu cần được trình cho IHG phê duyệt trước khi lắp đặt và IHG có quyền yêu cầu một bên kỹ sư PCCC thứ ba xem xét các tài liệu này do bên đề xuất chi trả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It must not have perforations</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T045925Z" creationid="PHUONG.DTM" creationdate="20210605T045925Z">
