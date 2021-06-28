@@ -2151,6 +2151,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In each room/area containing fossil fuel burning equipment (within 4.5m/15ft of the equipment unless</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T060809Z" creationid="Kieu Lan" creationdate="20210628T060809Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>electromagnetic fastenings - chốt điện từ???</note>
       <tuv lang="EN-US">
         <seg>In exceptional circumstances it may be necessary to provide additional security on exit doors and this can be done by providing electromagnetic fastenings. Where electromagnetic fastenings are proposed they must meet the following requirements</seg>
@@ -4693,6 +4701,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T085753Z" creationid="LanHK" creationdate="20210611T085500Z">
         <seg>The glass is supported in a steel frame held in place by a gasket system which permits the glass framing system to deflect without loading the glass before the sprinklers operate      /     Kính được gắn trong khung thép, cố định bằng gioăng, cho phép hệ khung kính biến dạng mà không gây vỡ kính trước khi sprinkler hoạt động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the manufacturer’s instructions specify otherwise)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T060837Z" creationid="Kieu Lan" creationdate="20210628T060837Z">
+        <seg>In each room/area containing fossil fuel burning equipment (within 4.5m/15ft of the equipment unless (the manufacturer’s instructions specify otherwise)     /     Trong mỗi phòng/khu vực có thiết bị đốt nhiên liệu hóa thạch (trừ khi hướng dẫn của nhà sản xuất hướng dẫn khác)</seg>
       </tuv>
     </tu>
     <tu>
