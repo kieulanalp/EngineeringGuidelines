@@ -151,6 +151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>800mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043513Z" creationid="Kieu Lan" creationdate="20210629T043513Z">
+        <seg>800mm     /     Thang máy nên có (các) cửa với độ rộng thông thủy 800mm khi mở</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90 Minutes fire resisting structure</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T012756Z" creationid="LanHK" creationdate="20210603T012756Z">
@@ -976,14 +984,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Door to the lift</seg>
-      </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T034704Z" creationid="PHUONG.DTM" creationdate="20210605T034532Z">
-        <seg>Door to the lift         /         Cửa tới thang chống cháy tối thiểu 2 giờ. Toàn bộ bảng điều khiển thang, cả bên trong và tại tầng kết thúc phải có cao độ không thấp hơn 900mm và không cao hơn 1200mm ở khoảng cách 400mm từ tường trước mặt.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Doors and door frames in fire resisting walls including those to stairs, linen chutes, service riser shafts and elevator landing doors must be fire resisting. The minimum fire resistance is detailed in the table below:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T050347Z" creationid="LanHK" creationdate="20210602T050347Z">
@@ -1018,9 +1018,6 @@
       <note>a door edge pressure system???	</note>
       <tuv lang="EN-US">
         <seg>Doors to the lift should stay in the full opening position for 5 seconds before closing. The system may</seg>
-      </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041031Z" creationid="PHUONG.DTM" creationdate="20210605T041031Z">
-        <seg>Doors to the lift should stay in the full opening position for 5 seconds before closing. The system may         /         Cửa thang phải ở trạng thái mở hoàn toàn trong vòng 5 giây trước khi đóng. Hệ thống có thể được ghi đè và mở lại bằng thiết bị điện tử phù hợp, tuy nhiên không phải là hệ thống áp suất cạnh cửa </seg>
       </tuv>
     </tu>
     <tu>
@@ -3055,8 +3052,8 @@
       <tuv lang="EN-US">
         <seg>Ramps may be used for means of escape for wheelchair users providing they meet the following dimensions</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041154Z" creationid="PHUONG.DTM" creationdate="20210605T041154Z">
-        <seg>Ramps may be used for means of escape for wheelchair users providing they meet the following dimensions        /         Có thể sử dụng dốc như lối thoát hiểm cho người dùng xe lăn miễn là tuân thủ theo các kích thước và yêu cầu sau:</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043557Z" creationid="PHUONG.DTM" creationdate="20210605T041154Z">
+        <seg>Ramps may be used for means of escape for wheelchair users providing they meet the following dimensions and requirements:        /         Có thể sử dụng dốc như lối thoát hiểm cho người dùng xe lăn miễn là tuân thủ theo các kích thước và yêu cầu sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4535,6 +4532,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and requirements:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043605Z" creationid="Kieu Lan" creationdate="20210629T043605Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and routed through an area of low fire risk</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041904Z" creationid="Kieu Lan" creationdate="20210629T041904Z">
@@ -4703,10 +4708,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>minimum load capacity of 400kg</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043437Z" creationid="Kieu Lan" creationdate="20210629T043437Z">
+        <seg>minimum load capacity of 400kg     /     Thang máy nên có tải trọng tối thiểu 400kg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>more than 300mm from the glass</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T072121Z" creationid="LanHK" creationdate="20210611T072121Z">
         <seg>Fast response automatic sprinklers are spaced 1800mm apart or less along both sides of the glass and not more than 300mm from the glass     /     sprinkler tự động phản ứng nhanh được bố trí cách nhau 1800mm hoặc ít hơn dọc hai bên kính và cách mặt kính không quá 300mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>more that 1200mm at a distance of at least 400 from the front wall</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043551Z" creationid="Kieu Lan" creationdate="20210629T043551Z">
+        <seg>more that 1200mm at a distance of at least 400 from the front wall         /         Cửa tới thang chống cháy tối thiểu 2 giờ. Toàn bộ bảng điều khiển thang, cả bên trong và tại tầng kết thúc phải có cao độ không thấp hơn 900mm và không cao hơn 1200mm ở khoảng cách 400mm từ tường trước mặt.</seg>
       </tuv>
     </tu>
     <tu>
