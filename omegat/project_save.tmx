@@ -487,6 +487,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>không hiểu :v</note>
+      <tuv lang="EN-US">
+        <seg>As far as possible signs must be mounted at the same height throughout an escape route</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>As well as limiting the use and combustible materials at the base of the atrium, a smoke control system must be provided, where the escape routes are open to the atrium. Where they are not, only a smoke clearance system needs to be provided.</seg>
       </tuv>
@@ -2249,8 +2255,8 @@
       <tuv lang="EN-US">
         <seg>In large open spaces such as hotel lobbies signs may be mounted higher than 2.5m but care must be taken</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T043342Z" creationid="PHUONG.DTM" creationdate="20210604T043342Z">
-        <seg>In large open spaces such as hotel lobbies signs may be mounted higher than 2.5m but care must be taken       /       Tại các không gian lớn như sảnh khách sạn, biển có thể gắn tại cao độ lớn hơn 2.5m nhưng phải đảm bảo biển dễ nhìn thấy được. </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042054Z" creationid="PHUONG.DTM" creationdate="20210604T043342Z">
+        <seg>In large open spaces such as hotel lobbies signs may be mounted higher than 2.5m but care must be taken to ensure that they can easily seen       /       Tại các không gian lớn như sảnh khách sạn, biển có thể gắn tại cao độ lớn hơn 2.5m nhưng phải đảm bảo biển dễ nhìn thấy được. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3289,8 +3295,8 @@
       <tuv lang="EN-US">
         <seg>Signs above doors must be between 2m and 2.5m above the</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T043226Z" creationid="PHUONG.DTM" creationdate="20210604T043120Z">
-        <seg>Signs above doors must be between 2m and 2.5m above the      /       Các biển phía trên cửa phải ở cao độ giữa 2m và 2.5m so với sàn.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042148Z" creationid="PHUONG.DTM" creationdate="20210604T043120Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3899,8 +3905,8 @@
       <tuv lang="EN-US">
         <seg>The notice should be as graphical as possible so that it can be understood by the widest number of people</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T044847Z" creationid="PHUONG.DTM" creationdate="20210604T044847Z">
-        <seg>The notice should be as graphical as possible so that it can be understood by the widest number of people        /       Thông báo càng bằng hình ảnh càng tốt để hiểu được bởi số đông, không bị cản trở bởi ngôn ngữ.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042019Z" creationid="PHUONG.DTM" creationdate="20210604T044847Z">
+        <seg>The notice should be as graphical as possible so that it can be understood by the widest number of people irrespective of their language        /       Thông báo càng bằng hình ảnh càng tốt để hiểu được bởi số đông, không bị cản trở bởi ngôn ngữ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4649,6 +4655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>floor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042156Z" creationid="Kieu Lan" creationdate="20210629T042156Z">
+        <seg>Signs above doors must be between 2m and 2.5m above the floor      /       Các biển phía trên cửa phải ở cao độ giữa 2m và 2.5m so với sàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>free from holes</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073619Z" creationid="LanHK" creationdate="20210609T073619Z">
@@ -4668,6 +4682,14 @@
         <seg>instructions on how to use the communications</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041925Z" creationid="Kieu Lan" creationdate="20210629T041925Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>irrespective of their language</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042011Z" creationid="Kieu Lan" creationdate="20210629T042011Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4813,6 +4835,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T032803Z" creationid="LanHK" creationdate="20210610T032803Z">
         <seg>to be the primary fire command centre such as the main reception or security office (24 hours manned) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to ensure that they can easily seen</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042030Z" creationid="Kieu Lan" creationdate="20210629T042030Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
