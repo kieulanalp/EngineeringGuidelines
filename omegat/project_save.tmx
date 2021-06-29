@@ -191,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A carbon monoxide detector/alarm is not required in a kitchen. Where the only potential source of CO is gas kitchen equipment, there should be written certification from a professional engineer that it has been installed and complies with local codes and the manufacturers installation instructions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T050101Z" creationid="Kieu Lan" creationdate="20210629T050101Z">
+        <seg>A carbon monoxide detector/alarm is not required in a kitchen. Where the only potential source of CO is gas kitchen equipment, there should be written certification from a professional engineer that it has been installed and complies with local codes and the manufacturers installation instructions     /     Trong bếp không cần có đầu báo/báo động khí CO. Nơi mà nguồn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fire detection and alarm system sequence matrix- refer to example at the end of this section.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T013444Z" creationid="LanHK" creationdate="20210602T013444Z">
