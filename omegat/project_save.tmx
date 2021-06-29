@@ -3065,6 +3065,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REFER TO IHG</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T063939Z" creationid="Kieu Lan" creationdate="20210629T063936Z">
+        <seg>REFER TO IHG     /     Xem  IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REGULATORY</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T094214Z" creationid="LanHK" creationdate="20210525T094214Z">
