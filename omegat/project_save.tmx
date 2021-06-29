@@ -3642,6 +3642,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TO HEAT EXCHANGER ROOM</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T065340Z" creationid="Kieu Lan" creationdate="20210629T065340Z">
+        <seg>TO HEAT EXCHANGER ROOM     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TYPICAL FIRE ALARM &amp; DETECTION SYSTEM FOR ENTRY ! LOBBY / PUBLIC AREA LEVELS</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
