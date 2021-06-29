@@ -2016,8 +2016,8 @@
       <tuv lang="EN-US">
         <seg>Have direct two-way communication with a continuously staffed position such as reception with</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110433Z" creationid="PHUONG.DTM" creationdate="20210604T110433Z">
-        <seg>Have direct two-way communication with a continuously staffed position such as reception with        /         Có kết nối 2 chiều trực tiếp với vị trí luôn có nhân viên trực ví dụ sảnh lễ tân với hướng dẫn bằng các nào để sử dụng kết nối.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041934Z" creationid="PHUONG.DTM" creationdate="20210604T110433Z">
+        <seg>Have direct two-way communication with a continuously staffed position such as reception with instructions on how to use the communications        /         Có kết nối 2 chiều trực tiếp với vị trí luôn có nhân viên trực ví dụ sảnh lễ tân với hướng dẫn bằng các nào để sử dụng kết nối.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3658,8 +3658,8 @@
       <tuv lang="EN-US">
         <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T030650Z" creationid="PHUONG.DTM" creationdate="20210605T025912Z">
-        <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply        /         Cáp truyền tải nguồn điện dự phòng phải độc lập khỏi nguồn chính và đi dây trong không gian có khả năng cháy thấp.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041921Z" creationid="PHUONG.DTM" creationdate="20210605T025912Z">
+        <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply and routed through an area of low fire risk        /         Cáp truyền tải nguồn điện dự phòng phải độc lập khỏi nguồn chính và đi dây trong không gian có khả năng cháy thấp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3859,8 +3859,8 @@
       <tuv lang="EN-US">
         <seg>The location of disabled guestrooms - evacuation of disabled guests from ground floor guestrooms will be</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104052Z" creationid="PHUONG.DTM" creationdate="20210604T104052Z">
-        <seg>The location of disabled guestrooms - evacuation of disabled guests from ground floor guestrooms will be         /         Vị trí của các phòng người khuyết tật - sơ tán khách là người khuyết tật từ phòng khách tầng mặt đất sẽ dễ dàng hơn nhiều so với ở các tầng cao. Nếu không có tầng phòng khách tại tầng mặt đất, các phòng cho người khuyết tật cần bố trí gần với thang bộ thoát hiểm và thang máy phòng cháy. </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041940Z" creationid="PHUONG.DTM" creationdate="20210604T104052Z">
+        <seg>The location of disabled guestrooms - evacuation of disabled guests from ground floor guestrooms will be much quicker and easier than from guestrooms on upper floors. Where there are no ground floor guestrooms those for use by disabled guests should be located close to fire protected stairs and evacuation lifts where they are provided.         /         Vị trí của các phòng người khuyết tật - sơ tán khách là người khuyết tật từ phòng khách tầng mặt đất sẽ dễ dàng hơn nhiều so với ở các tầng cao. Nếu không có tầng phòng khách tại tầng mặt đất, các phòng cho người khuyết tật cần bố trí gần với thang bộ thoát hiểm và thang máy phòng cháy. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3907,8 +3907,8 @@
       <tuv lang="EN-US">
         <seg>The number of disabled guestrooms - this must depend upon the number of staff available at all times to</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T102230Z" creationid="PHUONG.DTM" creationdate="20210604T102230Z">
-        <seg>The number of disabled guestrooms - this must depend upon the number of staff available at all times to         /        Số lượng phòng người khuyết tật - việc này phải phụ thuộc số lượng nhân viên trực tại mọi thời điểm để cung cấp các mức độ hỗ trợ cần thiết cho khách khuyết tât.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041959Z" creationid="PHUONG.DTM" creationdate="20210604T102230Z">
+        <seg>The number of disabled guestrooms - this must depend upon the number of staff available at all times to provide the necessary level of assistance to disabled guests.         /        Số lượng phòng người khuyết tật - việc này phải phụ thuộc số lượng nhân viên trực tại mọi thời điểm để cung cấp các mức độ hỗ trợ cần thiết cho khách khuyết tật.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4665,6 +4665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>instructions on how to use the communications</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041925Z" creationid="Kieu Lan" creationdate="20210629T041925Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>locked shut</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T075038Z" creationid="LanHK" creationdate="20210609T075038Z">
@@ -4685,6 +4693,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T072121Z" creationid="LanHK" creationdate="20210611T072121Z">
         <seg>Fast response automatic sprinklers are spaced 1800mm apart or less along both sides of the glass and not more than 300mm from the glass     /     sprinkler tự động phản ứng nhanh được bố trí cách nhau 1800mm hoặc ít hơn dọc hai bên kính và cách mặt kính không quá 300mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>much quicker and easier than from guestrooms on upper floors. Where there are no ground floor guestrooms those for use by disabled guests should be located close to fire protected stairs and evacuation lifts where they are provided.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041944Z" creationid="Kieu Lan" creationdate="20210629T041944Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -4733,6 +4749,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073654Z" creationid="LanHK" creationdate="20210609T073623Z">
         <seg>Free from projections that may cause trips          /       Không có các yếu tố chìa ra có thể gây vấp ngã</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>provide the necessary level of assistance to disabled guests.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041951Z" creationid="Kieu Lan" creationdate="20210629T041951Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
