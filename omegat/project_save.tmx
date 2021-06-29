@@ -1015,7 +1015,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>a door edge pressure system???	</note>
       <tuv lang="EN-US">
         <seg>Doors to the lift should stay in the full opening position for 5 seconds before closing. The system may</seg>
       </tuv>
@@ -1739,8 +1738,8 @@
       <tuv lang="EN-US">
         <seg>For alarms installed within corridors/common areas, the alarm should be clearly audible in all bedrooms over background noise levels and with all intervening doors closed with a minimum rating of 85dBA at 3m/10 ft. If the alarm is intended to notify sleeping occupants in the same room, the sound pressure level is permitted to be 75dBA at 3m/10 ft.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T070639Z" creationid="Kieu Lan" creationdate="20210628T070639Z">
-        <seg>For alarms installed within corridors/common areas, the alarm should be clearly audible in all bedrooms over background noise levels and with all intervening doors closed with a minimum rating of 85dBA at 3m/10 ft. If the alarm is intended to notify sleeping occupants in the same room, the sound pressure level is permitted to be 75dBA at 3m/10 ft.     /     Đối với báo động lắp đặt trong khu vực chung/hành lang, báo động nên </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T045043Z" creationid="Kieu Lan" creationdate="20210628T070639Z">
+        <seg>For alarms installed within corridors/common areas, the alarm should be clearly audible in all bedrooms over background noise levels and with all intervening doors closed with a minimum rating of 85dBA at 3m/10 ft. If the alarm is intended to notify sleeping occupants in the same room, the sound pressure level is permitted to be 75dBA at 3m/10 ft.     /     Đối với báo động lắp đặt trong khu vực chung/hành lang, báo động nên được nghe thấy rõ trong tất cả các phòng ngủ, bất chấp tiếng ồn môi trường và với tất cả các cửa giữa báo động và phòng ngủ đóng, ở mức tối thiểu 85dBA cách 3m. Nếu báo động nhằm để cảnh báo người đang ngủ trong phòng, áp suất âm thanh được phép ở mức 75dBA cách 3m</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,6 +4567,15 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T040503Z" creationid="LanHK" creationdate="20210610T040503Z">
         <seg>Where the route leads to an escape stair or route within the building this must be fire protected and access back into the building must only be secured by panic fastenings    /    Nếu lối thoát dẫn đến thang bộ thoát hiểm hoặc lối đi trong tòa nhà, lối đi phải chống cháy và cửa dẫn vào trong toàn nhà phải có thanh đẩy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>a door edge pressure system???</note>
+      <tuv lang="EN-US">
+        <seg>be overridden and re-opened by an appropriate electronic device but NOT a door edge pressure system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T044819Z" creationid="Kieu Lan" creationdate="20210629T044819Z">
+        <seg>be overridden and re-opened by an appropriate electronic device but NOT a door edge pressure system        /         Cửa thang phải ở trạng thái mở hoàn toàn trong vòng 5 giây trước khi đóng. Hệ thống có thể được ghi đè và mở lại bằng thiết bị điện tử phù hợp, tuy nhiên không phải là hệ thống áp suất cạnh cửa </seg>
       </tuv>
     </tu>
     <tu>
