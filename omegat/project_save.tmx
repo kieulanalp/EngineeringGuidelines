@@ -3087,8 +3087,8 @@
       <tuv lang="EN-US">
         <seg>Refuges - these are places of relative safety where disabled people can await assistance from hotel staff to</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104440Z" creationid="PHUONG.DTM" creationdate="20210604T104440Z">
-        <seg>Refuges - these are places of relative safety where disabled people can await assistance from hotel staff to        /         Nơi lánh nạn - là vị trí tương đối an toàn mà người khuyết tật có thể chờ hỗ trợ từ nhân viên khách sạn tới hỗ trợ thoát hiểm. Nơi lánh nạn phải: </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042440Z" creationid="PHUONG.DTM" creationdate="20210604T104440Z">
+        <seg>Refuges - these are places of relative safety where disabled people can await assistance from hotel staff to assist them in escaping. Refuges must:        /         Nơi lánh nạn - là vị trí tương đối an toàn mà người khuyết tật có thể chờ hỗ trợ từ nhân viên khách sạn tới hỗ trợ thoát hiểm. Nơi lánh nạn phải: </seg>
       </tuv>
     </tu>
     <tu>
@@ -4559,6 +4559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>assist them in escaping. Refuges must:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042435Z" creationid="Kieu Lan" creationdate="20210629T042435Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>back into the building must only be secured by panic fastenings</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T040503Z" creationid="LanHK" creationdate="20210610T040503Z">
@@ -4759,10 +4767,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>perspective</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042432Z" creationid="Kieu Lan" creationdate="20210629T042432Z">
+        <seg>plan must be oriented so that it shows the layout of the floor from the guest or meeting room perspective        /       Sơ đồ phải được định hướng để thể hiện mặt bằng tầng từ vị thế của khách hoặc phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>plan must be oriented so that it shows the layout of the floor from the guest or meeting room</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T045114Z" creationid="PHUONG.DTM" creationdate="20210604T045009Z">
-        <seg>plan must be oriented so that it shows the layout of the floor from the guest or meeting room        /       Sơ đồ phải được định hướng để thể hiện mặt bằng tầng từ vị thế của khách hoặc phòng họp.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042404Z" creationid="PHUONG.DTM" creationdate="20210604T045009Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
