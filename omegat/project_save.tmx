@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DEDICATED FIRE MAIN DUAL INCOMING SUPPLIES FROM MAINS WHERE PRESSURE PERMITS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064602Z" creationid="Kieu Lan" creationdate="20210629T064602Z">
+        <seg>DEDICATED FIRE MAIN DUAL INCOMING SUPPLIES FROM MAINS WHERE PRESSURE PERMITS     /     Nguồn cấp đầu vào kép cho đường ống chính chữa cháy chuyên dụng từ nguồn nước ở nơi có áp suất cho phép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESIGN FOR APPROVAL</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T014650Z" creationid="LanHK" creationdate="20210602T014650Z">
