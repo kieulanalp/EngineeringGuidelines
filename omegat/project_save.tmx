@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-REFER TO IHG GLOBAL TECHNOLOGY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064212Z" creationid="Kieu Lan" creationdate="20210629T064212Z">
+        <seg>-REFER TO IHG GLOBAL TECHNOLOGY     /     xem Tiêu chuẩn Kỹ thuật toàn cầu IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-TO ALLOW FOR MULTIPLE PROVIDERS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064225Z" creationid="Kieu Lan" creationdate="20210629T064225Z">
+        <seg>-TO ALLOW FOR MULTIPLE PROVIDERS     /     Cho phép sử dụng nhiều nhà cung cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1. POSITION LARGE ELECTRICITY CONSUMING PLANT NEAR MAIN SUPPLY SOURCE TO REDUCE VOLTAGE DROP etc 2 ÇËNTRALISE’PLANT ANO RISERS to AID BALANCING, TO REDUCE PIPE HEAT LOSSES / GAINS AND TO REDUii</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -91,6 +107,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T014517Z" creationid="LanHK" creationdate="20210611T014456Z">
         <seg>2.8.1 Stair Pressurization System    /    Hệ thống tăng áp thang bộ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>24 HOUR ACCESS BY AUTHORITY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064242Z" creationid="Kieu Lan" creationdate="20210629T064242Z">
+        <seg>24 HOUR ACCESS BY AUTHORITY     /     Người có thẩm quyền có thể tiếp cận 24h</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COMMUNICATIONS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064155Z" creationid="Kieu Lan" creationdate="20210629T064155Z">
+        <seg>COMMUNICATIONS     /     KẾT NỐI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMPETENT ENGINEERS&amp; ARCHITECT</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T021701Z" creationid="LanHK" creationdate="20210602T021701Z">
@@ -860,6 +892,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070107Z">
         <seg>DOCUMENT VERIFICATION    /    XÁC NHẬN VĂN BẢN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOMESTIC WATER</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064352Z" creationid="Kieu Lan" creationdate="20210629T064352Z">
+        <seg>DOMESTIC WATER     /     Nước dân dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -4127,6 +4167,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T035230Z" creationid="LanHK" creationdate="20210611T035230Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064140Z" creationid="Kieu Lan" creationdate="20210629T064140Z">
+        <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:     /     Phải tiến hành nghiên cứu mức độ đáng tin cậy đối với dịch vụ điện nước để thể hiện số giờ cung cấp mỗi năm, nhưng các nguyên tắc chung được liệt kê dưới đây </seg>
       </tuv>
     </tu>
     <tu>
