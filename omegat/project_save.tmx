@@ -1776,6 +1776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fossil fuel is defined as including coal, natural gas, kerosene, oil, propane and wood.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T063838Z" creationid="Kieu Lan" creationdate="20210629T063838Z">
+        <seg>Fossil fuel is defined as including coal, natural gas, kerosene, oil, propane and wood.     /     Nhiên liệu hóa thạch bao gồm than, khí ga tự nhiên, dầu kerosene, dầu, propane và gỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Four Pipe Fan Units</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091906Z">
