@@ -3301,14 +3301,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Signs indicating escape routes must have a directional arrow</seg>
-      </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042935Z" creationid="PHUONG.DTM" creationdate="20210604T042935Z">
-        <seg>Signs indicating escape routes must have a directional arrow      /      Các biển chỉ hướng thoát nạn phải có mũi tên chỉ hướng, tuy nhiên không sử dụng chỉ riêng mũi tên. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Signs on walls must be between 1.7m and 2m above the floor</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T043210Z" creationid="PHUONG.DTM" creationdate="20210604T043210Z">
@@ -4169,8 +4161,8 @@
       <tuv lang="EN-US">
         <seg>They must include a pictogram ("running man") to overcome language problems (or symbol universally</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T042734Z" creationid="PHUONG.DTM" creationdate="20210604T042734Z">
-        <seg>They must include a pictogram ("running man") to overcome language problems (or symbol universally      /       Phải bao gồm một biểu tượng người chạy thoát hiểm để tránh vấn đề ngôn ngữ (hoặc biểu tượng quốc tế được công nhận) </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042216Z" creationid="PHUONG.DTM" creationdate="20210604T042734Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -4751,6 +4743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>on their own</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042330Z" creationid="Kieu Lan" creationdate="20210629T042330Z">
+        <seg>on their own     /     Các biển chỉ hướng thoát nạn phải có mũi tên chỉ hướng, tuy nhiên không sử dụng chỉ riêng mũi tên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>plan must be oriented so that it shows the layout of the floor from the guest or meeting room</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T045114Z" creationid="PHUONG.DTM" creationdate="20210604T045009Z">
@@ -4779,6 +4779,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041951Z" creationid="Kieu Lan" creationdate="20210629T041951Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>recognized)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042228Z" creationid="Kieu Lan" creationdate="20210629T042228Z">
+        <seg>They must include a pictogram ("running man") to overcome language problems (or symbol universally recognized)      /       Phải bao gồm một biểu tượng người chạy thoát hiểm để tránh vấn đề ngôn ngữ (hoặc biểu tượng quốc tế được công nhận) </seg>
       </tuv>
     </tu>
     <tu>
