@@ -1504,6 +1504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FRONT OF BUILDING</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T020419Z" creationid="LanHK" creationdate="20210701T020419Z">
+        <seg>FRONT OF BUILDING     /     Trước tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>False ceiling</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T050113Z" creationid="LanHK" creationdate="20210602T050113Z">
@@ -1884,6 +1892,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103905Z" creationid="LanHK" creationdate="20210602T103905Z">
         <seg>60 minute self-closing and locking fire resisting door at each floor        /       Cửa chống cháy 60p tự đóng và tự khóa tại mỗi tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gas must be provided to the site from the local service provider, and must enter the property in a position that allows unobstructed 24-hour clear access by the utility company. The gas meter and governor assembly together with any gas booster entry point must be at the rear of the building, not accessible by the public, and a dedicated meter room located on an external wall with facility for isolation must be provided to comply with the local regulatory requirements. The gas supply must have an automatic solenoid shut off valve to isolate the gas supply in the event of a fire alarm. If natural gas is to be used without back up it should be available for 95% of the time.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T022424Z" creationid="LanHK" creationdate="20210701T022424Z">
+        <seg>Gas must be provided to the site from the local service provider, and must enter the property in a position that allows unobstructed 24-hour clear access by the utility company. The gas meter and governor assembly together with any gas booster entry point must be at the rear of the building, not accessible by the public, and a dedicated meter room located on an external wall with facility for isolation must be provided to comply with the local regulatory requirements. The gas supply must have an automatic solenoid shut off valve to isolate the gas supply in the event of a fire alarm. If natural gas is to be used without back up it should be available for 95% of the time.     /     </seg>
       </tuv>
     </tu>
     <tu>
@@ -3101,6 +3117,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T075050Z" creationid="LanHK" creationdate="20210610T074527Z">
         <seg>Pump or accumulator    /    Bơm hoặc bình nén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REAR OF BUILDING</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T020413Z" creationid="LanHK" creationdate="20210701T020413Z">
+        <seg>REAR OF BUILDING     /     Sau tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
