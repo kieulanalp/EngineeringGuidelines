@@ -4924,6 +4924,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Xenon beacons to be provided in the disabled toilets, mechanical plant rooms and any areas with high noise</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T101754Z" creationid="LanHK" creationdate="20210702T101754Z">
+        <seg>Xenon beacons to be provided in the disabled toilets, mechanical plant rooms and any areas with high noise levels.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>YES</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T045513Z" creationid="LanHK" creationdate="20210505T045513Z">
@@ -4960,6 +4968,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091417Z" creationid="LanHK" creationdate="20210702T091417Z">
         <seg>a) Self-Contained (minimum 1 hour or 90 minutes for Asia)     /     a) Pin tích hợp (tối thiểu 1h hoặc 90p đối với châu Á)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and front and back of house areas.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T101740Z" creationid="LanHK" creationdate="20210702T101740Z">
+        <seg>and front and back of house areas.     /     Loa thông báo sơ tán bằng giọng nói hoặc báo động cháy có giọng nói phải được bố trí tại tất cả các phòng khách và khu FOH, BOH</seg>
       </tuv>
     </tu>
     <tu>
