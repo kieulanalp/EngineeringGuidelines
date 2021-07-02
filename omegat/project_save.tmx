@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battery life is circa 10 years</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084400Z" creationid="LanHK" creationdate="20210702T084400Z">
+        <seg>Battery life is circa 10 years     /     Vòng đời pin khoảng 10 năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be at least 760 x 1200mm in size</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104536Z" creationid="PHUONG.DTM" creationdate="20210604T104536Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091247Z">
         <seg>Central Heating and Chilling Plant    /    Cụm máy sưởi và làm lạnh trung tâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Central Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084254Z" creationid="LanHK" creationdate="20210702T084254Z">
+        <seg>Central Systems     /     Các hệ thống trung tâm</seg>
       </tuv>
     </tu>
     <tu>
@@ -1068,6 +1084,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T032807Z" creationid="LanHK" creationdate="20210611T032807Z">
         <seg>Diagrammatic Layout of Stair and Lift Pressurization Systems    /    Sơ đồ nguyên tắc hệ thống tăng áp thang bộ và thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disadvantages are:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084210Z" creationid="LanHK" creationdate="20210702T084210Z">
+        <seg>Disadvantages are:     /     Khuyết điểm là:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2312,6 +2336,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IHG preference is for a central battery system due to its life cycle cost benefits and the following advantages:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084355Z" creationid="LanHK" creationdate="20210702T084355Z">
+        <seg>IHG preference is for a central battery system due to its life cycle cost benefits and the following advantages:     /     IHG ưu tiên sử dụng hệ thống pin trung tâm do ưu thế về lợi ích và chi phí trong vòng đời hệ thống và các ưu điểm sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INTRODUCTION</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071157Z">
@@ -2467,8 +2499,8 @@
       <tuv lang="EN-US">
         <seg>Individually controlled / tested</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Individually controlled    /    tested</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084247Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Individually controlled/tested     /     Kiểm soát/ Kiểm tra độc lập</seg>
       </tuv>
     </tu>
     <tu>
@@ -3307,8 +3339,16 @@
       <tuv lang="EN-US">
         <seg>Relatively low installation cost</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210702T084118Z" creationid="LanHK" creationdate="20210702T084118Z">
-        <seg>Relatively low installation cost     /     Phí lắp đặt tương đối thấp`</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084120Z" creationid="LanHK" creationdate="20210702T084118Z">
+        <seg>Relatively low installation cost     /     Phí lắp đặt tương đối thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relatively short battery life (circa 3 years)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084226Z" creationid="LanHK" creationdate="20210702T084226Z">
+        <seg>Relatively short battery life (circa 3 years)     /     Vòng đời pin tương đối ngắn (khoảng 3 năm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3537,6 +3577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slave luminaires can be centrally controlled.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084432Z" creationid="LanHK" creationdate="20210702T084432Z">
+        <seg>Slave luminaires can be centrally controlled.     /     Đèn chiếu sáng thuộc nhánh con có thể điều khiển từ hệ thống trung tâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke Control</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T040433Z" creationid="LanHK" creationdate="20210505T040433Z">
@@ -3646,6 +3694,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110853Z" creationid="PHUONG.DTM" creationdate="20210604T110853Z">
         <seg>Space occupied by flow of people escaping        /         Không gian chiếm bởi dòng người thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special fire rated wiring to the luminaire is not required.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084156Z" creationid="LanHK" creationdate="20210702T084156Z">
+        <seg>Special fire rated wiring to the luminaire is not required.     /     Không yêu cầu sử dụng dây điện chống cháy đặc biệt để đấu nối</seg>
       </tuv>
     </tu>
     <tu>
