@@ -423,6 +423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All in accordance with Section 1.0</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T092147Z" creationid="LanHK" creationdate="20210702T092147Z">
+        <seg>All in accordance with Section 1.0.        /         Tuân thủ theo Mục 1.0 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All in accordance with Section 1.0.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T050026Z" creationid="PHUONG.DTM" creationdate="20210605T050026Z">
@@ -5336,8 +5344,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>to be the primary fire command centre such as the main reception or security office (24 hours manned)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T032803Z" creationid="LanHK" creationdate="20210610T032803Z">
-        <seg>to be the primary fire command centre such as the main reception or security office (24 hours manned) </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T092247Z" creationid="LanHK" creationdate="20210610T032803Z">
+        <seg>to be the primary fire command centre such as the main reception or security office (24 hours manned)     /     Tủ điện chính phải được bố trí tại một vị trí luôn có nhân viên trực như quầy lễ tân chính hoặc phòng an ninh (có người trực 24h) </seg>
       </tuv>
     </tu>
     <tu>
