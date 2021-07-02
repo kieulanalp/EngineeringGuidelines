@@ -2858,6 +2858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manual call points</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T101530Z" creationid="LanHK" creationdate="20210702T101530Z">
+        <seg>Manual call points     /     Nút báo cháy khẩn cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073413Z" creationid="LanHK" creationdate="20210609T073413Z">
@@ -5274,6 +5282,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042454Z" creationid="Kieu Lan" creationdate="20210629T042454Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>receive all alarms for larger hotels. It is recommended if not mandatory as per local codes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T101702Z" creationid="LanHK" creationdate="20210702T101611Z">
+        <seg>receive all alarms for larger hotels. It is recommended if not mandatory as per local codes.     /     Thiết bị liên lạc di động có thể nhận tin nhắn chứa cả chữ và số và tích hợp với tủ báo cháy để nhận tất cả báo động đối với các khách sạn lớn. Được khuyến nghị nếu không phải là bắt buộc theo như quy định địa phương</seg>
       </tuv>
     </tu>
     <tu>
