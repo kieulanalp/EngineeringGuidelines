@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Central battery system 1.2.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091817Z" creationid="LanHK" creationdate="20210702T091817Z">
+        <seg>Central battery system 1.2.3     /     Hệ thống pin trung tâm 1.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chilled water Plant Solutions</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091331Z">
@@ -2778,6 +2786,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local emergency distribution board</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091734Z" creationid="LanHK" creationdate="20210702T091734Z">
+        <seg>Local emergency distribution board     /     Tủ điện sự cố cục bộ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locks, including guestroom key-card locks must be certified to have the same fire resistance as the door in which they are fitted.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T062218Z" creationid="LanHK" creationdate="20210602T062218Z">
@@ -2790,6 +2806,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023829Z" creationid="LanHK" creationdate="20210602T023816Z">
         <seg>Low Rise        /       Tòa nhà thấp tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luminaires</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091653Z" creationid="LanHK" creationdate="20210702T091653Z">
+        <seg>Luminaires     /     Đèn</seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,6 +3270,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T050346Z" creationid="PHUONG.DTM" creationdate="20210605T050346Z">
         <seg>Provide protection of life and property by providing both automated and manual facilities for preventing the spread of fire.        /         Cung cấp bảo vệ an toàn cho tính mạng và tòa nhà bằng việc cung cấp chức năng tự động hoặc bằng tay để ngăn cản việc lan cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide protection of life and property by the early detection and automated alarm/annunciation in the event of a fire incident to the whole hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091916Z" creationid="LanHK" creationdate="20210702T091916Z">
+        <seg>Provide protection of life and property by the early detection and automated alarm/annunciation in the event of a fire incident to the whole hotel.     /     Bảo vệ an toàn tính mạng và tài sản bằng việc phát hiện sớm và kích hoạch báo động/thông báo tự động trong trường hợp có hỏa hoạn trên toàn khách sạn</seg>
       </tuv>
     </tu>
     <tu>
