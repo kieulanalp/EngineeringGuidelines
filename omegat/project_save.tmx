@@ -3305,6 +3305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relatively low installation cost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084118Z" creationid="LanHK" creationdate="20210702T084118Z">
+        <seg>Relatively low installation cost     /     Phí lắp đặt tương đối thấp`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Release the agent into the protected areas</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T012927Z" creationid="LanHK" creationdate="20210611T012927Z">
@@ -3469,6 +3477,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083329Z">
         <seg>Selection of maximum and minimum temperatures    /    Lựa chọn nhiệt độ tối đa và tối thiểu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Self-Contained (minimum 1 hour or 90 minutes for Asia)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084038Z" creationid="LanHK" creationdate="20210702T084024Z">
+        <seg>Self-Contained (minimum 1 hour or 90 minutes for Asia)     /     Pin tích hợp (tối thiểu 1h hoặc 90p đối với châu Á)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3838,6 +3854,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T113001Z" creationid="PHUONG.DTM" creationdate="20210603T113001Z">
         <seg>The above requirements apply to exit doors that are also staff entrances and which are secured by fastenings operated by key-cards, key pads and by similar devices.      /       Các yêu cầu ở trên áp dụng cho toàn bộ các cửa thoát hiểm mà đồng thời là lối vào nhân viên và được bảo đảm an ninh bằng chốt mở bằng thẻ từ, mật mã số hoặc các thiết bị tương tự. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The advantages with self-contained emergency luminaries are:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T084109Z" creationid="LanHK" creationdate="20210702T084109Z">
+        <seg>The advantages with self-contained emergency luminaries are:     /     Lợi ích của chiếu sáng sự cố sử dụng pin tích hợp như sau:</seg>
       </tuv>
     </tu>
     <tu>
