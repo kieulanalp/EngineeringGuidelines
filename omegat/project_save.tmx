@@ -2745,6 +2745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line monitoring Charge over unit</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091456Z" creationid="LanHK" creationdate="20210702T091456Z">
+        <seg>Line monitoring Charge over unit     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linen and Refuse Chutes</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074914Z">
