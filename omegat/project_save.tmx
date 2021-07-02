@@ -2338,8 +2338,8 @@
       <tuv lang="EN-US">
         <seg>IHG preference is for a central battery system due to its life cycle cost benefits and the following advantages:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210702T084355Z" creationid="LanHK" creationdate="20210702T084355Z">
-        <seg>IHG preference is for a central battery system due to its life cycle cost benefits and the following advantages:     /     IHG ưu tiên sử dụng hệ thống pin trung tâm do ưu thế về lợi ích và chi phí trong vòng đời hệ thống và các ưu điểm sau:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091337Z" creationid="LanHK" creationdate="20210702T084355Z">
+        <seg>IHG preference is for a central battery system due to its life cycle cost benefits and the following advantages:     /     IHG ưu tiên sử dụng hệ thống pin trung tâm do ưu thế về lợi ích và chi phí vòng đời hệ thống và các ưu điểm sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3341,6 +3341,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T084120Z" creationid="LanHK" creationdate="20210702T084118Z">
         <seg>Relatively low installation cost     /     Phí lắp đặt tương đối thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relatively low life cycle costs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091346Z" creationid="LanHK" creationdate="20210702T091326Z">
+        <seg>Relatively low life cycle costs     /     Chi phí vòng đời tương đối thấp</seg>
       </tuv>
     </tu>
     <tu>
@@ -4891,6 +4899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a) Self-Contained (minimum 1 hour or 90 minutes for Asia)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091417Z" creationid="LanHK" creationdate="20210702T091417Z">
+        <seg>a) Self-Contained (minimum 1 hour or 90 minutes for Asia)     /     a) Pin tích hợp (tối thiểu 1h hoặc 90p đối với châu Á)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and requirements:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043605Z" creationid="Kieu Lan" creationdate="20210629T043605Z">
@@ -4919,6 +4935,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042435Z" creationid="Kieu Lan" creationdate="20210629T042435Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b) Central Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091433Z" creationid="LanHK" creationdate="20210702T091433Z">
+        <seg>b) Central Systems     /     b) Các hệ thống trung tâm</seg>
       </tuv>
     </tu>
     <tu>
