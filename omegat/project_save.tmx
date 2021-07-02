@@ -3585,6 +3585,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slave luminaires can be sited in hotter or colder environments than self-contained systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T091238Z" creationid="LanHK" creationdate="20210702T091238Z">
+        <seg>Slave luminaires can be sited in hotter or colder environments than self-contained systems.     /     Đèn chiếu sáng thuộc nhánh con có thể được bố trí trong môi trường nóng hoặc lạnh hơn so với các hệ thống độc lập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke Control</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T040433Z" creationid="LanHK" creationdate="20210505T040433Z">
