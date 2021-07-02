@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic and manual cut off fuel/power to kitchen equipment and boilers in a fire alarm in that area.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T075322Z" creationid="LanHK" creationdate="20210702T075322Z">
+        <seg>Automatic and manual cut off fuel/power to kitchen equipment and boilers in a fire alarm in that area.     /     Ngắt tự động và bằng tay nguồn điện/nhiên liệu cho thiết bị bếp và nồi hơi khi có báo động cháy trong khu vực đó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic fire suppression - InterContinental Hotels Group/Code (all areas to be covered)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071833Z" creationid="LanHK" creationdate="20210702T071833Z">
@@ -786,6 +794,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T050051Z" creationid="LanHK" creationdate="20210525T081149Z">
         <seg>Carbon Monoxide Detection    /    Phát khiện khí CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carbon Monoxide detection.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T075348Z" creationid="LanHK" creationdate="20210702T075348Z">
+        <seg>Carbon Monoxide detection.     /     Đầu báo khí CO</seg>
       </tuv>
     </tu>
     <tu>
@@ -1313,6 +1329,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075233Z">
         <seg>Escape Signage    /    Biển báo thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escape lighting (minimum 1lux at floor level) is provided to ensure the safe and effective evacuation of the building.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T075424Z" creationid="LanHK" creationdate="20210702T075424Z">
+        <seg>Escape lighting (minimum 1lux at floor level) is provided to ensure the safe and effective evacuation of the building.     /     Chiếu sáng thoát hiểm (tối thiểu 1lux ở mức sàn) được cung cấp để đảm bảo quá trình sơ tán an toàn và hiệu quả khỏi tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -1936,6 +1960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gas leak detection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T075331Z" creationid="LanHK" creationdate="20210702T075331Z">
+        <seg>Gas leak detection     /     Đầu báo rò rỉ khí ga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gas must be provided to the site from the local service provider, and must enter the property in a position that allows unobstructed 24-hour clear access by the utility company. The gas meter and governor assembly together with any gas booster entry point must be at the rear of the building, not accessible by the public, and a dedicated meter room located on an external wall with facility for isolation must be provided to comply with the local regulatory requirements. The gas supply must have an automatic solenoid shut off valve to isolate the gas supply in the event of a fire alarm. If natural gas is to be used without back up it should be available for 95% of the time.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T022424Z" creationid="LanHK" creationdate="20210701T022424Z">
@@ -2453,6 +2485,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T083245Z" creationid="LanHK" creationdate="20210525T083245Z">
         <seg>InterContinental Brand Standard Manual Hướng dẫn Tiêu chuẩn Thương hiệu InterContinental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InterContinental Hotels Group/Code</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T075220Z" creationid="LanHK" creationdate="20210702T075220Z">
+        <seg>Zone smoke clearance using installed air handling plant and /or dedicated smoke extraction equipment - InterContinental Hotels Group/Code     /     Thông khói cho zone sử dụng AHU và/hoặc thiết bị hút khói chuyên dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -4711,6 +4751,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T043951Z" creationid="LanHK" creationdate="20210505T043951Z">
         <seg>Yes Có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone smoke clearance using installed air handling plant and /or dedicated smoke extraction equipment -</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210702T075209Z" creationid="LanHK" creationdate="20210702T075209Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
