@@ -367,6 +367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A voice evacuation system is compulsory for new and replacement fire alarm systems unless the building is not high rise and has a sprinkler system throughout.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064749Z" creationid="Kieu Lan" creationdate="20210705T064749Z">
+        <seg>A voice evacuation system is compulsory for new and replacement fire alarm systems unless the building is not high rise and has a sprinkler system throughout.     /     Hệ thống thông báo sơ tán bằng giọng nói là bắt buộc đối với các hệ thống báo cháy mới và thay thế, trừ khi tòa nhà không phải nhà cao tầng và có hệ thống sprinkler trên khắp tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALLOWING 3m SPRAY</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071212Z" creationid="LanHK" creationdate="20210610T071212Z">
@@ -475,6 +483,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T033819Z" creationid="LanHK" creationdate="20210610T033819Z">
         <seg>All exits must not discharge into the same area such as the breakout space so that a fire cannot cut-off all means of escape.    /    Tất cả cửa thoát hiểm không được dẫn ra cùng một không gian, vd như khu breakout, để đảm bảo đám cháy không cắt đứt tất cả đường thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All fire evacuation speakers must be specifically designed for this purpose.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064938Z" creationid="Kieu Lan" creationdate="20210705T064938Z">
+        <seg>All fire evacuation speakers must be specifically designed for this purpose.     /     Tất cả loa thông báo sơ tán phải được thiết kế chuyên dụng cho mục đích này</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battery backup must be provided as an integral part of the main fire alarm panel. The batteries must be of sufficient capacity to provide standby operation for 24 hours after which sufficient capacity must remain to operate on full alarm conditions load for a minimum of one hour.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064914Z" creationid="Kieu Lan" creationdate="20210705T064914Z">
+        <seg>Battery backup must be provided as an integral part of the main fire alarm panel. The batteries must be of sufficient capacity to provide standby operation for 24 hours after which sufficient capacity must remain to operate on full alarm conditions load for a minimum of one hour.     /     Tủ báo cháy phải có pin dự phòng tích hợp. Pin phải có đủ công suất để hoạt động dự phòng trong 24 giờ, sau đó, phải có đủ công suất để hoạt động khi báo động hoạt động đầy đủ trong tối thiểu 1 giờ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Battery life is circa 10 years</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T084400Z" creationid="LanHK" creationdate="20210702T084400Z">
@@ -1019,6 +1043,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091446Z">
         <seg>Condenser Water Circuits    /    </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T065235Z" creationid="Kieu Lan" creationdate="20210705T065235Z">
+        <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.      /     Các dây nối phải được bảo vệ và phải bố trí cầu chì nhiệt để đảm bảo mahcj vẫn kín mặc dù các loa đơn lẻ có thể bị hỏng hóc do lửa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4600,6 +4632,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T040010Z" creationid="LanHK" creationdate="20210610T035857Z">
         <seg>The route must be protected by suitable barriers at least 1100mm high and with no gaps greater than 100mm to prevent falling    /    Lối thoát phải được bảo vệ bằng lan can thích hợp cao tối thiểu 110mm và không có khoảng hở lớn hơn 100m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sequence must then be repeated continuously until manually silenced.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064704Z" creationid="Kieu Lan" creationdate="20210705T064704Z">
+        <seg>The sequence must then be repeated continuously until manually silenced.     /     Toàn bộ chu trình phải được nhắc lại liên tục cho tới khi được tắt bằng tay.</seg>
       </tuv>
     </tu>
     <tu>
