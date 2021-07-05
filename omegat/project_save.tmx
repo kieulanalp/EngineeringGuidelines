@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.6.6.2 Two stage</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063519Z" creationid="Kieu Lan" creationdate="20210705T063519Z">
+        <seg>2.6.6.2 Two stage     /     Hai giai đoạn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.7.7 Kitchen Hood Suppression</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071850Z" creationid="LanHK" creationdate="20210610T071850Z">
