@@ -1864,6 +1864,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire alarm sounders must be audible throughout the building (including guest rooms and guest bathrooms) with a minimum requirement of 75dBA at the bed-head in guestrooms and 65dBA elsewhere.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064021Z" creationid="Kieu Lan" creationdate="20210705T064021Z">
+        <seg>Fire alarm sounders must be audible throughout the building (including guest rooms and guest bathrooms) with a minimum requirement of 75dBA at the bed-head in guestrooms and 65dBA elsewhere.     /     Đế âm thanh phải có thể nghe rõ trên khắp tòa nhà (bao gồm phòng khách và phòng tắm trong phòng khách) với mức âm tối thiểu 75dBA tại vách đầu giường trong phòng khách và 65dBA ở các vị trí còn lại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire and voice alarm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063926Z" creationid="Kieu Lan" creationdate="20210705T063926Z">
+        <seg>Fire and voice alarm     /     Báo động cháy và báo động bằng giọng nói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire dampers between fire zones - Code</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071921Z" creationid="LanHK" creationdate="20210702T071921Z">
@@ -3867,6 +3883,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sounders and alarm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063915Z" creationid="Kieu Lan" creationdate="20210705T063915Z">
+        <seg>Sounders and alarm     /     Đế âm thanh và báo động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Space occupied by flow of people escaping</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110853Z" creationid="PHUONG.DTM" creationdate="20210604T110853Z">
@@ -4840,6 +4864,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T044026Z" creationid="Kieu Lan" creationdate="20210705T044026Z">
         <seg>Voice Enhanced Detection &amp; Fire Alarm system     /     Hệ thống phát hiện và báo cháy với phát thanh giọng nói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voice alarms must have both a pre-recorded message in the local language and English and a sonic alarm to raise attention and for guests who may not understand the messages.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064133Z" creationid="Kieu Lan" creationdate="20210705T064133Z">
+        <seg>Voice alarms must have both a pre-recorded message in the local language and English and a sonic alarm to raise attention and for guests who may not understand the messages.     /     Báo động bằng giọng nói phải gồm cả thông báo được ghi âm sẵn bằng ngôn ngữ địa phương và tiếng anh cùng một  báo động âm thanh để thu hút sự chú ý và cho các khách có thể sẽ không hiểu thông báo giọng nói</seg>
       </tuv>
     </tu>
     <tu>
