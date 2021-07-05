@@ -1049,8 +1049,8 @@
       <tuv lang="EN-US">
         <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T065235Z" creationid="Kieu Lan" creationdate="20210705T065235Z">
-        <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.      /     Các dây nối phải được bảo vệ và phải bố trí cầu chì nhiệt để đảm bảo mahcj vẫn kín mặc dù các loa đơn lẻ có thể bị hỏng hóc do lửa.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T065917Z" creationid="Kieu Lan" creationdate="20210705T065235Z">
+        <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.      /     Các dây nối phải được bảo vệ và phải bố trí cầu chì nhiệt để đảm bảo mạch vẫn kín mặc dù các loa đơn lẻ có thể bị hỏng hóc do lửa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1856,6 +1856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Rated Protection for Voice Alarm Speaker</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T070139Z" creationid="Kieu Lan" creationdate="20210705T070139Z">
+        <seg>Fire Rated Protection for Voice Alarm Speaker     /     Bảo vệ chống cháy cho loa thông báo bằng giọng nói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire Resisting Doors</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074854Z">
@@ -1983,11 +1991,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>a fire resistant or metal cover must be provided. Where cables enter the cover???? cover là cái gì? hộp, nắp, khoang...????</note>
       <tuv lang="EN-US">
         <seg>Fire resistant internal components and cable connections must be provided and to protect the inner core of the cable where the outer fire resistant sheathing has been removed, a fire resistant or metal cover must be provided. Where cables enter the cover, further protection must be provided by fire resistant glands.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T065914Z" creationid="Kieu Lan" creationdate="20210705T065914Z">
-        <seg>Fire resistant internal components and cable connections must be provided and to protect the inner core of the cable where the outer fire resistant sheathing has been removed, a fire resistant or metal cover must be provided. Where cables enter the cover, further protection must be provided by fire resistant glands.     /     Các linh kiện bên trong và cáp nối chống cháy phải được cung cấp, và để bảo vệ lõi trong của các dây cáp khi vỏ phủ chống cháy bên ngoài đã mất đi, phải có nắp che (hộp chứa?) chống cháy hoặc bằng kim loại. Khi cáp xuyên xuyên qua , phải có </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T070016Z" creationid="Kieu Lan" creationdate="20210705T065914Z">
+        <seg>Fire resistant internal components and cable connections must be provided and to protect the inner core of the cable where the outer fire resistant sheathing has been removed, a fire resistant or metal cover must be provided. Where cables enter the cover, further protection must be provided by fire resistant glands.     /     Các linh kiện bên trong và cáp nối chống cháy phải được cung cấp, và để bảo vệ lõi trong của các dây cáp khi vỏ phủ chống cháy bên ngoài đã mất đi, phải có nắp che (hộp chứa?) chống cháy hoặc bằng kim loại. Khi cáp xuyên xuyên qua , phải có ốc siết cáp chống cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4768,6 +4777,15 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064218Z" creationid="Kieu Lan" creationdate="20210705T064218Z">
         <seg>The voice alarm must be sequenced as follows:     /     Báo động bằng giọng nói phải được ghi âm như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>multi-tapped speaker????</note>
+      <tuv lang="EN-US">
+        <seg>The voice evacuation system must consist of multi-tapped speakers to allow settings to suit mounting height locations.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T071050Z" creationid="Kieu Lan" creationdate="20210705T071050Z">
+        <seg>The voice evacuation system must consist of multi-tapped speakers to allow settings to suit mounting height locations.     /     Hệ thống thông báo sơ tán bằng giọng nói phải bao gồm các loa multi-tapped để cho phép cài đặt tùy chỉnh phù hợp với độ cao của vị trí lắp đặt</seg>
       </tuv>
     </tu>
     <tu>
