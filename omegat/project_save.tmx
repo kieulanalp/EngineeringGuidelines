@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At any time that a fire detector operates in any other part of the hotel, a MCP or a fire suppression system operates there must be an immediate alarm throughout the hotel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063908Z" creationid="Kieu Lan" creationdate="20210705T063908Z">
+        <seg>At any time that a fire detector operates in any other part of the hotel, a MCP or a fire suppression system operates there must be an immediate alarm throughout the hotel     /     Bất cứ thời điểm nào có đầu báo cháy bị kích hoạt trong bất cứ khu vực nào khác của khách sạn, một nút báo cháy khẩn cấp hoặc hệ thống chữa cháy bị kích hoạt, phải ngay lập tức có báo động trên toàn khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atriums</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070906Z" creationid="LanHK" creationdate="20210525T080643Z">
@@ -4604,6 +4612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is an immediate alarm in that guestroom and at the FIP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063548Z" creationid="Kieu Lan" creationdate="20210705T063548Z">
+        <seg>There is an immediate alarm in that guestroom and at the FIP     /     Ngay lập tức có báo động tại phòng khách đó và tại tủ báo cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There must be at least two means of escape from all areas so that if one is destructed by fire an alternative</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T012926Z" creationid="LanHK" creationdate="20210603T012926Z">
@@ -4792,6 +4808,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T050016Z" creationid="LanHK" creationdate="20210602T045145Z">
         <seg>Unoccupied attics or roof spaces must be subdivided into areas no greater than 330m2 by fire and smoke resisting separation. Each area must be provided with smoke detection and in sprinkler protected buildings over four floors in height each area must have sprinklers.        /       Các không gian gác mái hoặc mái nhà không sử dụng phải được chia thành các khoang nhỏ không quá 330m2 bằng các vách chống cháy lửa và khói. Mỗi khoang phải có đầu báo khói và trong các tòa nhà được bảo vệ bằng sprinkler cao quá 4 tầng, mỗi khoang phải có sprinkler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upon operation of a guestroom smoke detector:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063531Z" creationid="Kieu Lan" creationdate="20210705T063531Z">
+        <seg>Upon operation of a guestroom smoke detector:     /     Khi kích hoạt đầu báo khói trong phòng khách:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5262,6 +5286,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>furthest guestroom in the hotel - elevators may be used at this time. In general this should be no more than 3 minutes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063718Z" creationid="Kieu Lan" creationdate="20210705T063718Z">
+        <seg>furthest guestroom in the hotel - elevators may be used at this time. In general this should be no more than 3 minutes     /     Bắt đầu tính thời gian trì hoãn nhất định để điều tra báo động, khoảng thời gian này dựa vào thời gian cần thiết để đi đến phòng khách xa nhất trong khách sạn - trong thời gian này được phép dùng thang máy. Nhìn chung, thời gian không nên quá 3 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in particular the fire load in the base of the atrium must be controlled by the sprinkler system.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T061335Z">
@@ -5530,6 +5562,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T061020Z" creationid="Kieu Lan" creationdate="20210628T060837Z">
         <seg>In each room/area containing fossil fuel burning equipment (within 4.5m/15ft of the equipment unless the manufacturer’s instructions specify otherwise)     /     Trong mỗi phòng/khu vực có thiết bị đốt nhiên liệu hóa thạch (trong khoảng cách 4.5m từ thiết bị trừ khi hướng dẫn của nhà sản xuất hướng dẫn khác)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>there must a full alarm throughout the whole hotel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063750Z" creationid="Kieu Lan" creationdate="20210705T063750Z">
+        <seg>there must a full alarm throughout the whole hotel     /     Nếu báo động chưa được tắt khi hết thời gian trì hoãn hoặc nếu một thiết bị khác bị kích hoạt, phải báo động trên khắp khách sạn</seg>
       </tuv>
     </tu>
     <tu>
