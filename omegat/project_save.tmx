@@ -351,6 +351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A simple message for example:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064456Z" creationid="Kieu Lan" creationdate="20210705T064456Z">
+        <seg>A simple message for example:     /     một thông báo đơn giản, vd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A vent at roof level</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T102954Z" creationid="LanHK" creationdate="20210602T102954Z">
@@ -2833,6 +2841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lasting 2 to 5 seconds</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064548Z" creationid="Kieu Lan" creationdate="20210705T064548Z">
+        <seg>Lasting 2 to 5 seconds     /     từ 2 đến 5 giây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laundry</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011646Z" creationid="LanHK" creationdate="20210406T011646Z">
@@ -3322,6 +3338,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please leave the hotel at once by the nearest exit."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064533Z" creationid="Kieu Lan" creationdate="20210705T064533Z">
+        <seg>Please leave the hotel at once by the nearest exit."     /     "Chú ý, chú ý. Có một sự cố khẩn cấp. Đề nghị rời khỏi khách sạn ngay lập tức thông qua lối thoát gần nhất"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plumbing and Drainage</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154651Z" creationid="Kieu Lan" creationdate="20210405T154651Z">
@@ -3518,6 +3542,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071142Z">
         <seg>Re-issue as design guideline    /    Phát hành lại thành Hướng dẫn thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recorded evacuation message in English</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064614Z" creationid="Kieu Lan" creationdate="20210705T064601Z">
+        <seg>Recorded evacuation message in English     /     Thông báo sơ tán ghi âm bằng tiếng Anh</seg>
       </tuv>
     </tu>
     <tu>
@@ -3798,6 +3830,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T022924Z" creationid="PHUONG.DTM" creationdate="20210604T043210Z">
         <seg>Signs on walls must be between 1.7m and 2m above the floor       /       Các biển trên tường phải ở cao độ giữa 1.7m và 2m so với sàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Silence</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064539Z" creationid="Kieu Lan" creationdate="20210705T064539Z">
+        <seg>Silence     /     Im lặng</seg>
       </tuv>
     </tu>
     <tu>
