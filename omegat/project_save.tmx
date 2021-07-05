@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BMS link for alarm alert and fault condition</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T042134Z" creationid="Kieu Lan" creationdate="20210705T042134Z">
+        <seg>BMS link for alarm alert and fault condition     /     Liên kết BMS để phục vụ báo động và báo lỗi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BRAND SAFETY</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074809Z">
