@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(The signal must be a siren or two-tone)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064341Z" creationid="Kieu Lan" creationdate="20210705T064341Z">
+        <seg>(The signal must be a siren or two-tone)     /     tín hiệu phải là âm báo động hoặc gồm hai âm vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- ALL AREAS TO BE REACHED WTH 30m HOSE,</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071126Z" creationid="LanHK" creationdate="20210610T071126Z">
@@ -211,6 +219,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023844Z" creationid="LanHK" creationdate="20210602T023844Z">
         <seg>60 minutes        /       60p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>75dB (A) at the bed-head and 65dB (A) elsewhere lasting 10 seconds</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064321Z" creationid="Kieu Lan" creationdate="20210705T064321Z">
+        <seg>75dB (A) at the bed-head and 65dB (A) elsewhere lasting 10 seconds     /     mức âm tối thiểu 75dBA tại vách đầu giường và 65dBA ở các vị trí còn lại kéo dài 10 giây</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attention drawing signal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064230Z" creationid="Kieu Lan" creationdate="20210705T064230Z">
+        <seg>Attention drawing signal     /     Tín hiệu thu hút sự chú ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Australia / Asia Pacific</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -786,6 +810,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095957Z">
         <seg>Brand Standard Manual        /       Hướng dẫn Tiêu chuẩn Thương hiệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brief silence</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064355Z" creationid="Kieu Lan" creationdate="20210705T064355Z">
+        <seg>Brief silence     /     một khoảng im lặng</seg>
       </tuv>
     </tu>
     <tu>
@@ -2793,6 +2825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lasting 1 to 2 seconds</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064402Z" creationid="Kieu Lan" creationdate="20210705T064402Z">
+        <seg>Lasting 1 to 2 seconds     /     từ 1 đến 2 giây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laundry</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011646Z" creationid="LanHK" creationdate="20210406T011646Z">
@@ -3478,6 +3518,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071142Z">
         <seg>Re-issue as design guideline    /    Phát hành lại thành Hướng dẫn thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recorded evacuation message in the local language</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064442Z" creationid="Kieu Lan" creationdate="20210705T064442Z">
+        <seg>Recorded evacuation message in the local language     /     thông báo được ghi âm sẵn bằng tiếng địa phương</seg>
       </tuv>
     </tu>
     <tu>
@@ -4624,6 +4672,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064140Z" creationid="Kieu Lan" creationdate="20210629T064140Z">
         <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:     /     Phải tiến hành nghiên cứu mức độ đáng tin cậy đối với dịch vụ điện nước để thể hiện số giờ cung cấp mỗi năm, nhưng các nguyên tắc chung được liệt kê dưới đây </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voice alarm must be sequenced as follows:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064218Z" creationid="Kieu Lan" creationdate="20210705T064218Z">
+        <seg>The voice alarm must be sequenced as follows:     /     Báo động bằng giọng nói phải được ghi âm như sau:</seg>
       </tuv>
     </tu>
     <tu>
