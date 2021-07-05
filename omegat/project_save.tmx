@@ -1728,6 +1728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Interface to the lift installation and security system (where doors in escape paths may be secured)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T042709Z" creationid="Kieu Lan" creationdate="20210705T042709Z">
+        <seg>Fire Interface to the lift installation and security system (where doors in escape paths may be secured)     /     Bảng hiển thị báo cháy liên kết với hệ thống thang máy và an ninh (các vị trí có cửa có thể có biện pháp đảm bảo an ninh trên tuyến đường thoát hiểm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire Protected Area</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T105826Z" creationid="PHUONG.DTM" creationdate="20210603T105826Z">
