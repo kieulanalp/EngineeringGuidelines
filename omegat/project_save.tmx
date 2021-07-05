@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.6.8 System Fire Integrity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T080433Z" creationid="Kieu Lan" creationdate="20210705T080433Z">
+        <seg>2.6.8 System Fire Integrity     /     Khả năng chịu lửa của hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.7.7 Kitchen Hood Suppression</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071850Z" creationid="LanHK" creationdate="20210610T071850Z">
@@ -4327,6 +4335,15 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>The central heating distribution plant shall utilise modulating high efficiency    /    low Nox boilers, with condensing boilers used, having proprietary automatic controls compatible with the BMS system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>e không chắc lắm về đoạn loop system</note>
+      <tuv lang="EN-US">
+        <seg>The complete system must be wired in fire resistant cables arranged in a loop system for system integrity.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T080629Z" creationid="Kieu Lan" creationdate="20210705T080629Z">
+        <seg>The complete system must be wired in fire resistant cables arranged in a loop system for system integrity.     /     Toàn bộ hệ thống phải được đấu nối bằng dây cáp chống cháy, lắp đặt mạch loop để đảm bảo an toàn cho hệ thống</seg>
       </tuv>
     </tu>
     <tu>
