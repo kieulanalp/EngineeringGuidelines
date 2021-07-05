@@ -2577,6 +2577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interface to air handling systems for engineered smoke clearance systems (where required)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T043836Z" creationid="Kieu Lan" creationdate="20210705T043836Z">
+        <seg>Interface to air handling systems for engineered smoke clearance systems (where required)     /     Liên kết với hệ thống AHU để kiểm soát các hệ thống thoát khói (khi cần thiết)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internal windows and frames in fire resisting construction such as those opening onto internal escape routes must have the same fire resistance as the structure (including insulation) and must be fixed shut.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T070201Z" creationid="LanHK" creationdate="20210602T070201Z">
