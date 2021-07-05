@@ -1880,6 +1880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire suppression system monitoring with interface to alarm system, as appropriate</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T043902Z" creationid="Kieu Lan" creationdate="20210705T043902Z">
+        <seg>Fire suppression system monitoring with interface to alarm system, as appropriate     /     Giám sát hệ thống chữa cháy với liên kết tới hệ thống báo động, sao cho phù hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire suppression systems are constantly developing and alternative systems may be considered for use where benefits and approvals can be demonstrated.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T095829Z" creationid="LanHK" creationdate="20210610T095829Z">
@@ -4732,6 +4740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Voice Enhanced Detection &amp; Fire Alarm system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T044026Z" creationid="Kieu Lan" creationdate="20210705T044026Z">
+        <seg>Voice Enhanced Detection &amp; Fire Alarm system     /     Hệ thống phát hiện và báo cháy với phát thanh giọng nói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WALL MOUNTED SIDEWALL SPRINKLER HEAD</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071701Z" creationid="LanHK" creationdate="20210610T071701Z">
@@ -5362,6 +5378,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042228Z" creationid="Kieu Lan" creationdate="20210629T042228Z">
         <seg>They must include a pictogram ("running man") to overcome language problems (or symbol universally recognized)      /       Phải bao gồm một biểu tượng người chạy thoát hiểm để tránh vấn đề ngôn ngữ (hoặc biểu tượng quốc tế được công nhận) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>regulations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T044006Z" creationid="Kieu Lan" creationdate="20210705T044006Z">
+        <seg>Fire brigade connection and/or monitoring to local fire authority requirements where required by local regulations     /     Liên kết với lực lượng PCCC và/hoặc giám sát bởi cơ quan chức năng về PCCC địa phương nếu quy chế địa phương yêu cầu</seg>
       </tuv>
     </tu>
     <tu>
