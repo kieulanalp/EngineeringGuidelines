@@ -5214,6 +5214,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mechanical shock, in compliance with IEC 60331 - parts 1 &amp; 2 and EN 50200.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T043421Z" creationid="Kieu Lan" creationdate="20210705T043421Z">
+        <seg>mechanical shock, in compliance with IEC 60331 - parts 1 &amp; 2 and EN 50200.     /     Dây cáp chống cháy để bảo vệ mạch trong vòng 1h với nhiệt độ tối thiểu 830 độ C trong khi xảy ra hiện tượng sốc cơ học, tuân thủ IEC 60331 - phần 1 &amp; 2 và EN 50200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>minimum load capacity of 400kg</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043437Z" creationid="Kieu Lan" creationdate="20210629T043437Z">
