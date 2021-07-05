@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.6.6.1 Single Stage</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045802Z" creationid="Kieu Lan" creationdate="20210705T045802Z">
+        <seg>2.6.6.1 Single Stage     /     Một giai đoạn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.7.7 Kitchen Hood Suppression</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071850Z" creationid="LanHK" creationdate="20210610T071850Z">
@@ -1832,6 +1840,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire alarm and detection systems may be either single or two-stage as follows:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045757Z" creationid="Kieu Lan" creationdate="20210705T045757Z">
+        <seg>Fire alarm and detection systems may be either single or two-stage as follows:     /     Hệ thống phát hiện và báo cháy có thể là hệ thống một hoặc hai giai đoạn như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire dampers between fire zones - Code</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071921Z" creationid="LanHK" creationdate="20210702T071921Z">
@@ -2557,6 +2573,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T112253Z" creationid="PHUONG.DTM" creationdate="20210603T112253Z">
         <seg>In the event of power failure the fastening must release      /       Trong trường hợp mất điện, chốt phải mở </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the event of the operation of any fire detector, MCP or fire suppression system there is an immediate alarm throughout the whole hotel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063457Z" creationid="Kieu Lan" creationdate="20210705T063457Z">
+        <seg>In the event of the operation of any fire detector, MCP or fire suppression system there is an immediate alarm throughout the whole hotel     /     Trong trường hợp kích hoạt bất cứ đầu báo cháy, nút báo cháy khẩn cấp hoặc hệ thống chữa cháy nào, ngay lập tức sẽ có báo động trên toàn khách sạn </seg>
       </tuv>
     </tu>
     <tu>
@@ -4011,6 +4035,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TYPICAL FIRE ALARM &amp; DETECTION SYSTEM FOR GUEST ROOM LEVELS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045727Z" creationid="Kieu Lan" creationdate="20210705T045727Z">
+        <seg>TYPICAL FIRE ALARM &amp; DETECTION SYSTEM FOR GUEST ROOM LEVELS     /     Hệ thống phát hiện và báo cháy điển hình cho tầng phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TYPICAL FIRE DAMPER IN EACH SUPPLY AND- EXHAUST DUCT FROM FIRE SHAFT (UNLESS SHAFT IS SEALED AND FIRE RATED AT FLOOR LEVEL.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T044445Z" creationid="LanHK" creationdate="20210602T044445Z">
@@ -4680,6 +4712,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T112128Z" creationid="LanHK" creationdate="20210602T112128Z">
         <seg>Two 30 minute self-closing fire resisting floors        /       2 cửa chống cháy tự đóng </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045737Z" creationid="Kieu Lan" creationdate="20210705T045737Z">
+        <seg>Type of system     /     Các loại hệ thống</seg>
       </tuv>
     </tu>
     <tu>
