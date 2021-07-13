@@ -295,6 +295,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt; 2.2 sqm. if walls and ceilings are non-combustible. length of closet must not exceed 0.9m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093659Z" creationid="LanHK" creationdate="20210713T093659Z">
+        <seg>&lt; 2.2 sqm. if walls and ceilings are non-combustible. length of closet must not exceed 0.9m.     /     &lt;2.2m, nếu tường và trần không bắt lửa, chiều dài tủ không vượt quá 0.9m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093721Z" creationid="LanHK" creationdate="20210713T093721Z">
+        <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.     /     &lt;5m, nếu tường và trần không bắt lửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A - ACTIVATION OF SMOKE DETECTORS SOUNDS AN ALARM IN THE ROOM &amp; ALERTS REMOTE ANNUNCIATOR PANEL</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065529Z" creationid="LanHK" creationdate="20210610T065529Z">
@@ -1605,6 +1621,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical equipment rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093726Z" creationid="LanHK" creationdate="20210713T093726Z">
+        <seg>Electrical equipment rooms     /     Phòng thiết bị điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electricity</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081250Z">
@@ -2712,10 +2736,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guest bathrooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093710Z" creationid="LanHK" creationdate="20210713T093710Z">
+        <seg>Guest bathrooms     /     Phòng tắm trong phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest room load estimation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T090917Z">
         <seg>Guest room load estimation    /    Ước tính tải phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guestroom closets</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093628Z" creationid="LanHK" creationdate="20210713T093628Z">
+        <seg>Guestroom closets     /     Tủ trong phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -2944,6 +2984,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If 2 hour enclosure is provided, only dry type electrical equipment is installed and dedicated room w/o storage.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093801Z" creationid="LanHK" creationdate="20210713T093801Z">
+        <seg>If 2 hour enclosure is provided, only dry type electrical equipment is installed and dedicated room w/o storage.     /     Nếu có tường bao chống cháy 2h, chỉ có thiết bị điện loại khô được lắp đặt và là phòng chuyên dụng không bao gồm kho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If installing an electrically operated device, the AC power source should be supplied from either a dedicated branch circuit or the un-switched portion of the branch circuit also used for power and lighting. Operation of a switch (other than a circuit breaker) or a ground fault circuit interrupter should not cause loss of power to the alarm.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T061934Z" creationid="Kieu Lan" creationdate="20210628T061934Z">
@@ -3117,6 +3165,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103911Z" creationid="LanHK" creationdate="20210602T103911Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inside computer and PABX rooms. 100%. unless another approved fire suppression system is installed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093608Z" creationid="LanHK" creationdate="20210713T093608Z">
+        <seg>Inside computer and PABX rooms. 100%. unless another approved fire suppression system is installed.     /     Trong phòng máy tính và PABX, 100%, trừ khi có lắp đặt một hệ thống chữa cháy được phê duyệt khác</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3374,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T034144Z" creationid="LanHK" creationdate="20210610T034144Z">
         <seg>Large function room showing exits remote from each other    /    Phòng chức năng lớn với lối thoát cáhc xa nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Larger Fire Compartment size allowed</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093837Z" creationid="LanHK" creationdate="20210713T093837Z">
+        <seg>Larger Fire Compartment size allowed     /     Cho phép chia khoang chống cháy lớn hơn</seg>
       </tuv>
     </tu>
     <tu>
@@ -3803,6 +3867,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093819Z" creationid="LanHK" creationdate="20210713T093810Z">
+        <seg>None     /     Không yêu cầu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>North Africa</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082939Z" creationid="Kieu Lan" creationdate="20210713T082939Z">
@@ -3879,6 +3951,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T014204Z" creationid="LanHK" creationdate="20210602T014204Z">
         <seg>Once this has been approved in principle by InterContinental Hotels Group, the designer must be responsible for obtaining the approval of the local regulatory authority which should follow the process as indicated below:        /       Một khi các nội dung này đã được phê duyệt bởi IHG, thiết kế phải chịu trách nhiệm xin phê duyệt của cơ quan quản lý địa phương, tuân theo quy trình được mô tả dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open air parking</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093806Z" creationid="LanHK" creationdate="20210713T093806Z">
+        <seg>Open air parking     /     Bãi đỗ xe ngoài trời</seg>
       </tuv>
     </tu>
     <tu>
@@ -4439,6 +4519,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071835Z" creationid="LanHK" creationdate="20210610T071835Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPRINKLERS ARE NOT REQUIRED IN THE FOLLOWING LOCATIONS:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093617Z" creationid="LanHK" creationdate="20210713T093617Z">
+        <seg>SPRINKLERS ARE NOT REQUIRED IN THE FOLLOWING LOCATIONS:     /     KHÔNG YÊU CẦU SPRINKLER TẠI CÁC VỊ TRÍ SAU</seg>
       </tuv>
     </tu>
     <tu>
@@ -5233,6 +5321,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T085121Z" creationid="LanHK" creationdate="20210611T085116Z">
         <seg>The automatic sprinklers are located so that the entire surface of the glass is wet upon their operation     /     Sprinkler tự động được bố trí sao để làm ướt toàn bộ bề mặt kính khi vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The benefits provided by Fire Sprinklers are:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093829Z" creationid="LanHK" creationdate="20210713T093829Z">
+        <seg>The benefits provided by Fire Sprinklers are:-     /     Các lợi ích mà sprinkler đem lại</seg>
       </tuv>
     </tu>
     <tu>
