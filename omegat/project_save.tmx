@@ -4980,6 +4980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smoke detectors in operation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T103036Z" creationid="LanHK" creationdate="20210713T103036Z">
+        <seg>SMOKE DETECTORS IN OPERATION    /   ĐẦU BÁO KHÓI VẬN HÀNH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke detectors must be provided in the supply duct for shut down of associated AHU and annunciation at the Fire Panel.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T033615Z" creationid="Kieu Lan" creationdate="20210713T033507Z">
@@ -5169,6 +5177,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095337Z" creationid="LanHK" creationdate="20210713T095337Z">
         <seg>Sprinkler heads to be quick response type.     /     Đầu sprinkler phải là loại phản ứng nhanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sprinkler pipework in room empty of water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T103028Z" creationid="LanHK" creationdate="20210713T103028Z">
+        <seg>Sprinkler pipework in room empty of water    /    đường ống sprinkler trong phòng không có nước</seg>
       </tuv>
     </tu>
     <tu>
