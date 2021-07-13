@@ -3730,6 +3730,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rate of rise heat detectors with a fixed temperature element must be used in kitchens and car parks.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T021514Z" creationid="Kieu Lan" creationdate="20210713T021514Z">
+        <seg>Rate of rise heat detectors with a fixed temperature element must be used in kitchens and car parks.     /      Đầu báo nhiệt gia tăng ROR với tính năng định sẵn mức nhiệt cụ thể phải được dùng trong bếp và khu đỗ xe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Re-issue as design guideline</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071142Z">
@@ -3990,6 +3998,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T101209Z" creationid="LanHK" creationdate="20210602T101155Z">
         <seg>Self-closing and locking fire resisting doors at each level, including the terminus of the chute        /       Cửa chống cháy tự đóng và tự khóa trên mỗi tầng, bao gồm cả cửa cuối ống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service risers if not fire isolated at each level</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020949Z" creationid="Kieu Lan" creationdate="20210713T020949Z">
+        <seg>Service risers if not fire isolated at each level     /     Đường ống đứng dịch vụ nếu không được ngăn cháy lan tại mỗi tầng</seg>
       </tuv>
     </tu>
     <tu>
@@ -4259,6 +4275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Staircases</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020910Z" creationid="Kieu Lan" creationdate="20210713T020910Z">
+        <seg>Staircases     /     Thang bộ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stairs and means of escape in general must be free from combustible materials and must not be used for storage.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T074913Z" creationid="LanHK" creationdate="20210609T074913Z">
@@ -4383,6 +4407,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Table 5.2 - Requirement for a Generator    /    Back up Power</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Technical rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020955Z" creationid="Kieu Lan" creationdate="20210713T020955Z">
+        <seg>Technical rooms     /     Phòng kỹ thuật</seg>
       </tuv>
     </tu>
     <tu>
