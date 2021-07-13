@@ -5187,6 +5187,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Sprinkler water valve shut</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T103011Z" creationid="LanHK" creationdate="20210713T103011Z">
+        <seg>Sprinkler water valve shut    /    Van nước sprinkler đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>plenum là gì </note>
       <tuv lang="EN-US">
         <seg>Sprinklers are required in all plant rooms, air handling rooms and plenums and chiller, pump and boiler rooms.</seg>
@@ -5201,6 +5209,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T101746Z" creationid="LanHK" creationdate="20210602T101746Z">
         <seg>Sprinklers at alternate floors and the top of the chute in a sprinkler protected building- see illustration        /       Sprinkler bố trí cách tầng và trên đỉnh ống trong tòa nhà có sprinkler bảo vệ - xem minh họa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stage one-normal operation-monitoring/sensing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100659Z" creationid="LanHK" creationdate="20210713T100659Z">
+        <seg>Stage one-normal operation-monitoring/sensing     /     Giai đoạn 1 - vận hành bình thường - theo dõi/cảm biến</seg>
       </tuv>
     </tu>
     <tu>
