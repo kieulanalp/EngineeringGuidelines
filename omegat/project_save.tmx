@@ -1288,6 +1288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detector spacing must be in accordance with local standards and manufacturer’s recommendations but must be a minimum of one smoke detector per 85m2 or one heat detector per 50m2 and not more than 15m spacing along corridors.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T030103Z" creationid="Kieu Lan" creationdate="20210713T030103Z">
+        <seg>Detector spacing must be in accordance with local standards and manufacturer’s recommendations but must be a minimum of one smoke detector per 85m2 or one heat detector per 50m2 and not more than 15m spacing along corridors.     /     Khoảng cách giữa các đầu báo khói phải tuân thủ tiêu chuẩn địa phương và khuyến nghị của nhà sản xuất, nhưng phải đảm bảo tối thiểu một đầu báo khói trên mỗi 85m^2 hoặc một đầu báo nhiệt trên mỗi 50m^2 và không cách nhau quá 15m dọc theo hành lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deviations from the InterContinental Hotels Group Standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074801Z">
