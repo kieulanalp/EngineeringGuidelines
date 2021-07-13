@@ -1549,6 +1549,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elevator recall to first floor or other floor if alarm at ground floor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044327Z" creationid="Kieu Lan" creationdate="20210713T044327Z">
+        <seg>Elevator recall to first floor or other floor if alarm at ground floor     /     Gọi thang máy về tầng 1 hoặc tầng khác nếu có báo động tại tầng mặt đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevator recall to ground floor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044303Z" creationid="Kieu Lan" creationdate="20210713T044303Z">
+        <seg>Elevator recall to ground floor     /     Gọi thang máy về tầng mặt đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elevator shafts must have the same fire resistance as the structure of the building.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T070533Z" creationid="LanHK" creationdate="20210602T070533Z">
@@ -2204,6 +2220,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T095829Z" creationid="LanHK" creationdate="20210610T095829Z">
         <seg>Fire suppression systems are constantly developing and alternative systems may be considered for use where benefits and approvals can be demonstrated.    /    Các hệ thống chữa cháy liên tục được phát triển và các hệ thống khác có thể được cân nhắc sử dụng nếu có thể đem lại lợi ích và có giấy phép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Firefighting lift returned to ground floor ready for fire brigade</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044405Z" creationid="Kieu Lan" creationdate="20210713T044405Z">
+        <seg>Firefighting lift returned to ground floor ready for fire brigade     /     Thang máy cứu hỏa về tầng mặt đất sẵn sàng đợi lực lượng PCCC </seg>
       </tuv>
     </tu>
     <tu>
@@ -3275,6 +3299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manual call point operates anywhere in hotel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044442Z" creationid="Kieu Lan" creationdate="20210713T044442Z">
+        <seg>Manual call point operates anywhere in hotel     /     Kích hoạt bất cứ nút báo cháy khẩn cấp nào trong khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual call points</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T101530Z" creationid="LanHK" creationdate="20210702T101530Z">
@@ -3919,6 +3951,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T084226Z" creationid="LanHK" creationdate="20210702T084226Z">
         <seg>Relatively short battery life (circa 3 years)     /     Vòng đời pin tương đối ngắn (khoảng 3 năm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release all fire doors, release controlled access doors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044256Z" creationid="Kieu Lan" creationdate="20210713T044256Z">
+        <seg>Release all fire doors, release controlled access doors     /     Nhả tất cả các cửa chống cháy và cửa có kiểm soát truy cập</seg>
       </tuv>
     </tu>
     <tu>
