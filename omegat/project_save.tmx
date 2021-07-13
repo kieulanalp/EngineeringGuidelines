@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.6.11 Cause and effect matrix</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T035047Z" creationid="Kieu Lan" creationdate="20210713T035047Z">
+        <seg>2.6.11 Cause and effect matrix    /    Ma trận nhân quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.6.4 Definitions</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T053934Z">
