@@ -487,6 +487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Africa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082943Z" creationid="Kieu Lan" creationdate="20210713T082943Z">
+        <seg>Africa     /     Châu Phi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aims and Objectives</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083315Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Australia    /    Asia Pacific</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Austria Belgium Finland France Germany Ireland Italy Portugal Spain Sweden Switzerland UK</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T083212Z" creationid="Kieu Lan" creationdate="20210713T083212Z">
+        <seg>Austria Belgium Finland France Germany Ireland Italy Portugal Spain Sweden Switzerland Uk     /     Áo, Bỉ, Phần Lan, Pháp, Đức, Ai-len Ý Bồ Đào Nha, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Anh</seg>
       </tuv>
     </tu>
     <tu>
@@ -1505,6 +1521,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Each primary controller shall include an internal 365-day clock    /    calendar with the possibility to operat autonomously or in master    /    slave configuration. More than one master    /    slave group may reside on the same bus network.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eastern Europe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082826Z" creationid="Kieu Lan" creationdate="20210713T082826Z">
+        <seg>Eastern Europe     /     Đông Âu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3555,6 +3579,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Middle East</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082933Z" creationid="Kieu Lan" creationdate="20210713T082933Z">
+        <seg>Middle East     /     Trung Đông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mimic Panel - an engraved panel identifying site buildings and/or building sectional layout with or without a visual (LED) indication of where alarm/s have been activated.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T024759Z" creationid="LanHK" creationdate="20210610T024759Z">
@@ -3655,6 +3687,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073702Z" creationid="LanHK" creationdate="20210609T073702Z">
         <seg>Non-slip          /       không trơn trượt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>North Africa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082939Z" creationid="Kieu Lan" creationdate="20210713T082939Z">
+        <seg>North Africa     /     Bắc Phi</seg>
       </tuv>
     </tu>
     <tu>
@@ -4211,6 +4251,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Russia, CIS, Balkans</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082927Z" creationid="Kieu Lan" creationdate="20210713T082927Z">
+        <seg>Russia, CIS, Balkans     /     Nga, Cộng đồng các Quốc gia Độc lập, Balkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SIP - Sub Indicator Panel (also known as Repeater or Sub Alarm Panel)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T054013Z">
@@ -4593,6 +4641,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063915Z" creationid="Kieu Lan" creationdate="20210705T063915Z">
         <seg>Sounders and alarm     /     Đế âm thanh và báo động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>South-East Europe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082838Z" creationid="Kieu Lan" creationdate="20210713T082838Z">
+        <seg>South-East Europe     /     Đông Nam châu Âu</seg>
       </tuv>
     </tu>
     <tu>
