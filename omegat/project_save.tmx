@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Back of house areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T095009Z" creationid="LanHK" creationdate="20210713T095009Z">
+        <seg>Back of house areas     /     Khu BOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back of house areas and guestrooms and guestroom corridors</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030147Z" creationid="LanHK" creationdate="20210602T030147Z">
@@ -1753,6 +1761,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T050402Z" creationid="LanHK" creationdate="20210505T084943Z">
         <seg>Emergency Lighting Chiếu sáng sự cố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency exit stairs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T095317Z" creationid="LanHK" creationdate="20210713T095317Z">
+        <seg>Emergency exit stairs     /     Thang bộ thoát hiểm khẩn cấp</seg>
       </tuv>
     </tu>
     <tu>
@@ -4293,8 +4309,8 @@
       <tuv lang="EN-US">
         <seg>Public spaces</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T094315Z" creationid="LanHK" creationdate="20210713T094218Z">
-        <seg>Public spaces     /      công cộng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T094915Z" creationid="LanHK" creationdate="20210713T094218Z">
+        <seg>Public spaces     /     Không gian công cộng </seg>
       </tuv>
     </tu>
     <tu>
@@ -4463,6 +4479,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093203Z" creationid="LanHK" creationdate="20210713T093203Z">
         <seg>Required along the horizontal section of ductwork and top of risers.     /     Yêu cầu có dọc theo các đoạn ống ngang và trên đỉnh trục ống dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restaurants</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T094928Z" creationid="LanHK" creationdate="20210713T094928Z">
+        <seg>Restaurants     /     nhà hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retail</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T094924Z" creationid="LanHK" creationdate="20210713T094924Z">
+        <seg>Retail     /     Khu bán lẻ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6974,6 +7006,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T045652Z">
         <seg>The atrium must be separated from adjacent spaces by at least 60 minute fire resisting construction with self-closing, fire resisting doors.     /     giếng trời phải được tách biệt với các không gian liền kể bởi kết cấu chống cháy tối thiểu 60p với cửa chống cháy tự đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>shop, etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T095006Z" creationid="LanHK" creationdate="20210713T095006Z">
+        <seg>shop, etc.     /     Dịch vụ - cắt tóc, hàng bánh v.v</seg>
       </tuv>
     </tu>
     <tu>
