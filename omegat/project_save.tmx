@@ -4121,6 +4121,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>https://www.mfs.sa.gov.au/community-safety/home-fire-and-life-safety-fact-sheets/roof-spaces/</note>
+      <tuv lang="EN-US">
+        <seg>Smoke detection must be provided in roof spaces.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T025834Z" creationid="Kieu Lan" creationdate="20210713T025834Z">
+        <seg>Smoke detection must be provided in roof spaces.     /     Phải có đầu báo khói tại các không gian áp mái</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Smoke detection.</seg>
       </tuv>
