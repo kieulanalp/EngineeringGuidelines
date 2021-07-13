@@ -4129,6 +4129,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Smoke detection must be installed in all voids in excess of 800mm height unless there is no combustible material (lighting cables may be disregarded) and all detectors in voids or concealed areas must have a remote indicator in a clearly visible location as close to the detector as possible.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T032516Z" creationid="Kieu Lan" creationdate="20210713T032516Z">
+        <seg>Smoke detection must be installed in all voids in excess of 800mm height unless there is no combustible material (lighting cables may be disregarded) and all detectors in voids or concealed areas must have a remote indicator in a clearly visible location as close to the detector as possible.     /     Đầu báo khói phải được bố trí tại tất cả các không gian trống vượt quá 800mm chiều cao, trừ khi tại đó không có vật liệu có thể cháy (có thể ngoại trừ cáp chiếu sáng) và tất cả đầu báo cháy trong không gian trống hoặc khu vực bị che kín phải có đèn báo (indicator?) tại một vị trí có thể nhìn rõ ràng, gần đầu báo nhất có thể</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://www.mfs.sa.gov.au/community-safety/home-fire-and-life-safety-fact-sheets/roof-spaces/</note>
       <tuv lang="EN-US">
         <seg>Smoke detection must be provided in roof spaces.</seg>
