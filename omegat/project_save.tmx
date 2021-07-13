@@ -455,6 +455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Addressable hard-wired smoke detectors must be installed in all areas including:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020609Z" creationid="Kieu Lan" creationdate="20210713T020609Z">
+        <seg>Addressable hard-wired smoke detectors must be installed in all areas including:     /     Đầu báo cháy định địa chỉ có dây đấu nối phải được lắp đặt tại mọi khu vực bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aims and Objectives</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083315Z">
@@ -1124,6 +1132,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T090907Z">
         <seg>Cooling Load Estimates    /    Ước tính tải làm mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Corridors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020623Z" creationid="Kieu Lan" creationdate="20210713T020623Z">
+        <seg>Corridors     /     Hành lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -2440,6 +2456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guestrooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020612Z" creationid="Kieu Lan" creationdate="20210713T020612Z">
+        <seg>Guestrooms     /     Phòng kháhc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guestrooms and adjoining guestrooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030233Z" creationid="LanHK" creationdate="20210602T030228Z">
@@ -3646,6 +3670,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T104406Z" creationid="LanHK" creationdate="20210602T104406Z">
         <seg>Provide sprinklers at top and every alternate or 3rd level -86°C        /       Bố trí sprinkler trên đỉnh ống và cách tầng hoặc mỗi ba tầng  -86°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020617Z" creationid="Kieu Lan" creationdate="20210713T020617Z">
+        <seg>Public Areas     /     Khu công cộng</seg>
       </tuv>
     </tu>
     <tu>
@@ -5684,6 +5716,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063718Z" creationid="Kieu Lan" creationdate="20210705T063718Z">
         <seg>furthest guestroom in the hotel - elevators may be used at this time. In general this should be no more than 3 minutes     /     Bắt đầu tính thời gian trì hoãn nhất định để điều tra báo động, khoảng thời gian này dựa vào thời gian cần thiết để đi đến phòng khách xa nhất trong khách sạn - trong thời gian này được phép dùng thang máy. Nhìn chung, thời gian không nên quá 3 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>greater than 14m2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020903Z" creationid="Kieu Lan" creationdate="20210713T020903Z">
+        <seg>greater than 14m2     /     Kho chứa đồ lớn hơn 14m^2</seg>
       </tuv>
     </tu>
     <tu>
