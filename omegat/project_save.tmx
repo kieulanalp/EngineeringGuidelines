@@ -2897,6 +2897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T034949Z" creationid="Kieu Lan" creationdate="20210713T034949Z">
+        <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.     /     Modul dao cách ly phải được bố trí tại lối vào và/hoặc/ lối thoát khỏi mỗi khu vực riêng biệt trong một zone. Tối thiểu, phải có modul dao cách ly, để đảm bảo khu vực không quá 2000m^2 không được bảo vệ nếu xảy ra cháy chập dây điện nào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Issue</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071024Z">
@@ -3222,6 +3230,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T101530Z" creationid="LanHK" creationdate="20210702T101530Z">
         <seg>Manual call points     /     Nút báo cháy khẩn cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual call points must be installed as a minimum at all final exits plus emergency exits of each floor or zone of the building, in major public areas/plant rooms and back of house areas as well as the front desk located so that the maximum travel distance must not exceed 30m to the call point.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T033730Z" creationid="Kieu Lan" creationdate="20210713T033730Z">
+        <seg>Manual call points must be installed as a minimum at all final exits plus emergency exits of each floor or zone of the building, in major public areas/plant rooms and back of house areas as well as the front desk located so that the maximum travel distance must not exceed 30m to the call point.     /     Nút báo cháy khẩn cấp phải tối thiểu được lắp đặt tại tất cả các lối thoát cuối cùng và lối thoát hiểm khỏi mỗi tầng hoặc zone trong tòa nhà, trong các khu vực công cộng/phòng máy chính à khu BOH cũng như bàn lễ tân để đảm bảo khoảng cách cần di chuyển tối đa tới nút báo cháy không vượt quá 30m</seg>
       </tuv>
     </tu>
     <tu>
@@ -4173,8 +4189,8 @@
       <tuv lang="EN-US">
         <seg>Smoke detectors must be provided in the supply duct for shut down of associated AHU and annunciation at the Fire Panel.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T033507Z" creationid="Kieu Lan" creationdate="20210713T033507Z">
-        <seg>Smoke detectors must be provided in the supply duct for shut down of associated AHU and annunciation at the Fire Panel.     /     Phải cung cấp đầu báo khói trong </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T033615Z" creationid="Kieu Lan" creationdate="20210713T033507Z">
+        <seg>Smoke detectors must be provided in the supply duct for shut down of associated AHU and annunciation at the Fire Panel.     /     Phải cung cấp đầu báo khói trong ống cấp để shut down hệ thống AHU liên quan và báo về tủ báo cháy</seg>
       </tuv>
     </tu>
     <tu>
