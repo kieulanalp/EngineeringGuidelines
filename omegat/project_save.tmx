@@ -383,6 +383,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A visual alarm indicator for each zone and detection device</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T015421Z" creationid="Kieu Lan" creationdate="20210713T015421Z">
+        <seg>A visual alarm indicator for each zone and detection device     /     Đèn báo cho mỗi zone và thiết bị đầu báo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A visual fault indicator for each zone and detection device</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T015436Z" creationid="Kieu Lan" creationdate="20210713T015436Z">
+        <seg>A visual fault indicator for each zone and detection device     /     Đèn báo lỗi cho mỗi zone và thiết bị đầu báo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A voice evacuation system is compulsory for new and replacement fire alarm systems unless the building is not high rise and has a sprinkler system throughout.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064749Z" creationid="Kieu Lan" creationdate="20210705T064749Z">
@@ -4501,6 +4517,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fire alarm panel must incorporate the following features:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T015357Z" creationid="Kieu Lan" creationdate="20210713T015357Z">
+        <seg>The fire alarm panel must incorporate the following features:     /     Tủ báo cháy phải bao gồm các tính năng sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following diagram illustrates the designer’s responsibilities in relation to design approvals:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T093106Z">
@@ -5162,6 +5186,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>W_08 Ozone Water Treatment    /    Chemical Reduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning sounder amplifier controls for all zones, and programmed linking of all zones.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T015736Z" creationid="Kieu Lan" creationdate="20210713T015736Z">
+        <seg>Warning sounder amplifier controls for all zones, and programmed linking of all zones.     /     Điều khiển khuyếch đại công suất của loa báo động đối với tất cả các zone, và cài đặt liên kết tất cả các zone</seg>
       </tuv>
     </tu>
     <tu>
