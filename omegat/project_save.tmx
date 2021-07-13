@@ -527,14 +527,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Algeria Egypt Libya Morocco / Western Sahara Tunisia</seg>
-      </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Algeria Egypt Libya Morocco    /    Western Sahara Tunisia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>All air Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091721Z">
@@ -1110,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Central Africa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T083834Z" creationid="Kieu Lan" creationdate="20210713T083834Z">
+        <seg>Central Africa     /     Trung Phi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Central Heating Production/ Distribution</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091637Z">
@@ -1340,6 +1340,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075532Z">
         <seg>Definitions    /    Định nghĩa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Democratic Republic of Congo Equatorial Guinea Rwanda</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T084613Z" creationid="Kieu Lan" creationdate="20210713T084613Z">
+        <seg>Democratic Republic of Congo Equatorial Guinea Rwanda     /     Cộng hòa Dân chủ Congo, Guinea Xích Đạo, Rwanda</seg>
       </tuv>
     </tu>
     <tu>
