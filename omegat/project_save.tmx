@@ -3443,6 +3443,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading docks, covered platforms, exterior canopies &gt;1.2 width</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T092303Z" creationid="LanHK" creationdate="20210713T092303Z">
+        <seg>Loading docks, covered platforms, exterior canopies &gt;1.2 width     /     Khu dỡ hàng, platform có mái che, mái hiên ngoại thất vượt 1.2 chiều rộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local emergency distribution board</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091734Z" creationid="LanHK" creationdate="20210702T091734Z">
@@ -3911,6 +3919,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020528Z" creationid="Kieu Lan" creationdate="20210713T020528Z">
         <seg>Output to BMS     /     Output đến BMS ( Hệ thống quản lý toà nhà)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Over 800mm shall require upturned sprinklers (combustible ceiling).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T091747Z" creationid="LanHK" creationdate="20210713T091747Z">
+        <seg>Over 800mm shall require upturned sprinklers (combustible ceiling).     /     Nếu trên 800mm, cần có sprinkler hướng lên trên (trần có thể cháy)</seg>
       </tuv>
     </tu>
     <tu>
