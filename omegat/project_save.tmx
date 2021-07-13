@@ -463,6 +463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Above the highest opening, above the lowest opening and at alternate floor levels for buildings &gt; 2 stories.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T091546Z" creationid="LanHK" creationdate="20210713T091546Z">
+        <seg>Above the highest opening, above the lowest opening and at alternate floor levels for buildings &gt; 2 stories     /     Phía trên cửa ống cao nhất, phía trên cửa ống thấp nhất và bố trí cách tầng nếu là tòa nhà hơn 2 tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011557Z" creationid="LanHK" creationdate="20210406T011549Z">
@@ -806,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the top and under the first landing above the lowest level. If doors from two fire separate fire divisions access the same stair sprinklers are required.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T091709Z" creationid="LanHK" creationdate="20210713T091709Z">
+        <seg>At the top and under the first landing above the lowest level. If doors from two fire separate fire divisions access the same stair sprinklers are required.     /     Trên cùng của giếng thang và dưới chiếu nghỉ đầu tiên phhía trên tầng thấp nhất. Nếu cửa từ hai khoang chống cháy khác nhau cùng mở vào một thang bộ, yêu cầu có sprinkler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atriums</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070906Z" creationid="LanHK" creationdate="20210525T080643Z">
@@ -1098,6 +1114,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080102Z">
         <seg>Cause &amp; effect matrix    /    Ma trận nhân quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ceiling voids</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T091721Z" creationid="LanHK" creationdate="20210713T091721Z">
+        <seg>Ceiling voids      /     Khoảng trống dưới trần</seg>
       </tuv>
     </tu>
     <tu>
@@ -3723,6 +3747,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-combustible stairs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T091556Z" creationid="LanHK" creationdate="20210713T091556Z">
+        <seg>Non-combustible stairs     /     Thang bộ chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-fire resisting glass may be used where:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T072010Z" creationid="LanHK" creationdate="20210611T072010Z">
@@ -4549,8 +4581,8 @@
       <tuv lang="EN-US">
         <seg>Small enclosures</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T085105Z" creationid="Kieu Lan" creationdate="20210713T085105Z">
-        <seg>Small enclosures     /     Không gian hẹp</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T091455Z" creationid="Kieu Lan" creationdate="20210713T085105Z">
+        <seg>Small enclosures     /     Không gian nhỏ hẹp</seg>
       </tuv>
     </tu>
     <tu>
