@@ -1360,6 +1360,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Df</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080412Z" creationid="Kieu Lan" creationdate="20210713T080412Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diagrammatic Layout of Stair and Lift Pressurization Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T032755Z" creationid="LanHK" creationdate="20210611T032755Z">
@@ -3603,6 +3611,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notify fire brigade If appropriate</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080619Z" creationid="Kieu Lan" creationdate="20210713T080619Z">
+        <seg>Thông báo tới lực lượng PCCC nếu hợp lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notify fire brigade if appropriate</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044040Z" creationid="Kieu Lan" creationdate="20210713T044040Z">
@@ -3647,6 +3663,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T032819Z" creationid="LanHK" creationdate="20210602T030847Z">
         <seg>Openings have to be made in fire resisting construction for the passage of pipes, cables and ductwork but to prevent the spread of fire via these openings they have to be protected.        /       Cần tạo các khoảng hở trong kết cấu chống cháy để đi ống, cáp và ống thông khí, tuy nhiên để ngăn cháy lan qua các khoảng hở này </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operate visual &amp; vibrating alarms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080614Z" creationid="Kieu Lan" creationdate="20210713T080614Z">
+        <seg>Vận hành báo động hình ảnh và rung</seg>
       </tuv>
     </tu>
     <tu>
@@ -4043,6 +4067,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return elevators to ground floor or other floor If fire onground floor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080625Z" creationid="Kieu Lan" creationdate="20210713T080625Z">
+        <seg>Gọi thang máy về tầng 1 hoặc tầng khác nếu có báo động tại tầng mặt đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return fire-fighting elevator to ground floor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080632Z" creationid="Kieu Lan" creationdate="20210713T080632Z">
+        <seg>Gọi thang máy về tầng mặt đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rev.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071001Z">
@@ -4420,6 +4460,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound alarm / voice evacuation message throughout hotel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080605Z" creationid="Kieu Lan" creationdate="20210713T080605Z">
+        <seg>Báo động âm thanh / bằng giọng nói trên khắp khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sound an alarm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T012815Z" creationid="LanHK" creationdate="20210611T012815Z">
@@ -4600,6 +4648,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T075554Z" creationid="LanHK" creationdate="20210702T075554Z">
         <seg>Standby lighting is provided to enable a prolonged occupation of the building upon failure of the electrical supply. This could be to mitigate against business interruption or to avoid immediate evacuation of the building.     /     Chiếu sáng dự phòng được cung cấp để giúp duy trì hoạt động của tòa nhà khi xảy ra sự cố về nguồn điện. Nguồn chiếu sáng này có thể giúp giảm thiểu ảnh hưởng đến hoạt động kinh doanh hoặc tránh phải tiến hành sơ tán khỏi tòa nhà ngay lập tức</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start appropriate smoke control systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080645Z" creationid="Kieu Lan" creationdate="20210713T080645Z">
+        <seg>Khởi động hệ thống kiểm soát khói phù hơp</seg>
       </tuv>
     </tu>
     <tu>
