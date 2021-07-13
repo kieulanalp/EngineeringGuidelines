@@ -311,6 +311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A general evacuation switch to operate all alarm sounders</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020035Z" creationid="Kieu Lan" creationdate="20210713T020035Z">
+        <seg>A general evacuation switch to operate all alarm sounders     /     Một nút báo động sơ tán chung để vận hành tất cả các loa báo động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum of 60 minutes fire resisting separation must be provided between the following areas:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030133Z" creationid="LanHK" creationdate="20210602T030133Z">
@@ -587,6 +595,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T033920Z">
         <seg>An atrium is a large vertical opening that spans two or more floors. As a general rule an atrium has a relatively large plan area and to be considered an atrium the opening must have a minimum horizontal dimension of 6.1 m and a minimum area of 95 sqm. A monumental stair may or may not be considered as an atrium space.    /    giếng trời là một không gian mở lớn theo chiều dọc, từ hai tầng trở lên. Nhìn chung, một giếng trời có diện tích mặt sàn khá lớn và để được coi là một giếng trời, khoảng mở phải có kích thước chiều ngang tối thiểu 6.1m và diện tích tối thiểu 95sqm. Cầu thang monumental có thể được hoặc không được coi là giếng trời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An audible alarm activated by any fault or alarm condition, complete with muting switch</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020011Z" creationid="Kieu Lan" creationdate="20210713T020011Z">
+        <seg>An audible alarm activated by any fault or alarm condition, complete with muting switch     /     Báo động âm thanh kích hoạt bởi bất cứ điều kiện sự cố hoặc báo động nào, kèm với nút tắt âm</seg>
       </tuv>
     </tu>
     <tu>
@@ -3434,6 +3450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output to BMS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020528Z" creationid="Kieu Lan" creationdate="20210713T020528Z">
+        <seg>Output to BMS     /     Output đến BMS ( Hệ thống quản lý toà nhà)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PENDANT SPRINKLER HEAD SPRINKLER VALVE ARRANGEMENT - REFER TO DETAIL OPPOSITE it 2.7.4</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T070720Z" creationid="LanHK" creationdate="20210610T070537Z">
@@ -4327,6 +4351,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Table 5.2 - Requirement for a Generator    /    Back up Power</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test facility</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020056Z" creationid="Kieu Lan" creationdate="20210713T020056Z">
+        <seg>Test facility     /     Chức năng kiểm tra</seg>
       </tuv>
     </tu>
     <tu>
