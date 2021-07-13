@@ -1952,6 +1952,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fault alarm at fire panel &amp; pagers only</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081333Z" creationid="Kieu Lan" creationdate="20210713T081329Z">
+        <seg>Chỉ báo lỗi ở tủ báo cháy và máy liên lạc của nhân viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fault priority (urgent / not urgent)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -2210,8 +2218,8 @@
       <tuv lang="EN-US">
         <seg>Fire pump common fault</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T070046Z" creationid="Kieu Lan" creationdate="20210713T070046Z">
-        <seg>Fire pump common fault     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081254Z" creationid="Kieu Lan" creationdate="20210713T070046Z">
+        <seg>Lỗi thông thường của bơm chữa cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2508,6 +2516,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T015311Z" creationid="LanHK" creationdate="20210603T015311Z">
         <seg>General Requirements        /       Yêu cầu chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generator running / fault (only during alarm)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081306Z" creationid="Kieu Lan" creationdate="20210713T081306Z">
+        <seg>Máy phát đang chạy/Lỗi máy phát (chỉ khi đang có báo động)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,10 +3731,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operation of.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081231Z" creationid="Kieu Lan" creationdate="20210713T081231Z">
+        <seg>Các điều kiện sau xảy ra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other Fire Suppression System</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T080540Z" creationid="LanHK" creationdate="20210525T080540Z">
         <seg>Other Fire Suppression System Các hệ thống chữa cháy khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other fire suppression system operates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081200Z" creationid="Kieu Lan" creationdate="20210713T081200Z">
+        <seg>Các hệ thống chữa cháy khác vận hành</seg>
       </tuv>
     </tu>
     <tu>
@@ -4621,10 +4653,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sprinkler flow switch operates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081147Z" creationid="Kieu Lan" creationdate="20210713T081147Z">
+        <seg>Công tắc dòng chảy sprinkler vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sprinkler tank water level low</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080231Z" creationid="Kieu Lan" creationdate="20210713T080231Z">
-        <seg>Sprinkler tank water level low     /     Mực nước bể trữ cho sprinkler thấp</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081259Z" creationid="Kieu Lan" creationdate="20210713T080231Z">
+        <seg>Mực nước bể trữ cho sprinkler thấp</seg>
       </tuv>
     </tu>
     <tu>
@@ -4748,6 +4788,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supply / return sir duct smoke detector operates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081212Z" creationid="Kieu Lan" creationdate="20210713T081212Z">
+        <seg>Đầu báo khói ống cấp/hồi khí vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supply air (outside air) injected into the area to be protected</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T015449Z" creationid="LanHK" creationdate="20210611T015449Z">
@@ -4768,6 +4816,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T061230Z" creationid="Kieu Lan" creationdate="20210713T061230Z">
         <seg>Supply air duct smoke detector no response after time delay     /       Đầu báo khói trong ống cấp khí sau thời gian chờ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System / wiring fault</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081239Z" creationid="Kieu Lan" creationdate="20210713T081239Z">
+        <seg>Lỗi hệ thống/lỗi đường dây</seg>
       </tuv>
     </tu>
     <tu>
