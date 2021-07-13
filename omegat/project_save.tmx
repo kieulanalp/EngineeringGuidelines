@@ -401,8 +401,8 @@
       <tuv lang="EN-US">
         <seg>A specific cause and effect matrix and flow chart shall be produced for each hotel to be relevant for the actual systems installed.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T040450Z" creationid="Kieu Lan" creationdate="20210713T040450Z">
-        <seg>A specific cause and effect matrix and flow chart shall be produced for each hotel to be relevant for the actual systems installed. </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T040608Z" creationid="Kieu Lan" creationdate="20210713T040450Z">
+        <seg>A specific cause and effect matrix and flow chart shall be produced for each hotel to be relevant for the actual systems installed.     /     Ma trận nhân quả và sơ đồ quy trình cụ thể cần phải được soạn thảo cho mỗi khách sạn, tương ứng với các hệ thống được lắp đặt thực tế</seg>
       </tuv>
     </tu>
     <tu>
@@ -4489,6 +4489,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043618Z" creationid="LanHK" creationdate="20210602T043618Z">
         <seg>TYPICAL GUEST ROOM DETAIL.        /       CHI TIẾT PHÒNG KHÁCH ĐIỂN HÌNH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 1 - Two Stage Fire Alarm and Detection System –Sample Cause and Effect Matrix – for information only</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T040645Z" creationid="Kieu Lan" creationdate="20210713T040645Z">
+        <seg>Table 1 - Two Stage Fire Alarm and Detection System –Sample Cause and Effect Matrix – for information only     /     Bảng 1 - Hệ thống Báo động và phát hiện cháy hai giai đoạn - Sample Ma trận Nhân quả đơn - thông tin chỉ mang tính tham khảo</seg>
       </tuv>
     </tu>
     <tu>
