@@ -928,8 +928,8 @@
       <tuv lang="EN-US">
         <seg>Bahrain Iran Iraq Israel / Occupied Territories Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Bahrain Iran Iraq Israel    /    Occupied Territories Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T083658Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Bahrain Iran Iraq Israel / Occupied Territories Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen     /     Bahrain Iran Iraq Israel / Lãnh thổ bị chiếm đóng Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen</seg>
       </tuv>
     </tu>
     <tu>
