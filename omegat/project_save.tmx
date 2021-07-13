@@ -2408,6 +2408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For clarification, the following table highlights some of the common areas where sprinklers are required but often overlooked :</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T085007Z" creationid="Kieu Lan" creationdate="20210713T085007Z">
+        <seg>For clarification, the following table highlights some of the common areas where sprinklers are required but often overlooked :     /     Để rõ ràng hơn, bảng sau liệt kê một số vị trí thông thường nơi sprinkler được yêu cầu nhưng thường bị bỏ qua:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For junction boxes and Voice Alarm speakers to have FR protection</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210706T084556Z" creationid="Kieu Lan" creationdate="20210706T084556Z">
@@ -4681,6 +4689,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082838Z" creationid="Kieu Lan" creationdate="20210713T082838Z">
         <seg>South-East Europe     /     Đông Nam châu Âu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Southern Africa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T084620Z" creationid="Kieu Lan" creationdate="20210713T084620Z">
+        <seg>Southern Africa     /     Nam Phi</seg>
       </tuv>
     </tu>
     <tu>
