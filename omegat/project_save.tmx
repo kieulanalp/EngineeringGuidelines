@@ -5847,6 +5847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Western Europe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082820Z" creationid="Kieu Lan" creationdate="20210713T082820Z">
+        <seg>Western Europe     /     Tây Âu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wet/Dry risers - InterContinental Hotels Group/Code</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071852Z" creationid="LanHK" creationdate="20210702T071852Z">
