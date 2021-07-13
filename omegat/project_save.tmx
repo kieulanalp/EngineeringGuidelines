@@ -1221,6 +1221,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Computer and PABX rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093535Z" creationid="LanHK" creationdate="20210713T093535Z">
+        <seg>Computer and PABX rooms     /     Phòng máy tính và PABX</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>trong mục của nó có giải thích, cần đi hỏi</note>
       <tuv lang="EN-US">
         <seg>Condenser Water Circuits</seg>
