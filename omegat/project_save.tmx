@@ -3651,6 +3651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical rooms &amp; plant rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093209Z" creationid="LanHK" creationdate="20210713T093209Z">
+        <seg>Mechanical rooms &amp; plant rooms     /      Phòng cơ điện và phòng máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical services, system included</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083300Z">
@@ -4299,6 +4307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required along the horizontal section of ductwork and top of risers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093203Z" creationid="LanHK" creationdate="20210713T093203Z">
+        <seg>Required along the horizontal section of ductwork and top of risers.     /     Yêu cầu có dọc theo các đoạn ống ngang và trên đỉnh trục ống dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return elevators to ground floor or other floor If fire onground floor</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080625Z" creationid="Kieu Lan" creationdate="20210713T080625Z">
@@ -4880,6 +4896,15 @@
 </note>
       <tuv lang="EN-US">
         <seg>Sprinkler valve tamper switch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>plenum là gì </note>
+      <tuv lang="EN-US">
+        <seg>Sprinklers are required in all plant rooms, air handling rooms and plenums and chiller, pump and boiler rooms.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093518Z" creationid="LanHK" creationdate="20210713T093518Z">
+        <seg>Sprinklers are required in all plant rooms, air handling rooms and plenums and chiller, pump and boiler rooms.      /     Sprinkler được yêu cầu trong tất cả các phòng máy, phòng AHU và phòng plenums và chiller, bơm và nồi hơi</seg>
       </tuv>
     </tu>
     <tu>
@@ -5935,6 +5960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Under cover internal pools</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093038Z" creationid="LanHK" creationdate="20210713T093038Z">
+        <seg>Under cover internal pools     /     Bể bơi trong nhà có mái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unoccupied attics or roof spaces must be subdivided into areas no greater than 330m2 by fire and smoke resisting separation. Each area must be provided with smoke detection and in sprinkler protected buildings over four floors in height each area must have sprinklers.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T050016Z" creationid="LanHK" creationdate="20210602T045145Z">
@@ -6509,6 +6542,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020903Z" creationid="Kieu Lan" creationdate="20210713T020903Z">
         <seg>greater than 14m2     /     Kho chứa đồ lớn hơn 14m^2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>horizontal runs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T093104Z" creationid="LanHK" creationdate="20210713T093104Z">
+        <seg>horizontal runs     /     Hệ thống ống dẫn ngang của hệ hút mùi bếp</seg>
       </tuv>
     </tu>
     <tu>
