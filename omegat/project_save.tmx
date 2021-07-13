@@ -2896,11 +2896,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>loop isolator??</note>
       <tuv lang="EN-US">
         <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T034949Z" creationid="Kieu Lan" creationdate="20210713T034949Z">
-        <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.     /     Modul dao cách ly phải được bố trí tại lối vào và/hoặc/ lối thoát khỏi mỗi khu vực riêng biệt trong một zone. Tối thiểu, phải có modul dao cách ly, để đảm bảo khu vực không quá 2000m^2 không được bảo vệ nếu xảy ra cháy chập dây điện nào.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T035029Z" creationid="Kieu Lan" creationdate="20210713T034949Z">
+        <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.     /     Modul dao cách ly phải được bố trí tại lối vào và/hoặc/ lối thoát khỏi mỗi khu vực riêng biệt trong một zone. Tối thiểu, phải có modul dao cách ly, để đảm bảo khu vực không quá 2000m^2 không được bảo vệ nếu xảy ra cháy chập dây điện nào. Phải cung cấp loop isolator chuyên dụng để giám sát tình trạng zone</seg>
       </tuv>
     </tu>
     <tu>
