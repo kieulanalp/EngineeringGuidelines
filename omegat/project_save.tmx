@@ -1565,6 +1565,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensure that all detectors are accessible for maintenance purposes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T032750Z" creationid="Kieu Lan" creationdate="20210713T032744Z">
+        <seg>Ensure that all detectors are accessible for maintenance purposes.     /     Đảm bảo có thể tiếp cận tất cả các đầu báo để bảo dưỡng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Environmental</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091228Z">
@@ -5387,6 +5395,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T083240Z" creationid="LanHK" creationdate="20210609T083240Z">
         <seg>When determining the width of exits and exit routes a minimum of 5mm should be allowed for each person occupying the room.         /       Khi xác định chiều rộng cửa thoát hiểm và lối thoát hiểm, cần tính tối thiều 5mm cho mỗi người trong phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where atriums are present, optical beam detectors must be provided for detection of smoke in the atrium and operation of the atrium smoke clearance system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T033441Z" creationid="Kieu Lan" creationdate="20210713T032747Z">
+        <seg>Where atriums are present, optical beam detectors must be provided for detection of smoke in the atrium and operation of the atrium smoke clearance system.     /     Nếu có giếng trời, phải sử dụng đầu báo tia quang học để phát hiện khói trong giếng trời và vận hành hệ thống thoát khói trong giếng trời</seg>
       </tuv>
     </tu>
     <tu>
