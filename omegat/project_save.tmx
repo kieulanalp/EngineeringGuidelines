@@ -792,6 +792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Area of Application</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T094201Z" creationid="LanHK" creationdate="20210713T094201Z">
+        <seg>Area of Application     /     Khu vực ứng dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As an alternative to a conventional public address / voice alarm system a voice-enhanced sounder system that broadcasts a voice alarm message through the detector sounder base may be used and this system is likely to be considerably less expensive. It must be noted, however, that in public areas the system may need to be enhanced by additional sounders to ensure the intelligibility of the message. This is illustrated as follows:-</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T074814Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -1218,6 +1226,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023119Z" creationid="LanHK" creationdate="20210602T023119Z">
         <seg>Columns        /       Cột</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combined wet system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T094211Z" creationid="LanHK" creationdate="20210713T094211Z">
+        <seg>Combined wet system     /     Hệ thống ướt kết hợp</seg>
       </tuv>
     </tu>
     <tu>
@@ -2760,6 +2776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guest rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T094216Z" creationid="LanHK" creationdate="20210713T094216Z">
+        <seg>Guest Rooms      /     Phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest “comfort” factor and attraction to corporate companies.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093927Z" creationid="LanHK" creationdate="20210713T093927Z">
@@ -4267,6 +4291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Public spaces</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T094315Z" creationid="LanHK" creationdate="20210713T094218Z">
+        <seg>Public spaces     /      công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pump or accumulator</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T075050Z" creationid="LanHK" creationdate="20210610T074527Z">
@@ -5193,6 +5225,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080023Z">
         <seg>System Fire Integrity    /    Khả năng chịu lửa của hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Type</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T094153Z" creationid="LanHK" creationdate="20210713T094153Z">
+        <seg>System Type     /     Loại hệ thống</seg>
       </tuv>
     </tu>
     <tu>
