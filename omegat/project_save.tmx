@@ -4678,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following sketches illustrate the locations for detectors in a guest room.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T032546Z" creationid="Kieu Lan" creationdate="20210713T032526Z">
+        <seg>The following sketches illustrate the locations for detectors in a guest room.     /     Bản sketch sau minh họa vị trí các đầu báo trong một phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following systems must be provided as required by the relevant codes, or to enhance the life safety provisions of the entire Hotel:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071542Z" creationid="PHUONG.DTM" creationdate="20210608T014750Z">
@@ -5379,6 +5387,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T083240Z" creationid="LanHK" creationdate="20210609T083240Z">
         <seg>When determining the width of exits and exit routes a minimum of 5mm should be allowed for each person occupying the room.         /       Khi xác định chiều rộng cửa thoát hiểm và lối thoát hiểm, cần tính tối thiều 5mm cho mỗi người trong phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where detectors are installed in concealed zones, risers, floor voids and ceiling voids etc., then a remote visible indicator must be installed. These must be installed in all voids in excess of 800mm height unless there is no combustible material (lighting cables may be disregarded).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T032728Z" creationid="Kieu Lan" creationdate="20210713T032728Z">
+        <seg>Where detectors are installed in concealed zones, risers, floor voids and ceiling voids etc., then a remote visible indicator must be installed. These must be installed in all voids in excess of 800mm height unless there is no combustible material (lighting cables may be disregarded).     /     Khi đầu báo được lắp đặt trong các không gian bị che kín, trục ống dẫn, không gian trống trong sàn, v.v,phải lắp đặt một bảng hiển thị từ xa. Đầu báo phải được lắp đặt trong tất cả các không gian trống vượt quá 800mm chiều cao, trừ khi tại đó không có vật liệu có thể cháy (có thể ngoại trừ cáp chiếu sáng)</seg>
       </tuv>
     </tu>
     <tu>
