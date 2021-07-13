@@ -5150,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Visual fault indicators for mains failure, battery under voltage and battery charger failure</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T015940Z" creationid="Kieu Lan" creationdate="20210713T015940Z">
+        <seg>Visual fault indicators for mains failure, battery under voltage and battery charger failure     /     Đèn báo lỗi đối cho sự cố với đường ống, hụt điện áp pin và lỗi khi sạc pin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Voice Enhanced Detection &amp; Fire Alarm system</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T044026Z" creationid="Kieu Lan" creationdate="20210705T044026Z">
