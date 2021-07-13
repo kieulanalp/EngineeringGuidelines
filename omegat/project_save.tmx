@@ -1597,6 +1597,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dry deluge or glycol system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100419Z" creationid="LanHK" creationdate="20210713T100419Z">
+        <seg>Dry deluge or glycol system     /     Hệ thống deluge khô hoặc glycol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dry system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100444Z" creationid="LanHK" creationdate="20210713T100444Z">
+        <seg>Dry system     /     Hệ thống khô</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dry-pendant sprinklers extending through the wall from wet sprinkler piping in an adjacent heated area. If subject to freezing conditions use a dry system.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093009Z" creationid="LanHK" creationdate="20210713T092852Z">
@@ -2672,6 +2688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gas tank installations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100403Z" creationid="LanHK" creationdate="20210713T100403Z">
+        <seg>Gas tank installations     /     Bồn ga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210405T091918Z">
@@ -3068,6 +3092,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071157Z">
         <seg>INTRODUCTION    /    GIỚI THIỆU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100537Z" creationid="LanHK" creationdate="20210713T100537Z">
+        <seg>IT rooms     /     Phòng IT</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,10 +4179,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PABX rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100546Z" creationid="LanHK" creationdate="20210713T100546Z">
+        <seg>PABX rooms      /     Phòng PABX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PENDANT SPRINKLER HEAD SPRINKLER VALVE ARRANGEMENT - REFER TO DETAIL OPPOSITE it 2.7.4</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T070720Z" creationid="LanHK" creationdate="20210610T070537Z">
         <seg>PENDANT SPRINKLER HEAD    /    Sprinkler hướng xuống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parking garages liable to</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100500Z" creationid="LanHK" creationdate="20210713T100500Z">
+        <seg>Parking garages liable to     /     Garage đậu xe có khả năng đóng băng</seg>
       </tuv>
     </tu>
     <tu>
@@ -6680,6 +6728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>areas that are exposed to freezing conditions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100441Z" creationid="LanHK" creationdate="20210713T100441Z">
+        <seg>areas that are exposed to freezing conditions     /     Bồn ga tại các khu vực mà điều kiện có thể đóng băng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>assist them in escaping. Refuges must:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042435Z" creationid="Kieu Lan" creationdate="20210629T042435Z">
@@ -6822,6 +6878,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073619Z" creationid="LanHK" creationdate="20210609T073619Z">
         <seg>Solid and free from holes         /       Chắc chắn và không có lỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>freezing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100505Z" creationid="LanHK" creationdate="20210713T100505Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -7090,6 +7154,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100534Z" creationid="LanHK" creationdate="20210713T100534Z">
+        <seg>rooms     /     Phòng thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>self-closing, fire resisting doors.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T045652Z">
@@ -7126,6 +7198,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T085753Z" creationid="LanHK" creationdate="20210611T085500Z">
         <seg>The glass is supported in a steel frame held in place by a gasket system which permits the glass framing system to deflect without loading the glass before the sprinklers operate      /     Kính được gắn trong khung thép, cố định bằng gioăng, cho phép hệ khung kính biến dạng mà không gây vỡ kính trước khi sprinkler hoạt động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100521Z" creationid="LanHK" creationdate="20210713T100521Z">
+        <seg>systems     /     Hệ thống pre-action dựa vào nước</seg>
       </tuv>
     </tu>
     <tu>
@@ -7206,6 +7286,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T022848Z" creationid="LanHK" creationdate="20210701T022848Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>utilised.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T100617Z" creationid="LanHK" creationdate="20210713T100617Z">
+        <seg>utilised.     /     Sử dụng các van pre-action được chế tạo chuyên dụng</seg>
       </tuv>
     </tu>
     <tu>
