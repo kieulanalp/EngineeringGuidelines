@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.6.9 Impaired hearing provisions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T013925Z" creationid="Kieu Lan" creationdate="20210713T013925Z">
+        <seg>2.6.9 Impaired hearing provisions     /     Phương án dành cho người khiếm thính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.7.7 Kitchen Hood Suppression</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071850Z" creationid="LanHK" creationdate="20210610T071850Z">
@@ -4479,8 +4487,8 @@
       <tuv lang="EN-US">
         <seg>The fire alarm must be activated by smoke/heat detectors and manual call points. If a sprinkler system, kitchen o other fire suppression system is installed this should also activate the alarm.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T013234Z" creationid="Kieu Lan" creationdate="20210713T013234Z">
-        <seg>The fire alarm must be activated by smoke/heat detectors and manual call points. If a sprinkler system, kitchen o other fire suppression system is installed this should also activate the alarm.     /     Báo động cháy phải được kích hoạt bằng đầu báo khói/nhiệt và nút báo cháy khẩn cấp. Nếu một </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T013918Z" creationid="Kieu Lan" creationdate="20210713T013234Z">
+        <seg>The fire alarm must be activated by smoke/heat detectors and manual call points. If a sprinkler system, kitchen o other fire suppression system is installed this should also activate the alarm.     /     Báo động cháy phải được kích hoạt bằng đầu báo khói/nhiệt và nút báo cháy khẩn cấp. Nếu một hệ thống sprinkler, hệ thống chữa cháy bếp hoặc hệ thống chữa cháy khác được lắp đặt, chúng cũng nên kích hoạt được báo động</seg>
       </tuv>
     </tu>
     <tu>
