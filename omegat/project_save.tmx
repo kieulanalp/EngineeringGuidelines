@@ -2584,6 +2584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Freezers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T095321Z" creationid="LanHK" creationdate="20210713T095321Z">
+        <seg>Freezers     /     Tủ đông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh Air Load Estimation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091131Z">
@@ -5073,6 +5081,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081147Z" creationid="Kieu Lan" creationdate="20210713T081147Z">
         <seg>Công tắc dòng chảy sprinkler vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sprinkler heads to be quick response type.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210713T095337Z" creationid="LanHK" creationdate="20210713T095337Z">
+        <seg>Sprinkler heads to be quick response type.     /     Đầu sprinkler phải là loại phản ứng nhanh</seg>
       </tuv>
     </tu>
     <tu>
