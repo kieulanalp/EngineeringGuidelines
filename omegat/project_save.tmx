@@ -2592,6 +2592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For kitchen areas gas is generally cheaper than electricity and cooking intensity can be better controlled. For boilers gas is preferable due to its lower cost and environmental impact.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T031901Z" creationid="LanHK" creationdate="20210714T031901Z">
+        <seg>For kitchen areas gas is generally cheaper than electricity and cooking intensity can be better controlled. For boilers gas is preferable due to its lower cost and environmental impact.     /     Đối với khu vực bếp, gas thường rẻ hơn điện và độ nóng của bếp có thể được kiểm soát tốt hơn. Nồi hơi gas được ưu tiên hơn do chi phí thấp hơn và tác động tới môi trường ít hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For other properties, a risk assessment will be conducted by IHG to determine if automatic sprinklers may be exempted; however, the table below indicates in red those countries where sprinklers would normally be required</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T085313Z" creationid="Kieu Lan" creationdate="20210713T075816Z">
