@@ -5846,6 +5846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fire supply must comprise of dual incoming supply. Where the facility exists within the local water reticulation, the dual incoming supply must be derived from separate external water mains. Where not available a separate tank supply must be provided, with compartmentation for maintenance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T044135Z" creationid="LanHK" creationdate="20210714T044135Z">
+        <seg>The fire supply must comprise of dual incoming supply. Where the facility exists within the local water reticulation, the dual incoming supply must be derived from separate external water mains. Where not available a separate tank supply must be provided, with compartmentation for maintenance.     /     Nguồn nước cho cứu hỏa phải bao gồm hai nguồn cấp song song. Nếu có cơ sở vật chất phù hợp trong phạm vi mạng lưới cấp nước địa phương, nguồn cấp nước song song phải xuất phát từ các đường ống nước bên ngoài riêng biệt. Nếu không có, phải có một bể cấp nước riêng biệt, với tính năng </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fire suppression systems must be designed in accordance with recognised international standards and in compliance with local regulations.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094150Z" creationid="LanHK" creationdate="20210713T094150Z">
