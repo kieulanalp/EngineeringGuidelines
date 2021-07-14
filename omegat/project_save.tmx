@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.7.2 Fire Sprinkler and Hose Reels Low Rise</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T022317Z" creationid="LanHK" creationdate="20210714T022317Z">
+        <seg>2.7.2 Fire Sprinkler and Hose Reels Low Rise    /    Sprinkler và Cuộn vòi chữa cháy trong nhà thấp tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.7.7 Kitchen Hood Suppression</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071850Z" creationid="LanHK" creationdate="20210610T071850Z">
@@ -2658,8 +2666,8 @@
       <tuv lang="EN-US">
         <seg>GO Miiiirte self-closing. fit e resisting 'tc’Oi held open By • fusible link that releases Blowing the door to tlửSẾ 111 euent of aftie</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T103628Z" creationid="LanHK" creationdate="20210602T103411Z">
-        <seg>60 minute self-closing, fire resisting door deld open by a fusible link that releases allowing the door to close in the event of a fire        /       Cửa tự đóng chống cháy 60p được giữ mở bằng mối nối có thể tan chảy cho phép nhả cửa để đóng trong trường hợp có hỏa hoạn</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T022232Z" creationid="LanHK" creationdate="20210602T103411Z">
+        <seg>60 minute self-closing, fire resisting door deld open by a fusible link that releases allowing the door to close in the event of a fire        /       Cửa tự đóng chống cháy 60p được giữ mở bằng mối nối cảm ứng nhiệt cho phép nhả cửa để đóng trong trường hợp có hỏa hoạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -6065,8 +6073,8 @@
       <tuv lang="EN-US">
         <seg>The terminus door held open by a fusible link that will release the door in the event of a fire in the linen room</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T101432Z" creationid="LanHK" creationdate="20210602T101432Z">
-        <seg>The terminus door held open by a fusible link that will release the door in the event of a fire in the linen room        /       Cửa cuối cùng được giữ mở bằng mối nối có thể tan chảy, nhằm đóng cửa trong trường hợp có cháy trong phòng giặt là</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T022221Z" creationid="LanHK" creationdate="20210602T101432Z">
+        <seg>The terminus door held open by a fusible link that will release the door in the event of a fire in the linen room        /       Cửa cuối cùng được giữ mở bằng mối nối cảm ứng nhiệt sẽ tan chảy ở nhiệt độ nhất định, nhằm đóng cửa trong trường hợp có cháy trong phòng giặt là</seg>
       </tuv>
     </tu>
     <tu>
@@ -6932,8 +6940,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>fire condition to permit water to be discharged from each sprinkler head.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T021758Z" creationid="Kieu Lan" creationdate="20210714T021758Z">
-        <seg>fire condition to permit water to be discharged from each sprinkler head.      /     Mối nối </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T022305Z" creationid="Kieu Lan" creationdate="20210714T021758Z">
+        <seg>fire condition to permit water to be discharged from each sprinkler head.      /     Mối nối cảm ứng nhiệt trên mỗi sprinkler sẽ tan chảy trong điều kiện có hỏa hoạn để cho phép xả nước từ đầu sprinkler</seg>
       </tuv>
     </tu>
     <tu>
