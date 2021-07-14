@@ -5245,6 +5245,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stage four-Activation of sprinklers under fire conditions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T021112Z" creationid="Kieu Lan" creationdate="20210714T021112Z">
+        <seg>Stage four-Activation of sprinklers under fire conditions     /     Giai đoạn 4 - kích hoạt sprinkler trong điều kiện có hỏa hoạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stage one-normal operation-monitoring/sensing</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100659Z" creationid="LanHK" creationdate="20210713T100659Z">
@@ -6918,6 +6926,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T061439Z" creationid="Kieu Lan" creationdate="20210628T061335Z">
         <seg>In each corridor or common area adjacent to the fossil fuel-burning equipment room/area (within 4.5m/15 feet of the each entrance to the area unless the manufacturer’s instructions specify otherwise)     /     Trong mỗi hành lang hoặc khu vực chung liền kề phòng/khu vực có thiết bị đốt nhiên liệu hóa thạch (trong khoảng cách 4.5m từ lối vào phòng/khu vực trừ khi hướng dẫn của nhà sản xuất hướng dẫn khác)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fire condition to permit water to be discharged from each sprinkler head.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T021758Z" creationid="Kieu Lan" creationdate="20210714T021758Z">
+        <seg>fire condition to permit water to be discharged from each sprinkler head.      /     Mối nối </seg>
       </tuv>
     </tu>
     <tu>
