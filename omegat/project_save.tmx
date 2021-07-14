@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bulk storage of LPF, Butane or Propane may be used, based on 6 weeks supply at maximum use.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T024451Z" creationid="LanHK" creationdate="20210714T024451Z">
+        <seg>Bulk storage of LPF, Butane or Propane may be used, based on 6 weeks supply at maximum use.     /     Có thể dự trữ khối lượng lớn khí gas lỏng, butane hoặc propane, dựa trên cơ sở 6 tuần sử dụng ở công suất tối đa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CIE - Control and Indicating Equipment</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T024920Z" creationid="LanHK" creationdate="20210610T024920Z">
@@ -3146,8 +3154,8 @@
       <tuv lang="EN-US">
         <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210714T022535Z" creationid="LanHK" creationdate="20210714T022535Z">
-        <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.     /     Nếu không có khí ga tự nhiên</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T024404Z" creationid="LanHK" creationdate="20210714T022535Z">
+        <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.     /     Nếu không có khí ga tự nhiên, phải tiến hành phân tích để xác định ưu tiên sử dụng dầu hay khí gas lỏng. Phải có hệ thống phát hiện rò rỉ khí gas, cover cho kho và mạng lưới đường ống đến tận điểm sử dụng cuối cùng.</seg>
       </tuv>
     </tu>
     <tu>
