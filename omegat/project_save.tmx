@@ -6784,6 +6784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>automatically throughout the whole hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T015341Z" creationid="Kieu Lan" creationdate="20210714T015341Z">
+        <seg>automatically throughout the whole hotel.     /     Nếu một thiết bị thứ hai kích hoạt trong thời gian chờ, bất kể là loại thiết bị nào, báo động phải được kích hoạt trên toàn bộ khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>b) Central Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091433Z" creationid="LanHK" creationdate="20210702T091433Z">
@@ -7082,6 +7090,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>of the hotel (elevators may be used at this time) or compliance with local standards whichever is less.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T015148Z" creationid="Kieu Lan" creationdate="20210714T015148Z">
+        <seg>of the hotel (elevators may be used at this time) or compliance with local standards whichever is less.     /     Khoảng thời gian chờ (tối đa 180s) dựa vào thời gian cần thiết để đi đến khu vực xa nhất trong khách sạn (trong thời gian này được phép dùng thang máy) hoặc tuân thủ tiêu chuẩn của địa phương, tùy thuộc tiêu chuẩn thời gian chờ nào ngắn hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>on their own</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042330Z" creationid="Kieu Lan" creationdate="20210629T042330Z">
@@ -7262,6 +7278,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T022750Z" creationid="LanHK" creationdate="20210701T022750Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the alarm must automatically sound throughout the whole hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T015225Z" creationid="Kieu Lan" creationdate="20210714T015225Z">
+        <seg>the alarm must automatically sound throughout the whole hotel.     /     Khi thời gian chờ kết thúc và nếu báo động chưa được tắt do không có dấu hiệu cháy, báo động phải tự động kích hoạt trên toàn bộ khách sạn</seg>
       </tuv>
     </tu>
     <tu>
