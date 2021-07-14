@@ -3249,6 +3249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Utility Company is able to provide dual feed power supplies to the site from separate independent generating sources, or separate external mains, then consideration may be given to deletion of the standby generator set. This will be subject to receipt in writing from the Utility Company of verification of the supplies and their reliability. (refer to electrical section for further details).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T100903Z" creationid="Kieu Lan" creationdate="20210714T100903Z">
+        <seg>If the Utility Company is able to provide dual feed power supplies to the site from separate independent generating sources, or separate external mains, then consideration may be given to deletion of the standby generator set. This will be subject to receipt in writing from the Utility Company of verification of the supplies and their reliability. (refer to electrical section for further details).     /     Nếu Công ty Điện lực có thể cung cấp nguồn cấp điện đôi cho khách sạn từ nguồn phát điện độc lập riêng biệt hoặc từ lưới điện bên ngoài riêng biệt, vậy có thể cân nhắc miễn bộ máy phát điện dự phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediate alarm in room/area</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081347Z" creationid="Kieu Lan" creationdate="20210713T081347Z">
