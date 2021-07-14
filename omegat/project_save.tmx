@@ -2529,6 +2529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire water supply to sprinkler/hydrant storage tanks</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T094029Z" creationid="Kieu Lan" creationdate="20210714T094029Z">
+        <seg>Fire water supply to sprinkler/hydrant storage tanks     /     Nguồn cấp nước tới bể chứa của sprinkler/trụ cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Firefighting lift returned to ground floor ready for fire brigade</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044405Z" creationid="Kieu Lan" creationdate="20210713T044405Z">
@@ -3213,6 +3221,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T061934Z" creationid="Kieu Lan" creationdate="20210628T061934Z">
         <seg>If installing an electrically operated device, the AC power source should be supplied from either a dedicated branch circuit or the un-switched portion of the branch circuit also used for power and lighting. Operation of a switch (other than a circuit breaker) or a ground fault circuit interrupter should not cause loss of power to the alarm.     /     Nếu lắp đặt thiết bị vận hành bằng điện, nguồn điện AC nên được cấp từ một mạch nhánh dành riêng hoặc từ một đoạn mạch nhánh không có công tắc sử dụng dồng thời cho cấp điện và chiếu sáng. Việc vận hành công tắc (ngoại trừ aptomat) hoặc bộ ngắt điện rò mặt đất không nên gây cắt điện đến báo động.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If local codes do not specify storage requirements of fire water, refer to NFPA requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T094145Z" creationid="Kieu Lan" creationdate="20210714T094033Z">
+        <seg>If local codes do not specify storage requirements of fire water, refer to NFPA requirements     /     Nếu quy định địa phương không thể hiện chi tiết yêu cầu về dự trữ nước đối với nước cứu hỏa, tham khảo yêu cầu NFPA</seg>
       </tuv>
     </tu>
     <tu>
@@ -5856,8 +5872,8 @@
       <tuv lang="EN-US">
         <seg>The fire supply must comprise of dual incoming supply. Where the facility exists within the local water reticulation, the dual incoming supply must be derived from separate external water mains. Where not available a separate tank supply must be provided, with compartmentation for maintenance.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210714T044135Z" creationid="LanHK" creationdate="20210714T044135Z">
-        <seg>The fire supply must comprise of dual incoming supply. Where the facility exists within the local water reticulation, the dual incoming supply must be derived from separate external water mains. Where not available a separate tank supply must be provided, with compartmentation for maintenance.     /     Nguồn nước cho cứu hỏa phải bao gồm hai nguồn cấp song song. Nếu có cơ sở vật chất phù hợp trong phạm vi mạng lưới cấp nước địa phương, nguồn cấp nước song song phải xuất phát từ các đường ống nước bên ngoài riêng biệt. Nếu không có, phải có một bể cấp nước riêng biệt, với tính năng </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T094053Z" creationid="LanHK" creationdate="20210714T044135Z">
+        <seg>The fire supply must comprise of dual incoming supply. Where the facility exists within the local water reticulation, the dual incoming supply must be derived from separate external water mains. Where not available a separate tank supply must be provided, with compartmentation for maintenance.     /     Nguồn nước cho cứu hỏa phải bao gồm hai nguồn cấp song song. Nếu có cơ sở vật chất phù hợp trong phạm vi mạng lưới cấp nước địa phương, nguồn cấp nước song song phải xuất phát từ các đường ống nước bên ngoài riêng biệt. Nếu không có, phải có một bể cấp nước riêng biệt, có chia khoang để phục vụ bảo trì</seg>
       </tuv>
     </tu>
     <tu>
@@ -6106,6 +6122,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094544Z">
         <seg>The reason for the variation    /    Lý do có thay đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The requirements for storage will depend upon the reliability of the water supply, which should be confirmed before deciding upon the storage requirements indicated in section 6. It is preferable to reduce storage due to the potential health risk, but the final storage requirements should be based on the reliability, and maximum water flow available.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T094153Z" creationid="Kieu Lan" creationdate="20210714T094153Z">
+        <seg>The requirements for storage will depend upon the reliability of the water supply, which should be confirmed before deciding upon the storage requirements indicated in section 6. It is preferable to reduce storage due to the potential health risk, but the final storage requirements should be based on the reliability, and maximum water flow available.     /     Yêu cầu đối</seg>
       </tuv>
     </tu>
     <tu>
