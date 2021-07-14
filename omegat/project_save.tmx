@@ -6978,6 +6978,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>investigate the operation of a fire detector to see if there is evidence of fire before there is a general alarm throughout the whole hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T015020Z" creationid="Kieu Lan" creationdate="20210714T015020Z">
+        <seg>investigate the operation of a fire detector to see if there is evidence of fire before there is a general alarm throughout the whole hotel.     /     Hệ thống phát hiện và báo cháy 2 giai đoạn là hệ thống trong đó có một khoảng thời gian chờ được định sẵn (tối đa 180 giây) nhằm kiểm tra việc vận hành đầu báo cháy để xem liệu có thực sự có cháy trước khi kích hoạt báo động chung trên toàn khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>irrespective of their language</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042011Z" creationid="Kieu Lan" creationdate="20210629T042011Z">
