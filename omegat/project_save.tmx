@@ -2704,6 +2704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gas detections shall be provided in all rooms having gas supply, to sound on alarm and shut off the gas in the event of leakage being detected.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T030214Z" creationid="LanHK" creationdate="20210714T030214Z">
+        <seg>Gas detections shall be provided in all rooms having gas supply, to sound on alarm and shut off the gas in the event of leakage being detected.     /     Đầu báo khí gas được cung cấp trong tất cả các phòng có nguồn cấp gas, để báo động và ngắt gas trong trường hợp xảy ra rò rỉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gas leak detection</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T075331Z" creationid="LanHK" creationdate="20210702T075331Z">
@@ -5827,6 +5835,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094002Z" creationid="LanHK" creationdate="20210713T094002Z">
         <seg>The following table provides a summary of applications of different fire suppression systems:-     /     Bảng sau tổng kết các phương án áp dụng các loại hệ thống chữa cháy khác nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The gas system should be designed to conform to NFPA standards as a minimum for all gas installations including, ventilated risers, combustion gas emissions combustion air and safety precautions must be observed in the design.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T030909Z" creationid="LanHK" creationdate="20210714T030909Z">
+        <seg>The gas system should be designed to conform to NFPA standards as a minimum for all gas installations including, ventilated risers, combustion gas emissions combustion air and safety precautions must be observed in the design.     /     Hệ thống gas nên được thiết kế tối thiểu tuân thủ các tiêu chuẩn NFPA  đối với tất cả thiết bị gas lắp đặt, bao gồm: trục ống đứng có thông khí, ống thải khí gas đốt, khí đốt và cần cân nhắc tới các yêu cầu về yêu toàn trong quá trình thiết kế</seg>
       </tuv>
     </tu>
     <tu>
