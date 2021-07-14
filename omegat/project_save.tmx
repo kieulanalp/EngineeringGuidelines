@@ -5229,6 +5229,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stage Three-Additional smoke detectors activated</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T015825Z" creationid="Kieu Lan" creationdate="20210714T015825Z">
+        <seg>Stage Three-Additional smoke detectors activated     /     Giai đoạn 3 - các đầu báo khói khác kích hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stage Two-One smoke detector activated</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T103117Z" creationid="LanHK" creationdate="20210713T103054Z">
@@ -6978,6 +6986,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in the room &amp; alerts remote annunciator panel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T015755Z" creationid="Kieu Lan" creationdate="20210714T015755Z">
+        <seg>in the room &amp; alerts remote annunciator panel.     /    Kích hoạt đầu báo khói khiến kích hoạt một báo động trong phòng và báo về bảng điều khiển từ xa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>instructions on how to use the communications</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041925Z" creationid="Kieu Lan" creationdate="20210629T041925Z">
@@ -7262,6 +7278,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T015510Z" creationid="Kieu Lan" creationdate="20210714T015510Z">
         <seg>sprinkler flow switch or other fire suppression system operate there must be an immediate alarm throughout the whole hotel.     /      Chỉ được phép có thời gian chờ khi một đầu báo khói trong phòng khách vận hành. Nếu thiết bị bị vận hành là nút báo cháy khẩn cấp, công tắc dòng chảy sprinkler hay các hệ thống chữa cháy khác, phải ngay lập tức kích hoạt báo động trên toàn khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sprinkler water flow control valve to fill up the sprinkler pipe work with water.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T020001Z" creationid="Kieu Lan" creationdate="20210714T020001Z">
+        <seg>sprinkler water flow control valve to fill up the sprinkler pipe work with water.     /     Kích hoạt đầu báo cháy thứ hai mở van kiểm soát dòng chảy để nước vào đường ống sprinkler</seg>
       </tuv>
     </tu>
     <tu>
