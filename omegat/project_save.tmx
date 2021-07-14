@@ -343,6 +343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dedicated domestic water supply must be provided to serve all of the hotels ‘non-fire’ requirements from the Water Company’s mains. The Water Supply Company’s mains must be fitted with a water meter at the site boundary, as well as a stop valve either side of the water meter. This should also include a low flow meter.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T032942Z" creationid="LanHK" creationdate="20210714T032942Z">
+        <seg>A dedicated domestic water supply must be provided to serve all of the hotels ‘non-fire’ requirements from the Water Company’s mains. The Water Supply Company’s mains must be fitted with a water meter at the site boundary, as well as a stop valve either side of the water meter. This should also include a low flow meter.     /     Phải có nguồn cấp nước sinh hoạt chuyên dụng để phục vụ tất cả các yêu cầu "không liên quan đến chữa cháy" của khách sạn từ công ty cấp nước. Đường ống của công ty cấp nước phải được gắn đồng hồ nước tại ranh giới khuôn viên khách sạn, cũng như van chặn ở hai bên đồng hồ nước. Cũng nên bao gồm một đồng hồ đo lưu lượng thấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fire detection and alarm system sequence matrix- refer to example at the end of this section.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T013444Z" creationid="LanHK" creationdate="20210602T013444Z">
