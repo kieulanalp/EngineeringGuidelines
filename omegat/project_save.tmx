@@ -3177,6 +3177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INTERNAL DESIGN CONDITIONS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T093959Z" creationid="Kieu Lan" creationdate="20210714T093959Z">
+        <seg>INTERNAL DESIGN CONDITIONS     /     Điều kiện thiết kế bên trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INTRODUCTION</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071157Z">
