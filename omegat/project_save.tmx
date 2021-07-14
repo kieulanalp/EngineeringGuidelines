@@ -4371,6 +4371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide automatic gas solenoid shut off valves connected to the fire detection and alarm system for each area served, with a manual knock off button provided adjacent to the exit, all of which shall be connected to the fire panel and BMS.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T030128Z" creationid="LanHK" creationdate="20210714T030128Z">
+        <seg>Provide automatic gas solenoid shut off valves connected to the fire detection and alarm system for each area served, with a manual knock off button provided adjacent to the exit, all of which shall be connected to the fire panel and BMS.     /     Cung cấp van điện từ tự động ngắt gas kết nối với hệ thống phát hiện và báo cháy cho từng khu vực sử dụng, với nút ngắt bằng tay bố trí gần lối ra, tất cả được kết nối với tủ báo cháy và BMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide clear indication of responsibilities.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092601Z">
@@ -4415,6 +4423,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091916Z" creationid="LanHK" creationdate="20210702T091916Z">
         <seg>Provide protection of life and property by the early detection and automated alarm/annunciation in the event of a fire incident to the whole hotel.     /     Bảo vệ an toàn tính mạng và tài sản bằng việc phát hiện sớm và kích hoạch báo động/thông báo tự động trong trường hợp có hỏa hoạn trên toàn khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide separate metering for each area served.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T024659Z" creationid="LanHK" creationdate="20210714T024659Z">
+        <seg>Provide separate metering for each area served.     /     Cung cấp đồng hồ đo riêng cho mỗi khu vực sử dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -4535,6 +4551,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T074003Z" creationid="LanHK" creationdate="20210610T074003Z">
         <seg>Reduced water storage    /    Giảm lượng nước dự trữ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to LPGA Code of Practice No. 1 Part 4: 1999 or NFPA 58.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T024644Z" creationid="LanHK" creationdate="20210714T024644Z">
+        <seg>Refer to LPGA Code of Practice No. 1 Part 4: 1999 or NFPA 58.     /     Tham khảo Hướng dẫn của LPGA (Hiệp hội khí gas lỏng) số. 1 phần 4: 1999 hoặc NFPA 58.</seg>
       </tuv>
     </tu>
     <tu>
