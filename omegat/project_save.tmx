@@ -351,6 +351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dedicated fire water supply must be provided to serve all of the hotel’s ‘fire’ supplies, which may include:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T034126Z" creationid="LanHK" creationdate="20210714T034126Z">
+        <seg>A dedicated fire water supply must be provided to serve all of the hotel’s ‘fire’ supplies, which may include:     /     Phải có nguồn cấp nước chuyên dụng cho chữa cháy phục vụ tất cả các thiết bị chữa cháy của khách sạn, có thể bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fire detection and alarm system sequence matrix- refer to example at the end of this section.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T013444Z" creationid="LanHK" creationdate="20210602T013444Z">
