@@ -1376,6 +1376,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DISTRICT COOLING OR HEATING</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T022503Z" creationid="LanHK" creationdate="20210714T022503Z">
+        <seg>DISTRICT COOLING OR HEATING     /     Nhà máy làm mát/sưởi theo khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DOCUMENT VERIFICATION</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070107Z">
@@ -2272,10 +2280,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Sprinkler High Rise</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T022334Z" creationid="LanHK" creationdate="20210714T022334Z">
+        <seg>Fire Sprinkler High rise     /     Sprinkler nhà cao tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire Sprinkler High rise</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T080240Z" creationid="LanHK" creationdate="20210525T080240Z">
-        <seg>Fire Sprinkler High rise Sprinkler nhà cao tầng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T022329Z" creationid="LanHK" creationdate="20210525T080240Z">
+        <seg>Fire Sprinkler High rise     /     Sprinkler nhà cao tầng</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,8 +2706,8 @@
       <tuv lang="EN-US">
         <seg>Gas must be provided to the site from the local service provider, and must enter the property in a position that allows unobstructed 24-hour clear access by the utility company. The gas meter and governor assembly together with any gas booster entry point must be at the rear of the building, not accessible by the public, and a dedicated meter room located on an external wall with facility for isolation must be provided to comply with the local regulatory requirements. The gas supply must have an automatic solenoid shut off valve to isolate the gas supply in the event of a fire alarm. If natural gas is to be used without back up it should be available for 95% of the time.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210701T022424Z" creationid="LanHK" creationdate="20210701T022424Z">
-        <seg>Gas must be provided to the site from the local service provider, and must enter the property in a position that allows unobstructed 24-hour clear access by the utility company. The gas meter and governor assembly together with any gas booster entry point must be at the rear of the building, not accessible by the public, and a dedicated meter room located on an external wall with facility for isolation must be provided to comply with the local regulatory requirements. The gas supply must have an automatic solenoid shut off valve to isolate the gas supply in the event of a fire alarm. If natural gas is to be used without back up it should be available for 95% of the time.     /     </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T024124Z" creationid="LanHK" creationdate="20210701T022424Z">
+        <seg>Gas must be provided to the site from the local service provider, and must enter the property in a position that allows unobstructed 24-hour clear access by the utility company. The gas meter and governor assembly together with any gas booster entry point must be at the rear of the building, not accessible by the public, and a dedicated meter room located on an external wall with facility for isolation must be provided to comply with the local regulatory requirements. The gas supply must have an automatic solenoid shut off valve to isolate the gas supply in the event of a fire alarm. If natural gas is to be used without back up it should be available for 95% of the time.     /     Khí gas phải được cung cấp cho khách sạn từ nhà cung cấp dịch vụ địa phương và phải tiến vào khuôn viên ở vị trí cho phép công ty tiện ích có thể tiếp cận mà không bị cản trở suốt 24 giờ. Cụm đồng hồ đo gas và bộ điều áp gas cùng với bất kỳ điểm tăng áp gas nào phải ở phía sau tòa nhà, không cho công chúng tiếp cận và phải có phòng đo chuyên dụng nằm ở bức tường bên ngoài với thiết bị cách ly đảm bảo tuân thủ các yêu cầu quy định của địa phương. Nguồn cấp gas phải có van ngắt điện từ tự động để cách ly nguồn cấp gas trong trường hợp có báo cháy. Nếu khí tự nhiên được sử dụng mà không có dự phòng thì phải có sẵn trong 95% thời gian.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3124,6 +3140,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T061934Z" creationid="Kieu Lan" creationdate="20210628T061934Z">
         <seg>If installing an electrically operated device, the AC power source should be supplied from either a dedicated branch circuit or the un-switched portion of the branch circuit also used for power and lighting. Operation of a switch (other than a circuit breaker) or a ground fault circuit interrupter should not cause loss of power to the alarm.     /     Nếu lắp đặt thiết bị vận hành bằng điện, nguồn điện AC nên được cấp từ một mạch nhánh dành riêng hoặc từ một đoạn mạch nhánh không có công tắc sử dụng dồng thời cho cấp điện và chiếu sáng. Việc vận hành công tắc (ngoại trừ aptomat) hoặc bộ ngắt điện rò mặt đất không nên gây cắt điện đến báo động.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210714T022535Z" creationid="LanHK" creationdate="20210714T022535Z">
+        <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.     /     Nếu không có khí ga tự nhiên</seg>
       </tuv>
     </tu>
     <tu>
