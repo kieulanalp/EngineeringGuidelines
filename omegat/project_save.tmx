@@ -2483,8 +2483,8 @@
       <tuv lang="EN-US">
         <seg>Extract volume from guest bathroom shall be minimum of 90% of the supply air volume to the guestroom, and a minimum of 6 Ac/hr., but preferably balanced with the fresh air.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T084513Z" creationid="LanHK" creationdate="20210715T084513Z">
-        <seg>Extract volume from guest bathroom shall be minimum of 90% of the supply air volume to the guestroom, and a minimum of 6 Ac/hr., but preferably balanced with the fresh air.     /     Thể tích khí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T084642Z" creationid="LanHK" creationdate="20210715T084513Z">
+        <seg>Extract volume from guest bathroom shall be minimum of 90% of the supply air volume to the guestroom, and a minimum of 6 Ac/hr., but preferably balanced with the fresh air.     /     Thể tích thải khí từ phòng tắm của khách phải tối thiểu bằng 90% thể tích cấp khí vào phòng, và tối thiểu 6 AC/h, tuy nhiên ưu tiên cân bằng với khí tươi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7723,6 +7723,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T081904Z" creationid="LanHK" creationdate="20210715T081904Z">
         <seg>Ventilation rates to be based on 8-12 l/s per guest, final figure to balance the exhaust rate. The maximum number of guests per room to be utilized hence:     /     Lưu lượng thông gió dự trên cơ sở 8-12 l/s trên khách, con số cuối cùng cần cân đối với tỉ lệ thải khí. Ở đây áp dựng số lượng khách tối đa trên phòng:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ventilation rates to be selected to achieve the maximum summer temperature requirement. Fans to be controlled from a local thermostat. Natural ventilation is an acceptable alternative if suitable control can be demonstrated.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T084854Z" creationid="LanHK" creationdate="20210715T084739Z">
+        <seg>Ventilation rates to be selected to achieve the maximum summer temperature requirement. Fans to be controlled from a local thermostat. Natural ventilation is an acceptable alternative if suitable control can be demonstrated.     /     Lưu lượng thông khí được chọn để đạt yêu cầu tối đa về nhiệt độ trong hè. Các quạt điều khiển bằng một bộ điều khiển cục bộ. Chấp nhận thông khí tự nhiên nếu có thể chứng minh khả năng kiểm soát phù hợp</seg>
       </tuv>
     </tu>
     <tu>
