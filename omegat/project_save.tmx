@@ -39,10 +39,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-DEPARTMENT ON CLIMATE ZONE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035216Z" creationid="LanHK" creationdate="20210715T035216Z">
+        <seg>-department on climate zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-REFER TO IHG GLOBAL TECHNOLOGY</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064212Z" creationid="Kieu Lan" creationdate="20210629T064212Z">
         <seg>-REFER TO IHG GLOBAL TECHNOLOGY     /     xem Tiêu chuẩn Kỹ thuật toàn cầu IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-REFER TO OPTIONS LISTED</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035458Z" creationid="LanHK" creationdate="20210715T035458Z">
+        <seg>-refer to options listed</seg>
       </tuv>
     </tu>
     <tu>
@@ -2946,6 +2962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GUEST ROOM A/C OPTIONS:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035214Z" creationid="LanHK" creationdate="20210715T035214Z">
+        <seg>guest room a/c options:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gas detections shall be provided in all rooms having gas supply, to sound on alarm and shut off the gas in the event of leakage being detected.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210714T030214Z" creationid="LanHK" creationdate="20210714T030214Z">
@@ -5269,8 +5293,8 @@
       <tuv lang="EN-US">
         <seg>SUPPLY AND EXHAUST VENTILATION SYSTEMS</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T035120Z" creationid="LanHK" creationdate="20210715T035120Z">
-        <seg>supply and exhaust ventilation systems</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035208Z" creationid="LanHK" creationdate="20210715T035120Z">
+        <seg>supply and exhaust ventilation systems     /     các hệ thống cấp và xả khí</seg>
       </tuv>
     </tu>
     <tu>
