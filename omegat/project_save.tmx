@@ -63,6 +63,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034600Z" creationid="LanHK" creationdate="20210715T034600Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1. ALL DEVICES (DETECTORS. SPRINKLER FLOW SWITCHES. MANUAL CALL POINTS ETC.) SHALL HAVE INDIVIDUAL DEVICE ADDRESSES.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045450Z" creationid="Kieu Lan" creationdate="20210705T045402Z">
@@ -603,8 +611,8 @@
       <tuv lang="EN-US">
         <seg>Aims and Objectives</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083315Z">
-        <seg>Aims and Objectives    /    Định hướng và Mục tiêu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034707Z" creationid="LanHK" creationdate="20210525T083315Z">
+        <seg>Aims and Objectives    /    Mục đích và Mục tiêu</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,6 +886,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T021632Z" creationid="Kieu Lan" creationdate="20210713T021632Z">
         <seg>Any ventilation controls for use by firefighters must be adjacent to the fire control panel; however, smoke extraction controls for stairs may be located within the stair at fire brigade access level.     /     Bất cứ điều khiển thông khí nào cho lực lượng cứu hỏa sử dụng phải bố trí gần tủ báo cháy; tuy nhiên điều khiển thông khói cho thang bộ có thể được bố trí bên trong giếng thang bộ tại tầng truy cập cho lực lượng cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix - Technical Specifications - then reference each individual area</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034555Z" creationid="LanHK" creationdate="20210715T034555Z">
+        <seg>Appendix - Technical Specifications - then reference each individual area        /         Phụ lục - Thông số Kỹ thuật - tham khảo từng khu vực cụ thể</seg>
       </tuv>
     </tu>
     <tu>
@@ -4251,6 +4267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical Services, Systems Included</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034614Z" creationid="LanHK" creationdate="20210715T034614Z">
+        <seg>Mechanical Services, Systems Included     /     Các máy móc, hệ thống bao gồm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical rooms &amp; plant rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093209Z" creationid="LanHK" creationdate="20210713T093209Z">
@@ -4731,6 +4755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide a comfortable odour free temperature controlled environment for occupants up to 24 hours a day.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034801Z" creationid="LanHK" creationdate="20210715T034801Z">
+        <seg>Provide a comfortable odour free temperature controlled environment for occupants up to 24 hours a day.     /     Cung cấp cho con người một môi trường thoải mái, không có mùi, với nhiệt độ được kiểm soát lên đến 24h/ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide a summary of systems that have been proven and are acceptable. (This does not preclude designers from proposing alternatives, particularly as technology advances. Any alternatives proposed however should be submitted with sufficient detail for comparison and in particular the benefits listed, for IHG approval).</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092913Z">
@@ -4767,6 +4799,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092731Z">
         <seg>Provide examples of cost effective simple designs that are proven for use. (This does not preclude the designers from putting forward alternatives that are more cost effective or can provide other benefits).    /    Cung cấp ví dụ về các thiết kế đơn giản với mức giá tối ưu đã qua kiểm nghiệm thực tế (Điều này không có nghĩa là thiết kế không thể đưa ra các giải pháp khác tối ưu hơn hoặc đem lại các lợi ích khác)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide individual temperature control in guest rooms, with adjacent rooms having heating/cooling simultaneously</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034835Z" creationid="LanHK" creationdate="20210715T034835Z">
+        <seg>Provide individual temperature control in guest rooms, with adjacent rooms having heating/cooling simultaneously        /         Cho phép kiểm soát nhiệt độ riêng cho từng phòng khách, với các phòng liền kề có thể sưởi/làm mát đồng thời</seg>
       </tuv>
     </tu>
     <tu>
@@ -5223,6 +5263,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T015301Z" creationid="LanHK" creationdate="20210603T015301Z">
         <seg>Secondary corridors 1.1m        /       hành lang phụ 1.1m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 2 Property Standards - then reference each individual area</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034553Z" creationid="LanHK" creationdate="20210715T034553Z">
+        <seg>Section 2 Property Standards - then reference each individual area     /     Mục 2: Tiêu chuẩn cơ sở vật chất - tham khảo từng khu vực cụ thể</seg>
       </tuv>
     </tu>
     <tu>
@@ -6013,6 +6061,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The aims and the objectives of the HVAC systems are to:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034719Z" creationid="LanHK" creationdate="20210715T034646Z">
+        <seg>The aims and the objectives of the HVAC systems are to:     /     Mục đích và mục tiêu của các hệ HVAC là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The anticipated risk of a fire and its severity.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T012916Z" creationid="LanHK" creationdate="20210602T012916Z">
@@ -6355,6 +6411,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T015346Z" creationid="Kieu Lan" creationdate="20210713T015346Z">
         <seg>The main fire alarm panel (also known as fire indicator panel) must be located in a constantly staffed position such as the main reception, with both audible and visual alarm on the panel. Specific alarm zone and functioning status of fire detection system must be indicated. If the front desk is not manned at any time the alarm signal must be relayed to a constantly staffed point. A direct interface to the fire authority should only be provided where required by local regulations. This interface must be operated after a predetermined time delay.     /     Tủ báo cháy chính phải bố trí ở vị trí luôn luôn có nhân viên trực, vd như quầy lễ tân chính, với cả báo động âm thanh và hình ảnh trên tủ. Tủ phải có thể báo cụ thể khu vực có báo cháy và tình trạng vận hành của hệ thống báo cháy. Nếu không có người trực liên tục tại quầy lễ tân, tín hiệu báo động phải được chuyển tới một vị trí khác luôn có người trực. Chỉ nên tích hợp báo động trực tiếp đến đơn vị PCCC địa phương nếu quy định địa phương yêu cầu. Việc tích hợp này phải được vận hành sau một khoảng thời gian chờ được xác định trước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main mechanical services that are included within the designer’s responsibility:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034641Z" creationid="LanHK" creationdate="20210715T034641Z">
+        <seg>The main mechanical services that are included within the designer’s responsibility:-     /     Các máy móc chính bao gồm trong trách nhiệm của thiết kế:</seg>
       </tuv>
     </tu>
     <tu>
