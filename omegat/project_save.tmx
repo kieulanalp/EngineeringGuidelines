@@ -552,10 +552,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acoustic Isolation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031110Z" creationid="LanHK" creationdate="20210715T031110Z">
+        <seg>Acoustic Isolation     /     Tiêu âm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Addendum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070956Z">
         <seg>Addendum    /    Sửa đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional Cooling Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031204Z" creationid="LanHK" creationdate="20210715T031204Z">
+        <seg>Additional Cooling Systems     /     Các hệ thống làm mát bổ sung</seg>
       </tuv>
     </tu>
     <tu>
@@ -2817,6 +2833,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh Air Delivery</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031133Z" creationid="LanHK" creationdate="20210715T031133Z">
+        <seg>Fresh Air Delivery     /     Cung cấp khí tươi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh Air Load Estimation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091131Z">
@@ -3029,6 +3053,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153638Z" creationid="Kieu Lan" creationdate="20210405T153638Z">
         <seg>Guest Room Phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Room HVAC Equipment Selection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031148Z" creationid="LanHK" creationdate="20210715T031148Z">
+        <seg>Guest Room HVAC Equipment Selection     /     Lựa chọn thiết bị HVAC cho phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Natural Ventilation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031139Z" creationid="LanHK" creationdate="20210715T031139Z">
+        <seg>Natural Ventilation     /     Thông khí tự nhiên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210429T062846Z" creationid="LanHK" creationdate="20210429T062846Z">
@@ -4838,6 +4878,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210714T024644Z" creationid="LanHK" creationdate="20210714T024644Z">
         <seg>Refer to LPGA Code of Practice No. 1 Part 4: 1999 or NFPA 58.     /     Tham khảo Hướng dẫn của LPGA (Hiệp hội khí gas lỏng) số. 1 phần 4: 1999 hoặc NFPA 58.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refrigerant Management</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031356Z" creationid="LanHK" creationdate="20210715T031356Z">
+        <seg>Refrigerant Management     /     Quản lý môi chất lạnh</seg>
       </tuv>
     </tu>
     <tu>
@@ -6859,6 +6907,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081239Z">
         <seg>Water    /    Nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Cooled Chillers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031157Z" creationid="LanHK" creationdate="20210715T031157Z">
+        <seg>Water Cooled Chillers     /     Chiller làm mát bằng nước</seg>
       </tuv>
     </tu>
     <tu>
