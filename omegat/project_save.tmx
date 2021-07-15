@@ -1144,8 +1144,8 @@
       <tuv lang="EN-US">
         <seg>Base external heat rejection equipment selections on external ambient design temperature for the location +5°C</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T045612Z" creationid="LanHK" creationdate="20210715T045612Z">
-        <seg>     /     Lựa chọn thiết bị thải nhiệt bên ngoài dựa trên nhiệt độ thiết kế bên ngoài của vị trí dự án </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T045615Z" creationid="LanHK" creationdate="20210715T045612Z">
+        <seg>     /     Lựa chọn thiết bị thải nhiệt bên ngoài dựa trên nhiệt độ thiết kế bên ngoài của vị trí dự án +5°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -1507,6 +1507,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T065917Z" creationid="Kieu Lan" creationdate="20210705T065235Z">
         <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.      /     Các dây nối phải được bảo vệ và phải bố trí cầu chì nhiệt để đảm bảo mạch vẫn kín mặc dù các loa đơn lẻ có thể bị hỏng hóc do lửa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control Systems)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T045859Z" creationid="LanHK" creationdate="20210715T045859Z">
+        <seg>Control Systems)     /     NFPA (Các hệ thống kiểm soát khói)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3797,6 +3805,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T043836Z" creationid="Kieu Lan" creationdate="20210705T043836Z">
         <seg>Interface to air handling systems for engineered smoke clearance systems (where required)     /     Liên kết với hệ thống AHU để kiểm soát các hệ thống thoát khói (khi cần thiết)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal Design Criteria</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T045914Z" creationid="LanHK" creationdate="20210715T045914Z">
+        <seg>Internal Design Criteria     /     Tiêu chí thiết kế bên trong</seg>
       </tuv>
     </tu>
     <tu>
@@ -6211,6 +6227,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature occurs lessthan 2% of the year</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T045904Z" creationid="LanHK" creationdate="20210715T045904Z">
+        <seg>Temperature occurs less than 2% of the year     /     Nhiệt độ đạt đến ít hơn 2%/năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test facility</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020056Z" creationid="Kieu Lan" creationdate="20210713T020056Z">
@@ -6825,6 +6849,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>The system shall be directly linked to the hotel’s Property Management System (PMS)    /    Front Office System</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The systems proposed should comply with the following recognised International Industry Standards:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T045840Z" creationid="LanHK" creationdate="20210715T045840Z">
+        <seg>The systems proposed should comply with the following recognised International Industry Standards:     /     Các hệ thống được đề xuất nên tuân thủ các Tiêu chuẩn Ngành Quốc tế sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7610,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091417Z" creationid="LanHK" creationdate="20210702T091417Z">
         <seg>a) Self-Contained (minimum 1 hour or 90 minutes for Asia)     /     a) Pin tích hợp (tối thiểu 1h hoặc 90p đối với châu Á)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and designs appropriate to the building location.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T045815Z" creationid="LanHK" creationdate="20210715T045815Z">
+        <seg>and designs appropriate to the building location.     /     Giảm thiểu chi phí vòng đời bằng việc sử dụng năng lượng tự nhiên (ánh sáng / năng lượng mặt trời) và hình dạng tòa nhà, đơn giản hóa thiết kế các dịch vụ và thiết kế phù hợp với vị trí tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
