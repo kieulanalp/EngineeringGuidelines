@@ -1446,6 +1446,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cloakroom</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063329Z" creationid="LanHK" creationdate="20210715T063329Z">
+        <seg>Cloakroom***Phòng gửi đồ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coffee Shop</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063502Z" creationid="LanHK" creationdate="20210715T063502Z">
+        <seg>Coffee Shop***Quán Cafe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cold Water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154657Z" creationid="Kieu Lan" creationdate="20210405T154657Z">
@@ -1546,8 +1562,8 @@
       <tuv lang="EN-US">
         <seg>Corridors</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020623Z" creationid="Kieu Lan" creationdate="20210713T020623Z">
-        <seg>Corridors     /     Hành lang</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063408Z" creationid="Kieu Lan" creationdate="20210713T020623Z">
+        <seg>Corridors***Hành lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -3032,6 +3048,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Function Room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063607Z" creationid="LanHK" creationdate="20210715T063607Z">
+        <seg>Function Room***Phòng chức năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GENERAL</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T073304Z" creationid="LanHK" creationdate="20210525T073304Z">
@@ -3164,6 +3188,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080310Z" creationid="Kieu Lan" creationdate="20210713T080253Z">
         <seg>Generator running/fault (only during alarm)     /     Máy phát đang chạy/Lỗi máy phát (chỉ khi đang có báo động)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gift Shop</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063354Z" creationid="LanHK" creationdate="20210715T063354Z">
+        <seg>Gift Shop***Cửa hàng lưu niệm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4937,6 +4969,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre-Function Foyer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063600Z" creationid="LanHK" creationdate="20210715T063600Z">
+        <seg>Pre-Function Foyer***Sảnh pre-function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pre-action Dry Sprinkler</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065208Z" creationid="LanHK" creationdate="20210525T080255Z">
@@ -5109,6 +5149,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020617Z" creationid="Kieu Lan" creationdate="20210713T020617Z">
         <seg>Public Areas     /     Khu công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public Toilets</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063342Z" creationid="LanHK" creationdate="20210715T063342Z">
+        <seg>Public Toilets***Toilet công cộng</seg>
       </tuv>
     </tu>
     <tu>
@@ -5309,6 +5357,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093203Z" creationid="LanHK" creationdate="20210713T093203Z">
         <seg>Required along the horizontal section of ductwork and top of risers.     /     Yêu cầu có dọc theo các đoạn ống ngang và trên đỉnh trục ống dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restaurant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063418Z" creationid="LanHK" creationdate="20210715T063418Z">
+        <seg>Restaurant***Nhà hàng</seg>
       </tuv>
     </tu>
     <tu>
