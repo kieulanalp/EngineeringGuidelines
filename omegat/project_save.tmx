@@ -55,6 +55,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-X</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T022713Z" creationid="LanHK" creationdate="20210715T022713Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1. ALL DEVICES (DETECTORS. SPRINKLER FLOW SWITCHES. MANUAL CALL POINTS ETC.) SHALL HAVE INDIVIDUAL DEVICE ADDRESSES.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045450Z" creationid="Kieu Lan" creationdate="20210705T045402Z">
@@ -7789,6 +7797,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T022411Z" creationid="LanHK" creationdate="20210715T022411Z">
         <seg>•To be minimised through passive building design such as orientation, prevailing winds, insulation levels etc.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•To be minised for plant, equipment and distribution, by planning appropriate plant locations, coordination with the structure and providing efficient distribution systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T022820Z" creationid="LanHK" creationdate="20210715T022820Z">
+        <seg>•To be minised for plant, equipment and distribution, by planning appropriate plant locations, coordination with the structure and providing efficient distribution systems     /     </seg>
       </tuv>
     </tu>
     <tu>
