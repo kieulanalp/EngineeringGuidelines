@@ -1897,6 +1897,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direction of sun early morning difficult to shade due to low sun angle</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T092129Z" creationid="LanHK" creationdate="20210715T092129Z">
+        <seg>Direction of sun early morning difficult to shade due to low sun angle     /     Hướng nắng sáng sớm khó che chắn do góc chiếu thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direction of sun late afternoon difficult to shade due to low sun angle</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T092143Z" creationid="LanHK" creationdate="20210715T092143Z">
+        <seg>Direction of sun late afternoon difficult to shade due to low sun angle     /     Hướng nắng chiều muộn khó che chắn do góc chiếu thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disadvantages are:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T084210Z" creationid="LanHK" creationdate="20210702T084210Z">
@@ -4514,6 +4530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low Cooling Demand</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T092111Z" creationid="LanHK" creationdate="20210715T092111Z">
+        <seg>Low Cooling Demand     /     Nhu cầu làm mát thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low Energy Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T030925Z" creationid="LanHK" creationdate="20210715T030925Z">
@@ -6890,6 +6914,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094625Z">
         <seg>The date    /    Ngày tháng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The design of many modern buildings does not consider their form in relation to the sun’s path. This results in considerable additional cooling loads which have to be removed by means of mechanical cooling systems. Excessive energy usage not only increases the operating costs of the building but also increases the resulting pollution produced from generating the power in the first instance. It also requires larger plant, which requires more valuable space to be taken within the building.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T092741Z" creationid="LanHK" creationdate="20210715T092741Z">
+        <seg>The design of many modern buildings does not consider their form in relation to the sun’s path. This results in considerable additional cooling loads which have to be removed by means of mechanical cooling systems. Excessive energy usage not only increases the operating costs of the building but also increases the resulting pollution produced from generating the power in the first instance. It also requires larger plant, which requires more valuable space to be taken within the building.     /     Thiết kế của nhiều tòa nhà hiện đại không cân nhắc hình dạng tòa nhà trong mối tương quan với đường đi của mặt trời. Việc này tăng thêm đáng kể nhu cầu làm mát thông qua hệ thống làm mát cơ học. Việc sử dụng năng lượng quá nhiều không chỉ làm tăng chi phí vận hành mà cũng gây ô nhiễm từ việc tạo ra năng lượng ban đầu; ngoài ra cũng yêu cầu máy móc lớn hơn, chiếm nhiều diện tích hơn trong tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
