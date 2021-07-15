@@ -1216,6 +1216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CENTRAL CHILLED WATER AND —</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035110Z" creationid="LanHK" creationdate="20210715T035110Z">
+        <seg>Central chilled water and —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CIE - Control and Indicating Equipment</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T024920Z" creationid="LanHK" creationdate="20210610T024920Z">
@@ -3218,6 +3226,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOT WATER PLANT-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035114Z" creationid="LanHK" creationdate="20210715T035114Z">
+        <seg>hot water plant-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HVAC System Selection</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091709Z">
@@ -4627,6 +4643,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PREFERABLY LOCATED ADJACENT TO SUBSTATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035151Z" creationid="LanHK" creationdate="20210715T035116Z">
+        <seg>preferably located adjacent to substation     /     Máy chiller và máy đun nước trung tâm - Ưu tiên bố trí gần trạm biến áp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parking garages liable to</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100500Z" creationid="LanHK" creationdate="20210713T100500Z">
@@ -5239,6 +5263,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065427Z" creationid="LanHK" creationdate="20210610T065427Z">
         <seg>STAGE TWO - ONE SMOKE DETECTOR ACTIVATED    /    GIAI ĐOẠN 2 - MỘT ĐẦU BÁO KHÓI KÍCH HOẠT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPPLY AND EXHAUST VENTILATION SYSTEMS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035120Z" creationid="LanHK" creationdate="20210715T035120Z">
+        <seg>supply and exhaust ventilation systems</seg>
       </tuv>
     </tu>
     <tu>
@@ -6848,6 +6880,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To provide sufficient continuous heating for the domestic hot water supply</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035051Z" creationid="LanHK" creationdate="20210715T035051Z">
+        <seg>To provide sufficient continuous heating for the domestic hot water supply        /         Liên tục làm nóng phục vụ cấp nước nóng sinh hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove vitiated air from the areas.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T035026Z" creationid="LanHK" creationdate="20210715T035026Z">
+        <seg>To remove vitiated air from the areas.        /         Loại bỏ không khí không đủ chất lượng khỏi các khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tubes</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T075055Z" creationid="LanHK" creationdate="20210610T075055Z">
@@ -7424,6 +7472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>available.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034847Z" creationid="LanHK" creationdate="20210715T034847Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>b) Central Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091433Z" creationid="LanHK" creationdate="20210702T091433Z">
@@ -7462,6 +7518,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T064111Z" creationid="LanHK" creationdate="20210610T064111Z">
         <seg>The route must be at least 3m from any opening or vent unless the route is protected from fire within the building    /    Lối đi phải cách bất cứ lỗ mở hoặc lỗ thông gió nào tối thiểu 3m trừ khi lối đi được bảo vệ khỏi hỏa hoạn bên trong tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>by dedicated AHU’s.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034949Z" creationid="LanHK" creationdate="20210715T034949Z">
+        <seg>by dedicated AHU’s.        /         Cung cấp khí tươi cho tất cả các khu vực để tránh mùi lạ và phục vụ nhu cầu của người trong tòa nhà. Việc này phải được định trước bằng hệ thống AHU chuyên dụng</seg>
       </tuv>
     </tu>
     <tu>
