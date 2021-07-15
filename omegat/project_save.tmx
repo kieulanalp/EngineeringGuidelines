@@ -658,8 +658,8 @@
       <tuv lang="EN-US">
         <seg>All incoming electrical supply transformers and switch rooms must be located at the back of house areas of the hotel.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T100035Z" creationid="Kieu Lan" creationdate="20210714T100035Z">
-        <seg>All incoming electrical supply transformers and switch rooms must be located at the back of house areas of the hotel.     /     Tất cả các máy biến áp và phòng tủ điện phải bố trí ở khu BOH của khách sạn</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T061459Z" creationid="Kieu Lan" creationdate="20210714T061429Z">
+        <seg>All incoming electrical supply transformers and switch rooms must be located at the back of house areas of the hotel.      /     Tất cả máy biến áp cấp điện và phòng tủ điện phải bố trí tại khu BOH của khách sạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -1499,8 +1499,8 @@
       <tuv lang="EN-US">
         <seg>Design Criteria</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153659Z" creationid="Kieu Lan" creationdate="20210405T153659Z">
-        <seg>Design Criteria Tiêu chí thiết kế</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082701Z" creationid="Kieu Lan" creationdate="20210405T153659Z">
+        <seg>Design Criteria     /     Tiêu chí thiết kế</seg>
       </tuv>
     </tu>
     <tu>
@@ -1509,6 +1509,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074637Z">
         <seg>Design Standards    /    Tiêu chuẩn Thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design of the substation must be strictly in accordance with the local supply authority requirements. Provide signed approval from Local Supply Authority for substation design.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082308Z" creationid="Kieu Lan" creationdate="20210714T082201Z">
+        <seg>Design of the substation must be strictly in accordance with the local supply authority requirements. Provide signed approval from Local Supply Authority for substation design.     /     Thiết kế trạm biến áp phải tuân tủ nghiêm ngặt các yêu cầu của chính quyền địa phương. Cung cấp phê duyệt có chữ ký của cơ quan quản lý địa phương cho thiết kế trạm biến áp</seg>
       </tuv>
     </tu>
     <tu>
@@ -3235,8 +3243,8 @@
       <tuv lang="EN-US">
         <seg>If local codes do not specify storage requirements of fire water, refer to NFPA requirements</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T094145Z" creationid="Kieu Lan" creationdate="20210714T094033Z">
-        <seg>If local codes do not specify storage requirements of fire water, refer to NFPA requirements     /     Nếu quy định địa phương không thể hiện chi tiết yêu cầu về dự trữ nước đối với nước cứu hỏa, tham khảo yêu cầu NFPA</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T060545Z" creationid="Kieu Lan" creationdate="20210714T060545Z">
+        <seg>If local codes do not specify storage requirements of fire water, refer to NFPA requirements     /     Nếu quy định địa phương không nêu rõ yêu cầu về trữ nước PCCC, tham khảo tiêu chuẩn NFPA</seg>
       </tuv>
     </tu>
     <tu>
@@ -3251,8 +3259,8 @@
       <tuv lang="EN-US">
         <seg>If the Utility Company is able to provide dual feed power supplies to the site from separate independent generating sources, or separate external mains, then consideration may be given to deletion of the standby generator set. This will be subject to receipt in writing from the Utility Company of verification of the supplies and their reliability. (refer to electrical section for further details).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T100903Z" creationid="Kieu Lan" creationdate="20210714T100903Z">
-        <seg>If the Utility Company is able to provide dual feed power supplies to the site from separate independent generating sources, or separate external mains, then consideration may be given to deletion of the standby generator set. This will be subject to receipt in writing from the Utility Company of verification of the supplies and their reliability. (refer to electrical section for further details).     /     Nếu Công ty Điện lực có thể cung cấp nguồn cấp điện đôi cho khách sạn từ nguồn phát điện độc lập riêng biệt hoặc từ lưới điện bên ngoài riêng biệt, vậy có thể cân nhắc miễn bộ máy phát điện dự phòng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082223Z" creationid="Kieu Lan" creationdate="20210714T080833Z">
+        <seg>If the Utility Company is able to provide dual feed power supplies to the site from separate independent generating sources, or separate external mains, then consideration may be given to deletion of the standby generator set. This will be subject to receipt in writing from the Utility Company of verification of the supplies and their reliability. (refer to electrical section for further details).     /     Nếu công ty Điện lực có thể cung cấp nguồn cấp điện đôi cho khách sạn từ các nguồn phát điện độc lập riêng biệt, hoặc lưới điện bên ngoài riêng biệt, vậy thì có thể cân nhắc miễn bộ máy phát điện dự phòng. Việc này phụ thuộc vào xác nhận bằng văn bản của công ty Điện lực về các nguồn cung cấp và độ đáng tin cậy của họ (xem cụ thể hơn tại mục Điện)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4006,6 +4014,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030402Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)        /       Phòng máy và các phòng hoặc khu vực liền kề (120p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical Services</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082653Z" creationid="Kieu Lan" creationdate="20210714T082653Z">
+        <seg>Mechanical Services    /    Các máy móc</seg>
       </tuv>
     </tu>
     <tu>
@@ -7641,6 +7657,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• In accordance with Table 3.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T085358Z" creationid="Kieu Lan" creationdate="20210714T085358Z">
+        <seg>• In accordance with Table 3.2     /     Tuân thủ bảng 3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>•Any variances from standards to be highlighted otherwise compliance is mandatory</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T090405Z">
@@ -7693,6 +7717,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T101801Z">
         <seg>•Submissions to be made in English and formatted in accordance with this manual    /    Tài liệu trình bằng tiếng Anh và được format theo như hướng dẫn này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•To be achieved at external conditions determined from historical weather data for the project's location - refer to tables for daily maximum and minimum temperatures in following pages</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T085920Z" creationid="Kieu Lan" creationdate="20210714T085920Z">
+        <seg>•To be achieved at external conditions determined from historical weather data for the project's location - refer to tables for daily maximum and minimum temperatures in following pages     /     </seg>
       </tuv>
     </tu>
     <tu>
