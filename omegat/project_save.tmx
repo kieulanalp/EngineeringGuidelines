@@ -361,6 +361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>98% of the annual external temperature occurrences must be designed for</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044243Z" creationid="LanHK" creationdate="20210715T044243Z">
+        <seg>98% of the annual external temperature occurrences must be designed for     /     Thiết kế cho 98% nhiệt độ bên ngoài xảy ra trong năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt; 2.2 sqm. if walls and ceilings are non-combustible. length of closet must not exceed 0.9m.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093659Z" creationid="LanHK" creationdate="20210713T093659Z">
@@ -1582,6 +1590,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064352Z" creationid="Kieu Lan" creationdate="20210629T064352Z">
         <seg>DOMESTIC WATER     /     Nước dân dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daily Maximum Temperatures</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044402Z" creationid="LanHK" creationdate="20210715T044402Z">
+        <seg>Daily Maximum Temperatures     /     Nhiệt độ tối đa hằng ngày</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,6 +3382,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T061310Z" creationid="LanHK" creationdate="20210602T061310Z">
         <seg>Hinges must have a melting temperature of not less than 8000C.        /       Bản lề phải có nhiệt độ tan chảy không vượt quá 8000C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Historical Maximum Temperature Data Occurrence Chart of Design Location</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044349Z" creationid="LanHK" creationdate="20210715T044349Z">
+        <seg>Historical Maximum Temperature Data Occurrence Chart of Design Location     /     Biểu đồ dữ liệu nhiệt độ tối đa đạt được tại địa điểm thiết kế</seg>
       </tuv>
     </tu>
     <tu>
@@ -6129,6 +6153,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020955Z" creationid="Kieu Lan" creationdate="20210713T020955Z">
         <seg>Technical rooms     /     Phòng kỹ thuật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature occurs lessthan 2% of the vear</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044421Z" creationid="LanHK" creationdate="20210715T044421Z">
+        <seg>Temperature occurs lessthan 2% of the year     /     Nhiệt độ đạt đến ít hơn 2%/năm</seg>
       </tuv>
     </tu>
     <tu>
