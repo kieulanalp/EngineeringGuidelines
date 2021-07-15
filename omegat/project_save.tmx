@@ -5387,6 +5387,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the design maximum &amp; minimum external design temperatures based on weather data for the area and the following:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T043820Z" creationid="LanHK" creationdate="20210715T043820Z">
+        <seg>Select the design maximum &amp; minimum external design temperatures based on weather data for the area and the following:-     /     Lựa chọn nhiệt độ bên ngoài tối đa và tối thiểu cho thiết kế dựa trên dữ liệu thời tiết của khu vực và các cơ sở sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection of maximum and minimum external design temperatures</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T043223Z" creationid="LanHK" creationdate="20210715T042325Z">
