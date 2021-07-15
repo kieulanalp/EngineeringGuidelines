@@ -592,6 +592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air Infiltration Reduction Methods</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031102Z" creationid="LanHK" creationdate="20210715T031102Z">
+        <seg>Air Infiltration Reduction Methods     /     Các phương pháp giảm thiểu không khí thâm nhập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air release to allow smoke to be relieved from the adjoining fire area</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T020910Z" creationid="LanHK" creationdate="20210611T020910Z">
@@ -1123,6 +1131,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064355Z" creationid="Kieu Lan" creationdate="20210705T064355Z">
         <seg>Brief silence     /     một khoảng im lặng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building Energy System Commissioning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T030904Z" creationid="LanHK" creationdate="20210715T030904Z">
+        <seg>Building Energy System Commissioning     /     Vận hành hệ thống năng lượng tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building Management System (BMS)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T030913Z" creationid="LanHK" creationdate="20210715T030913Z">
+        <seg>Building Management System (BMS)     /     Hệ thống quản lý tòa nhà (BMS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,6 +1930,22 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T020315Z" creationid="PHUONG.DTM" creationdate="20210605T020315Z">
         <seg>Enclosure of the lift should consist of a protected lobby at every level        /         Khu vực kín của thang cần bao gồm cả một buồng đệm bảo vệ tại mỗi tầng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Energy Metering and Sub-Metering</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T030829Z" creationid="LanHK" creationdate="20210715T030829Z">
+        <seg>Energy Metering and Sub-Metering     /     Đo đạc năng lượng và đo chỉ số phụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Energy Performance Benchmarking</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T030845Z" creationid="LanHK" creationdate="20210715T030845Z">
+        <seg>Energy Performance Benchmarking     /     Đánh giá hiệu suất năng lượng</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,6 +3970,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low Energy Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T030925Z" creationid="LanHK" creationdate="20210715T030925Z">
+        <seg>Low Energy Systems     /     Các hệ thống ít tiêu thụ năng lượng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low Rise</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023829Z" creationid="LanHK" creationdate="20210602T023816Z">
@@ -4390,6 +4438,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081231Z" creationid="Kieu Lan" creationdate="20210713T081231Z">
         <seg>Các điều kiện sau xảy ra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimize façade design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T030933Z" creationid="LanHK" creationdate="20210715T030933Z">
+        <seg>Optimize façade design     /     Tối ưu hóa thiết kế mặt tiền</seg>
       </tuv>
     </tu>
     <tu>
