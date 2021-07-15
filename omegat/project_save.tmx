@@ -7577,8 +7577,8 @@
       <tuv lang="EN-US">
         <seg>Toilet extract to be sized on 10 AC/hr., with make-up via the toilet lobby, supplied from the nearest supply air system. Extract fans to be dual fans. In “Hot climates” make up air must be cooled and in ‘Cold Climates’ heated if the air is directly from outside e.g. pool toilets.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T080122Z" creationid="LanHK" creationdate="20210715T080122Z">
-        <seg>Toilet extract to be sized on 10 AC/hr., with make-up via the toilet lobby, supplied from the nearest supply air system. Extract fans to be dual fans. In “Hot climates” make up air must be cooled and in ‘Cold Climates’ heated if the air is directly from outside e.g. pool toilets.     /     Hút khí </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T080515Z" creationid="LanHK" creationdate="20210715T080122Z">
+        <seg>Toilet extract to be sized on 10 AC/hr., with make-up via the toilet lobby, supplied from the nearest supply air system. Extract fans to be dual fans. In “Hot climates” make up air must be cooled and in ‘Cold Climates’ heated if the air is directly from outside e.g. pool toilets.     /     Hút khí toilet có kích cỡ dựa trên 10 AC/h, bù khí thông qua toilet lobby, cung cấp từ hệ thống cấp khí gần nhất. Quạt hút phải là quạt đôi. Tại các vùng khí hậu nóng khí bù phải được làm mát, tại các vùng khí hậu lạnh khí bù phải được sưởi ấm nếu khí lấy trực tiếp từ bên ngoài, vd. toilet bể bơi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7699,6 +7699,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042113Z" creationid="LanHK" creationdate="20210715T042057Z">
         <seg>ventilation     /     Thông gió bãi đỗ xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ventilation to these areas to be designed to maintain internal air temperature below 25°C for 95% of the year, if possible without a cooling system. If a cooling system is required the internal design temperature shall be 24°C.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T080620Z" creationid="LanHK" creationdate="20210715T080620Z">
+        <seg>Ventilation to these areas to be designed to maintain internal air temperature below 25°C for 95% of the year, if possible without a cooling system. If a cooling system is required the internal design temperature shall be 24°C.     /     Thông gió cho các khu vực này phải được thiết kế để duy trì nhiệt độ trong nhà thấp hơn 25°C trong 95% thời gian năm, nếu có thể mà không có hệ thống làm mát. Nếu yêu cầu có hệ thống làm mát, nhiệt độ thiết kế trong nhà sẽ là 24°C</seg>
       </tuv>
     </tu>
     <tu>
