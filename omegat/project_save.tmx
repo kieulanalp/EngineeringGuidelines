@@ -235,8 +235,8 @@
       <tuv lang="EN-US">
         <seg>4 Degree Dead band</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T033250Z" creationid="LanHK" creationdate="20210715T032853Z">
-        <seg>4 Degree Dead band     /     Deadband 4 độ *Tiêu chuẩn IHG này tính theo độ F (Deadband là một khoảng nhiệt độ xung quanh nhiệt độ đã set khi bật chế độ AUTO. Vd deadband 4 độ và nhiệt độ đã set là 70°F, tức là khoảng nhiệt độ sẽ duy trì ở mức từ 68-72°F. Trong khoảng này, điều hòa sẽ không cần liên tục thay đổi giữa chế độ làm nóng và làm lạnh để duy trì nhiệt độ thoải mái cho người dùng, giúp tiết kiệm năng lượng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T033307Z" creationid="LanHK" creationdate="20210715T032853Z">
+        <seg>4 Degree Dead band     /     Deadband 4 độ *Tiêu chuẩn IHG này tính theo độ F (Deadband là một khoảng nhiệt độ xung quanh nhiệt độ đã set khi bật chế độ AUTO. Vd deadband 4 độ và nhiệt độ đã set là 70°F, tức là khoảng nhiệt độ sẽ duy trì ở mức từ 68-72°F. Trong khoảng này, điều hòa sẽ không cần liên tục thay đổi giữa chế độ làm nóng và làm lạnh để duy trì nhiệt độ thoải mái cho người dùng, giúp tiết kiệm năng lượng)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1995,6 +1995,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070039Z">
         <seg>Engineering Design Guidelines    /    Hướng dẫn Thiết kế Kỹ thuật </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enhanced HVAC Guest Room Controls and CO2 Monitoring</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T033407Z" creationid="LanHK" creationdate="20210715T033407Z">
+        <seg>Enhanced HVAC Guest Room Controls and CO2 Monitoring     /     Điều khiển hệ HVAC trong phòng khách và giám sát CO2 nâng cao </seg>
       </tuv>
     </tu>
     <tu>
@@ -4295,6 +4303,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T081818Z" creationid="LanHK" creationdate="20210609T081818Z">
         <seg>More than 1000 people - a minimum of four exits but additional exits provided where necessary and approved by IHG         /       Hơn 1000 người - tối thiểu 4 lối thoát nhưng các lối thoát bổ sung khác được cung cấp nếu cần thiết và được IHG phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Motor Energy Efficiency</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T033442Z" creationid="LanHK" creationdate="20210715T033442Z">
+        <seg>Motor Energy Efficiency     /     Hiệu suất năng lượng động cơ</seg>
       </tuv>
     </tu>
     <tu>
