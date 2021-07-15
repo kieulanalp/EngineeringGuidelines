@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Careful orientation of the Hotel can have a significant effect on the energy consumption of the Hotel and although it is accepted this is not always possible, there are many occasions when it can be influenced. For example, the guestrooms are most used early in the morning and evening so guestrooms facing E-W are likely to have a larger cooling demand due to difficulties in providing shading on these orientations due to the low sun angle.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T092048Z" creationid="LanHK" creationdate="20210715T092048Z">
+        <seg>Careful orientation of the Hotel can have a significant effect on the energy consumption of the Hotel and although it is accepted this is not always possible, there are many occasions when it can be influenced. For example, the guestrooms are most used early in the morning and evening so guestrooms facing E-W are likely to have a larger cooling demand due to difficulties in providing shading on these orientations due to the low sun angle.     /     Việc bố trí hướng tòa nhà cẩn thận có thể tạo ảnh hưởng đáng kể đến độ tiêu thụ năng lượng của Khách sạn và mặc dù việc này không phải lúc nào cũng khả thi, có nhiều trường hợp hướng tòa nhà cũng có thể gây ảnh hưởng. Vd, phòng khách thường được sử dụng nhiều nhất vào buổi sáng và buổi tối, vậy nên phòng khách hướng đông-tây dễ có nhu cầu làm mát lớn hơn do khó khăn trong việc che chắn nắng ở các hướng này vì góc chiếu của mặt trời thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cause &amp; effect matrix</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080102Z">
