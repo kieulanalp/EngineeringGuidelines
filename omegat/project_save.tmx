@@ -1151,6 +1151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CO2 EMISSIONS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024324Z" creationid="LanHK" creationdate="20210715T024315Z">
+        <seg>CO2 emissions     /     Phát thải CO2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMMUNICATIONS</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064155Z" creationid="Kieu Lan" creationdate="20210629T064155Z">
@@ -5772,6 +5780,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Targets to be as required by National Standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024339Z" creationid="LanHK" creationdate="20210715T024339Z">
+        <seg>Targets to be as required by National Standards     /     Tiêu chuẩn đặt ra tương đương Tiêu chuẩn Quốc gia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020955Z" creationid="Kieu Lan" creationdate="20210713T020955Z">
@@ -5922,6 +5938,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210625T080516Z" creationid="LanHK" creationdate="20210611T102902Z">
         <seg>The design of these systems is very complex and this must be carried out by specialist fire engineers with experience in this area. This is of particular importance where CFD (computational fluid dynamic) modeling is used.     /     Thiết kế các hệ thống này rất phức tạp và cần được tiến hành bởi kỹ sư PCCC chuyên môn có kinh nghiệm trong vấn đề này. Việc này rất quan trọng nếu phương pháp CFD được sử dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The design, installation and maintenance provisions shall be in full compliance with all relevant International, European, National and Local standards and regulations, and in particular any health, fire, safety and environmental legislation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024537Z" creationid="LanHK" creationdate="20210715T024537Z">
+        <seg>The design, installation and maintenance provisions shall be in full compliance with all relevant International, European, National and Local standards and regulations, and in particular any health, fire, safety and environmental legislation.     /     Thiết kế, lắp đặt và bảo trì phải tuân thủ tất cả các tiêu chuẩn và quy chế Quốc tế, châu Âu, Quốc gia và Địa phương liên quan, và đặc biệt là bất cứ quy định nào về sức khỏe, PCCC, an toàn và môi trường nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The designer shall provide calculations to demonstrate compliance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024430Z" creationid="LanHK" creationdate="20210715T024430Z">
+        <seg>The designer shall provide calculations to demonstrate compliance     /     Thiết kế cung cấp tính toán để chứng minh sự tuân thủ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6899,6 +6931,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T072312Z" creationid="Kieu Lan" creationdate="20210705T072312Z">
         <seg>Where separate public address and background music systems are used they must be isolated via a fire alarm signal through a failsafe, no voltage relay whenever a fire alarm is activated.     /     Nếu sử dụng hệ thống loa thông báo công cộng và hệ thống phát nhạc nền riêng, chúng phải được tách riêng với hệ thống báo động cháy thông qua cơ chế failsafe - không truyền điện đến khi có báo động cháy bị kích hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where standards do not exist 160kg/m2 must not be exceeded</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024410Z" creationid="LanHK" creationdate="20210715T024410Z">
+        <seg>Where standards do not exist 160kg/m2 must not be exceeded     /     Tại các vùng không có tiêu chuẩn, không được vượt mức 160kg/m2</seg>
       </tuv>
     </tu>
     <tu>
