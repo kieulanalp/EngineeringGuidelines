@@ -5387,6 +5387,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selection of maximum and minimum external design temperatures</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T043223Z" creationid="LanHK" creationdate="20210715T042325Z">
+        <seg>Selection of maximum and minimum external design temperatures     /     Lựa chọn nhiệt độ bên ngoài tối đa và tối thiểu cho thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection of maximum and minimum temperatures</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083329Z">
