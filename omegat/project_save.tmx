@@ -7038,6 +7038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fresh air quantities indicated for public spaces are the maximum to be allowed for calculations and equipment selection. The actual fresh air quantity is to be controlled via air quality sensors, to maintain a maximum CO2 level in the occupied space of 600ppm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T085308Z" creationid="LanHK" creationdate="20210715T085308Z">
+        <seg>The fresh air quantities indicated for public spaces are the maximum to be allowed for calculations and equipment selection. The actual fresh air quantity is to be controlled via air quality sensors, to maintain a maximum CO2 level in the occupied space of 600ppm.     /     Lượng khí tươi cho khu vực công cộng là lượng tối đa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The gas system should be designed to conform to NFPA standards as a minimum for all gas installations including, ventilated risers, combustion gas emissions combustion air and safety precautions must be observed in the design.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210714T030909Z" creationid="LanHK" creationdate="20210714T030909Z">
