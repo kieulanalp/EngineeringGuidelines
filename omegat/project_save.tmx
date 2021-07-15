@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Computer Room/IT Equipment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064513Z" creationid="LanHK" creationdate="20210715T064513Z">
+        <seg>Computer Room/IT Equipment***Phòng máy tính/Thiết bị IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Computer and PABX rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093535Z" creationid="LanHK" creationdate="20210713T093535Z">
@@ -1604,6 +1612,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063408Z" creationid="Kieu Lan" creationdate="20210713T020623Z">
         <seg>Corridors***Hành lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Covered /Underground Car Parking</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064545Z" creationid="LanHK" creationdate="20210715T064545Z">
+        <seg>Covered /Underground Car Parking***Bãi đỗ xe có mái che/ngầm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2379,6 +2395,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T022150Z" creationid="LanHK" creationdate="20210715T021924Z">
         <seg>Expected life in the order of 25 to 30 years     /     Yêu cầu vòng đời thiết bị từ 25 đến 30 năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064536Z" creationid="LanHK" creationdate="20210715T064536Z">
+        <seg>External Areas***Khu vực bên ngoài</seg>
       </tuv>
     </tu>
     <tu>
@@ -4304,6 +4328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lift Motor Rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064520Z" creationid="LanHK" creationdate="20210715T064520Z">
+        <seg>Lift Motor Rooms***Phòng động cơ thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lifts</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063639Z" creationid="LanHK" creationdate="20210715T063639Z">
@@ -4753,6 +4785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NC - Not Controlled</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064606Z" creationid="LanHK" creationdate="20210715T064603Z">
+        <seg>NC - Not Controlled***NC - Không kiểm soát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NO</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T045533Z" creationid="LanHK" creationdate="20210505T045533Z">
@@ -4889,6 +4929,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notes to table</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064756Z" creationid="LanHK" creationdate="20210715T064756Z">
+        <seg>Notes to table     /     Lưu ý cho bảng trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notify fire brigade If appropriate</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080619Z" creationid="Kieu Lan" creationdate="20210713T080619Z">
@@ -4925,6 +4973,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T033600Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Occupancy of the function room equals 400 people (1m2/person)    /    Sức chứa phòng 400 người (1m^2/người)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offices</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064453Z" creationid="LanHK" creationdate="20210715T064453Z">
+        <seg>Offices***Các văn phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -5077,6 +5133,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T081431Z" creationid="LanHK" creationdate="20210609T081431Z">
         <seg>Places of assembly such as function rooms, meeting rooms, bars and restaurants must be provided with means of escape based upon the size of the room. Restricting the occupancy of an assembly room because of inadequate means of escape is impractical and unacceptable.         /       Các nơi hội họp như phòng chức năng, phòng họp, bar và nhà hàng cần có lối thoát hiểm phù hợp với kích cỡ phòng. Việc giới hạn số lượng người trong một phòng hội họp vì thiếu lối thoát hiểm là không thực tế và không chấp nhận được.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant Rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064502Z" creationid="LanHK" creationdate="20210715T064502Z">
+        <seg>Plant Rooms***Phòng máy</seg>
       </tuv>
     </tu>
     <tu>
@@ -5453,6 +5517,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104440Z">
         <seg>Refuges - these are places of relative safety where disabled people can await assistance from hotel staff to assist them in escaping. Refuges must:     /     Nơi lánh nạn - là vị trí tương đối an toàn mà người khuyết tật có thể chờ hỗ trợ từ nhân viên khách sạn tới hỗ trợ thoát hiểm. Nơi lánh nạn phải: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refuse area</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064530Z" creationid="LanHK" creationdate="20210715T064530Z">
+        <seg>Refuse area***Khu thu gom rác thải</seg>
       </tuv>
     </tu>
     <tu>
@@ -6231,6 +6303,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T101746Z" creationid="LanHK" creationdate="20210602T101746Z">
         <seg>Sprinklers at alternate floors and the top of the chute in a sprinkler protected building- see illustration        /       Sprinkler bố trí cách tầng và trên đỉnh ống trong tòa nhà có sprinkler bảo vệ - xem minh họa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Staff Changing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064444Z" creationid="LanHK" creationdate="20210715T064444Z">
+        <seg>Staff Changing***Khu thay đồ nhân viên</seg>
       </tuv>
     </tu>
     <tu>
