@@ -231,6 +231,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>https://support.idevicesinc.com/hc/en-us/articles/360000248727-Advanced-Thermostat-Controls</note>
+      <tuv lang="EN-US">
+        <seg>4 Degree Dead band</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T032853Z" creationid="LanHK" creationdate="20210715T032853Z">
+        <seg>4 Degree Dead band     /     Deadband 4 độ (Deadband là một khoảng nhiệt độ xung quanh nhiệt độ đã set khi bật chế độ AUTO. Vd deadband 4 độ và nhiệt độ đã set là 24, tức là khoảng nhiệt độ sẽ duy trì ở mức từ 22-26)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>4.18.1 Frost Protection - Alternative may be simpler / more economical</seg>
       </tuv>
@@ -1806,6 +1815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Economizer Modes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031502Z" creationid="LanHK" creationdate="20210715T031502Z">
+        <seg>Economizer Modes     /     Các chế độ Economizer (tiết kiệm năng lượng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153653Z" creationid="Kieu Lan" creationdate="20210405T153653Z">
@@ -3205,6 +3222,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Health club reception    /    dry areas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heat Recovery</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T031509Z" creationid="LanHK" creationdate="20210715T031509Z">
+        <seg>Heat Recovery     /     Thu hồi nhiệt</seg>
       </tuv>
     </tu>
     <tu>
