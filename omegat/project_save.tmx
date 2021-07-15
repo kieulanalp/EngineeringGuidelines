@@ -504,6 +504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACOUSTICS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024114Z" creationid="LanHK" creationdate="20210715T024114Z">
+        <seg>Acoustics      /     Tiêu âm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALLOWING 3m SPRAY</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071212Z" creationid="LanHK" creationdate="20210610T071212Z">
@@ -1698,6 +1706,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093009Z" creationid="LanHK" creationdate="20210713T092852Z">
         <seg>Dry-pendant sprinklers extending through the wall from wet sprinkler piping in an adjacent heated area. If subject to freezing conditions use a dry system.     /     Sprinkler pendant khô xuyên qua tường từ đường ống nước của sprinkler ướt trong khu vực được sưởi liền kề. Nếu môi trường có khả năng đóng băng, cân nhắc sử dụng hệ thống khô</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ENERGY CONSUMPTION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024202Z" creationid="LanHK" creationdate="20210715T024202Z">
+        <seg>Energy consumption     /     Tiêu thụ năng lượng</seg>
       </tuv>
     </tu>
     <tu>
@@ -7739,8 +7755,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>• Designer to demonstrate and provide the acoustic values for all systems to confirm compliance with IHG standards</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T022841Z" creationid="LanHK" creationdate="20210715T022841Z">
-        <seg>• Designer to demonstrate and provide the acoustic values for all systems to confirm compliance with IHG standards     /     </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024154Z" creationid="LanHK" creationdate="20210715T022841Z">
+        <seg>• Designer to demonstrate and provide the acoustic values for all systems to confirm compliance with IHG standards     /     Thiết kế thể hiện và cung cấp số liệu về tiếng ồn của tất cả các hệ thống để đảm bảo tuân thủ các tiêu chuẩn IHG</seg>
       </tuv>
     </tu>
     <tu>
@@ -7757,6 +7773,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T085358Z" creationid="Kieu Lan" creationdate="20210714T085358Z">
         <seg>• In accordance with Table 3.2     /     Tuân thủ bảng 3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The design of the building and associated systems shall not exceed the targets stated within</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024312Z" creationid="LanHK" creationdate="20210715T024312Z">
+        <seg>• The design of the building and associated systems shall not exceed the targets stated within     /     Thiết kế của tòa nhà và các hệ thống liên quan không vượt quá các mục tiêu nêu ra trong này</seg>
       </tuv>
     </tu>
     <tu>
