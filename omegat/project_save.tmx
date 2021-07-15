@@ -7575,6 +7575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toilet extract to be sized on 10 AC/hr., with make-up via the toilet lobby, supplied from the nearest supply air system. Extract fans to be dual fans. In “Hot climates” make up air must be cooled and in ‘Cold Climates’ heated if the air is directly from outside e.g. pool toilets.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T080122Z" creationid="LanHK" creationdate="20210715T080122Z">
+        <seg>Toilet extract to be sized on 10 AC/hr., with make-up via the toilet lobby, supplied from the nearest supply air system. Extract fans to be dual fans. In “Hot climates” make up air must be cooled and in ‘Cold Climates’ heated if the air is directly from outside e.g. pool toilets.     /     Hút khí </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tubes</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T075055Z" creationid="LanHK" creationdate="20210610T075055Z">
