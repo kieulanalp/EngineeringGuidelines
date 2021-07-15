@@ -2082,8 +2082,8 @@
       <tuv lang="EN-US">
         <seg>Expected life in the order of 25 to 30 years</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T021924Z" creationid="LanHK" creationdate="20210715T021924Z">
-        <seg>Expected life in the order of 25 to 30 years     /     y</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T022150Z" creationid="LanHK" creationdate="20210715T021924Z">
+        <seg>Expected life in the order of 25 to 30 years     /     Yêu cầu vòng đời thiết bị từ 25 đến 30 năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -3659,8 +3659,8 @@
       <tuv lang="EN-US">
         <seg>LIFE EXPECTANCY</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T021427Z" creationid="LanHK" creationdate="20210715T021427Z">
-        <seg>Life Expectancy     /     Vòng Đời Kỳ Vọng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T021938Z" creationid="LanHK" creationdate="20210715T021427Z">
+        <seg>Life Expectancy     /     Yêu cầu về vòng đời thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -7773,6 +7773,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T013246Z" creationid="Kieu Lan" creationdate="20210714T085920Z">
         <seg>•To be achieved at external conditions determined from historical weather data for the project's location - refer to tables for daily maximum and minimum temperatures in following pages     /     Dựa vào điều kiện bên ngoài - được xác định dựa trên dữ liệu thời tiết tại địa điểm dự án trong quá khứ - tham khảo bảng nhiệt độ hàng ngày tối đa và tối thiểu trong các trang sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•To be minimised through passive building design such as orientation, prevailing winds, insulation levels etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T022411Z" creationid="LanHK" creationdate="20210715T022411Z">
+        <seg>•To be minimised through passive building design such as orientation, prevailing winds, insulation levels etc.     /     </seg>
       </tuv>
     </tu>
     <tu>
