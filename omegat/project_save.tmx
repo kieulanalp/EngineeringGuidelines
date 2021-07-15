@@ -4652,8 +4652,8 @@
       <tuv lang="EN-US">
         <seg>Manual call points must be installed as a minimum at all final exits plus emergency exits of each floor or zone of the building, in major public areas/plant rooms and back of house areas as well as the front desk located so that the maximum travel distance must not exceed 30m to the call point.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T033730Z" creationid="Kieu Lan" creationdate="20210713T033730Z">
-        <seg>Manual call points must be installed as a minimum at all final exits plus emergency exits of each floor or zone of the building, in major public areas/plant rooms and back of house areas as well as the front desk located so that the maximum travel distance must not exceed 30m to the call point.     /     Nút báo cháy khẩn cấp phải tối thiểu được lắp đặt tại tất cả các lối thoát cuối cùng và lối thoát hiểm khỏi mỗi tầng hoặc zone trong tòa nhà, trong các khu vực công cộng/phòng máy chính à khu BOH cũng như bàn lễ tân để đảm bảo khoảng cách cần di chuyển tối đa tới nút báo cháy không vượt quá 30m</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210715T103102Z" creationid="Kieu Lan" creationdate="20210713T033730Z">
+        <seg>Manual call points must be installed as a minimum at all final exits plus emergency exits of each floor or zone of the building, in major public areas/plant rooms and back of house areas as well as the front desk located so that the maximum travel distance must not exceed 30m to the call point.     /     Nút báo cháy khẩn cấp phải tối thiểu được lắp đặt tại tất cả các lối thoát cuối cùng và lối thoát hiểm khỏi mỗi tầng hoặc zone trong tòa nhà, trong các khu vực công cộng/phòng máy chính và khu BOH cũng như bàn lễ tân để đảm bảo khoảng cách cần di chuyển tối đa tới nút báo cháy không vượt quá 30m</seg>
       </tuv>
     </tu>
     <tu>
