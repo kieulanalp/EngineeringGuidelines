@@ -944,6 +944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Area</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062454Z" creationid="LanHK" creationdate="20210715T062454Z">
+        <seg>Area***Khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Area of Application</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094201Z" creationid="LanHK" creationdate="20210713T094201Z">
@@ -2992,6 +3000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh Air Quantity (notes 6 and 13)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062614Z" creationid="LanHK" creationdate="20210715T062614Z">
+        <seg>Fresh Air Quantity (notes 6 and 13)***Lượng khí tươi (lưu ý 6&amp;13)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front Desk</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093037Z" creationid="LanHK" creationdate="20210405T093037Z">
@@ -3522,8 +3538,8 @@
       <tuv lang="EN-US">
         <seg>INTERNAL DESIGN CONDITIONS</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T093959Z" creationid="Kieu Lan" creationdate="20210714T093959Z">
-        <seg>INTERNAL DESIGN CONDITIONS     /     Điều kiện thiết kế bên trong</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062124Z" creationid="Kieu Lan" creationdate="20210714T093959Z">
+        <seg>INTERNAL DESIGN CONDITIONS     /     Điều kiện thiết kế trong nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -3809,18 +3825,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internal Conditions ± 1o C&amp;5%RH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062545Z" creationid="LanHK" creationdate="20210715T062545Z">
+        <seg>Internal Conditions ± 1o C&amp;5%RH***Điều kiện trong nhà ± 1o C&amp;5%RH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internal Design Criteria</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T045914Z" creationid="LanHK" creationdate="20210715T045914Z">
-        <seg>Internal Design Criteria     /     Tiêu chí thiết kế bên trong</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062202Z" creationid="LanHK" creationdate="20210715T045914Z">
+        <seg>Internal Design Criteria     /     Tiêu chí thiết kế trong nhà</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Internal design conditions indicated for each area, as indicated in Table 4.3.2</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T025119Z" creationid="LanHK" creationdate="20210715T025027Z">
-        <seg>Internal design conditions indicated for each area, as indicated in Table 4.3.2     /     Các điều kiện thiết kế bên trong được chỉ định cho mỗi khu vực như trong bảng 4.3.2</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062138Z" creationid="LanHK" creationdate="20210715T025027Z">
+        <seg>Internal design conditions indicated for each area, as indicated in Table 4.3.2     /     Các điều kiện thiết kế trong nhà được chỉ định cho mỗi khu vực như trong bảng 4.3.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -4209,6 +4233,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062502Z" creationid="LanHK" creationdate="20210715T062502Z">
+        <seg>Location***Vị trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locks, including guestroom key-card locks must be certified to have the same fire resistance as the door in which they are fitted.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T062218Z" creationid="LanHK" creationdate="20210602T062218Z">
@@ -4533,6 +4565,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T044412Z" creationid="Kieu Lan" creationdate="20210705T044412Z">
         <seg>NOTE     /     LƯU Ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NR Rating</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062746Z" creationid="LanHK" creationdate="20210715T062746Z">
+        <seg>NR Rating***Mức âm thanh</seg>
       </tuv>
     </tu>
     <tu>
@@ -4877,6 +4917,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065228Z" creationid="LanHK" creationdate="20210610T065159Z">
         <seg>Pre-action Dry Sprinkler System    /    Hệ thống sprinkler pre-action khô</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressurization</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062552Z" creationid="LanHK" creationdate="20210715T062552Z">
+        <seg>Pressurization***Áp suất</seg>
       </tuv>
     </tu>
     <tu>
@@ -6197,8 +6245,8 @@
       <tuv lang="EN-US">
         <seg>Table 4.3.2- Mechanical Services Internal Design Criteria</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T061011Z" creationid="LanHK" creationdate="20210715T045944Z">
-        <seg>Table 4.3.2- Mechanical Services Internal Design Criteria     /     Bảng 4.3.2 - </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062446Z" creationid="LanHK" creationdate="20210715T045944Z">
+        <seg>Table 4.3.2- Mechanical Services Internal Design Criteria     /     Bảng 4.3.2 - Tiêu chí thiết kế trong nhà với phần cơ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6543,8 +6591,8 @@
       <tuv lang="EN-US">
         <seg>The following table provides the internal design criteria to be used</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T045939Z" creationid="LanHK" creationdate="20210715T045939Z">
-        <seg>The following table provides the internal design criteria to be used     /     Bảng sau cung cấp các tiêu chí thiết kế bên trong</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062115Z" creationid="LanHK" creationdate="20210715T045939Z">
+        <seg>The following table provides the internal design criteria to be used     /     Bảng sau cung cấp các tiêu chí thiết kế trong nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -8274,8 +8322,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>the project’s location.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T025147Z" creationid="LanHK" creationdate="20210715T025112Z">
-        <seg>the project’s location.     /     Điều kiện thiết kế bên trong nên được đặt ra dựa trên cơ sở xác định điều kiện bên ngoài của vị trí dự án, theo như dữ liệu thời tiết trong quá khứ</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062148Z" creationid="LanHK" creationdate="20210715T025112Z">
+        <seg>the project’s location.     /     Điều kiện thiết kế trong nhà nên được đặt ra dựa trên cơ sở xác định điều kiện bên ngoài của vị trí dự án, theo như dữ liệu thời tiết trong quá khứ</seg>
       </tuv>
     </tu>
     <tu>
