@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Back of House Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064322Z" creationid="LanHK" creationdate="20210715T064322Z">
+        <seg>Back of House Areas***Khu BOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back of house areas</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095009Z" creationid="LanHK" creationdate="20210713T095009Z">
@@ -1170,6 +1178,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T062929Z" creationid="LanHK" creationdate="20210715T045612Z">
         <seg>Base external heat rejection equipment selections on external ambient design temperature for the location +5°C     /     Lựa chọn thiết bị thải nhiệt bên ngoài dựa trên nhiệt độ thiết kế bên ngoài của vị trí dự án +5°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bathrooms - Bath Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064254Z" creationid="LanHK" creationdate="20210715T064254Z">
+        <seg>Bathrooms - Bath Areas***Phòng tắm - khu vực tắm</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1250,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023125Z" creationid="LanHK" creationdate="20210602T023125Z">
         <seg>Beams        /       Rầm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bedrooms - Activity Areas Day/Night</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064227Z" creationid="LanHK" creationdate="20210715T064227Z">
+        <seg>Bedrooms - Activity Areas Day/Night***Phòng ngủ - Khu hoạt động ngày/đêm</seg>
       </tuv>
     </tu>
     <tu>
@@ -3568,6 +3592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Housekeeping/linen</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064344Z" creationid="LanHK" creationdate="20210715T064344Z">
+        <seg>Housekeeping/linen***Housekeeping/kho đồ vải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hydrants (external) - InterContinental Hotels Group /Code</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071903Z" creationid="LanHK" creationdate="20210702T071903Z">
@@ -4080,6 +4112,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kitchen (General)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064351Z" creationid="LanHK" creationdate="20210715T064351Z">
+        <seg>Kitchen (General)***Bếp (chung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen (Pastry)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064404Z" creationid="LanHK" creationdate="20210715T064404Z">
+        <seg>Kitchen (Pastry)***Bếp (bánh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen (Prep/Finish)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064415Z" creationid="LanHK" creationdate="20210715T064415Z">
+        <seg>Kitchen (Prep/Finish)***Bếp (Sơ chế/Hoàn thiện)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kitchen Hood Suppression</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080344Z">
@@ -4194,8 +4250,8 @@
       <tuv lang="EN-US">
         <seg>Laundry</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210406T011646Z" creationid="LanHK" creationdate="20210406T011646Z">
-        <seg>Laundry Giặt là</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064311Z" creationid="LanHK" creationdate="20210406T011646Z">
+        <seg>Laundry***Giặt là</seg>
       </tuv>
     </tu>
     <tu>
@@ -5099,8 +5155,8 @@
       <tuv lang="EN-US">
         <seg>Private Guest</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T064129Z" creationid="LanHK" creationdate="20210715T064123Z">
-        <seg>Private Guest Areas***</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064207Z" creationid="LanHK" creationdate="20210715T064123Z">
+        <seg>Private Guest Areas***Khu riêng tư cho khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -6175,6 +6231,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T101746Z" creationid="LanHK" creationdate="20210602T101746Z">
         <seg>Sprinklers at alternate floors and the top of the chute in a sprinkler protected building- see illustration        /       Sprinkler bố trí cách tầng và trên đỉnh ống trong tòa nhà có sprinkler bảo vệ - xem minh họa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Staff Dining</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064432Z" creationid="LanHK" creationdate="20210715T064432Z">
+        <seg>Staff Dining***Canteen nhân viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Staff Kitchen</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064436Z" creationid="LanHK" creationdate="20210715T064436Z">
+        <seg>Staff Kitchen***Bếp nhân viên</seg>
       </tuv>
     </tu>
     <tu>
@@ -7770,6 +7842,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T064234Z" creationid="LanHK" creationdate="20210602T064234Z">
         <seg>Where vision panels are provided the glazing must have the same fire resistance as the door.        /      Nếu cửa có kính, kính phải có mức chống cháy tương đương với cánh cửa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Wine and Beer Store</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T064424Z" creationid="LanHK" creationdate="20210715T064424Z">
+        <seg>White Wine and Beer Store***Kho rượu trắng và bia</seg>
       </tuv>
     </tu>
     <tu>
