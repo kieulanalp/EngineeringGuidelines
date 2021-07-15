@@ -5894,6 +5894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The design, installation and maintenance provisions shall be in full compliance with all relevant International, European, National and Local standards and regulations, and in particular any health, fire, safety and environmental legislation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T023018Z" creationid="LanHK" creationdate="20210715T023018Z">
+        <seg>The design, installation and maintenance provisions shall be in full compliance with all relevant International, European, National and Local standards and regulations, and in particular any health, fire, safety and environmental legislation        /         </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The designers (including fire, MEP, architectural, interior) must provide a fire safety strategy for the whole building, which must include all passive and active systems, and clearly show:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T012846Z" creationid="LanHK" creationdate="20210602T012846Z">
@@ -7007,6 +7015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T022822Z" creationid="LanHK" creationdate="20210715T022822Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a) Self-Contained (minimum 1 hour or 90 minutes for Asia)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091417Z" creationid="LanHK" creationdate="20210702T091417Z">
@@ -7709,6 +7725,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T012608Z" creationid="LanHK" creationdate="20210602T012608Z">
         <seg>‘Passive’ meaning fire resisting walls, floors, doors and ‘active’ meaning fire alarm and detection, sprinkler, smoke control systems.        /       "Bị động" là tường, sàn, cửa ngăn cháy và "chủ động" là phát hiện và báo cháy, sprinkler, các hệ thống kiểm soát khói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Designer to demonstrate and provide the acoustic values for all systems to confirm compliance with IHG standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T022841Z" creationid="LanHK" creationdate="20210715T022841Z">
+        <seg>• Designer to demonstrate and provide the acoustic values for all systems to confirm compliance with IHG standards     /     </seg>
       </tuv>
     </tu>
     <tu>
