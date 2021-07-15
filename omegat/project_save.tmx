@@ -57,8 +57,8 @@
       <tuv lang="EN-US">
         <seg>-REFER TO OPTIONS LISTED</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T041843Z" creationid="LanHK" creationdate="20210715T035458Z">
-        <seg>-refer to options listed        /         Phương án A/C cho phòng khách:***- tham khảo danh sách p/a</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T035458Z">
+        <seg>-refer to options listed     /     Phương án A/C cho phòng khách:***- tham khảo danh sách p/a</seg>
       </tuv>
     </tu>
     <tu>
@@ -475,8 +475,8 @@
       <tuv lang="EN-US">
         <seg>A primary electricity supply must be provided exclusively to the lift from a sub-main circuit</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T025355Z" creationid="PHUONG.DTM" creationdate="20210605T025355Z">
-        <seg>A primary electricity supply must be provided exclusively to the lift from a sub-main circuit        /         Nguồn điện chính phải được cấp cho thang máy </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T025355Z">
+        <seg>A primary electricity supply must be provided exclusively to the lift from a sub-main circuit     /     Nguồn điện chính phải được cấp cho thang máy </seg>
       </tuv>
     </tu>
     <tu>
@@ -691,8 +691,8 @@
       <tuv lang="EN-US">
         <seg>All controls must also have suitable tactile indication on or adjacent to the buttons</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T034718Z" creationid="PHUONG.DTM" creationdate="20210605T034642Z">
-        <seg>All controls must also have suitable tactile indication on or adjacent to the buttons        /         Tất cả nút điều khiển phải có chỉ dẫn xúc giác hoặc cạnh các nút bấm.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T034642Z">
+        <seg>All controls must also have suitable tactile indication on or adjacent to the buttons     /     Tất cả nút điều khiển phải có chỉ dẫn xúc giác hoặc cạnh các nút bấm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -723,16 +723,16 @@
       <tuv lang="EN-US">
         <seg>All in accordance with Section 1.0</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210702T092147Z" creationid="LanHK" creationdate="20210702T092147Z">
-        <seg>All in accordance with Section 1.0.        /         Tuân thủ theo Mục 1.0 </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210702T092147Z">
+        <seg>All in accordance with Section 1.0.     /     Tuân thủ theo Mục 1.0 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>All in accordance with Section 1.0.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T050026Z" creationid="PHUONG.DTM" creationdate="20210605T050026Z">
-        <seg>All in accordance with Section 1.0.        /         Tuân thủ theo Mục 1.0 </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T050026Z">
+        <seg>All in accordance with Section 1.0.     /     Tuân thủ theo Mục 1.0 </seg>
       </tuv>
     </tu>
     <tu>
@@ -747,8 +747,8 @@
       <tuv lang="EN-US">
         <seg>All lifts should incorporate a signalling system that provides visual notification the lift is answering and if the lift serves more than 3 storeys then a visual and audible system should be provided</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T034946Z" creationid="PHUONG.DTM" creationdate="20210605T034946Z">
-        <seg>All lifts should incorporate a signalling system that provides visual notification the lift is answering and if the lift serves more than 3 storeys then a visual and audible system should be provided        /         Tất cả các thang cần kết hợp hệ thống tín hiệu để cung cấp thông báo trực quan rằng thang đang phản hồi và nếu thang phục vụ nhiều hơn 3 tầng thì hệ thống nghe nhìn phải được cung cấp.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T034946Z">
+        <seg>All lifts should incorporate a signalling system that provides visual notification the lift is answering and if the lift serves more than 3 storeys then a visual and audible system should be provided     /     Tất cả các thang cần kết hợp hệ thống tín hiệu để cung cấp thông báo trực quan rằng thang đang phản hồi và nếu thang phục vụ nhiều hơn 3 tầng thì hệ thống nghe nhìn phải được cung cấp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -779,8 +779,8 @@
       <tuv lang="EN-US">
         <seg>An alternative power supply must be provided to the lift that must start automatically on loss of the primary supply</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T030634Z" creationid="PHUONG.DTM" creationdate="20210605T025644Z">
-        <seg>An alternative power supply must be provided to the lift that must start automatically on loss of the primary supply        /         Nguồn điện dự phòng phải được cấp tự động cho thang máy khi mất nguồn điện chính </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T025644Z">
+        <seg>An alternative power supply must be provided to the lift that must start automatically on loss of the primary supply     /     Nguồn điện dự phòng phải được cấp tự động cho thang máy khi mất nguồn điện chính </seg>
       </tuv>
     </tu>
     <tu>
@@ -883,8 +883,8 @@
       <tuv lang="EN-US">
         <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft. -</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T030810Z" creationid="PHUONG.DTM" creationdate="20210605T030623Z">
-        <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft.        /         Bất kỳ tủ điện phụ nào, bảng điện, máy phát, bơm thủy lực hay các thiết bị khác phải được bảo vệ chống cháy trong thời gian trong ít hơn trục thang máy. </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T030623Z">
+        <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft.     /     Bất kỳ tủ điện phụ nào, bảng điện, máy phát, bơm thủy lực hay các thiết bị khác phải được bảo vệ chống cháy trong thời gian trong ít hơn trục thang máy. </seg>
       </tuv>
     </tu>
     <tu>
@@ -908,16 +908,16 @@
       <tuv lang="EN-US">
         <seg>Appendix - Technical Specifications - then reference each individual area</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T034555Z" creationid="LanHK" creationdate="20210715T034555Z">
-        <seg>Appendix - Technical Specifications - then reference each individual area        /         Phụ lục - Thông số Kỹ thuật - tham khảo từng khu vực cụ thể</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T034555Z">
+        <seg>Appendix - Technical Specifications - then reference each individual area     /     Phụ lục - Thông số Kỹ thuật - tham khảo từng khu vực cụ thể</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Appendix Recommended construction for different climatic regions</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T033930Z" creationid="LanHK" creationdate="20210715T033930Z">
-        <seg>Appendix Recommended construction for different climatic regions        /         Phụ lục: Khuyến nghị về thi công công trình đối với các vùng khí hậu khác nhau</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T033930Z">
+        <seg>Appendix Recommended construction for different climatic regions     /     Phụ lục: Khuyến nghị về thi công công trình đối với các vùng khí hậu khác nhau</seg>
       </tuv>
     </tu>
     <tu>
@@ -1072,6 +1072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BMS MONITORING &amp; CONTROL</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T041935Z">
+        <seg>bms monitoring &amp; control     /     Giám sát và điều khiển BMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BMS link for alarm alert and fault condition</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T042134Z" creationid="Kieu Lan" creationdate="20210705T042134Z">
@@ -1138,16 +1146,16 @@
       <tuv lang="EN-US">
         <seg>Be at least 760 x 1200mm in size</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104536Z" creationid="PHUONG.DTM" creationdate="20210604T104536Z">
-        <seg>Be at least 760 x 1200mm in size        /         Tối thiểu kích thước 760 x 1200mm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104536Z">
+        <seg>Be at least 760 x 1200mm in size     /     Tối thiểu kích thước 760 x 1200mm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Be located so that they do not obstruct escape routes for other guests</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104717Z" creationid="PHUONG.DTM" creationdate="20210604T104717Z">
-        <seg>Be located so that they do not obstruct escape routes for other guests        /         Được đặt tại vị trí không cản trở đường thoát hiểm của khách khác</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104717Z">
+        <seg>Be located so that they do not obstruct escape routes for other guests     /     Được đặt tại vị trí không cản trở đường thoát hiểm của khách khác</seg>
       </tuv>
     </tu>
     <tu>
@@ -1228,6 +1236,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210714T024451Z" creationid="LanHK" creationdate="20210714T024451Z">
         <seg>Bulk storage of LPF, Butane or Propane may be used, based on 6 weeks supply at maximum use.     /     Có thể dự trữ khối lượng lớn khí gas lỏng, butane hoặc propane, dựa trên cơ sở 6 tuần sử dụng ở công suất tối đa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CARPARK</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042059Z" creationid="LanHK" creationdate="20210715T042059Z">
+        <seg>carpark</seg>
       </tuv>
     </tu>
     <tu>
@@ -1442,8 +1458,8 @@
       <tuv lang="EN-US">
         <seg>Communication with continuously staffed position</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110936Z" creationid="PHUONG.DTM" creationdate="20210604T110936Z">
-        <seg>Communication with continuously staffed position        /         Kết nối tới vị trí luôn có nhân viên trực</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T110936Z">
+        <seg>Communication with continuously staffed position     /     Kết nối tới vị trí luôn có nhân viên trực</seg>
       </tuv>
     </tu>
     <tu>
@@ -2001,16 +2017,16 @@
       <tuv lang="EN-US">
         <seg>Emergency lighting falls into two categories; escape lighting and standby lighting.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210702T023506Z" creationid="PHUONG.DTM" creationdate="20210605T050636Z">
-        <seg>Emergency lighting falls into two categories; escape lighting and standby lighting.        /         Chiếu sáng sự cố sẽ chia thành 2 mục: Chiếu sáng thoát nạn và chiếu sáng dự phòng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T050636Z">
+        <seg>Emergency lighting falls into two categories; escape lighting and standby lighting.     /     Chiếu sáng sự cố sẽ chia thành 2 mục: Chiếu sáng thoát nạn và chiếu sáng dự phòng</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Enclosure of the lift should consist of a protected lobby at every level</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T020315Z" creationid="PHUONG.DTM" creationdate="20210605T020315Z">
-        <seg>Enclosure of the lift should consist of a protected lobby at every level        /         Khu vực kín của thang cần bao gồm cả một buồng đệm bảo vệ tại mỗi tầng.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T020315Z">
+        <seg>Enclosure of the lift should consist of a protected lobby at every level     /     Khu vực kín của thang cần bao gồm cả một buồng đệm bảo vệ tại mỗi tầng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2179,16 +2195,16 @@
       <tuv lang="EN-US">
         <seg>Evacuation lift</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041056Z" creationid="PHUONG.DTM" creationdate="20210605T041056Z">
-        <seg>Evacuation lift         /         Thang thoát nạn </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041056Z">
+        <seg>Evacuation lift      /     Thang thoát nạn </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Evacuation lifts - these are lifts that are specifically designed for the evacuation of disabled guests and are</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042451Z" creationid="PHUONG.DTM" creationdate="20210605T015721Z">
-        <seg>Evacuation lifts - these are lifts that are specifically designed for the evacuation of disabled guests and are provided with additional safety measures to ensure that they are safe to use in a fire. Frequently evacuation lifts are also firefighting lifts. Evacuation lifts must meet the following requirements:        /         Thang sơ tán - các thang được thiết kế cụ thể cho mục đích thoát nạn của người khuyết tật và được cung cấp mức độ an toàn bổ sung để đảm bảo thang là an toàn sử dụng trong trường hợp cháy. Các thang sơ tán cũng đồng thời là thang phòng cháy. Thang sơ tán phải tuân thủ theo các yêu cầu sau: </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T015721Z">
+        <seg>Evacuation lifts - these are lifts that are specifically designed for the evacuation of disabled guests and are provided with additional safety measures to ensure that they are safe to use in a fire. Frequently evacuation lifts are also firefighting lifts. Evacuation lifts must meet the following requirements:     /     Thang sơ tán - các thang được thiết kế cụ thể cho mục đích thoát nạn của người khuyết tật và được cung cấp mức độ an toàn bổ sung để đảm bảo thang là an toàn sử dụng trong trường hợp cháy. Các thang sơ tán cũng đồng thời là thang phòng cháy. Thang sơ tán phải tuân thủ theo các yêu cầu sau: </seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,6 +2350,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T070347Z" creationid="LanHK" creationdate="20210610T070347Z">
         <seg>FLUSH MOUNTED SPRINKLER HEAD WHERE PERMITTED / Sử dụng sprinkler âm trần nếu được</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOR PUBLIC AREAS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T041911Z">
+        <seg>for public areas     /     phân vùng cấp và hồi khi cho khu công cộng</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,6 +2986,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GROUND SOURCE (SUBJECT TO IHG APPROVAL)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042051Z" creationid="LanHK" creationdate="20210715T042015Z">
+        <seg>ground source (subject to IHG approval)     /     Nguồn mặt đất (phải được IHG phê duyệt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GUEST ROOM A/C OPTIONS:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T035214Z" creationid="LanHK" creationdate="20210715T035214Z">
@@ -3268,16 +3300,16 @@
       <tuv lang="EN-US">
         <seg>Have direct access to a final exit from the building</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104648Z" creationid="PHUONG.DTM" creationdate="20210604T104648Z">
-        <seg>Have direct access to a final exit from the building        /         Có tiếp cận trực tiếp tới lối thoát hiểm cuối ra ngoài tòa nhà</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104648Z">
+        <seg>Have direct access to a final exit from the building     /     Có tiếp cận trực tiếp tới lối thoát hiểm cuối ra ngoài tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Have direct two-way communication with a continuously staffed position such as reception with</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041934Z" creationid="PHUONG.DTM" creationdate="20210604T110433Z">
-        <seg>Have direct two-way communication with a continuously staffed position such as reception with instructions on how to use the communications        /         Có kết nối 2 chiều trực tiếp với vị trí luôn có nhân viên trực ví dụ sảnh lễ tân với hướng dẫn bằng các nào để sử dụng kết nối.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T110433Z">
+        <seg>Have direct two-way communication with a continuously staffed position such as reception with instructions on how to use the communications     /     Có kết nối 2 chiều trực tiếp với vị trí luôn có nhân viên trực ví dụ sảnh lễ tân với hướng dẫn bằng các nào để sử dụng kết nối.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3756,8 +3788,8 @@
       <tuv lang="EN-US">
         <seg>Issues that must be addressed at the design stage include:</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T102118Z" creationid="PHUONG.DTM" creationdate="20210604T102118Z">
-        <seg>Issues that must be addressed at the design stage include:        /         Các vấn đề phải được lưu ý trong thiết kế bao gồm:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T102118Z">
+        <seg>Issues that must be addressed at the design stage include:     /     Các vấn đề phải được lưu ý trong thiết kế bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3788,16 +3820,16 @@
       <tuv lang="EN-US">
         <seg>It must not have perforations</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T045925Z" creationid="PHUONG.DTM" creationdate="20210605T045925Z">
-        <seg>It must not have perforations        /         Không được phép có hố/thủng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T045925Z">
+        <seg>It must not have perforations     /     Không được phép có hố/thủng</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It must not obstruct escape routes</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041603Z" creationid="PHUONG.DTM" creationdate="20210605T041603Z">
-        <seg>It must not obstruct escape routes        /         Không được phép cản trở đường thoát nạn </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041603Z">
+        <seg>It must not obstruct escape routes     /     Không được phép cản trở đường thoát nạn </seg>
       </tuv>
     </tu>
     <tu>
@@ -4213,24 +4245,24 @@
       <tuv lang="EN-US">
         <seg>Maximum cross slope 1:48</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041252Z" creationid="PHUONG.DTM" creationdate="20210605T041252Z">
-        <seg>Maximum cross slope 1:48        /         Dốc ngang tối đa 1:48</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041252Z">
+        <seg>Maximum cross slope 1:48     /     Dốc ngang tối đa 1:48</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Maximum rise of a single ramp 760mm</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041315Z" creationid="PHUONG.DTM" creationdate="20210605T041315Z">
-        <seg>Maximum rise of a single ramp 760mm        /         Phần nâng tối đa của một dốc đơn 760mm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041315Z">
+        <seg>Maximum rise of a single ramp 760mm     /     Phần nâng tối đa của một dốc đơn 760mm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Maximum slope 1:12</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041237Z" creationid="PHUONG.DTM" creationdate="20210605T041237Z">
-        <seg>Maximum slope 1:12        /         Độ dốc tối đa 1:12</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041237Z">
+        <seg>Maximum slope 1:12     /     Độ dốc tối đa 1:12</seg>
       </tuv>
     </tu>
     <tu>
@@ -4365,8 +4397,8 @@
       <tuv lang="EN-US">
         <seg>Minimum width 1120mm</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041224Z" creationid="PHUONG.DTM" creationdate="20210605T041224Z">
-        <seg>Minimum width 1120mm        /         Tối thiểu chiều rộng 1120mm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041224Z">
+        <seg>Minimum width 1120mm     /     Tối thiểu chiều rộng 1120mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4853,24 +4885,24 @@
       <tuv lang="EN-US">
         <seg>Provide individual temperature control in guest rooms, with adjacent rooms having heating/cooling simultaneously</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T034835Z" creationid="LanHK" creationdate="20210715T034835Z">
-        <seg>Provide individual temperature control in guest rooms, with adjacent rooms having heating/cooling simultaneously        /         Cho phép kiểm soát nhiệt độ riêng cho từng phòng khách, với các phòng liền kề có thể sưởi/làm mát đồng thời</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T034835Z">
+        <seg>Provide individual temperature control in guest rooms, with adjacent rooms having heating/cooling simultaneously     /     Cho phép kiểm soát nhiệt độ riêng cho từng phòng khách, với các phòng liền kề có thể sưởi/làm mát đồng thời</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Provide protection from fire, for example, by being located in a protected stair</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T104611Z" creationid="PHUONG.DTM" creationdate="20210604T104611Z">
-        <seg>Provide protection from fire, for example, by being located in a protected stair        /          Cung cấp bảo vệ chống cháy, ví dụ, bố trí tại một thang bộ chống cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104611Z">
+        <seg>Provide protection from fire, for example, by being located in a protected stair     /      Cung cấp bảo vệ chống cháy, ví dụ, bố trí tại một thang bộ chống cháy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Provide protection of life and property by providing both automated and manual facilities for preventing the spread of fire.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T050346Z" creationid="PHUONG.DTM" creationdate="20210605T050346Z">
-        <seg>Provide protection of life and property by providing both automated and manual facilities for preventing the spread of fire.        /         Cung cấp bảo vệ an toàn cho tính mạng và tòa nhà bằng việc cung cấp chức năng tự động hoặc bằng tay để ngăn cản việc lan cháy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T050346Z">
+        <seg>Provide protection of life and property by providing both automated and manual facilities for preventing the spread of fire.     /     Cung cấp bảo vệ an toàn cho tính mạng và tòa nhà bằng việc cung cấp chức năng tự động hoặc bằng tay để ngăn cản việc lan cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4957,8 +4989,8 @@
       <tuv lang="EN-US">
         <seg>Ramps may be used for means of escape for wheelchair users providing they meet the following dimensions</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043557Z" creationid="PHUONG.DTM" creationdate="20210605T041154Z">
-        <seg>Ramps may be used for means of escape for wheelchair users providing they meet the following dimensions and requirements:        /         Có thể sử dụng dốc như lối thoát hiểm cho người dùng xe lăn miễn là tuân thủ theo các kích thước và yêu cầu sau:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041154Z">
+        <seg>Ramps may be used for means of escape for wheelchair users providing they meet the following dimensions and requirements:     /     Có thể sử dụng dốc như lối thoát hiểm cho người dùng xe lăn miễn là tuân thủ theo các kích thước và yêu cầu sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5029,8 +5061,8 @@
       <tuv lang="EN-US">
         <seg>Refuges - these are places of relative safety where disabled people can await assistance from hotel staff to</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042440Z" creationid="PHUONG.DTM" creationdate="20210604T104440Z">
-        <seg>Refuges - these are places of relative safety where disabled people can await assistance from hotel staff to assist them in escaping. Refuges must:        /         Nơi lánh nạn - là vị trí tương đối an toàn mà người khuyết tật có thể chờ hỗ trợ từ nhân viên khách sạn tới hỗ trợ thoát hiểm. Nơi lánh nạn phải: </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104440Z">
+        <seg>Refuges - these are places of relative safety where disabled people can await assistance from hotel staff to assist them in escaping. Refuges must:     /     Nơi lánh nạn - là vị trí tương đối an toàn mà người khuyết tật có thể chờ hỗ trợ từ nhân viên khách sạn tới hỗ trợ thoát hiểm. Nơi lánh nạn phải: </seg>
       </tuv>
     </tu>
     <tu>
@@ -5655,8 +5687,8 @@
       <tuv lang="EN-US">
         <seg>Space occupied by flow of people escaping</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110853Z" creationid="PHUONG.DTM" creationdate="20210604T110853Z">
-        <seg>Space occupied by flow of people escaping        /         Không gian chiếm bởi dòng người thoát hiểm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T110853Z">
+        <seg>Space occupied by flow of people escaping     /     Không gian chiếm bởi dòng người thoát hiểm</seg>
       </tuv>
     </tu>
     <tu>
@@ -6167,8 +6199,8 @@
       <tuv lang="EN-US">
         <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041921Z" creationid="PHUONG.DTM" creationdate="20210605T025912Z">
-        <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply and routed through an area of low fire risk        /         Cáp truyền tải nguồn điện dự phòng phải độc lập khỏi nguồn chính và đi dây trong không gian có khả năng cháy thấp.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T025912Z">
+        <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply and routed through an area of low fire risk     /     Cáp truyền tải nguồn điện dự phòng phải độc lập khỏi nguồn chính và đi dây trong không gian có khả năng cháy thấp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6441,24 +6473,24 @@
       <tuv lang="EN-US">
         <seg>The lift must be located within a protected enclosure</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T020228Z" creationid="PHUONG.DTM" creationdate="20210605T020228Z">
-        <seg>The lift must be located within a protected enclosure        /         Thang phải được bố trí trong một khu vực kín được bảo vệ.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T020228Z">
+        <seg>The lift must be located within a protected enclosure     /     Thang phải được bố trí trong một khu vực kín được bảo vệ.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The lift should be provided with a switch marked "EVACUATION LIFT" at exit level</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T023819Z" creationid="PHUONG.DTM" creationdate="20210605T023819Z">
-        <seg>The lift should be provided with a switch marked "EVACUATION LIFT" at exit level        /         Thang máy phải có một công tắc ghi chú "THANG SƠ TÁN" tại tầng thoát nạn.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T023819Z">
+        <seg>The lift should be provided with a switch marked "EVACUATION LIFT" at exit level     /     Thang máy phải có một công tắc ghi chú "THANG SƠ TÁN" tại tầng thoát nạn.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The location of disabled guestrooms - evacuation of disabled guests from ground floor guestrooms will be</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041940Z" creationid="PHUONG.DTM" creationdate="20210604T104052Z">
-        <seg>The location of disabled guestrooms - evacuation of disabled guests from ground floor guestrooms will be much quicker and easier than from guestrooms on upper floors. Where there are no ground floor guestrooms those for use by disabled guests should be located close to fire protected stairs and evacuation lifts where they are provided.         /         Vị trí của các phòng người khuyết tật - sơ tán khách là người khuyết tật từ phòng khách tầng mặt đất sẽ dễ dàng hơn nhiều so với ở các tầng cao. Nếu không có tầng phòng khách tại tầng mặt đất, các phòng cho người khuyết tật cần bố trí gần với thang bộ thoát hiểm và thang máy phòng cháy. </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104052Z">
+        <seg>The location of disabled guestrooms - evacuation of disabled guests from ground floor guestrooms will be much quicker and easier than from guestrooms on upper floors. Where there are no ground floor guestrooms those for use by disabled guests should be located close to fire protected stairs and evacuation lifts where they are provided.      /     Vị trí của các phòng người khuyết tật - sơ tán khách là người khuyết tật từ phòng khách tầng mặt đất sẽ dễ dàng hơn nhiều so với ở các tầng cao. Nếu không có tầng phòng khách tại tầng mặt đất, các phòng cho người khuyết tật cần bố trí gần với thang bộ thoát hiểm và thang máy phòng cháy. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6561,16 +6593,16 @@
       <tuv lang="EN-US">
         <seg>The ramp must be made of non-combustible materials</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T045808Z" creationid="PHUONG.DTM" creationdate="20210605T045808Z">
-        <seg>The ramp must be made of non-combustible materials        /         Dốc phải làm bằng vật liệu khó bắt cháy </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T045808Z">
+        <seg>The ramp must be made of non-combustible materials     /     Dốc phải làm bằng vật liệu khó bắt cháy </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The ramp must be permanently fixed</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T041329Z" creationid="PHUONG.DTM" creationdate="20210605T041329Z">
-        <seg>The ramp must be permanently fixed        /         Dốc phải cố định</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041329Z">
+        <seg>The ramp must be permanently fixed     /     Dốc phải cố định</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,8 +6906,8 @@
       <tuv lang="EN-US">
         <seg>This switch should cause the lift to return to the exit level and then become controllable</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T024445Z" creationid="PHUONG.DTM" creationdate="20210605T024445Z">
-        <seg>This switch should cause the lift to return to the exit level and then become controllable        /         Công tắc này cần khiến thang về tầng thoát nạn và kiểm soát được.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T024445Z">
+        <seg>This switch should cause the lift to return to the exit level and then become controllable     /     Công tắc này cần khiến thang về tầng thoát nạn và kiểm soát được.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6906,16 +6938,16 @@
       <tuv lang="EN-US">
         <seg>To provide sufficient continuous heating for the domestic hot water supply</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T035051Z" creationid="LanHK" creationdate="20210715T035051Z">
-        <seg>To provide sufficient continuous heating for the domestic hot water supply        /         Liên tục làm nóng phục vụ cấp nước nóng sinh hoạt</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T035051Z">
+        <seg>To provide sufficient continuous heating for the domestic hot water supply     /     Liên tục làm nóng phục vụ cấp nước nóng sinh hoạt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>To remove vitiated air from the areas.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T035026Z" creationid="LanHK" creationdate="20210715T035026Z">
-        <seg>To remove vitiated air from the areas.        /         Loại bỏ không khí không đủ chất lượng khỏi các khu vực</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T035026Z">
+        <seg>To remove vitiated air from the areas.     /     Loại bỏ không khí không đủ chất lượng khỏi các khu vực</seg>
       </tuv>
     </tu>
     <tu>
@@ -7028,6 +7060,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T025131Z" creationid="LanHK" creationdate="20210610T025131Z">
         <seg>VA- Voice Alarm Speaker     /    Hệ thống âm thanh thông báo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VANTILATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042113Z" creationid="LanHK" creationdate="20210715T042057Z">
+        <seg>ventilation     /     Thông gió bãi đỗ xe</seg>
       </tuv>
     </tu>
     <tu>
@@ -7154,8 +7194,8 @@
       <tuv lang="EN-US">
         <seg>Wheelchair space</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T110905Z" creationid="PHUONG.DTM" creationdate="20210604T110905Z">
-        <seg>Wheelchair space        /         Không gian cho xe lăn </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T110905Z">
+        <seg>Wheelchair space     /     Không gian cho xe lăn </seg>
       </tuv>
     </tu>
     <tu>
@@ -7400,6 +7440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ZONED SUPPLY AND EXTRACT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T041852Z" creationid="LanHK" creationdate="20210715T041852Z">
+        <seg>zoned supply and extract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone smoke clearance using installed air handling plant and /or dedicated smoke extraction equipment -</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T075209Z" creationid="LanHK" creationdate="20210702T075209Z">
@@ -7524,8 +7572,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>be overridden and re-opened by an appropriate electronic device but NOT a door edge pressure system</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T044819Z" creationid="Kieu Lan" creationdate="20210629T044819Z">
-        <seg>be overridden and re-opened by an appropriate electronic device but NOT a door edge pressure system        /         Cửa thang phải ở trạng thái mở hoàn toàn trong vòng 5 giây trước khi đóng. Hệ thống có thể được ghi đè và mở lại bằng thiết bị điện tử phù hợp, tuy nhiên không phải là hệ thống áp suất cạnh cửa </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="Kieu Lan" creationdate="20210629T044819Z">
+        <seg>be overridden and re-opened by an appropriate electronic device but NOT a door edge pressure system     /     Cửa thang phải ở trạng thái mở hoàn toàn trong vòng 5 giây trước khi đóng. Hệ thống có thể được ghi đè và mở lại bằng thiết bị điện tử phù hợp, tuy nhiên không phải là hệ thống áp suất cạnh cửa </seg>
       </tuv>
     </tu>
     <tu>
@@ -7548,8 +7596,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>by dedicated AHU’s.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T034949Z" creationid="LanHK" creationdate="20210715T034949Z">
-        <seg>by dedicated AHU’s.        /         Cung cấp khí tươi cho tất cả các khu vực để tránh mùi lạ và phục vụ nhu cầu của người trong tòa nhà. Việc này phải được định trước bằng hệ thống AHU chuyên dụng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T034949Z">
+        <seg>by dedicated AHU’s.     /     Cung cấp khí tươi cho tất cả các khu vực để tránh mùi lạ và phục vụ nhu cầu của người trong tòa nhà. Việc này phải được định trước bằng hệ thống AHU chuyên dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -7788,8 +7836,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>more that 1200mm at a distance of at least 400 from the front wall</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043551Z" creationid="Kieu Lan" creationdate="20210629T043551Z">
-        <seg>more that 1200mm at a distance of at least 400 from the front wall         /         Cửa tới thang chống cháy tối thiểu 2 giờ. Toàn bộ bảng điều khiển thang, cả bên trong và tại tầng kết thúc phải có cao độ không thấp hơn 900mm và không cao hơn 1200mm ở khoảng cách 400mm từ tường trước mặt.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="Kieu Lan" creationdate="20210629T043551Z">
+        <seg>more that 1200mm at a distance of at least 400 from the front wall      /     Cửa tới thang chống cháy tối thiểu 2 giờ. Toàn bộ bảng điều khiển thang, cả bên trong và tại tầng kết thúc phải có cao độ không thấp hơn 900mm và không cao hơn 1200mm ở khoảng cách 400mm từ tường trước mặt.</seg>
       </tuv>
     </tu>
     <tu>
