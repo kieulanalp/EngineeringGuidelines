@@ -360,6 +360,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>	</note>
+      <tuv lang="EN-US">
+        <seg>98% of the annual external</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>98% of the annual external temperature occurrences must be designed for</seg>
       </tuv>
@@ -1136,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base external heat rejection equipment selections on external ambient design temperature for the location +5°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T045612Z" creationid="LanHK" creationdate="20210715T045612Z">
+        <seg>     /     Lựa chọn thiết bị thải nhiệt bên ngoài dựa trên nhiệt độ thiết kế bên ngoài của vị trí dự án </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Battery backup must be provided as an integral part of the main fire alarm panel. The batteries must be of sufficient capacity to provide standby operation for 24 hours after which sufficient capacity must remain to operate on full alarm conditions load for a minimum of one hour.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064914Z" creationid="Kieu Lan" creationdate="20210705T064914Z">
@@ -1598,6 +1612,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044402Z" creationid="LanHK" creationdate="20210715T044402Z">
         <seg>Daily Maximum Temperatures     /     Nhiệt độ tối đa hằng ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daily Minimum Temperatures</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044532Z" creationid="LanHK" creationdate="20210715T044532Z">
+        <seg>Daily Minimum Temperatures     /     Nhiệt độ thấp nhất hằng ngày</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,6 +3416,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Historical Minimum Temperature Data Occurrence Chart of Design Location</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044440Z" creationid="LanHK" creationdate="20210715T044440Z">
+        <seg>Historical Minimum Temperature Data Occurrence Chart of Design Location     /     Biểu đồ dữ liệu nhiệt độ thấp nhất đạt được tại địa điểm thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal Means of Escape</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T013454Z" creationid="LanHK" creationdate="20210525T075055Z">
@@ -3775,6 +3805,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T025119Z" creationid="LanHK" creationdate="20210715T025027Z">
         <seg>Internal design conditions indicated for each area, as indicated in Table 4.3.2     /     Các điều kiện thiết kế bên trong được chỉ định cho mỗi khu vực như trong bảng 4.3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal heating design conditions should be achieved at external conditions which are exceeded by the minimum historical weather data for the location for more than 2% of the year</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044526Z" creationid="LanHK" creationdate="20210715T044526Z">
+        <seg>Internal cooling design conditions should be achieved at external conditions which are not exceeded by the minimum historical weather data for the location for more than 2% of the year     /     Điều kiện thiết kế làm mát trong nhà được quyết định dựa trên điều kiện bên ngoài - chúng không vượt quá dữ liệu thời tiết thấp nhất cho khu vực này trong hơn 2% thời gian năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4565,8 +4603,8 @@
       <tuv lang="EN-US">
         <seg>Note:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080401Z" creationid="Kieu Lan" creationdate="20210713T080401Z">
-        <seg>Note:  Lưu ý</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044549Z" creationid="Kieu Lan" creationdate="20210713T080401Z">
+        <seg>Note:     /     Lưu ý</seg>
       </tuv>
     </tu>
     <tu>
@@ -4575,6 +4613,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210706T082313Z" creationid="Kieu Lan" creationdate="20210705T125836Z">
         <seg>Note: fire retardant cabling is not acceptable for use and the cabling must provide a minimum one (1) hour rating at the temperatures specified earlier in this guide. Certification of compliance with this must be provided.     /     Chú ý: không chấp nhận cáp fire retardant (cáp fire retardant được thiết kế để chống cháy lan sang các khu vực khác, giảm khói và khí độc khi cháy, khác với fire resistant là được thiết kế chống cháy để đảm bảo mạch điện tiếp tục vận hành trong một khoảng thời gian nhất định), và cáp phải đảm bảo chống cháy tối thiểu 1h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044551Z" creationid="LanHK" creationdate="20210715T044540Z">
+        <seg>Note:     /     Lưu ý</seg>
       </tuv>
     </tu>
     <tu>
@@ -6159,8 +6205,8 @@
       <tuv lang="EN-US">
         <seg>Temperature occurs lessthan 2% of the vear</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T044421Z" creationid="LanHK" creationdate="20210715T044421Z">
-        <seg>Temperature occurs lessthan 2% of the year     /     Nhiệt độ đạt đến ít hơn 2%/năm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044426Z" creationid="LanHK" creationdate="20210715T044421Z">
+        <seg>Temperature occurs less than 2% of the year     /     Nhiệt độ đạt đến ít hơn 2%/năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -7686,6 +7732,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T061847Z">
         <seg>In general atria may be either enclosed by fire resisting glazing or may be provided with a smoke and heat control system that will keep escape routes clear for sufficient time to allow the occupants to escape.     /     Nhìn chung các giếng trời có thể được khép kín bằng kính chống cháy hoặc được cung cấp hệ thống kiểm soát khói và nhiệt giúp giữ các lối thoát hiểm thông thoáng đủ lâu để người trong tòa nhà thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>designed for</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T044457Z" creationid="LanHK" creationdate="20210715T044457Z">
+        <seg>designed for     /     Thiết kế cho 98% nhiệt độ bên ngoài xảy ra trong năm</seg>
       </tuv>
     </tu>
     <tu>
