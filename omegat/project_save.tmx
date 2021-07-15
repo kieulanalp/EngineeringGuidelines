@@ -3665,6 +3665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIFE CYCLE AND OPERATING COSTS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T023414Z" creationid="LanHK" creationdate="20210715T023414Z">
+        <seg>Life cycle and operating costs     /     Vòng đời và chi phí vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIFE EXPECTANCY</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T021938Z" creationid="LanHK" creationdate="20210715T021427Z">
@@ -4910,6 +4918,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065414Z" creationid="LanHK" creationdate="20210610T065414Z">
         <seg>SMOKE DETECTORS IN OPERATION    /   ĐẦU BÁO KHÓI VẬN HÀNH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPACE UTILISATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T023629Z" creationid="LanHK" creationdate="20210715T023629Z">
+        <seg>Space utilisation     /     Tận dụng không gian</seg>
       </tuv>
     </tu>
     <tu>
@@ -7731,8 +7747,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>• Designer to provide efficient plant and systems, appropriate zoning, effective control systems, selection of the most cost effective fuels and heat recovery</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T022706Z" creationid="LanHK" creationdate="20210715T022706Z">
-        <seg>• Designer to provide efficient plant and systems, appropriate zoning, effective control systems, selection of the most cost effective fuels     /     </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T023618Z" creationid="LanHK" creationdate="20210715T022706Z">
+        <seg>• Designer to provide efficient plant and systems, appropriate zoning, effective control systems, selection of the most cost effective fuels     /     Thiết kế các hệ thống và máy móc hiệu suất cao, chia zone hợp lý, hệ thống kiểm soát hiệu quả, lựa chọn các nhiên liệu hiệu suất tốt nhất trong tầm giá và thu hồi nhiệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7811,16 +7827,16 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>•To be minimised through passive building design such as orientation, prevailing winds, insulation levels etc.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T022411Z" creationid="LanHK" creationdate="20210715T022411Z">
-        <seg>•To be minimised through passive building design such as orientation, prevailing winds, insulation levels etc.     /     </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T023531Z" creationid="LanHK" creationdate="20210715T022411Z">
+        <seg>•To be minimised through passive building design such as orientation, prevailing winds, insulation levels etc.     /     Giảm thiểu thông qua thiết kế bị động của tòa nhà, vd như hướng, hướng gió, mức độ bảo ôn, v.v</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•To be minised for plant, equipment and distribution, by planning appropriate plant locations, coordination with the structure and providing efficient distribution systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T022820Z" creationid="LanHK" creationdate="20210715T022820Z">
-        <seg>•To be minised for plant, equipment and distribution, by planning appropriate plant locations, coordination with the structure and providing efficient distribution systems     /     </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T024101Z" creationid="LanHK" creationdate="20210715T022820Z">
+        <seg>•To be minimised for plant, equipment and distribution, by planning appropriate plant locations, coordination with the structure and providing efficient distribution systems     /     Giảm thiểu diện tích cho máy móc, thiết bị và phân phối bằng cách bố trí vị trí máy móc phù hợp, cân đối với kết cấu tòa nhà và cung cấp hệ thống phân phối hiệu suất cao</seg>
       </tuv>
     </tu>
     <tu>
