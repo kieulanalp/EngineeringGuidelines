@@ -2133,6 +2133,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Entrance Lobby - Seating Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063218Z" creationid="LanHK" creationdate="20210715T063218Z">
+        <seg>Entrance Lobby - Seating Areas***Sảnh đến - Khu vực ngồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Environmental</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091228Z">
@@ -4513,6 +4521,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Min RH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063103Z" creationid="LanHK" creationdate="20210715T063103Z">
+        <seg>Min RH***Độ ẩm tương đối tối thiểu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073510Z" creationid="LanHK" creationdate="20210609T073510Z">
@@ -5165,6 +5181,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071142Z">
         <seg>Re-issue as design guideline    /    Phát hành lại thành Hướng dẫn thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reception - General</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063317Z" creationid="LanHK" creationdate="20210715T063317Z">
+        <seg>Reception - General***Lễ tân</seg>
       </tuv>
     </tu>
     <tu>
