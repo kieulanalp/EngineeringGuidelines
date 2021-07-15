@@ -882,6 +882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appendix Recommended construction for different climatic regions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T033930Z" creationid="LanHK" creationdate="20210715T033930Z">
+        <seg>Appendix Recommended construction for different climatic regions        /         Phụ lục: Khuyến nghị về thi công công trình đối với các vùng khí hậu khác nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applications for Fire Suppression Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094027Z" creationid="LanHK" creationdate="20210713T094027Z">
@@ -3629,8 +3637,8 @@
       <tuv lang="EN-US">
         <seg>InterContinental Brand Standard Manual</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210525T083245Z" creationid="LanHK" creationdate="20210525T083245Z">
-        <seg>InterContinental Brand Standard Manual Hướng dẫn Tiêu chuẩn Thương hiệu InterContinental</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T033956Z" creationid="LanHK" creationdate="20210525T083245Z">
+        <seg>InterContinental Brand Standard Manual        /       Hướng dẫn Tiêu chuẩn Thương hiệu InterContinental</seg>
       </tuv>
     </tu>
     <tu>
@@ -5215,6 +5223,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T015301Z" creationid="LanHK" creationdate="20210603T015301Z">
         <seg>Secondary corridors 1.1m        /       hành lang phụ 1.1m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 2 Property Standards - then reference each individual area Appendix - T echnical Specifications - then reference each individual area.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T034057Z" creationid="LanHK" creationdate="20210715T034057Z">
+        <seg>Section 2 Property Standards - then reference each individual area Appendix - T echnical Specifications - then reference each individual area.     /     Mục 2: Tiêu chuẩn cơ sở vật chất - tham khảo từng khu vực cụ thể Phụ lục - Thông số Kỹ thuật - tham khảo từng khu vực cụ thể</seg>
       </tuv>
     </tu>
     <tu>
