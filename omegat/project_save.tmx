@@ -1152,8 +1152,8 @@
       <tuv lang="EN-US">
         <seg>Base external heat rejection equipment selections on external ambient design temperature for the location +5°C</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T045615Z" creationid="LanHK" creationdate="20210715T045612Z">
-        <seg>     /     Lựa chọn thiết bị thải nhiệt bên ngoài dựa trên nhiệt độ thiết kế bên ngoài của vị trí dự án +5°C</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062929Z" creationid="LanHK" creationdate="20210715T045612Z">
+        <seg>Base external heat rejection equipment selections on external ambient design temperature for the location +5°C     /     Lựa chọn thiết bị thải nhiệt bên ngoài dựa trên nhiệt độ thiết kế bên ngoài của vị trí dự án +5°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -4353,6 +4353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max RH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T063054Z" creationid="LanHK" creationdate="20210715T063054Z">
+        <seg>Max RH***Độ ẩm tương đối tối đa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073413Z" creationid="LanHK" creationdate="20210609T073413Z">
@@ -4509,6 +4517,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073510Z" creationid="LanHK" creationdate="20210609T073510Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum Filtration Standard to EN779:2012</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062947Z" creationid="LanHK" creationdate="20210715T062947Z">
+        <seg>Minimum Filtration Standard to EN779:2012***Tiêu chuẩn lọc tối thiểu EN7 79:2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -6115,6 +6131,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Summer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062953Z" creationid="LanHK" creationdate="20210715T062953Z">
+        <seg>Summer***Hè</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supply / return sir duct smoke detector operates</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081212Z" creationid="Kieu Lan" creationdate="20210713T081212Z">
@@ -7586,6 +7610,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T105524Z" creationid="PHUONG.DTM" creationdate="20210603T105524Z">
         <seg>Windows and window frames within this area must be fire resisting and must be sealed shut     /      Các cửa sổ và các khung cửa sổ trong khu vực này phải chống cháy và đóng kín </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Winter</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210715T062957Z" creationid="LanHK" creationdate="20210715T062957Z">
+        <seg>Winter***Đông</seg>
       </tuv>
     </tu>
     <tu>
