@@ -1658,16 +1658,16 @@
       <tuv lang="EN-US">
         <seg>Cooling Load Estimates</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T090907Z">
-        <seg>Cooling Load Estimates    /    Ước tính tải làm mát</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T101914Z" creationid="LanHK" creationdate="20210525T090907Z">
+        <seg>Cooling Load Estimates    /    Ước tính phụ tải làm mát</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cooling load calculations must be carried out on a proprietary software programme which can simulate based on:-</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T092315Z" creationid="LanHK" creationdate="20210716T092315Z">
-        <seg>Cooling load calculations must be carried out on a proprietary software programme which can simulate based on:-     /     Tính toán tải làm mát phải được thực hiện bằng chương trình chuyên dụng có thể đưa ra mô hình dựa trên:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T102017Z" creationid="LanHK" creationdate="20210716T092315Z">
+        <seg>Cooling load calculations must be carried out on a proprietary software programme which can simulate based on:-     /     Tính toán phụ tải làm mát phải được thực hiện bằng chương trình chuyên dụng có thể đưa ra mô hình dựa trên:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3235,8 +3235,8 @@
       <tuv lang="EN-US">
         <seg>Fresh Air Load Estimation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091131Z">
-        <seg>Fresh Air Load Estimation    /    Ước tính tải khi tươi</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T102109Z" creationid="LanHK" creationdate="20210525T091131Z">
+        <seg>Fresh Air Load Estimation    /    Ước tính phụ tải khi tươi</seg>
       </tuv>
     </tu>
     <tu>
@@ -4211,8 +4211,8 @@
       <tuv lang="EN-US">
         <seg>It is important to estimate the building cooling load accurately and not oversize (which will cause inefficiency and poor control) or undersize, (which will cause poor temperature controls).</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T092147Z" creationid="LanHK" creationdate="20210716T092147Z">
-        <seg>It is important to estimate the building cooling load accurately and not oversize (which will cause inefficiency and poor control) or undersize, (which will cause poor temperature controls).     /     Việc ước tính tải làm mát tòa nhà một cách chính xác và không vượt quá (sẽ gây giảm hiệu suất và kiểm soát kém) hoặc ít hơn (sẽ gây kiểm soát nhiệt độ kém)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T102009Z" creationid="LanHK" creationdate="20210716T092147Z">
+        <seg>It is important to estimate the building cooling load accurately and not oversize (which will cause inefficiency and poor control) or undersize, (which will cause poor temperature controls).     /     Việc ước tính phụ tải làm mát tòa nhà một cách chính xác và không vượt quá (sẽ gây giảm hiệu suất và kiểm soát kém) hoặc ít hơn (sẽ gây kiểm soát nhiệt độ kém)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5700,8 +5700,8 @@
       <tuv lang="EN-US">
         <seg>Refer to an illustration of the expected cooling loads for a hotel guest room - this also provides guidance on wall/window ratios and targets for wall/glass cooling loads</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T092752Z" creationid="LanHK" creationdate="20210716T092742Z">
-        <seg>Refer to an illustration of the expected cooling loads for a hotel guest room - this also provides guidance on wall/window ratios and targets for wall/glass cooling loads     /     Tham khảo hình minh họa các tải làm mát dự kiến cho một phòng khách sạn - ảnh cũng cung cấp hướng dẫn về tỉ lệ tường/cửa sổ và mục tiêu tải làm mát cho tường/vách kính</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T102026Z" creationid="LanHK" creationdate="20210716T092742Z">
+        <seg>Refer to an illustration of the expected cooling loads for a hotel guest room - this also provides guidance on wall/window ratios and targets for wall/glass cooling loads     /     Tham khảo hình minh họa các phụ tải làm mát dự kiến cho một phòng khách sạn - ảnh cũng cung cấp hướng dẫn về tỉ lệ tường/cửa sổ và mục tiêu tải làm mát cho tường/vách kính</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,8 +7024,8 @@
       <tuv lang="EN-US">
         <seg>The design of many modern buildings does not consider their form in relation to the sun’s path. This results in considerable additional cooling loads which have to be removed by means of mechanical cooling systems. Excessive energy usage not only increases the operating costs of the building but also increases the resulting pollution produced from generating the power in the first instance. It also requires larger plant, which requires more valuable space to be taken within the building.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T092741Z" creationid="LanHK" creationdate="20210715T092741Z">
-        <seg>The design of many modern buildings does not consider their form in relation to the sun’s path. This results in considerable additional cooling loads which have to be removed by means of mechanical cooling systems. Excessive energy usage not only increases the operating costs of the building but also increases the resulting pollution produced from generating the power in the first instance. It also requires larger plant, which requires more valuable space to be taken within the building.     /     Thiết kế của nhiều tòa nhà hiện đại không cân nhắc hình dạng tòa nhà trong mối tương quan với đường đi của mặt trời. Việc này tăng thêm đáng kể nhu cầu làm mát thông qua hệ thống làm mát cơ học. Việc sử dụng năng lượng quá nhiều không chỉ làm tăng chi phí vận hành mà cũng gây ô nhiễm từ việc tạo ra năng lượng ban đầu; ngoài ra cũng yêu cầu máy móc lớn hơn, chiếm nhiều diện tích hơn trong tòa nhà</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T101956Z" creationid="LanHK" creationdate="20210715T092741Z">
+        <seg>The design of many modern buildings does not consider their form in relation to the sun’s path. This results in considerable additional cooling loads which have to be removed by means of mechanical cooling systems. Excessive energy usage not only increases the operating costs of the building but also increases the resulting pollution produced from generating the power in the first instance. It also requires larger plant, which requires more valuable space to be taken within the building.     /     Thiết kế của nhiều tòa nhà hiện đại không cân nhắc hình dạng tòa nhà trong mối tương quan với đường đi của mặt trời. Việc này tăng thêm đáng kể phụ tải làm mát cho hệ thống làm mát cơ học. Việc sử dụng năng lượng quá nhiều không chỉ làm tăng chi phí vận hành mà cũng gây ô nhiễm từ việc tạo ra năng lượng ban đầu; ngoài ra cũng yêu cầu máy móc lớn hơn, chiếm nhiều diện tích hơn trong tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -7793,8 +7793,8 @@
       <tuv lang="EN-US">
         <seg>Two large contributors to the overall cooling load in a hotel are:-</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T092453Z" creationid="LanHK" creationdate="20210716T092352Z">
-        <seg>Two large contributors to the overall cooling load in a hotel are:     /     Hai yếu tố chính góp phần vào tải làm mát là:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T102021Z" creationid="LanHK" creationdate="20210716T092352Z">
+        <seg>Two large contributors to the overall cooling load in a hotel are:     /     Hai yếu tố chính góp phần vào phụ tải làm mát là:</seg>
       </tuv>
     </tu>
     <tu>
