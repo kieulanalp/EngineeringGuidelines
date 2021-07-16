@@ -6186,6 +6186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similarly, for air handling plant rooms, these should be located adjacent to the space they serve in order to minimize capital costs and ongoing fan power consumed and duct space for distribution.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103526Z" creationid="LanHK" creationdate="20210716T103526Z">
+        <seg>Similarly, for air handling plant rooms, these should be located adjacent to the space they serve in order to minimize capital costs and ongoing fan power consumed and duct space for distribution.     /     Tương tự, đối với các phòng máy xử lý không khí, chúng nên được bố trí gần các không gian chúng phục vụ để giảm thiểu chi phí đầu tư và năng lượng để duy trì quạt chạy và không gian cho đường ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Single- or multiple-station (interconnected) carbon monoxide detectors and alarms must be installed in each of the following locations</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T060747Z" creationid="Kieu Lan" creationdate="20210628T060747Z">
@@ -7326,6 +7334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The locations of the main plant rooms (being substation/switch room, chillers, boilers and hot water storage) can have a significant effect on the capital cost and running costs for the Hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103350Z" creationid="LanHK" creationdate="20210716T103350Z">
+        <seg>The locations of the main plant rooms (being substation/switch room, chillers, boilers and hot water storage) can have a significant effect on the capital cost and running costs for the Hotel.     /     Vị trí các phòng máy chính (trạm biến áp/phòng tủ điện, chiller, nồi hơi và dự trữ nước nóng) có thể có ảnh hưởng đáng kể đến chi phí đầu tư cũng như vận hành khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The main fire alarm panel (also known as fire indicator panel) must be located in a constantly staffed position such as the main reception, with both audible and visual alarm on the panel. Specific alarm zone and functioning status of fire detection system must be indicated. If the front desk is not manned at any time the alarm signal must be relayed to a constantly staffed point. A direct interface to the fire authority should only be provided where required by local regulations. This interface must be operated after a predetermined time delay.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T015346Z" creationid="Kieu Lan" creationdate="20210713T015346Z">
@@ -7362,6 +7378,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T022938Z" creationid="LanHK" creationdate="20210602T022938Z">
         <seg>The minimum fire resistance of the structure of a building depends upon its height and whether it is high, medium or low rise.        /       Mức chống cháy tối thiểu của kết cấu tòa nhà phụ thuộc vào chiều cao tòa nhà và liệu tòa nhà là thấp, trung hay cao tầng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The more central they are, and the closer the main load centers are located, the lower the capital cost and energy consumed will be.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103423Z" creationid="LanHK" creationdate="20210716T103423Z">
+        <seg>The more central they are, and the closer the main load centers are located, the lower the capital cost and energy consumed will be.     /     Phòng máy càng ở vị trí trung tâm, và các trung tâm phụ tải chính được bố trí càng gần, chi phí đầu tư và lượng năng lượng tiêu thụ sẽ càng thấp</seg>
       </tuv>
     </tu>
     <tu>
