@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Building construction type,</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T092331Z" creationid="LanHK" creationdate="20210716T092331Z">
+        <seg>Building construction type,     /     Loại hình thi công tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bulk storage of LPF, Butane or Propane may be used, based on 6 weeks supply at maximum use.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210714T024451Z" creationid="LanHK" creationdate="20210714T024451Z">
@@ -1644,6 +1652,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T090907Z">
         <seg>Cooling Load Estimates    /    Ước tính tải làm mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooling load calculations must be carried out on a proprietary software programme which can simulate based on:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T092315Z" creationid="LanHK" creationdate="20210716T092315Z">
+        <seg>Cooling load calculations must be carried out on a proprietary software programme which can simulate based on:-     /     Tính toán tải làm mát phải được thực hiện bằng chương trình chuyên dụng có thể đưa ra mô hình dựa trên:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3721,6 +3737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hotel guest rooms are conditioned 24 hours a day and the peak load only occurs for 1 hour a day so it is important not to overestimate the load.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T092244Z" creationid="LanHK" creationdate="20210716T092244Z">
+        <seg>Hotel guest rooms are conditioned 24 hours a day and the peak load only occurs for 1 hour a day so it is important not to overestimate the load.     /     Các phòng khcáh sạn được điều hòa không khí 24h một ngày và tải đỉnh chỉ kéo dài trong khoảng 1h mỗi ngày, vậy nên việc không tính quá mức là rất quan trọng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hotels are unique developments in that they are operational for 24 hours a day, with guests paying for comfort highest standards of life safety is an expectation.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T022745Z" creationid="Kieu Lan" creationdate="20210601T090556Z">
@@ -4542,6 +4566,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091734Z" creationid="LanHK" creationdate="20210702T091734Z">
         <seg>Local emergency distribution board     /     Tủ điện sự cố cục bộ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local weather conditions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T092324Z" creationid="LanHK" creationdate="20210716T092324Z">
+        <seg>Local weather conditions     /     Tình hình thời tiết địa phương</seg>
       </tuv>
     </tu>
     <tu>
@@ -6700,6 +6732,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System types to be provided.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T092346Z" creationid="LanHK" creationdate="20210716T092346Z">
+        <seg>System types to be provided.     /     Các loại hệ thống sẽ được cung cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System/wiring fault</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080319Z" creationid="Kieu Lan" creationdate="20210713T080319Z">
@@ -7707,6 +7747,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T112128Z" creationid="LanHK" creationdate="20210602T112128Z">
         <seg>Two 30 minute self-closing fire resisting floors        /       2 cửa chống cháy tự đóng </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two large contributors to the overall cooling load in a hotel are:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T092352Z" creationid="LanHK" creationdate="20210716T092352Z">
+        <seg>Two large contributors to the overall cooling load in a hotel are:-     /     </seg>
       </tuv>
     </tu>
     <tu>
