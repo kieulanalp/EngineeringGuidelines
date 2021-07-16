@@ -289,14 +289,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>4.5.2</seg>
-      </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T100450Z" creationid="LanHK" creationdate="20210716T100450Z">
-        <seg>4.5.2p</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>410 liters/guest / day w/o laundry</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -3235,8 +3227,8 @@
       <tuv lang="EN-US">
         <seg>Fresh Air Load Estimation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T102109Z" creationid="LanHK" creationdate="20210525T091131Z">
-        <seg>Fresh Air Load Estimation    /    Ước tính phụ tải khi tươi</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T102115Z" creationid="LanHK" creationdate="20210525T091131Z">
+        <seg>Fresh Air Load Estimation    /    Ước tính phụ tải khí tươi</seg>
       </tuv>
     </tu>
     <tu>
