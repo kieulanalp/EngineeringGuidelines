@@ -135,6 +135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>15%</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103044Z" creationid="LanHK" creationdate="20210716T103044Z">
+        <seg> 15%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.2.10 Car Parking Garages</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T104422Z" creationid="LanHK" creationdate="20210602T104422Z">
@@ -1072,8 +1080,8 @@
       <tuv lang="EN-US">
         <seg>Australia / Asia Pacific</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Australia    /    Asia Pacific</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103119Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Australia / Asia Pacific     /      Úc / Châu Á Thái Bình Dương</seg>
       </tuv>
     </tu>
     <tu>
@@ -3241,6 +3249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh Air Load as a % of Total (Approx.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103043Z" creationid="LanHK" creationdate="20210716T103017Z">
+        <seg>Fresh Air Load as a % of Total (Approx.)***% Phụ tải khí tươi trên tổng (ước tính)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh Air Quantity (notes 6 and 13)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T071507Z" creationid="LanHK" creationdate="20210715T062614Z">
@@ -4225,6 +4241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is therefore essential to incorporate heat recovery on fresh air systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103204Z" creationid="LanHK" creationdate="20210716T103204Z">
+        <seg>It is therefore essential to incorporate heat recovery on fresh air systems     /     Nhất thiết phải tích hợp thu hồi nhiệt vào các hệ thống khí tươi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is very important that the openings around pipes and ducts are sealed with solid fire resisting material to maintain the fire resistance of the wall or floor. Suitable materials include concrete, gypsum and expanding fire resistant foam.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T042931Z" creationid="LanHK" creationdate="20210602T042931Z">
@@ -4596,8 +4620,8 @@
       <tuv lang="EN-US">
         <seg>Location</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T102948Z" creationid="LanHK" creationdate="20210715T062502Z">
-        <seg>Location     /     Vị trí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103023Z" creationid="LanHK" creationdate="20210715T062502Z">
+        <seg>Location***Vị trí</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,6 +4910,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082933Z" creationid="Kieu Lan" creationdate="20210713T082933Z">
         <seg>Middle East     /     Trung Đông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Middle East/India</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103101Z" creationid="LanHK" creationdate="20210716T103101Z">
+        <seg>Middle East/India     /     Trung Đông/Ấn Độ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7771,6 +7803,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T080515Z" creationid="LanHK" creationdate="20210715T080122Z">
         <seg>Toilet extract to be sized on 10 AC/hr., with make-up via the toilet lobby, supplied from the nearest supply air system. Extract fans to be dual fans. In “Hot climates” make up air must be cooled and in ‘Cold Climates’ heated if the air is directly from outside e.g. pool toilets.     /     Hút khí toilet có kích cỡ dựa trên 10 AC/h, bù khí thông qua toilet lobby, cung cấp từ hệ thống cấp khí gần nhất. Quạt hút phải là quạt đôi. Tại các vùng khí hậu nóng khí bù phải được làm mát, tại các vùng khí hậu lạnh khí bù phải được sưởi ấm nếu khí lấy trực tiếp từ bên ngoài, vd. toilet bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tropical SE Asia</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T103136Z" creationid="LanHK" creationdate="20210716T103136Z">
+        <seg>Tropical SE Asia     /     Vùng Đông Nam Á nhiệt đới</seg>
       </tuv>
     </tu>
     <tu>
