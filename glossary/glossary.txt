@@ -8,3 +8,4 @@ escape stair	thang bộ thoát hiểm
 atrium	giếng trời
 guest room	phòng khách
 hotel	khách sạn
+cooling load	phụ tải làm mát
