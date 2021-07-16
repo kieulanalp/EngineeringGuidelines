@@ -6,3 +6,5 @@ sprinkler protected building	tòa nhà có sprinkler	Guestroom dead-end corridor
 sealed shut	đóng kín
 escape stair	thang bộ thoát hiểm
 atrium	giếng trời
+guest room	phòng khách
+hotel	khách sạn
