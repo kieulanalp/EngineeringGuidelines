@@ -289,6 +289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.5.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T100450Z" creationid="LanHK" creationdate="20210716T100450Z">
+        <seg>4.5.2p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>410 liters/guest / day w/o laundry</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -5692,8 +5700,8 @@
       <tuv lang="EN-US">
         <seg>Refer to an illustration of the expected cooling loads for a hotel guest room - this also provides guidance on wall/window ratios and targets for wall/glass cooling loads</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T092742Z" creationid="LanHK" creationdate="20210716T092742Z">
-        <seg>Refer to an illustration of the expected cooling loads for a hotel guest room - this also provides guidance on wall/window ratios and targets for wall/glass cooling loads     /     Tham khảo hình minh họa các tải làm mát dự kiến cho một phòng khách sạn - ảnh cũng cung cấp hướng dẫn về tỉ lệ tường/cửa sổ và mục tiêu tải làm mát cho tường/cửa kính</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T092752Z" creationid="LanHK" creationdate="20210716T092742Z">
+        <seg>Refer to an illustration of the expected cooling loads for a hotel guest room - this also provides guidance on wall/window ratios and targets for wall/glass cooling loads     /     Tham khảo hình minh họa các tải làm mát dự kiến cho một phòng khách sạn - ảnh cũng cung cấp hướng dẫn về tỉ lệ tường/cửa sổ và mục tiêu tải làm mát cho tường/vách kính</seg>
       </tuv>
     </tu>
     <tu>
@@ -7659,6 +7667,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210625T081324Z" creationid="LanHK" creationdate="20210625T081324Z">
         <seg>These are provided in Hotels to give a lively atmosphere to the Hotel, but the interconnection of floors must be addressed to allow for safe escape in the event of a fire.     /     Giếng trời được thiết kế trong khách sạn để tạo ra không gian sống động, nhưng việc kết nối thông tầng cần phải được cân nhắc để đảm bảo thoát hiểm an toàn trong trường hợp có cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These must be calculated specifically for each hotel project but any major variations from these must be examined and explained.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T092848Z" creationid="LanHK" creationdate="20210716T092748Z">
+        <seg>These must be calculated specifically for each hotel project but any major variations from these must be examined and explained.     /     Các con số này phải được tính toán cụ thể cho mỗi dự án khách sạn, tuy nhiên bất cứ thay đổi lớn nào so với nội dung dưới đây đều phải được xem xét và giải trình</seg>
       </tuv>
     </tu>
     <tu>
