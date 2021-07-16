@@ -9,3 +9,4 @@ atrium	giếng trời
 guest room	phòng khách
 hotel	khách sạn
 cooling load	phụ tải làm mát
+Fresh Air Load	phụ tải khí tươi
