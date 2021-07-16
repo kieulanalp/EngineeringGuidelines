@@ -7774,6 +7774,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>chỗ intakes &amp; discharges này e không chắc lắm, tra thì nó refer đến air-cooled chiller nhiều hơn</note>
+      <tuv lang="EN-US">
+        <seg>Understanding the wind strengths and patterns for the site can help in locating intakes &amp; discharges and benefiting from natural ventilation. The following is an illustration of a typical wind path diagram:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T092019Z" creationid="LanHK" creationdate="20210716T092019Z">
+        <seg>Understanding the wind strengths and patterns for the site can help in locating intakes &amp; discharges and benefiting from natural ventilation. The following is an illustration of a typical wind path diagram:     /     Hiểu sức gió và các luồng gió tại vị trí dự án có thể giúp xác định hướng thu và thải khí (intakes &amp; discharges) và thu được lợi ích từ thông gió tự nhiên. Hình dưới minh họa một biểu đồ hướng gió điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Unoccupied attics or roof spaces must be subdivided into areas no greater than 330m2 by fire and smoke resisting separation. Each area must be provided with smoke detection and in sprinkler protected buildings over four floors in height each area must have sprinklers.</seg>
       </tuv>
@@ -8131,6 +8140,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094603Z">
         <seg>Who agreed the variation    /    Người chấp thuận thay đổi này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind Path Diagram</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210716T082315Z" creationid="LanHK" creationdate="20210716T082315Z">
+        <seg>Wind Path Diagram     /     Biểu đồ hướng gió</seg>
       </tuv>
     </tu>
     <tu>
