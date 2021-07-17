@@ -695,6 +695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air handling Plant (m2)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T023243Z" creationid="LanHK" creationdate="20210717T023243Z">
+        <seg>Air handling Plant (m2)     /     AHU (m2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air release to allow smoke to be relieved from the adjoining fire area</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T020910Z" creationid="LanHK" creationdate="20210611T020910Z">
@@ -2186,6 +2194,15 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093726Z" creationid="LanHK" creationdate="20210713T093726Z">
         <seg>Electrical equipment rooms     /     Phòng thiết bị điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>switchgear  Thiết bị chuyển mạch??</note>
+      <tuv lang="EN-US">
+        <seg>Electrical transformer and switchgear (m2)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T023607Z" creationid="LanHK" creationdate="20210717T023607Z">
+        <seg>Electrical transformer and switchgear (m2)     /     Máy biến áp và Switchgear</seg>
       </tuv>
     </tu>
     <tu>
