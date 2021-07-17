@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Climate</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031549Z" creationid="LanHK" creationdate="20210717T031549Z">
+        <seg>Climate     /     Khí hậu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cloakroom</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063329Z" creationid="LanHK" creationdate="20210715T063329Z">
@@ -3370,6 +3378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031545Z" creationid="LanHK" creationdate="20210717T031545Z">
+        <seg>Fuel     /     Nhiên liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuel oil storage rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095957Z" creationid="LanHK" creationdate="20210713T095957Z">
@@ -5099,6 +5115,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mediterranean</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031612Z" creationid="LanHK" creationdate="20210717T031612Z">
+        <seg>Mediterranean***Địa Trung Hải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medium Rise</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023834Z" creationid="LanHK" creationdate="20210602T023824Z">
@@ -5167,6 +5191,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041224Z">
         <seg>Minimum width 1120mm     /     Tối thiểu chiều rộng 1120mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moderate</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031602Z" creationid="LanHK" creationdate="20210717T031602Z">
+        <seg>Moderate***Ôn đới</seg>
       </tuv>
     </tu>
     <tu>
@@ -7141,6 +7173,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 3.1 - Energy/Water Consumption Targets</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031538Z" creationid="LanHK" creationdate="20210717T031538Z">
+        <seg>Table 3.1 - Energy/Water Consumption Targets     /     Bảng 3.1 - Mục tiêu tiêu thụ Năng lượng/Nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 4.3.2- Mechanical Services Internal Design Criteria</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T062446Z" creationid="LanHK" creationdate="20210715T045944Z">
@@ -7331,6 +7371,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T101956Z" creationid="LanHK" creationdate="20210715T092741Z">
         <seg>The design of many modern buildings does not consider their form in relation to the sun’s path. This results in considerable additional cooling loads which have to be removed by means of mechanical cooling systems. Excessive energy usage not only increases the operating costs of the building but also increases the resulting pollution produced from generating the power in the first instance. It also requires larger plant, which requires more valuable space to be taken within the building.     /     Thiết kế của nhiều tòa nhà hiện đại không cân nhắc hình dạng tòa nhà trong mối tương quan với đường đi của mặt trời. Việc này tăng thêm đáng kể phụ tải làm mát cho hệ thống làm mát cơ học. Việc sử dụng năng lượng quá nhiều không chỉ làm tăng chi phí vận hành mà cũng gây ô nhiễm từ việc tạo ra năng lượng ban đầu; ngoài ra cũng yêu cầu máy móc lớn hơn, chiếm nhiều diện tích hơn trong tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The design of the building and associated systems should be such that the energy consumption does not exceed the following targets:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031520Z" creationid="LanHK" creationdate="20210717T031520Z">
+        <seg>The design of the building and associated systems should be such that the energy consumption does not exceed the following targets:     /     thiết kế tòa nhà và các hệ thống liên quan cần phải đảm bảo lượng năng lượng tiêu thụ không vượt quá các mcụ tiêu sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -8132,6 +8180,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T023725Z" creationid="LanHK" creationdate="20210717T023725Z">
         <seg>Total plant space (m2)     /     Tổng diện tích cho máy  móc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tropical</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031645Z" creationid="LanHK" creationdate="20210717T031645Z">
+        <seg>Tropical***</seg>
       </tuv>
     </tu>
     <tu>
