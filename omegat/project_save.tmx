@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical Plant Remote (Poor Design)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022554Z" creationid="LanHK" creationdate="20210717T022554Z">
+        <seg>Electrical Plant Remote (Poor Design)     /     Vị trí máy điện ở xa (thiết kế không tốt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical equipment rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093726Z" creationid="LanHK" creationdate="20210713T093726Z">
@@ -4730,10 +4738,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Main electrical load locations - remote- not recommended (poor practice)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022529Z" creationid="LanHK" creationdate="20210717T022529Z">
+        <seg>Main electrical load locations - remote- not recommended (poor practice)     /     Bố trí phụ tải điện chính - ở xa (thiết kế không tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main electrical loads separated</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022602Z" creationid="LanHK" creationdate="20210717T022602Z">
+        <seg>Main electrical loads separated     /     Phụ tải điện chính bị tách nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main mechanical plant locations- remote- not recommended (poor practice)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022234Z" creationid="LanHK" creationdate="20210717T022234Z">
         <seg>Main mechanical plant locations- remote- not recommended (poor practice)     /     Vị trí máy chính ở xa - không khuyến nghị (thiết kế không tốt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main mechanical plant locationscentral - recommended (good practice)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022501Z" creationid="LanHK" creationdate="20210717T022501Z">
+        <seg>Main mechanical plant locations central - recommended (good practice)     /     Các máy cơ chính bố trí ở vị trí trung tâm - khuyến nghị (thiết kế tốt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5398,6 +5430,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T064502Z" creationid="LanHK" creationdate="20210715T064502Z">
         <seg>Plant Rooms***Phòng máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant areas minimised</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022331Z" creationid="LanHK" creationdate="20210717T022331Z">
+        <seg>Plant areas minimised     /     Giảm thiểu diện tích cho máy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6246,6 +6286,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T103526Z" creationid="LanHK" creationdate="20210716T103526Z">
         <seg>Similarly, for air handling plant rooms, these should be located adjacent to the space they serve in order to minimize capital costs and ongoing fan power consumed and duct space for distribution.     /     Tương tự, đối với các phòng máy xử lý không khí, chúng nên được bố trí gần các không gian chúng phục vụ để giảm thiểu chi phí đầu tư và năng lượng để duy trì quạt chạy và không gian cho đường ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simplified maintenance with plant located close together</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022435Z" creationid="LanHK" creationdate="20210717T022435Z">
+        <seg>Simplified maintenance with plant located close together     /     Bảo trì dễ dàng vì máy bố trí gần nhau</seg>
       </tuv>
     </tu>
     <tu>
@@ -9046,6 +9094,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100534Z" creationid="LanHK" creationdate="20210713T100534Z">
         <seg>rooms     /     Phòng thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>running cost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022422Z" creationid="LanHK" creationdate="20210717T022422Z">
+        <seg>running cost     /     AHU bố trí ở vị trí trung tâm khu vực nó phục vụ - đường ống thông được chia để giảm thiểu không gian trần, chi phí đầu tư lắp đặt và vận hành</seg>
       </tuv>
     </tu>
     <tu>
