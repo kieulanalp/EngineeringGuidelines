@@ -103,6 +103,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0.35m3/guest night maximum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032218Z" creationid="LanHK" creationdate="20210717T032205Z">
+        <seg>0.35m3/guest night maximum;;;tối đa 0.35m3/khách/đêm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.45m3/guest night maximum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032228Z" creationid="LanHK" creationdate="20210717T032220Z">
+        <seg>0.45m3/guest night maximum;;;tối đa 0.45m3/khách/đêm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.70m3/guest night maximum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032424Z" creationid="LanHK" creationdate="20210717T032223Z">
+        <seg>0.70m3/guest night maximum;;;tối đa 0.70m3/khách/đêm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1. ALL DEVICES (DETECTORS. SPRINKLER FLOW SWITCHES. MANUAL CALL POINTS ETC.) SHALL HAVE INDIVIDUAL DEVICE ADDRESSES.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045450Z" creationid="Kieu Lan" creationdate="20210705T045402Z">
@@ -292,6 +316,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>25 year plant    /    system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>250kWh/m|2/annum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032117Z" creationid="LanHK" creationdate="20210717T032117Z">
+        <seg>250kWh/m^2/annum;;;250kWh/m^2/năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>260kWh/m|2/annum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032126Z" creationid="LanHK" creationdate="20210717T032126Z">
+        <seg>260kWh/m^2/annum;;;260kWh/m^2/năm</seg>
       </tuv>
     </tu>
     <tu>
