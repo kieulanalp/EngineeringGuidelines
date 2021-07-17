@@ -105,24 +105,24 @@
       <tuv lang="EN-US">
         <seg>0.35m3/guest night maximum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T032218Z" creationid="LanHK" creationdate="20210717T032205Z">
-        <seg>0.35m3/guest night maximum;;;tối đa 0.35m3/khách/đêm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032544Z" creationid="LanHK" creationdate="20210717T032205Z">
+        <seg>0.35 m^3/guest night maximum;;;tối đa 0.35m3/khách/đêm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>0.45m3/guest night maximum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T032228Z" creationid="LanHK" creationdate="20210717T032220Z">
-        <seg>0.45m3/guest night maximum;;;tối đa 0.45m3/khách/đêm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032546Z" creationid="LanHK" creationdate="20210717T032220Z">
+        <seg>0.45 m^3/guest night maximum;;;tối đa 0.45m3/khách/đêm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>0.70m3/guest night maximum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T032424Z" creationid="LanHK" creationdate="20210717T032223Z">
-        <seg>0.70m3/guest night maximum;;;tối đa 0.70m3/khách/đêm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032548Z" creationid="LanHK" creationdate="20210717T032223Z">
+        <seg>0.70 m^3/guest night maximum;;;tối đa 0.70m3/khách/đêm</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,6 +1546,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T075348Z" creationid="LanHK" creationdate="20210702T075348Z">
         <seg>Carbon Monoxide detection.     /     Đầu báo khí CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carbon emissions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032555Z" creationid="LanHK" creationdate="20210717T032555Z">
+        <seg>Carbon emissions;;;Phát thải carbon</seg>
       </tuv>
     </tu>
     <tu>
@@ -7963,6 +7971,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022927Z" creationid="LanHK" creationdate="20210717T022927Z">
         <seg>The tables below provide some guidelines of the extent of plant space required for different hotels types and sizes:     /     Bảng dưới cung cấp một số hướng dẫn về diện tích cần thiết cho các loại khách sạn khác nhau với kích cỡ khác nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target for carbon dioxide emissions should be as required by National Standards, or if they do not exist, then should not exceed 160kg/m2 floor area per annum. In the UK, the energy targets will be set by Building Regulations Part L compliance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T033319Z" creationid="LanHK" creationdate="20210717T033319Z">
+        <seg>The target for carbon dioxide emissions should be as required by National Standards, or if they do not exist, then should not exceed 160kg/m2 floor area per annum. In the UK, the energy targets will be set by Building Regulations Part L compliance.     /     Mục tiêu phát thải CO2 nên tuân theo Tiêu chuẩn Quốc gia, hoặc nếu không có tiêu chuẩn quốc gia, mục tiêu không được vượt quá 160kg/m2 mặt sàn một năm. Tại UK, mục tiêu năng lượng được đặt ra trong tài liệu Building Regulations, mục L</seg>
       </tuv>
     </tu>
     <tu>
