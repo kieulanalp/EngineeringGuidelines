@@ -295,6 +295,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>270kWh/m|2/annum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T032107Z" creationid="LanHK" creationdate="20210717T032107Z">
+        <seg>270kWh/m^2/annum;;;270kWh/m^2/năm</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://support.idevicesinc.com/hc/en-us/articles/360000248727-Advanced-Thermostat-Controls</note>
       <tuv lang="EN-US">
         <seg>4 Degree Dead band</seg>
@@ -8168,6 +8176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total Energy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031932Z" creationid="LanHK" creationdate="20210717T031932Z">
+        <seg>Total Energy;;;Tổng năng lượng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total Gross area public space BOH (m2)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T023115Z" creationid="LanHK" creationdate="20210717T023108Z">
@@ -8186,8 +8202,8 @@
       <tuv lang="EN-US">
         <seg>Tropical</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T031645Z" creationid="LanHK" creationdate="20210717T031645Z">
-        <seg>Tropical***</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031848Z" creationid="LanHK" creationdate="20210717T031645Z">
+        <seg>Tropical***Nhiệt đới</seg>
       </tuv>
     </tu>
     <tu>
