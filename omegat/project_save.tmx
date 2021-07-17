@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chiller located central - distribution splits for guest rooms and other areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022325Z" creationid="LanHK" creationdate="20210717T022325Z">
+        <seg>Chiller located central - distribution splits for guest rooms and other areas     /     Chiller nằm ở vị trí trung tâm - đường phân phối chia đều cho phòng khách và khu công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070113Z">
@@ -4870,6 +4878,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030402Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)        /       Phòng máy và các phòng hoặc khu vực liền kề (120p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical Plant Located Correctly (Good Design)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022247Z" creationid="LanHK" creationdate="20210717T022247Z">
+        <seg>Mechanical Plant Located Correctly (Good Design)     /     Bố trí máy đúng (thiết kế tốt)</seg>
       </tuv>
     </tu>
     <tu>
