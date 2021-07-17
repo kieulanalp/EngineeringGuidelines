@@ -1414,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capital and running costs reduced</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022750Z" creationid="LanHK" creationdate="20210717T022750Z">
+        <seg>Capital and running costs reduced     /     Giảm chi phí đầu tư và vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Car Parking Garage</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T012731Z" creationid="LanHK" creationdate="20210603T012731Z">
@@ -1977,6 +1985,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distribution cable increased in length and size</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022616Z" creationid="LanHK" creationdate="20210717T022616Z">
+        <seg>Distribution cable increased in length and size     /     Cáp phân phối phải dài và lớn hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribution/cable size minimised</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022733Z" creationid="LanHK" creationdate="20210717T022733Z">
+        <seg>Distribution/cable size minimised     /     Giảm thiểu kích cỡ cáp phân phối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Document Title:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070122Z">
@@ -2138,6 +2162,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022554Z" creationid="LanHK" creationdate="20210717T022554Z">
         <seg>Electrical Plant Remote (Poor Design)     /     Vị trí máy điện ở xa (thiết kế không tốt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical Plant located correctly (Good Design)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022657Z" creationid="LanHK" creationdate="20210717T022657Z">
+        <seg>Electrical Plant located correctly (Good Design)     /     Các máy điện bố tri đúng (thiết kế tốt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3625,6 +3657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guidelines for Plant space Required</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022859Z" creationid="LanHK" creationdate="20210717T022859Z">
+        <seg>Guidelines for Plant space Required     /     Hướng dẫn về diện tích bố trí máy móc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOSEREEL / HOSE RACK (MAY BE OMITTED IN SOME</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T070825Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -3733,6 +3773,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023941Z" creationid="LanHK" creationdate="20210602T023941Z">
         <seg>High Rise        /       Tòa nhà cao tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highest electrical demands located close together</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022715Z" creationid="LanHK" creationdate="20210717T022715Z">
+        <seg>Highest electrical demands located close together     /     Các cụm có nhu cầu sử dụng điện cao bố trí gần nhau</seg>
       </tuv>
     </tu>
     <tu>
@@ -4090,6 +4138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increased capital and running costs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022640Z" creationid="LanHK" creationdate="20210717T022640Z">
+        <seg>Increased capital and running costs     /     tăng chi phí đầu tư và vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increased capital and running costs and more space required</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T021819Z" creationid="LanHK" creationdate="20210717T021819Z">
@@ -4134,6 +4190,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T085135Z" creationid="Kieu Lan" creationdate="20210713T085135Z">
         <seg>Inside saunas, steam rooms, walk-in cold rooms and rooms containing flammable materials.     /     trong sauna, phòng xông hơi, phòng lạnh và phòng chứa vật liệu dễ cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation time reduced</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022738Z" creationid="LanHK" creationdate="20210717T022738Z">
+        <seg>Installation time reduced     /     Giảm thời gian lắp đặt</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4722,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Longer installation/commissioning time</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022627Z" creationid="LanHK" creationdate="20210717T022627Z">
+        <seg>Longer installation/commissioning time     /     Thời gian lắp đặt / vận hành thử dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low Cooling Demand</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T092111Z" creationid="LanHK" creationdate="20210715T092111Z">
@@ -4742,6 +4814,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022529Z" creationid="LanHK" creationdate="20210717T022529Z">
         <seg>Main electrical load locations - remote- not recommended (poor practice)     /     Bố trí phụ tải điện chính - ở xa (thiết kế không tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main electrical load locationscentral - recommended (good practice)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022830Z" creationid="LanHK" creationdate="20210717T022830Z">
+        <seg>Main electrical load locations central - recommended (good practice)     /     Bố trí phụ tải điện chính ở trung tâm - khuyến nghị (thiết kế tốt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7690,6 +7770,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T045840Z" creationid="LanHK" creationdate="20210715T045840Z">
         <seg>The systems proposed should comply with the following recognised International Industry Standards:     /     Các hệ thống được đề xuất nên tuân thủ các Tiêu chuẩn Ngành Quốc tế sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tables below provide some guidelines of the extent of plant space required for different hotels types and sizes:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T022927Z" creationid="LanHK" creationdate="20210717T022927Z">
+        <seg>The tables below provide some guidelines of the extent of plant space required for different hotels types and sizes:     /     Bảng dưới cung cấp một số hướng dẫn về diện tích cần thiết cho các loại khách sạn khác nhau với kích cỡ khác nhau</seg>
       </tuv>
     </tu>
     <tu>
