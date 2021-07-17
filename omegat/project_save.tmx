@@ -7301,6 +7301,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The MEP designer shall provide calculations to illustrate that these targets are being achieved.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T033601Z" creationid="LanHK" creationdate="20210717T033601Z">
+        <seg>The MEP designer shall provide calculations to illustrate that these targets are being achieved.     /     Thiết kế MEP sẽ cung cấp tính toán để chứng minh các mục tiêu này sẽ đạt được</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The above requirements apply to exit doors that are also staff entrances and which are secured by fastenings operated by key-cards, key pads and by similar devices.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T113001Z" creationid="PHUONG.DTM" creationdate="20210603T113001Z">
