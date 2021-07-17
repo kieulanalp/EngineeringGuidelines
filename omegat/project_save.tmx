@@ -5571,6 +5571,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plant Locations- should be central to the location being served</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031434Z" creationid="LanHK" creationdate="20210717T031434Z">
+        <seg>Plant Locations- should be central to the location being served     /     Vị trí máy - nên ở vị trí trung tâm của các khu vực mà nó phục vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plant Rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T064502Z" creationid="LanHK" creationdate="20210715T064502Z">
@@ -7691,6 +7699,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095443Z">
         <seg>The objectives of these systems are for the protection of life and property in the event of a fire or incident. This section of the manual must also be read in conjunction with the IHG ‘Brand Safety Standards’.    /    Mục tiêu của các hệ thống này là để bảo vệ sinh mạng cũng như tài sản khi xảy ra hỏa hoạn hoặc sự cố. Mục này của tài liệu hướng dẫn cần phải được đọc cùng với "Tiêu chuẩn An toàn Thương hiệu" IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The plant should be located centrally to the areas being served as shown in the following illustration (and not for example all on the roof)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T031309Z" creationid="LanHK" creationdate="20210717T031309Z">
+        <seg>The plant should be located centrally to the areas being served as shown in the following illustration (and not for example all on the roof)     /     Phòng máy nên được bố trí ở vị trí trung tâm của các khu vực mà nó phục vụ như hình minh họa (và không phải tất cả đều bố trí trên mái chẳng hạn)</seg>
       </tuv>
     </tu>
     <tu>
