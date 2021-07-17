@@ -4339,6 +4339,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insulate all heating and cooling vessels, equipment and piping to minimise unwanted heat loss or gain.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T033706Z" creationid="LanHK" creationdate="20210717T033706Z">
+        <seg>Insulate all heating and cooling vessels, equipment and piping to minimise unwanted heat loss or gain.     /     Bảo ôn đối với tất cả bể chứa, thiết bị và đường ống sưởi và làm mát để tránh gia tăng hoặc thất thoát nhiệt không mong muốn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>InterContinental Brand Standard Manual</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T033956Z" creationid="LanHK" creationdate="20210525T083245Z">
@@ -8405,6 +8413,15 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063531Z" creationid="Kieu Lan" creationdate="20210705T063531Z">
         <seg>Upon operation of a guestroom smoke detector:     /     Khi kích hoạt đầu báo khói trong phòng khách:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>https://www.veolia.co.uk/combined-heat-power/learn-about-chp/how-does-cogeneration-work</note>
+      <tuv lang="EN-US">
+        <seg>Utilise cogeneration plant wherever possible, subject to full feasibility study</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210717T034101Z" creationid="LanHK" creationdate="20210717T034101Z">
+        <seg>Utilise cogeneration plant wherever possible, subject to full feasibility study     /     Cung cấp cogeneration plant (Combined Heat and Power - CHP, thiết bị đồng thời phát điện và dùng nhiệt dư để làm nóng/sưởi) mỗi khi có thể. Tuy nhiên cần thực hiện nghiên cứu khả thi đầy đủ</seg>
       </tuv>
     </tu>
     <tu>
