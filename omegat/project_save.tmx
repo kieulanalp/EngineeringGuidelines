@@ -8360,6 +8360,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two speed ventilation systems (or inverter driven fans) serving the kitchens for economy in “low” periods.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T015855Z" creationid="LanHK" creationdate="20210719T015855Z">
+        <seg>Two speed ventilation systems (or inverter driven fans) serving the kitchens for economy in “low” periods.     /     Các hệ thống thông gió hai tốc độ (hoặc sử dụng quạt inverter) phục vụ cho các bếp để tiết kiệm trong các giai đoạn ít khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type of system</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045737Z" creationid="Kieu Lan" creationdate="20210705T045737Z">
@@ -9560,6 +9568,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095423Z" creationid="LanHK" creationdate="20210713T095423Z">
         <seg>spaces and advice from the fire consultant shall be obtained.     /     Các khu giếng trời cao hơn 10m phải được đặc biệt cân nhắc và cần tham khảo lời khuyên từ đơn vị tư vấn PCCC </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>spaces.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T015715Z" creationid="LanHK" creationdate="20210719T015715Z">
+        <seg>spaces.     /     Có kiểm soát khí CO2 trong nguồn cấp khí tươi tới hệ thống cấp và hút khí đối với tất cả không gian công cộng</seg>
       </tuv>
     </tu>
     <tu>
