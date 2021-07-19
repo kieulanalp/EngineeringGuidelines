@@ -1592,16 +1592,16 @@
       <tuv lang="EN-US">
         <seg>Central Heating Production/ Distribution</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091637Z">
-        <seg>Central Heating Production/ Distribution    /     Hệ thống phân phối nhiệt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T071629Z" creationid="LanHK" creationdate="20210525T091637Z">
+        <seg>Central Heating Production/ Distribution    /     Hệ thống sản xuất/phân phối nhiệt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Central Heating and Chilling Plant</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091247Z">
-        <seg>Central Heating and Chilling Plant    /    Cụm máy sưởi và làm lạnh trung tâm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T071610Z" creationid="LanHK" creationdate="20210525T091247Z">
+        <seg>Central Heating and Chilling Plant    /    Cụm máy gia nhiệt và làm mát trung tâm</seg>
       </tuv>
     </tu>
     <tu>
