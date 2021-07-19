@@ -4556,8 +4556,8 @@
       <tuv lang="EN-US">
         <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T033751Z" creationid="Kieu Lan" creationdate="20210719T023613Z">
-        <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and switch selected circuits (or similar control via guest booking system). Also for use to control fresh air and extract system in conjunction with radiant ceiling option     /      Nếu cung cấp kiểm soát truy cập phòng khách bằng thẻ khóa chỉ reset nhiệt độ phòng khi phòng không có người và ngắt các mạch đã chọn (hoặc có điều khiển tương tự thông qua hệ thống book phòng khách). Cũng dùng để kiểm soát hệ thống cấp và hút khí tươi cùng hệ thống trần sưởi bức xạ</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T033807Z" creationid="Kieu Lan" creationdate="20210719T023613Z">
+        <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and switch selected circuits (or similar control via guest booking system). Also for use to control fresh air and extract system in conjunction with radiant ceiling option     /      Nếu cung cấp kiểm soát truy cập phòng khách bằng thẻ khóa chỉ reset nhiệt độ phòng khi phòng không có người và ngắt các mạch đã chọn (hoặc có điều khiển tương tự thông qua hệ thống book phòng khách). Cũng dùng để kiểm soát hệ thống cấp và hút khí tươi cùng tính trần năng sưởi bức xạ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9192,6 +9192,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T035222Z">
         <seg>The use of combustible furnishings and decorations on the floor of the atrium must be limited and sparsely distributed.     /    Việc sử dụng nội thất và trang trí dễ cháy trên mặt sàn giếng trời phải được giới hạn và bố trí cách xa nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>efficiency and minimize latent cooling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T040307Z" creationid="Kieu Lan" creationdate="20210719T040307Z">
+        <seg>efficiency and minimize latent cooling     /     Tính năng reset nhiệt độ cấp nước mát từ chiller khi điều kiện bên ngoài cho phép nhằm tối đa hóa hiệu suất chiller và tối thiểu hóa </seg>
       </tuv>
     </tu>
     <tu>
