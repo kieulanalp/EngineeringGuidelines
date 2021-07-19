@@ -3882,6 +3882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heat reclaim from chiller condenser for pre-heating or heating of DHWS (See illustration)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T022407Z" creationid="LanHK" creationdate="20210719T022407Z">
+        <seg>Heat reclaim from chiller condenser for pre-heating or heating of DHWS (See illustration)     /     Thu hồi nhiệt từ các</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heating / Cooling Control Option</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -8475,8 +8483,8 @@
       <tuv lang="EN-US">
         <seg>Use a kitchen exhaust/ Supply air demand control ventilation system such as Intelli-Hood.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T022016Z" creationid="LanHK" creationdate="20210719T022016Z">
-        <seg>Use a kitchen exhaust/ Supply air demand control ventilation system such as Intelli-Hood.     /     Sử dụng hệ thống thông khí hút mùi/kiểm soát nhu cầu cấp khí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T022035Z" creationid="LanHK" creationdate="20210719T022016Z">
+        <seg>Use a kitchen exhaust/ Supply air demand control ventilation system such as Intelli-Hood.     /     Sử dụng hệ thống thông khí hút mùi/kiểm soát nhu cầu cấp khí như Intelli-Hood</seg>
       </tuv>
     </tu>
     <tu>
