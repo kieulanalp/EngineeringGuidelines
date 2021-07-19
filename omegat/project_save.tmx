@@ -7631,6 +7631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The final system selection shall be subject to verification from a technical submission, including a full life cycle cost/benefit analysis, by the designer, and approval by InterContinental Hotels Group.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T070702Z" creationid="Kieu Lan" creationdate="20210719T070702Z">
+        <seg>The final system selection shall be subject to verification from a technical submission, including a full life cycle cost/benefit analysis, by the designer, and approval by InterContinental Hotels Group.     /     Thiết kế phải trình duyệt phương án chọn hệ thống cuối cùng để kiểm tra xác nhận, bao gồm một phân tích giá/lợi ích toàn bộ vòng đời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fire alarm and detection system must be installed to cover the whole hotel. The system must comprise the following equipment, to provide life and property protection to all areas:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T025245Z" creationid="LanHK" creationdate="20210610T025245Z">
@@ -7723,6 +7731,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T085418Z" creationid="LanHK" creationdate="20210715T085308Z">
         <seg>The fresh air quantities indicated for public spaces are the maximum to be allowed for calculations and equipment selection. The actual fresh air quantity is to be controlled via air quality sensors, to maintain a maximum CO2 level in the occupied space of 600ppm.     /     Lượng khí tươi cho khu vực công cộng là lượng tối đa cho phép để tính toán và lựa chọn thiết bị. Lượng khí tươi thực tế được kiểm soát thông qua cảm biến chất lượng không khí để duy trì mức CO2 tối đa 600ppm trong không gian có người</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The full cooling loads shall be included for individual spaces.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T065448Z" creationid="Kieu Lan" creationdate="20210719T065448Z">
+        <seg>The full cooling loads shall be included for individual spaces.     /     </seg>
       </tuv>
     </tu>
     <tu>
@@ -8319,6 +8335,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>hông hỉu</note>
       <tuv lang="EN-US">
         <seg>To provide a central source of generation, with a degree of redundancy, for the building’s heating and chilled water systems, to offset the building’s fabric, casual, operational and machine loads to the thermal criteria as defined elsewhere.</seg>
       </tuv>
