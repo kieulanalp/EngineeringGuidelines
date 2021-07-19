@@ -8472,6 +8472,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Use a kitchen exhaust/ Supply air demand control ventilation system such as Intelli-Hood.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T022016Z" creationid="LanHK" creationdate="20210719T022016Z">
+        <seg>Use a kitchen exhaust/ Supply air demand control ventilation system such as Intelli-Hood.     /     Sử dụng hệ thống thông khí hút mùi/kiểm soát nhu cầu cấp khí</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://www.veolia.co.uk/combined-heat-power/learn-about-chp/how-does-cogeneration-work</note>
       <tuv lang="EN-US">
         <seg>Utilise cogeneration plant wherever possible, subject to full feasibility study</seg>
