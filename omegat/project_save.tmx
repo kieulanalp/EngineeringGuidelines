@@ -3994,6 +3994,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HÖT TO SCALE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T014853Z" creationid="LanHK" creationdate="20210719T014847Z">
+        <seg>NOT TO SCALE     /     Không đúng tỉ lệ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I esisting tlooi s</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T100753Z" creationid="LanHK" creationdate="20210602T100753Z">
@@ -5315,6 +5323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOT ro SCALE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T014806Z" creationid="LanHK" creationdate="20210719T014806Z">
+        <seg>NOT TO SCALE     /     Không đúng tỉ lệ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T044412Z" creationid="Kieu Lan" creationdate="20210705T044412Z">
@@ -5479,6 +5495,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022941Z" creationid="LanHK" creationdate="20210717T022941Z">
         <seg>Number of Guest Bedrooms     /     Số phòng ngủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OVERALL BUILDING AIR BALANCE TO PREVENT INFILTRATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T014842Z" creationid="LanHK" creationdate="20210719T014817Z">
+        <seg>OVERALL BUILDING AIR BALANCE TO PREVENT INFILTRATION     /     Cân bằng không khí trong tòa nhà để tránh khí ngoài thâm nhập</seg>
       </tuv>
     </tu>
     <tu>
@@ -5823,6 +5847,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T033057Z" creationid="LanHK" creationdate="20210602T033018Z">
         <seg>Protection of ventilation ducts and pipe openings.        /       Bảo vệ các khoảng hở cho ống thông khí và ống dẫn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide VFD’s (speed control) on all central plant air handling systems and pumps delivering variable air volumes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T015249Z" creationid="LanHK" creationdate="20210719T015249Z">
+        <seg>Provide VFD’s (speed control) on all central plant air handling systems and pumps delivering variable air volumes     /     Cung cấp bộ biến tần (kiểm soát tốc độ) trên tất cả các máy trung tâm của hệ thống AHU và bơm, tạo ra thể tích không khí khác nhau</seg>
       </tuv>
     </tu>
     <tu>
