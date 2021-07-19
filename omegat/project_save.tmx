@@ -9172,6 +9172,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>correct the power factor to unity such that no tariff penalty is incurred under any load conditions. The equipment will be automatically staged in 50kVAr units.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T041915Z" creationid="Kieu Lan" creationdate="20210719T041735Z">
+        <seg>correct the power factor to unity such that no tariff penalty is incurred under any load conditions. The equipment will be automatically staged in 50kVAr units.     /     Thiết bị hiệu chỉnh hệ số công suất sẽ được bố trí cho các bảng điều khiển phân phối điện chính để tự động hiệu chỉnh thống nhất hệ số công suất sao cho không phát chi phí phạt trong bất kỳ điều kiện phụ tải nào. Thiết bị sẽ được tự động phân thành các unit 50kVAr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>designed for</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044457Z" creationid="LanHK" creationdate="20210715T044457Z">
