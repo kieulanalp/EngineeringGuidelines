@@ -9050,6 +9050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>appropriate fire safety procedures are also implemented as they are highly flammable. Any equipment using R290 or similar HC shall be within a fire rated plant room and have leak detection and fire suppression system installed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T044815Z" creationid="Kieu Lan" creationdate="20210719T044155Z">
+        <seg>appropriate fire safety procedures are also implemented as they are highly flammable. Any equipment using R290 or similar HC shall be within a fire rated plant room and have leak detection and fire suppression system installed.     /     Việc sử dụng môi chất lạnh HC (hydrocarbon) không có ODP và ít GWP sẽ chỉ được cân nhắc nếu có thể đảm bảo các quy trình PCCC phù hợp vì HC là chất rất dễ cháy. Bất cứ thiết bị nào sử dụng R290 hoặc HC tương tự phải được bố trí trong phòng máy chống cháy, có đầu báo rò rỉ và hệ thống chữa cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>appropriate or telephone operator room.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T092911Z" creationid="LanHK" creationdate="20210702T092911Z">
