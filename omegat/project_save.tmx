@@ -3884,8 +3884,8 @@
       <tuv lang="EN-US">
         <seg>Heat reclaim from chiller condenser for pre-heating or heating of DHWS (See illustration)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T022407Z" creationid="LanHK" creationdate="20210719T022407Z">
-        <seg>Heat reclaim from chiller condenser for pre-heating or heating of DHWS (See illustration)     /     Thu hồi nhiệt từ các</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T023420Z" creationid="LanHK" creationdate="20210719T022407Z">
+        <seg>Heat reclaim from chiller condenser for pre-heating or heating of DHWS (See illustration)     /     Thu hồi nhiệt từ bộ ngưng tụ của chiller để làm nóng trước hoặc làm nóng nước sinh hoạt (xem minh họa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4550,6 +4550,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210706T084201Z" creationid="Kieu Lan" creationdate="20210706T082903Z">
         <seg>Keep cable joints to a minimum - junction boxes to be marked ‘Fire Alarm’     /     hạn chế nối cáp - trên hộp nối điện đánh dấu "Báo động cháy"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T023613Z" creationid="Kieu Lan" creationdate="20210719T023613Z">
+        <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and     /      Nếu cung cấp kiểm soát truy cập phòng khách bằng thẻ khóa chỉ </seg>
       </tuv>
     </tu>
     <tu>
@@ -5527,6 +5535,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Occupancy of the function room equals 400 people (1m2/person)    /    Sức chứa phòng 400 người (1m2/người)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Occupancy sensors are the IHG recommended energy saver for guest rooms.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T023535Z" creationid="Kieu Lan" creationdate="20210719T023535Z">
+        <seg>Occupancy sensors are the IHG recommended energy saver for guest rooms.     /     Cảm biến người trong phòng được IHG khuyến nghị sử dụng nhằm tiết kiệm năng lượng cho phòng khách</seg>
       </tuv>
     </tu>
     <tu>
