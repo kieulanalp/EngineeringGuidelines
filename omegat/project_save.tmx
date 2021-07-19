@@ -8320,6 +8320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To provide a central source of generation, with a degree of redundancy, for the building’s heating and chilled water systems, to offset the building’s fabric, casual, operational and machine loads to the thermal criteria as defined elsewhere.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T065306Z" creationid="Kieu Lan" creationdate="20210719T065306Z">
+        <seg>To provide a central source of generation, with a degree of redundancy, for the building’s heating and chilled water systems, to offset the building’s fabric, casual, operational and machine loads to the thermal criteria as defined elsewhere.     /     Cung cấp </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To provide ceramic / FR connections within junction boxes and Voice Alarm speakers</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210706T093734Z" creationid="LanHK" creationdate="20210601T101204Z">
