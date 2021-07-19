@@ -7197,6 +7197,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TOTAL FRESH AIR SUPPLY fc TOTAL EXHAUST 10-20%</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T014745Z" creationid="LanHK" creationdate="20210719T014745Z">
+        <seg>TOTAL FRESH AIR SUPPLY ≥ TOTAL EXHAUST 10-20%     /     Tổng lượng cấp khí tươi ≥ Tổng khí xả ra 10-20%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TYPICAL FIRE ALARM &amp; DETECTION SYSTEM FOR ENTRY ! LOBBY / PUBLIC AREA LEVELS</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045702Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -7825,8 +7833,8 @@
       <tuv lang="EN-US">
         <seg>The overall net building pressure (controlled by the BMS) shall be positive to minimise infiltration.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T014227Z" creationid="LanHK" creationdate="20210719T014227Z">
-        <seg>The overall net building pressure (controlled by the BMS) shall be positive to minimise infiltration.     /     Tổng áp suất tòa nhà net (kiểm soát bởi BMS) phải dương để giảm thiểu </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T014242Z" creationid="LanHK" creationdate="20210719T014227Z">
+        <seg>The overall net building pressure (controlled by the BMS) shall be positive to minimise infiltration.     /     Tổng áp suất tòa nhà net (kiểm soát bởi BMS) phải dương để giảm thiểu không khí thâm nhập</seg>
       </tuv>
     </tu>
     <tu>
