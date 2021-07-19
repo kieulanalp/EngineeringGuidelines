@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Central Heating and Cooling Plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T050330Z" creationid="Kieu Lan" creationdate="20210719T050330Z">
+        <seg>Central Heating and Cooling Plant     /     Cụm máy sưởi và làm lạnh trung tâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Central Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T084254Z" creationid="LanHK" creationdate="20210702T084254Z">
@@ -5455,6 +5463,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044549Z" creationid="Kieu Lan" creationdate="20210713T080401Z">
         <seg>Note:     /     Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: The designer shall also incorporate the requirements of any InterContinental Hotel brand standard Green Engage Credit rating level adopted for the project.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T050218Z" creationid="Kieu Lan" creationdate="20210719T050218Z">
+        <seg>Note: The designer shall also incorporate the requirements of any InterContinental Hotel brand standard Green Engage Credit rating level adopted for the project.     /     Lưu ý: Thiết kế cũng sẽ kết hợp các yêu cầu theo mức đánh giá Điểm Tiêu chuẩn xanh cho brand khách sạn Intercontinental áp dụng đối với dự án</seg>
       </tuv>
     </tu>
     <tu>
