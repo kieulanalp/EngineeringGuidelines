@@ -105,24 +105,24 @@
       <tuv lang="EN-US">
         <seg>0.35m3/guest night maximum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T032544Z" creationid="LanHK" creationdate="20210717T032205Z">
-        <seg>0.35 m^3/guest night maximum;;;tối đa 0.35m3/khách/đêm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210717T032205Z">
+        <seg>0.35 m3/guest night maximum;;;tối đa 0.35m3/khách/đêm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>0.45m3/guest night maximum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T032546Z" creationid="LanHK" creationdate="20210717T032220Z">
-        <seg>0.45 m^3/guest night maximum;;;tối đa 0.45m3/khách/đêm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210717T032220Z">
+        <seg>0.45 m3/guest night maximum;;;tối đa 0.45m3/khách/đêm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>0.70m3/guest night maximum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T032548Z" creationid="LanHK" creationdate="20210717T032223Z">
-        <seg>0.70 m^3/guest night maximum;;;tối đa 0.70m3/khách/đêm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210717T032223Z">
+        <seg>0.70 m3/guest night maximum;;;tối đa 0.70m3/khách/đêm</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,24 +322,24 @@
       <tuv lang="EN-US">
         <seg>250kWh/m|2/annum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T032117Z" creationid="LanHK" creationdate="20210717T032117Z">
-        <seg>250kWh/m^2/annum;;;250kWh/m^2/năm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210717T032117Z">
+        <seg>250kWh/m2/annum;;;250kWh/m2/năm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>260kWh/m|2/annum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T032126Z" creationid="LanHK" creationdate="20210717T032126Z">
-        <seg>260kWh/m^2/annum;;;260kWh/m^2/năm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210717T032126Z">
+        <seg>260kWh/m2/annum;;;260kWh/m2/năm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>270kWh/m|2/annum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T032107Z" creationid="LanHK" creationdate="20210717T032107Z">
-        <seg>270kWh/m^2/annum;;;270kWh/m^2/năm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210717T032107Z">
+        <seg>270kWh/m2/annum;;;270kWh/m2/năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2003,8 +2003,8 @@
       <tuv lang="EN-US">
         <seg>Detector spacing must be in accordance with local standards and manufacturer’s recommendations but must be a minimum of one smoke detector per 85m2 or one heat detector per 50m2 and not more than 15m spacing along corridors.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T030103Z" creationid="Kieu Lan" creationdate="20210713T030103Z">
-        <seg>Detector spacing must be in accordance with local standards and manufacturer’s recommendations but must be a minimum of one smoke detector per 85m2 or one heat detector per 50m2 and not more than 15m spacing along corridors.     /     Khoảng cách giữa các đầu báo khói phải tuân thủ tiêu chuẩn địa phương và khuyến nghị của nhà sản xuất, nhưng phải đảm bảo tối thiểu một đầu báo khói trên mỗi 85m^2 hoặc một đầu báo nhiệt trên mỗi 50m^2 và không cách nhau quá 15m dọc theo hành lang</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="Kieu Lan" creationdate="20210713T030103Z">
+        <seg>Detector spacing must be in accordance with local standards and manufacturer’s recommendations but must be a minimum of one smoke detector per 85m2 or one heat detector per 50m2 and not more than 15m spacing along corridors.     /     Khoảng cách giữa các đầu báo khói phải tuân thủ tiêu chuẩn địa phương và khuyến nghị của nhà sản xuất, nhưng phải đảm bảo tối thiểu một đầu báo khói trên mỗi 85m2 hoặc một đầu báo nhiệt trên mỗi 50m2 và không cách nhau quá 15m dọc theo hành lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -4428,8 +4428,8 @@
       <tuv lang="EN-US">
         <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T035029Z" creationid="Kieu Lan" creationdate="20210713T034949Z">
-        <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.     /     Modul dao cách ly phải được bố trí tại lối vào và/hoặc/ lối thoát khỏi mỗi khu vực riêng biệt trong một zone. Tối thiểu, phải có modul dao cách ly, để đảm bảo khu vực không quá 2000m^2 không được bảo vệ nếu xảy ra cháy chập dây điện nào. Phải cung cấp loop isolator chuyên dụng để giám sát tình trạng zone</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="Kieu Lan" creationdate="20210713T034949Z">
+        <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.     /     Modul dao cách ly phải được bố trí tại lối vào và/hoặc/ lối thoát khỏi mỗi khu vực riêng biệt trong một zone. Tối thiểu, phải có modul dao cách ly, để đảm bảo khu vực không quá 2000m2 không được bảo vệ nếu xảy ra cháy chập dây điện nào. Phải cung cấp loop isolator chuyên dụng để giám sát tình trạng zone</seg>
       </tuv>
     </tu>
     <tu>
@@ -5493,8 +5493,8 @@
       <tuv lang="EN-US">
         <seg>Occupancy of the function room equals 400 people (1m2 / person)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T033600Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Occupancy of the function room equals 400 people (1m2/person)    /    Sức chứa phòng 400 người (1m^2/người)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Occupancy of the function room equals 400 people (1m2/person)    /    Sức chứa phòng 400 người (1m2/người)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6301,8 +6301,8 @@
       <tuv lang="EN-US">
         <seg>SPRINKLER HEAD</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T071838Z" creationid="LanHK" creationdate="20210610T071838Z">
-        <seg>SPRINKLER SPACING NOT TO EXCEED 11.1m^3 PER SPRINKLER HEAD     /    Khoảng cách giữa các sprinklerkhông vượt quá 11.1m^3 mỗi đầu sprinkler</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210610T071838Z">
+        <seg>SPRINKLER SPACING NOT TO EXCEED 11.1m3 PER SPRINKLER HEAD     /    Khoảng cách giữa các sprinklerkhông vượt quá 11.1m3 mỗi đầu sprinkler</seg>
       </tuv>
     </tu>
     <tu>
@@ -7823,6 +7823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The overall net building pressure (controlled by the BMS) shall be positive to minimise infiltration.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T014227Z" creationid="LanHK" creationdate="20210719T014227Z">
+        <seg>The overall net building pressure (controlled by the BMS) shall be positive to minimise infiltration.     /     Tổng áp suất tòa nhà net (kiểm soát bởi BMS) phải dương để giảm thiểu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The plant should be located centrally to the areas being served as shown in the following illustration (and not for example all on the roof)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T031309Z" creationid="LanHK" creationdate="20210717T031309Z">
@@ -9174,8 +9182,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>greater than 14m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020903Z" creationid="Kieu Lan" creationdate="20210713T020903Z">
-        <seg>greater than 14m2     /     Kho chứa đồ lớn hơn 14m^2</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="Kieu Lan" creationdate="20210713T020903Z">
+        <seg>greater than 14m2     /     Kho chứa đồ lớn hơn 14m2</seg>
       </tuv>
     </tu>
     <tu>
