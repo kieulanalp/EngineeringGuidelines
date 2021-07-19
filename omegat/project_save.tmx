@@ -1875,8 +1875,8 @@
       <tuv lang="EN-US">
         <seg>DISTRICT COOLING OR HEATING</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210714T022503Z" creationid="LanHK" creationdate="20210714T022503Z">
-        <seg>DISTRICT COOLING OR HEATING     /     Nhà máy làm mát/sưởi theo khu vực</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T071638Z" creationid="LanHK" creationdate="20210714T022503Z">
+        <seg>DISTRICT COOLING OR HEATING     /     Nhà máy làm mát/gia nhiệt theo khu vực</seg>
       </tuv>
     </tu>
     <tu>
@@ -8355,8 +8355,8 @@
       <tuv lang="EN-US">
         <seg>To provide sufficient continuous heating for the domestic hot water supply</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T035051Z">
-        <seg>To provide sufficient continuous heating for the domestic hot water supply     /     Liên tục làm nóng phục vụ cấp nước nóng sinh hoạt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T071712Z" creationid="LanHK" creationdate="20210715T035051Z">
+        <seg>To provide sufficient continuous heating for the domestic hot water supply     /     Liên tục gia nhiệt cho nước phục vụ cấp nước nóng sinh hoạt</seg>
       </tuv>
     </tu>
     <tu>
