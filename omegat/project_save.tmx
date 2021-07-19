@@ -9050,6 +9050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and used in storage or make up water in cooling towers if using water cooled plant.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T050029Z" creationid="Kieu Lan" creationdate="20210719T050029Z">
+        <seg>and used in storage or make up water in cooling towers if using water cooled plant.     /     Nước ngưng tụ từ các cụm AHU trung tâm phục vụ không gian công cộng và máy pre-conditioner cho khí tươi được thu gom và sử dụng cho kho chứa và bù nước trong tháp giải nhiệt nếu làm mát bằng nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>appropriate fire safety procedures are also implemented as they are highly flammable. Any equipment using R290 or similar HC shall be within a fire rated plant room and have leak detection and fire suppression system installed.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T044815Z" creationid="Kieu Lan" creationdate="20210719T044155Z">
