@@ -1907,8 +1907,8 @@
       <tuv lang="EN-US">
         <seg>DEVIATIONS SCHEDULE</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T090429Z">
-        <seg>DEVIATIONS SCHEDULE    /    Tiến độ các hạng mục khác biệt so với tiêu chuẩn</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T044750Z" creationid="Kieu Lan" creationdate="20210601T090429Z">
+        <seg>DEVIATIONS SCHEDULE    /   Danh mục các hạng mục khác biệt so với tiêu chuẩn</seg>
       </tuv>
     </tu>
     <tu>
@@ -10081,8 +10081,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>•Any variances from standards to be highlighted otherwise compliance is mandatory</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210601T090405Z">
-        <seg>•Any variances from standards to be highlighted otherwise compliance is mandatory    /    Bất cứ khác biệt nào so với tiêu chuẩn đều phải được đánh dấu rõ ràng, còn đâu buộc phải tuân thủ</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T044724Z" creationid="Kieu Lan" creationdate="20210601T090405Z">
+        <seg>•Any variances from standards to be highlighted otherwise compliance is mandatory    /    Bất cứ khác biệt nào so với tiêu chuẩn đều phải được đánh dấu rõ ràng, còn lại buộc phải tuân thủ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10129,8 +10129,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>•Submissions to be made in English and formatted in accordance with this manual</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T101801Z">
-        <seg>•Submissions to be made in English and formatted in accordance with this manual    /    Tài liệu trình bằng tiếng Anh và được format theo như hướng dẫn này</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T044638Z" creationid="LanHK" creationdate="20210525T101801Z">
+        <seg>•Submissions to be made in English and formatted in accordance with this manual    /    Tài liệu trình bày bằng tiếng Anh và được format theo như hướng dẫn này</seg>
       </tuv>
     </tu>
     <tu>
