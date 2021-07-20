@@ -191,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2. PROVIDE SPARE PUMP OR MOTOR IMPELLER IN THE PLANT ROOM IN THE EVENT OF A BREATH DOWN.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210720T043743Z" creationid="Kieu Lan" creationdate="20210720T043637Z">
+        <seg>2. PROVIDE SPARE PUMP OR MOTOR IMPELLER IN THE PLANT ROOM IN THE EVENT OF A BREAK DOWN.     /     Bố trí bơm dự phòng hoặc bộ cánh bơm trong phòng máy đề phòng trường hợp hỏng hóc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.2.10 Car Parking Garages</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T104422Z" creationid="LanHK" creationdate="20210602T104422Z">
@@ -8176,6 +8184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The systems shall be automatically monitored and controlled via the Building Management System (BMS) and their own proprietary control systems to maximise their efficiency of operation under all conditions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210720T043828Z" creationid="Kieu Lan" creationdate="20210720T043828Z">
+        <seg>The systems shall be automatically monitored and controlled via the Building Management System (BMS) and their own proprietary control systems to maximise their efficiency of operation under all conditions.     /     Hệ thống phải được tự động giám sát và điều khiển thông qua BMS và hệ thống điều khiển của tự thân hệ thống để tối đa hóa hiệu suất vận hành trong mọi điều kiện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tables below provide some guidelines of the extent of plant space required for different hotels types and sizes:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022927Z" creationid="LanHK" creationdate="20210717T022927Z">
@@ -9177,6 +9193,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T101740Z" creationid="LanHK" creationdate="20210702T101740Z">
         <seg>and front and back of house areas.     /     Loa thông báo sơ tán bằng giọng nói hoặc báo động cháy có giọng nói phải được bố trí tại tất cả các phòng khách và khu FOH, BOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and impellor to be kept on site or one common standby</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210720T043651Z" creationid="Kieu Lan" creationdate="20210720T043651Z">
+        <seg>and impeller to be kept on site or one common standby</seg>
       </tuv>
     </tu>
     <tu>
