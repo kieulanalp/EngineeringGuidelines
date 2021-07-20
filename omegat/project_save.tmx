@@ -2104,6 +2104,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>?? thuật ngữ ?</note>
+      <tuv lang="EN-US">
+        <seg>Diversity:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210720T012844Z" creationid="LanHK" creationdate="20210720T012844Z">
+        <seg>Diversity:-     /     Sự đa dạng</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Document Title:</seg>
       </tuv>
@@ -8324,6 +8333,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T015413Z" creationid="LanHK" creationdate="20210611T015413Z">
         <seg>This works by maintaining the pressure within the escape routes at a higher pressure than the adjacent spaces    /    Hệ thống hoạt động bằng cách duy trì áp suất trong tuyến đường thoát hiểm cao hơn các không gian liền kề</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To determine the diversified simultaneous cooling load, the grand total calculated cooling load can be reduced by:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210720T012953Z" creationid="LanHK" creationdate="20210720T012855Z">
+        <seg>To determine the diversified simultaneous cooling load, the grand total calculated cooling load can be reduced by:-     /     Để xác định phụ tải làm mát đồng thời đa dạng, tổng phụ tải làm mát tính toán có thể giảm đi:</seg>
       </tuv>
     </tu>
     <tu>
