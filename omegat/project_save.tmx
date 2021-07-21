@@ -2873,11 +2873,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>noting diversification with this load for central plant</note>
       <tuv lang="EN-US">
         <seg>Fabric/solar heat loss and gain - noting diversification with this load for central plant</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210720T074223Z" creationid="Kieu Lan" creationdate="20210720T044916Z">
-        <seg>Fabric/solar heat loss and gain - noting diversification with this load for central plant     /     Gia giảm nhiệt do nhiệt độ vỏ tòa nhà/mặt trời - chú ý xem xét sthay đổi của phụ tải này để </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T034901Z" creationid="Kieu Lan" creationdate="20210720T044916Z">
+        <seg>Fabric/solar heat loss and gain - noting diversification with this load for central plant     /     Gia giảm nhiệt do nhiệt độ vỏ tòa nhà/mặt trời - chú ý xem xét </seg>
       </tuv>
     </tu>
     <tu>
