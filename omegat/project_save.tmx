@@ -3499,6 +3499,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh air ventilation heat loss and gain</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T034928Z" creationid="Kieu Lan" creationdate="20210721T034928Z">
+        <seg>Fresh air ventilation heat loss and gain     /     Tăng và giảm nhiệt do thông khí tươi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front Desk</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093037Z" creationid="LanHK" creationdate="20210405T093037Z">
