@@ -2877,8 +2877,8 @@
       <tuv lang="EN-US">
         <seg>Fabric/solar heat loss and gain - noting diversification with this load for central plant</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T034901Z" creationid="Kieu Lan" creationdate="20210720T044916Z">
-        <seg>Fabric/solar heat loss and gain - noting diversification with this load for central plant     /     Gia giảm nhiệt do nhiệt độ vỏ tòa nhà/mặt trời - chú ý xem xét </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035357Z" creationid="Kieu Lan" creationdate="20210720T044916Z">
+        <seg>Fabric/solar heat loss and gain - noting diversification with this load for central plant     /     Tăng giảm nhiệt do nhiệt độ vỏ tòa nhà/mặt trời - chú ý xem xét </seg>
       </tuv>
     </tu>
     <tu>
@@ -3501,8 +3501,8 @@
       <tuv lang="EN-US">
         <seg>Fresh air ventilation heat loss and gain</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T034928Z" creationid="Kieu Lan" creationdate="20210721T034928Z">
-        <seg>Fresh air ventilation heat loss and gain     /     Tăng và giảm nhiệt do thông khí tươi</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035400Z" creationid="Kieu Lan" creationdate="20210721T034928Z">
+        <seg>Fresh air ventilation heat loss and gain     /     Tăng giảm nhiệt do thông khí tươi</seg>
       </tuv>
     </tu>
     <tu>
@@ -4398,8 +4398,8 @@
       <tuv lang="EN-US">
         <seg>Infiltration heat loss and gain</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035029Z" creationid="Kieu Lan" creationdate="20210721T034943Z">
-        <seg>Infiltration heat loss and gain     /     Tăng và giảm nhiệt do không khí thâm nhập</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035403Z" creationid="Kieu Lan" creationdate="20210721T034943Z">
+        <seg>Infiltration heat loss and gain     /     Tăng giảm nhiệt do không khí thâm nhập</seg>
       </tuv>
     </tu>
     <tu>
@@ -4496,6 +4496,15 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T062138Z" creationid="LanHK" creationdate="20210715T025027Z">
         <seg>Internal design conditions indicated for each area, as indicated in Table 4.3.2     /     Các điều kiện thiết kế trong nhà được chỉ định cho mỗi khu vực như trong bảng 4.3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>noting diversification with this load for central plant</note>
+      <tuv lang="EN-US">
+        <seg>Internal equipment/operational and personnel gains - noting diversification with this load for central plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035438Z" creationid="Kieu Lan" creationdate="20210721T035341Z">
+        <seg>Internal equipment/operational and personnel gains - noting diversification with this load for central plant     /     Tăng giảm nhiệt do thiết bị/vận hành nội bộ và thân nhiệt - </seg>
       </tuv>
     </tu>
     <tu>
@@ -8052,6 +8061,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T014242Z" creationid="LanHK" creationdate="20210719T014227Z">
         <seg>The overall net building pressure (controlled by the BMS) shall be positive to minimise infiltration.     /     Tổng áp suất tòa nhà net (kiểm soát bởi BMS) phải dương để giảm thiểu không khí thâm nhập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The perimeter zoning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T045845Z" creationid="Kieu Lan" creationdate="20210721T045845Z">
+        <seg>The perimeter zoning     /     </seg>
       </tuv>
     </tu>
     <tu>
