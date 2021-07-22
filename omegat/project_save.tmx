@@ -962,8 +962,8 @@
       <tuv lang="EN-US">
         <seg>An air cooled chiller plant is one whereby one or more packaged chiller units are utilized to remove the heat from within the building. Each of the chillers within the plant is a standalone package that contains the basic elements, such as compressors, air cooled condensers, evaporators and controls. The chiller transfers the heat absorbed from the building directly to the atmosphere by rejecting the heat to the air, and is typically suitable for smaller projects with a peak cooling load less than 200TR (700kW) This is the preferred option for InterContinental Hotels Group due to the Legionella risk with water cooled. A water cooled chiller plant is one that utilises chillers that reject heat to a water circuit rather than air. The water circuit is passed through a cooling tower where heat is rejected by evaporation. It is a more efficient system due to the fact that more energy can be rejected by evaporating 1kg of water than in raising the temperature of an equivalent amount of air. Water cooled plants are therefore more efficient and require less space and, for larger projects, are the most practical and efficient solution, and should therefore be considered for larger projects.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T090042Z" creationid="LanHK" creationdate="20210722T033551Z">
-        <seg>An air cooled chiller plant is one whereby one or more packaged chiller units are utilized to remove the heat from within the building. Each of the chillers within the plant is a standalone package that contains the basic elements, such as compressors, air cooled condensers, evaporators and controls. The chiller transfers the heat absorbed from the building directly to the atmosphere by rejecting the heat to the air, and is typically suitable for smaller projects with a peak cooling load less than 200TR (700kW) This is the preferred option for InterContinental Hotels Group due to the Legionella risk with water cooled. A water cooled chiller plant is one that utilises chillers that reject heat to a water circuit rather than air. The water circuit is passed through a cooling tower where heat is rejected by evaporation. It is a more efficient system due to the fact that more energy can be rejected by evaporating 1kg of water than in raising the temperature of an equivalent amount of air. Water cooled plants are therefore more efficient and require less space and, for larger projects, are the most practical and efficient solution, and should therefore be considered for larger projects.     /     Một trạm chiller làm mát bằng không khí là trạm máy trong đó một hoặc nhiều chiller unit được sử dụng để loại bỏ nhiệt trong tòa nhà. Mỗi chiller trong trạm là một thiết bị độc lập gồm các thành phần cơ bản như máy nén, bình ngưng làm mát bằng không khí, thiết bị bay hơi và bộ điều khiển. Chiller thải nhiệt hấp thụ từ trong tòa nhà trực tiếp vào bầu khí quyển bằng cách thải nhiệt ra không khí và thường thích hợp cho các dự án nhỏ hơn với phụ tải đỉnh làm mát dưới 200TR (700kW). Đây là lựa chọn InterContinental Hotels Group ưu tiên do nguy cơ nhiễm khuẩn Legionella khi . Một trạm chiller giải nhiệt nước là trạm máy sử dụng chiller thải nhiệt vào mạch nước mà không phải không khí. Mạch nước được đưa qua tháp giải nhiệt, nơi nhiệt được thải ra nhờ bay hơi nước. Đây là hệ thống hiệu quả hơn do có thể loại bỏ nhiều năng lượng thông qua làm bay hơi 1kg nước so với việc tăng nhiệt độ của một lượng không khí tương đương. Do đó, các trạm chiller giải nhiệt nước hiệu quả hơn và cần ít không gian hơn, đối với các dự án lớn hơn, đây là giải pháp thiết thực và hiệu quả nhất, do đó cần được xem xét cho các dự án lớn hơn.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T090136Z" creationid="LanHK" creationdate="20210722T033551Z">
+        <seg>An air cooled chiller plant is one whereby one or more packaged chiller units are utilized to remove the heat from within the building. Each of the chillers within the plant is a standalone package that contains the basic elements, such as compressors, air cooled condensers, evaporators and controls. The chiller transfers the heat absorbed from the building directly to the atmosphere by rejecting the heat to the air, and is typically suitable for smaller projects with a peak cooling load less than 200TR (700kW) This is the preferred option for InterContinental Hotels Group due to the Legionella risk with water cooled. A water cooled chiller plant is one that utilises chillers that reject heat to a water circuit rather than air. The water circuit is passed through a cooling tower where heat is rejected by evaporation. It is a more efficient system due to the fact that more energy can be rejected by evaporating 1kg of water than in raising the temperature of an equivalent amount of air. Water cooled plants are therefore more efficient and require less space and, for larger projects, are the most practical and efficient solution, and should therefore be considered for larger projects.     /     Một trạm chiller làm mát bằng không khí là trạm máy trong đó một hoặc nhiều chiller unit được sử dụng để loại bỏ nhiệt trong tòa nhà. Mỗi chiller trong trạm là một thiết bị độc lập gồm các thành phần cơ bản như máy nén, bình ngưng làm mát bằng không khí, thiết bị bay hơi và bộ điều khiển. Chiller thải nhiệt lượng hấp thụ từ trong tòa nhà trực tiếp vào bầu khí quyển bằng cách thải nhiệt ra không khí và thường thích hợp cho các dự án nhỏ hơn với phụ tải đỉnh làm mát dưới 200TR (700kW). Đây là lựa chọn InterContinental Hotels Group ưu tiên do nguy cơ nhiễm khuẩn Legionella khi . Một trạm chiller giải nhiệt nước là trạm máy sử dụng chiller thải nhiệt vào mạch nước mà không phải không khí. Mạch nước được đưa qua tháp giải nhiệt, nơi nhiệt được thải ra nhờ bay hơi nước. Đây là hệ thống hiệu quả hơn do có thể loại bỏ nhiều năng lượng thông qua làm bay hơi 1kg nước so với việc tăng nhiệt độ của một lượng không khí tương đương. Do đó, các trạm chiller giải nhiệt nước hiệu quả hơn và cần ít không gian hơn, đối với các dự án lớn hơn, đây là giải pháp thiết thực và hiệu quả nhất, do đó cần được xem xét cho các dự án lớn hơn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4391,8 +4391,8 @@
       <tuv lang="EN-US">
         <seg>In general, a water cooled system is more suitable for a larger project due to the following benefits:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T085558Z" creationid="LanHK" creationdate="20210722T033624Z">
-        <seg>In general, a water cooled system is more suitable for a larger project due to the following benefits:     /     Nhìn chung, một hệ thống  phù hợp với các dự án lớn do các lợi ích sau</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T090145Z" creationid="LanHK" creationdate="20210722T033624Z">
+        <seg>In general, a water cooled system is more suitable for a larger project due to the following benefits:     /     Nhìn chung, một hệ thống giải nhiệt nước phù hợp với các dự án lớn do các lợi ích sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -5600,8 +5600,8 @@
       <tuv lang="EN-US">
         <seg>Noise level of water cooled plant is less than that of air cooled plant</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T085558Z" creationid="LanHK" creationdate="20210722T044336Z">
-        <seg>Noise level of water cooled plant is less than that of air cooled plant     /     Độ ồn của máy  thấp hơn máy làm mát bằng không khí </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T090108Z" creationid="LanHK" creationdate="20210722T044336Z">
+        <seg>Noise level of water cooled plant is less than that of air cooled plant     /     Độ ồn của máy giải nhiệt nước thấp hơn máy làm mát bằng không khí </seg>
       </tuv>
     </tu>
     <tu>
@@ -9052,8 +9052,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Water cooled LV chillers with VSD - 5.5kWr/we (at 30-70% load)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T085558Z" creationid="LanHK" creationdate="20210722T034739Z">
-        <seg>Water cooled LV chillers with VSD - 5.5kWr/we (at 30-70% load)     /     Chiller LV  với biến áp - 5.5kWr/we (20-70% tải)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T090155Z" creationid="LanHK" creationdate="20210722T034739Z">
+        <seg>Water cooled LV chillers with VSD - 5.5kWr/we (at 30-70% load)     /     Chiller LV giải nhiệt nước với biến áp - 5.5kWr/we (20-70% tải)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9082,24 +9082,24 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Water cooled plant is more efficient than air cooled plant with comparable typical chiller efficiencies at peak load as follows:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T085558Z" creationid="LanHK" creationdate="20210722T034114Z">
-        <seg>Water cooled plant is more efficient than air cooled plant with comparable typical chiller efficiencies at peak load as follows:     /     Trạm  hiệu suất cao hơn máy làm mát bằng không khí với  hiệu suất chiller khi phụ tải đạt đỉnh như sau</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T090150Z" creationid="LanHK" creationdate="20210722T034114Z">
+        <seg>Water cooled plant is more efficient than air cooled plant with comparable typical chiller efficiencies at peak load as follows:     /     Trạm giải nhiệt nước hiệu suất cao hơn máy làm mát bằng không khí với  hiệu suất chiller khi phụ tải đạt đỉnh như sau</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Water cooled plant utilizes centrifugal or screw chillers which have greater capacity, less moving parts and lower maintenance requirements than air cooled reciprocating or screw chillers</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T085558Z" creationid="LanHK" creationdate="20210722T043909Z">
-        <seg>Water cooled plant utilizes centrifugal or screw chillers which have greater capacity, less moving parts and lower maintenance requirements than air cooled reciprocating or screw chillers     /     Các máy  sử dụng chiller ly tâm hoặc trục vít có công suất lớn hơn, ít cấu kiện di động và ít yêu cầu về bảo dưỡng hơn chiller piston hoặc trục vít làm mát bằng không khí </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T090211Z" creationid="LanHK" creationdate="20210722T043909Z">
+        <seg>Water cooled plant utilizes centrifugal or screw chillers which have greater capacity, less moving parts and lower maintenance requirements than air cooled reciprocating or screw chillers     /     Các trạm giải nhiệt nước sử dụng chiller ly tâm hoặc trục vít có công suất lớn hơn, ít cấu kiện di động và ít yêu cầu về bảo dưỡng hơn chiller piston hoặc trục vít làm mát bằng không khí </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Water cooled systems are considered to have the following advantages for a larger project:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T085558Z" creationid="LanHK" creationdate="20210722T043812Z">
-        <seg>Water cooled systems are considered to have the following advantages for a larger project:     /     Các hệ thống  được cho là có các lợi ích sau đối với một dự án lớn</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T090159Z" creationid="LanHK" creationdate="20210722T043812Z">
+        <seg>Water cooled systems are considered to have the following advantages for a larger project:     /     Các hệ thống giải nhiệt nước được cho là có các lợi ích sau đối với một dự án lớn</seg>
       </tuv>
     </tu>
     <tu>
