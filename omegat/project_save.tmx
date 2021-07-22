@@ -1175,6 +1175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As well as the cost of the chiller plant, the electrical infrastructure required for each type can vary significantly, as indicated in the following table, based on a typical 2600kW chiller plant.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T065947Z" creationid="LanHK" creationdate="20210722T065947Z">
+        <seg>As well as the cost of the chiller plant, the electrical infrastructure required for each type can vary significantly, as indicated in the following table, based on a typical 2600kW chiller plant.     /     Ngoài chi phí của tháp giải nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At all levels elevators must be protected by fire resisting landing doors or lobbies with access via self-closing fire resisting doors.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T100128Z" creationid="LanHK" creationdate="20210602T100128Z">
@@ -2356,6 +2364,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153653Z" creationid="Kieu Lan" creationdate="20210405T153653Z">
         <seg>Electrical Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical Infrastructure Requirements for 2,600kW cooling.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T065857Z" creationid="LanHK" creationdate="20210722T065857Z">
+        <seg>Electrical Infrastructure Requirements for 2,600kW cooling.     /     Cơ sở hạ tầng điện yêu cầu 2.600kW cho làm mát</seg>
       </tuv>
     </tu>
     <tu>
@@ -8277,8 +8293,8 @@
       <tuv lang="EN-US">
         <seg>The selection of the most suitable chiller plants will depend upon the size of chillers required, the Hotel location and serviceability. The following illustrates different chiller types and their respective efficiencies for the conditions indicated.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T031718Z" creationid="LanHK" creationdate="20210722T030830Z">
-        <seg>The selection of the most suitable chiller plants will depend upon the size of chillers required, the Hotel location and serviceability. The following illustrates different chiller types and their respective efficiencies for the conditions indicated.     /     Việc lựa chọn những máy chiller phù hợp nhất sẽ phụ thuộc vào kích thước cần thiết, vị trí Khách sạn và khả năng phục vụ. Các nội dung sau cho thấy các loại chiller và hiệu suất tương ứng với các điều kiện được nêu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T073435Z" creationid="LanHK" creationdate="20210722T030830Z">
+        <seg>The selection of the most suitable chiller plants will depend upon the size of chillers required, the Hotel location and serviceability. The following illustrates different chiller types and their respective efficiencies for the conditions indicated.     /     Việc lựa chọn                                                                                                phù hợp nhất sẽ phụ thuộc vào kích thước cần thiết, vị trí Khách sạn và khả năng phục vụ. Các nội dung sau cho thấy các loại chiller và hiệu suất tương ứng với các điều kiện được nêu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9025,6 +9041,12 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
     </tu>
     <tu>
+      <note>lại không hiểu gì cả :v</note>
+      <tuv lang="EN-US">
+        <seg>Water cooled chiller selected at 29°C/33°C condenser water temperature, (subject to ambient conditions) 7/14°C</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Water cooled plant is more efficient than air cooled plant with comparable typical chiller efficiencies at peak load as follows:</seg>
       </tuv>
@@ -9596,6 +9618,7 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
     </tu>
     <tu>
+      <note>lại vẫn không hiểu gì cơ mà nó là nối vào câu trước, please nhìn nối lên trên :v</note>
       <tuv lang="EN-US">
         <seg>chilled water temperature.</seg>
       </tuv>
