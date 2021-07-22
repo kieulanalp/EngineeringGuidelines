@@ -7615,6 +7615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The area required for water cooled centrifugal plant is less than that required for air cooled</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T044016Z" creationid="LanHK" creationdate="20210722T044016Z">
+        <seg>The area required for water cooled centrifugal plant is less than that required for air cooled     /     Diện tích yêu cầu cho máy ,làm mát bằng nước ly tâm ít hơn so với máy làm mát bằng không khí </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The atrium must be separated from adjacent spaces by at least 60 minute fire resisting construction with</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T045306Z" creationid="LanHK" creationdate="20210611T045306Z">
@@ -8957,6 +8965,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T034803Z" creationid="LanHK" creationdate="20210722T034739Z">
         <seg>Water cooled LV chillers with VSD - 5.5kWr/we (at 30-70% load)     /     Chiller LV làm mát bằng nước với biến áp - 5.5kWr/we (20-70% tải)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water cooled chiller plant is installed internally and is protected from the harsh environment. Air cooled chillers have to be installed externally and corrosion protection may be an ongoing problem to be addressed</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T044309Z" creationid="LanHK" creationdate="20210722T044309Z">
+        <seg>Water cooled chiller plant is installed internally and is protected from the harsh environment. Air cooled chillers have to be installed externally and corrosion protection may be an ongoing problem to be addressed     /     Máy chiller làm mát bằng nước được lắp đặt trong nhà và bảo vệ khỏi môi trường khắc nghiệt. Các chiller làm mát bằng không khí phải được lắp ngoài trời và việc chống ăn mòn có thể là một vấn đề cần được xử lý lâu dài</seg>
       </tuv>
     </tu>
     <tu>
