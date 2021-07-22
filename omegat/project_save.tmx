@@ -8918,6 +8918,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>Water cooled LV chillers 
+LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
+      <tuv lang="EN-US">
+        <seg>Water cooled LV chillers with VSD - 5.5kWr/we (at 30-70% load)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T034739Z" creationid="LanHK" creationdate="20210722T034739Z">
+        <seg>Water cooled LV chillers with VSD - 5.5kWr/we (at 30-70% load)     /     Chiller LV làm mát bằng nước với </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Water cooled plant is more efficient than air cooled plant with comparable typical chiller efficiencies at peak load as follows:</seg>
       </tuv>
