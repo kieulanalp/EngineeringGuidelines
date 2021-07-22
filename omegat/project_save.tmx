@@ -4332,6 +4332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, a water cooled system is more suitable for a larger project due to the following benefits:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T033624Z" creationid="LanHK" creationdate="20210722T033624Z">
+        <seg>In general, a water cooled system is more suitable for a larger project due to the following benefits:     /     Nhìn chung, một hệ thống làm mát bằng nước phù hợp với các dự án lớn do các lợi ích sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In high rise buildings to protect against the ingress of smoke and as an alternative to access to escape stairs by fire resisting lobbies or open vestibules / balconies, escape stairs may be protected by a stair pressurization system</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T015302Z" creationid="LanHK" creationdate="20210611T015302Z">
@@ -8907,6 +8915,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T031157Z" creationid="LanHK" creationdate="20210715T031157Z">
         <seg>Water Cooled Chillers     /     Chiller làm mát bằng nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water cooled plant is more efficient than air cooled plant with comparable typical chiller efficiencies at peak load as follows:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T034114Z" creationid="LanHK" creationdate="20210722T034114Z">
+        <seg>Water cooled plant is more efficient than air cooled plant with comparable typical chiller efficiencies at peak load as follows:     /     Máy làm mát bằng nước hiệu suất cao hơn máy làm mát bằng không khí với  hiệu suất chiller khi phụ tải đạt đỉnh như sau</seg>
       </tuv>
     </tu>
     <tu>
