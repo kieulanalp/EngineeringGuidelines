@@ -7136,6 +7136,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Split systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T091348Z" creationid="LanHK" creationdate="20210722T091348Z">
+        <seg>Split systems     /     Hệ thống hai khối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sprinkler Alarm Valve</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080248Z">
@@ -9060,8 +9068,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Water cooled centrifugal or screw</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T090258Z" creationid="LanHK" creationdate="20210722T084117Z">
-        <seg>Water cooled centrifugal or screw     /     Chiller ly tâm hoặc trục vít  giải nhiệt nước</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T090920Z" creationid="LanHK" creationdate="20210722T084117Z">
+        <seg>Water cooled centrifugal or screw     /     Chiller ly tâm hoặc trục vít giải nhiệt nước</seg>
       </tuv>
     </tu>
     <tu>
