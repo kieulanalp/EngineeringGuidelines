@@ -775,6 +775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air Cooled Chillers versus Water Cooled Chillers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T031740Z" creationid="LanHK" creationdate="20210722T031738Z">
+        <seg>Air Cooled Chillers versus Water Cooled Chillers     /     Chiller làm mát bằng không khí và Chiller làm mát bằng nước </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Infiltration Reduction Methods</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T031102Z" creationid="LanHK" creationdate="20210715T031102Z">
@@ -923,6 +931,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T024004Z" creationid="LanHK" creationdate="20210602T024004Z">
         <seg>Americas        /       châu Mỹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An air cooled chiller plant is one whereby one or more packaged chiller units are utilized to remove the heat from within the building. Each of the chillers within the plant is a standalone package that contains the basic elements, such as compressors, air cooled condensers, evaporators and controls. The chiller transfers the heat absorbed from the building directly to the atmosphere by rejecting the heat to the air, and is typically suitable for smaller projects with a peak cooling load less than 200TR (700kW) This is the preferred option for InterContinental Hotels Group due to the Legionella risk with water cooled. A water cooled chiller plant is one that utilises chillers that reject heat to a water circuit rather than air. The water circuit is passed through a cooling tower where heat is rejected by evaporation. It is a more efficient system due to the fact that more energy can be rejected by evaporating 1kg of water than in raising the temperature of an equivalent amount of air. Water cooled plants are therefore more efficient and require less space and, for larger projects, are the most practical and efficient solution, and should therefore be considered for larger projects.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T033551Z" creationid="LanHK" creationdate="20210722T033551Z">
+        <seg>An air cooled chiller plant is one whereby one or more packaged chiller units are utilized to remove the heat from within the building. Each of the chillers within the plant is a standalone package that contains the basic elements, such as compressors, air cooled condensers, evaporators and controls. The chiller transfers the heat absorbed from the building directly to the atmosphere by rejecting the heat to the air, and is typically suitable for smaller projects with a peak cooling load less than 200TR (700kW) This is the preferred option for InterContinental Hotels Group due to the Legionella risk with water cooled. A water cooled chiller plant is one that utilises chillers that reject heat to a water circuit rather than air. The water circuit is passed through a cooling tower where heat is rejected by evaporation. It is a more efficient system due to the fact that more energy can be rejected by evaporating 1kg of water than in raising the temperature of an equivalent amount of air. Water cooled plants are therefore more efficient and require less space and, for larger projects, are the most practical and efficient solution, and should therefore be considered for larger projects.     /     Một cụm chiller làm mát bằng không khí là cụm máy trong đó một hoặc nhiều chiller unit được sử dụng để loại bỏ nhiệt trong tòa nhà. Mỗi chiller trong cụm máy là một thiết bị độc lập gồm các thành phần cơ bản như máy nén, bình ngưng làm mát bằng không khí, thiết bị bay hơi và bộ điều khiển. Chiller truyền nhiệt hấp thụ từ trong tòa nhà trực tiếp vào bầu khí quyển bằng cách thải nhiệt ra không khí và thường thích hợp cho các dự án nhỏ hơn với phụ tải đỉnh làm mát dưới 200TR (700kW). Đây là lựa chọn InterContinental Hotels Group ưu tiên do nguy cơ nhiễm khuẩn Legionella khi làm mát bằng nước. Một cụm chiller làm mát bằng nước là cụm máy sử dụng chiller thải nhiệt vào mạch nước mà không phải không khí. Mạch nước được đưa qua tháp giải nhiệt, nơi nhiệt được thải ra nhờ bay hơi. Đây là một hệ thống hiệu quả hơn do có thể loại bỏ nhiều năng lượng thông qua làm bay hơi 1kg nước so với việc tăng nhiệt độ của một lượng không khí tương đương. Do đó, các cụm chiller làm mát bằng nước hiệu quả hơn và cần ít không gian hơn, đối với các dự án lớn hơn, đây là giải pháp thiết thực và hiệu quả nhất, do đó cần được xem xét cho các dự án lớn hơn.</seg>
       </tuv>
     </tu>
     <tu>
