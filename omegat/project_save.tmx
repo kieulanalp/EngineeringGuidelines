@@ -8459,6 +8459,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These efficiencies (COP’s) are illustrated graphically across the range of chiller operation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T043707Z" creationid="LanHK" creationdate="20210722T043707Z">
+        <seg>These efficiencies (COP’s) are illustrated graphically across the range of chiller operation.     /     Các hiệu suất này (COP - Coefficient of performance hệ số hiệu suất năng lượng) được minh họa bằng hình ảnh trên hàng loạt các dòng chiller`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These must be calculated specifically for each hotel project but any major variations from these must be examined and explained.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T092848Z" creationid="LanHK" creationdate="20210716T092748Z">
