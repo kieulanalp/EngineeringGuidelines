@@ -5549,6 +5549,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noise level of water cooled plant is less than that of air cooled plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T044339Z" creationid="LanHK" creationdate="20210722T044336Z">
+        <seg>Noise level of water cooled plant is less than that of air cooled plant     /     Độ ồn của máy làm mát bằng nước thấp hơn máy làm mát bằng không khí </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-combustible stairs</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T091556Z" creationid="LanHK" creationdate="20210713T091556Z">
@@ -7687,6 +7695,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The cooling towers require continuous monitoring and treatment to avoid the potential risk of Legionnaire’s Disease</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T044529Z" creationid="LanHK" creationdate="20210722T044529Z">
+        <seg>The cooling towers require continuous monitoring and treatment to avoid the potential risk of Legionnaire’s Disease     /     Tháp giải nhiệt cần được giám sát và xử lý liên tục để tránh nguy cơ nhiễm khuẩn Legionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>The cost/ programme benefit ??</note>
       <tuv lang="EN-US">
         <seg>The cost/ programme benefit to the project</seg>
@@ -8033,6 +8049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The main disadvantages of a water cooled system are:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T044442Z" creationid="LanHK" creationdate="20210722T044442Z">
+        <seg>The main disadvantages of a water cooled system are:     /     Các khuyết điểm chủ yếu của hệ thống làm mát bằng nước là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The main fire alarm panel (also known as fire indicator panel) must be located in a constantly staffed position such as the main reception, with both audible and visual alarm on the panel. Specific alarm zone and functioning status of fire detection system must be indicated. If the front desk is not manned at any time the alarm signal must be relayed to a constantly staffed point. A direct interface to the fire authority should only be provided where required by local regulations. This interface must be operated after a predetermined time delay.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T015346Z" creationid="Kieu Lan" creationdate="20210713T015346Z">
@@ -8310,6 +8334,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>The system shall be directly linked to the hotel’s Property Management System (PMS)    /    Front Office System</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system will have a large water use and is dependent on a constant supply of make-up water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T044501Z" creationid="LanHK" creationdate="20210722T044501Z">
+        <seg>The system will have a large water use and is dependent on a constant supply of make-up water     /     Hệ thống sử dụng nhiều nước và liên tục phụ thuộc vào nguồn nước bù</seg>
       </tuv>
     </tu>
     <tu>
@@ -9568,6 +9600,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070827Z" creationid="LanHK" creationdate="20210611T061847Z">
         <seg>In general atria may be either enclosed by fire resisting glazing or may be provided with a smoke and heat control system that will keep escape routes clear for sufficient time to allow the occupants to escape.     /     Nhìn chung các giếng trời có thể được khép kín bằng kính chống cháy hoặc được cung cấp hệ thống kiểm soát khói và nhiệt giúp giữ các lối thoát hiểm thông thoáng đủ lâu để người trong tòa nhà thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cooled chiller of only 10-15 years</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T044423Z" creationid="LanHK" creationdate="20210722T044423Z">
+        <seg>cooled chiller of only 10-15 years     /     Vòng đời của chiller ly tâm làm mát bằng nước nhìn chung khoảng 25 -30 năm, ngược lại, chiller làm mát bằng không khí chỉ được 10-15 năm</seg>
       </tuv>
     </tu>
     <tu>
