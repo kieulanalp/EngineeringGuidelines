@@ -798,6 +798,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>yêu cầu nhiệt độ nước lạnh đầu ra chiller đạt  5 độ</note>
       <tuv lang="EN-US">
         <seg>Air cooled chiller must be rated at 5°C above the design ambient for heat rejection.</seg>
       </tuv>
