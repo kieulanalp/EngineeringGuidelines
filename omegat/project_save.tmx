@@ -1177,8 +1177,8 @@
       <tuv lang="EN-US">
         <seg>As well as the cost of the chiller plant, the electrical infrastructure required for each type can vary significantly, as indicated in the following table, based on a typical 2600kW chiller plant.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T075844Z" creationid="LanHK" creationdate="20210722T065947Z">
-        <seg>As well as the cost of the chiller plant, the electrical infrastructure required for each type can vary significantly, as indicated in the following table, based on a typical 2600kW chiller plant.     /     Ngoài chi phí của tháp giải nhiệt, các cơ sở hạ tầng điện cần thiết cho mỗi loại sẽ khác nhau, theo như bảng sau, dựa trên cơ sở một trạm chiller 2500kW điển hình</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T075911Z" creationid="LanHK" creationdate="20210722T065947Z">
+        <seg>As well as the cost of the chiller plant, the electrical infrastructure required for each type can vary significantly, as indicated in the following table, based on a typical 2600kW chiller plant.     /     Ngoài chi phí của tháp giải nhiệt, các cơ sở hạ tầng điện cần thiết cho mỗi loại sẽ khác nhau, theo như bảng sau, dựa trên cơ sở một trạm chiller 2500kW điển hình </seg>
       </tuv>
     </tu>
     <tu>
@@ -1723,6 +1723,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091331Z">
         <seg>Chilled water Plant Solutions    /    Giải pháp Máy làm lạnh bằng nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chiller Type</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T075927Z" creationid="LanHK" creationdate="20210722T075927Z">
+        <seg>Chiller Type     /     Loại chiller</seg>
       </tuv>
     </tu>
     <tu>
@@ -2388,6 +2396,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022657Z" creationid="LanHK" creationdate="20210717T022657Z">
         <seg>Electrical Plant located correctly (Good Design)     /     Các máy điện bố tri đúng (thiết kế tốt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical Power</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T080139Z" creationid="LanHK" creationdate="20210722T075935Z">
+        <seg>Electrical Power     /     Công suất</seg>
       </tuv>
     </tu>
     <tu>
@@ -9030,6 +9046,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T034803Z" creationid="LanHK" creationdate="20210722T034739Z">
         <seg>Water cooled LV chillers with VSD - 5.5kWr/we (at 30-70% load)     /     Chiller LV làm mát bằng nước với biến áp - 5.5kWr/we (20-70% tải)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water cooled centrifugal or screw</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T084117Z" creationid="LanHK" creationdate="20210722T084117Z">
+        <seg>Water cooled centrifugal or screw     /     Chiller ly tâm hoặc trục vít làm mát bằng nước </seg>
       </tuv>
     </tu>
     <tu>
