@@ -799,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air cooled reciprocating/screw chillers - 1.89kWr/kWe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T042744Z" creationid="LanHK" creationdate="20210722T042744Z">
+        <seg>Air cooled reciprocating/screw chillers - 1.89kWr/kWechiller      /     Chiller piston/trục vít làm mát bằng không khí - 1.89kWr/kWe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air handling Plant (m2)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T023243Z" creationid="LanHK" creationdate="20210717T023243Z">
