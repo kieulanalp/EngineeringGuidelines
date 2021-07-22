@@ -5902,6 +5902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packaged water cooled</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210722T094546Z" creationid="LanHK" creationdate="20210722T094546Z">
+        <seg>Packaged water cooled     /     Chiller nguyên khối giải nhiệt nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parking garages liable to</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100500Z" creationid="LanHK" creationdate="20210713T100500Z">
