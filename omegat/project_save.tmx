@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8349,8 +8349,8 @@
       <tuv lang="EN-US">
         <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T093039Z">
-        <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below:    /    Các tiêu chuẩn được áp dụng sẽ thay đổi phụ thuộc vào vị trí của khách sạn, do đó sẽ có các yêu cầu mâu thuẫn giữa tiêu chuẩn thương hiệu, quy định địa phương, tiêu chuẩn quốc tế và các tiêu chí tiết kiệm năng lượng. Trong tất cả mọi trường hợp, IHG sẽ được thông báo về các yêu cầu mâu thuẫn như sau:</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210723T062923Z" creationid="LanHK" creationdate="20210525T093039Z">
+        <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below:    /    Các tiêu chuẩn được áp dụng sẽ thay đổi phụ thuộc vào vị trí của khách sạn, do đó sẽ có thể các có mâu thuẫn giữa tiêu chuẩn thương hiệu, quy định địa phương, tiêu chuẩn quốc tế và các tiêu chí tiết kiệm năng lượng. Trong tất cả mọi trường hợp, IHG sẽ được thông báo về các yêu cầu mâu thuẫn như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8566,8 +8566,8 @@
       <tuv lang="EN-US">
         <seg>These Engineering and Brand Safety Design Standards have been prepared to enable designers and specifiers of the mechanical, electrical and public health (MEP) services to understand the priorities and requirements of the IHG brand. The standards are not intended to provide inflexible prescriptive requirements but rather form a strategic framework of value, good practice, innovation energy efficiency and longevity from which the designers and specifiers can work. In summary the Brand Standards have been prepared in order to:</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T043149Z" creationid="LanHK" creationdate="20210525T092532Z">
-        <seg>These Engineering and Brand Safety Design Standards have been prepared to enable designers and specifiers of the mechanical, electrical and public health (MEP) services to understand the priorities and requirements of the IHG brand. The standards are not intended to provide inflexible prescriptive requirements but rather form a strategic framework of value, good practice, innovation energy efficiency and longevity from which the designers and specifiers can work. In summary the Brand Standards have been prepared in order to:    /    Bộ tiêu chuẩn Thiết kế Kỹ thuật và An toàn Thương hiệu này được soạn thảo nhằm hỗ trợ thiết kế và các kỹ sư MEP hiểu được các ưu tiên và yêu cầu của thương hiệu IHG. Bộ tiêu chuẩn này không nhằm mục đích cung cấp các yêu cầu không linh hoạt, mà nhằm tạo ra một khung chiến lược bao gồm các giá trị, thực tiễn, các phát kiến về tối ưu hóa và đảm bảo năng lượng, từ đó giúp thiết kế và kỹ sư làm việc. Tóm lại, bộ Tiêu chuẩn Thương hiệu được soạn thảo nhằm:</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210723T062646Z" creationid="LanHK" creationdate="20210525T092532Z">
+        <seg>These Engineering and Brand Safety Design Standards have been prepared to enable designers and specifiers of the mechanical, electrical and public health (MEP) services to understand the priorities and requirements of the IHG brand. The standards are not intended to provide inflexible prescriptive requirements but rather form a strategic framework of value, good practice, innovation energy efficiency and longevity from which the designers and specifiers can work. In summary the Brand Standards have been prepared in order to:    /    Bộ tiêu chuẩn Thiết kế Kỹ thuật và An toàn Thương hiệu này được soạn thảo nhằm hỗ trợ thiết kế và giúp các kỹ sư MEP hiểu được các ưu tiên và yêu cầu của thương hiệu IHG. Bộ tiêu chuẩn này không nhằm mục đích cung cấp các yêu cầu không linh hoạt, mà nhằm tạo ra một khung chiến lược bao gồm các giá trị, thực tiễn, các phát kiến về tối ưu hóa và đảm bảo năng lượng, từ đó giúp thiết kế và kỹ sư làm việc. Tóm lại, bộ Tiêu chuẩn Thương hiệu được soạn thảo nhằm:</seg>
       </tuv>
     </tu>
     <tu>
