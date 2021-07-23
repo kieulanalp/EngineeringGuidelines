@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8752,8 +8752,8 @@
       <tuv lang="EN-US">
         <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T101218Z" creationid="LanHK" creationdate="20210722T101218Z">
-        <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.     /     Thoát nước ngưng bằng trọng lực sẽ được bố trí dưới tất cả các cuộn làm mát, bất kể mức độ</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210723T100625Z" creationid="LanHK" creationdate="20210722T101218Z">
+        <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.     /     Thoát nước ngưng bằng trọng lực sẽ được bố trí dưới tất cả các cuộn làm mát, bất kể mức độ thải nhiệt</seg>
       </tuv>
     </tu>
     <tu>
