@@ -4749,6 +4749,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KEY:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T040953Z" creationid="LanHK" creationdate="20210724T040953Z">
+        <seg>KEY:-     /     ký hiệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep cable joints to a minimum - junction boxes to be marked ‘Fire Alarm’</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210706T084201Z" creationid="Kieu Lan" creationdate="20210706T082903Z">
