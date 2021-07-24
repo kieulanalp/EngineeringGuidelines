@@ -54,6 +54,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>lại chiller LV? xem seg 2740</note>
+      <tuv lang="EN-US">
+        <seg>----- Water Cooled centrifugal LV chiller (1053 kW) with VFD ■</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T041132Z" creationid="LanHK" creationdate="20210724T041132Z">
+        <seg>----- Water Cooled centrifugal LV chiller (1053 kW) with VFD     /     Chiller ly tâm LV giải nhiệt nước</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>-DEPARTMENT ON CLIMATE ZONE</seg>
       </tuv>
