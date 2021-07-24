@@ -9298,6 +9298,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where external pipework is not avoidable, it shall be trace heated using a self-regulating trace heating tape, or adequately protected from freezing as necessary. Glycol shall not be added to the system as this will reduce the heat transfer efficacy of the heating and chilled water systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T034618Z" creationid="LanHK" creationdate="20210724T034618Z">
+        <seg>Where external pipework is not avoidable, it shall be trace heated using a self-regulating trace heating tape, or adequately protected from freezing as necessary. Glycol shall not be added to the system as this will reduce the heat transfer efficacy of the heating and chilled water systems.     /     Nếu không thể tránh sử dụng đường ống bên ngoài, cần bô trí sưởi cho đường ống bằng cáp gia nhiệt đường ống tự điều chỉnh, hoặc được bảo vệ ở mức tương đương để tránh đóng băng nếu cần. Không được cho thêm glycol vào hệ thống vì nó sẽ làm giảm khả năng truyền nhiệt của hệ thông gia nhiệt và làm mát nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where fire voice evacuation system speakers are also used as public address and background music, the systems must be completely separate with only the speakers and cabling systems being common.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T072428Z" creationid="Kieu Lan" creationdate="20210705T072428Z">
