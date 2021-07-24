@@ -5485,6 +5485,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Modulating two port control valves </note>
+      <tuv lang="EN-US">
+        <seg>Modulating two port control valves shall be installed on all FCU’s and AHU’s with a pressure operated bypass installed in the plant room between the main flow and return, to maintain the minimum recommended flow rate through the chillers and pumps controlled via a VFD.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T033213Z" creationid="LanHK" creationdate="20210724T033213Z">
+        <seg>Modulating two port control valves shall be installed on all FCU’s and AHU’s with a pressure operated bypass installed in the plant room between the main flow and return, to maintain the minimum recommended flow rate through the chillers and pumps controlled via a VFD.     /     Modulating two port control valves sẽ được lắp tại tất cả FCU và AHU với một van bypass vận hành do áp suất, được lắp đặt trong phòng máy giữa dòng đường ống chính và ống hồi để đảm bảo lưu lượng tối thiểu được khuyến nghị  qua chiller</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>More than 1000 people - a minimum of four exits but additional exits provided where necessary and approved by IHG</seg>
       </tuv>
