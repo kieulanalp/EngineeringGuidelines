@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1174,6 +1174,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T064021Z" creationid="LanHK" creationdate="20210715T063717Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As an Air Cooled Chiller:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T044932Z" creationid="LanHK" creationdate="20210724T044932Z">
+        <seg>As an Air Cooled Chiller:     /     Chiller giải nhiệt gió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As an Air Heat Pump:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T045112Z" creationid="LanHK" creationdate="20210724T045112Z">
+        <seg>As an Air Heat Pump:     /     Bơm nhiệt không khí </seg>
       </tuv>
     </tu>
     <tu>
@@ -4297,6 +4313,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091337Z" creationid="LanHK" creationdate="20210702T084355Z">
         <seg>IHG preference is for a central battery system due to its life cycle cost benefits and the following advantages:     /     IHG ưu tiên sử dụng hệ thống pin trung tâm do ưu thế về lợi ích và chi phí vòng đời hệ thống và các ưu điểm sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INDEPENDENT CHILLED WATER PRODUCTION:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T044923Z" creationid="LanHK" creationdate="20210724T044923Z">
+        <seg>INDEPENDENT CHILLED WATER PRODUCTION:;;;Sản xuất nước mát độc lập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INDEPENDENT HOT WATER PRODUCTION:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T045043Z" creationid="LanHK" creationdate="20210724T045043Z">
+        <seg>INDEPENDENT HOT WATER PRODUCTION::::Sản xuất nước nóng độc lập</seg>
       </tuv>
     </tu>
     <tu>
@@ -8629,6 +8661,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The unit operates in air cooled chiller mode when there is no demand for hot water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T045011Z" creationid="LanHK" creationdate="20210724T045011Z">
+        <seg>The unit operates in air cooled chiller mode when there is no demand for hot water     /     Unit hoạt động trong chế độ chiller giải nhiệt gió khi không có nhu cầu nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The use of combustible furnishings and decorations on the floor of the atrium must be limited and sparsely</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T035230Z" creationid="LanHK" creationdate="20210611T035230Z">
@@ -9768,6 +9808,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091433Z" creationid="LanHK" creationdate="20210702T091433Z">
         <seg>b) Central Systems     /     b) Các hệ thống trung tâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b) Multi-Function</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T044825Z" creationid="LanHK" creationdate="20210724T044825Z">
+        <seg>b) Multi-Function     /     Đa  chức năng</seg>
       </tuv>
     </tu>
     <tu>
