@@ -5489,8 +5489,8 @@
       <tuv lang="EN-US">
         <seg>Modulating two port control valves shall be installed on all FCU’s and AHU’s with a pressure operated bypass installed in the plant room between the main flow and return, to maintain the minimum recommended flow rate through the chillers and pumps controlled via a VFD.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210724T033213Z" creationid="LanHK" creationdate="20210724T033213Z">
-        <seg>Modulating two port control valves shall be installed on all FCU’s and AHU’s with a pressure operated bypass installed in the plant room between the main flow and return, to maintain the minimum recommended flow rate through the chillers and pumps controlled via a VFD.     /     Modulating two port control valves sẽ được lắp tại tất cả FCU và AHU với một van bypass vận hành do áp suất, được lắp đặt trong phòng máy giữa dòng đường ống chính và ống hồi để đảm bảo lưu lượng tối thiểu được khuyến nghị  qua chiller</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T033300Z" creationid="LanHK" creationdate="20210724T033213Z">
+        <seg>Modulating two port control valves shall be installed on all FCU’s and AHU’s with a pressure operated bypass installed in the plant room between the main flow and return, to maintain the minimum recommended flow rate through the chillers and pumps controlled via a VFD.     /     Modulating two port control valves sẽ được lắp tại tất cả FCU và AHU với một van bypass vận hành do áp suất, được lắp đặt trong phòng máy giữa dòng đường ống chính và ống hồi để đảm bảo lưu lượng tối thiểu được khuyến nghị  qua chiller và bơm được điều khiển thông qua biến tần</seg>
       </tuv>
     </tu>
     <tu>
@@ -5939,6 +5939,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T020235Z" creationid="LanHK" creationdate="20210603T020208Z">
         <seg>Phased evacuation (that is where a limited number of floors are evacuated in phases with guests remaining on other floors) is not permitted and stairs must be of sufficient size to allow the simultaneous evacuation of the occupants of the whole hotel.        /       Thoát hiểm theo giai đoạn (một số tầng được thoát hiểm theo giai đoạn với khách vẫn ở trên các tầng khác) không được phép và các thang bộ phải đủ lớn để cho phép tất cả khách trong khách sạn thoát hiểm đồng thời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pipe distribution Zones should tie up with domestic water service zones for future phased refurbishments and maintenance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T033358Z" creationid="LanHK" creationdate="20210724T033358Z">
+        <seg>Pipe distribution Zones should tie up with domestic water service zones for future phased refurbishments and maintenance.     /     Các zone đường ống phân phối nên liên kết với các zone phục vụ nước sinh hoạt cho các giai đoạn cải tạo và bảo dưỡng về sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -7887,6 +7895,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T061634Z" creationid="Kieu Lan" creationdate="20210628T061634Z">
         <seg>The device may be battery powered a plug-in device with battery backup, or a device that is either wired into the power line with a secondary battery backup or connected to a system via a panel.     /     Thiết bị có thể chạy bằng pin, bằng nguồn điện từ ổ cắm với pin dự phòng, hoặc bằng cách đấu nối vào đường điện với pin dự phòng hoặc kết nối vào hệ thống thông qua một panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The distribution system shall be designed for energy efficient operation. Pipework sizing and fitting selection shall ensure that noise is not created within the system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T034057Z" creationid="LanHK" creationdate="20210724T034057Z">
+        <seg>The distribution system shall be designed for energy efficient operation. Pipework sizing and fitting selection shall ensure that noise is not created within the system.     /     Hệ thống phân phối được thiết kế để đảm bảo vận hành hiệu quả. Lựa chọn kích thước và cách lắp đặt đường ống sẽ đảm bảo không tạo ra tiếng ồn trong hệ thống</seg>
       </tuv>
     </tu>
     <tu>
