@@ -1551,6 +1551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHILLER TYPE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T041000Z" creationid="LanHK" creationdate="20210724T041000Z">
+        <seg>CHILLER TYPE     /     loại chiller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CIE - Control and Indicating Equipment</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T024920Z" creationid="LanHK" creationdate="20210610T024920Z">
@@ -10430,10 +10438,26 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1053 kW) without VFD</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T041053Z" creationid="LanHK" creationdate="20210724T041053Z">
+        <seg>(1053 kW) without VFD     /     (1053 kW) không biến tần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>‘Passive’ meaning fire resisting walls, floors, doors and ‘active’ meaning fire alarm and detection, sprinkler, smoke control systems.</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210723T063645Z" creationid="LanHK" creationdate="20210602T012608Z">
         <seg>‘Passive’ meaning fire resisting walls, floors, doors and ‘active’ meaning fire alarm and detection, sprinkler, smoke control systems.        /       "Bị động" là tường, sàn, cửa ngăn cháy và "chủ động" là hệ thống phát hiện và báo cháy, sprinkler, các hệ thống kiểm soát khói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“““““ Air Cooled Retry Screw</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T041028Z" creationid="LanHK" creationdate="20210724T041028Z">
+        <seg>“““““ Air Cooled Rotry Screw     /     Chiller trục vít giải nhiệt gió</seg>
       </tuv>
     </tu>
     <tu>
