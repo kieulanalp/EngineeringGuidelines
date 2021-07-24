@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2876,6 +2876,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expansion valve</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T044733Z" creationid="LanHK" creationdate="20210724T042227Z">
+        <seg>Expansion valve     /     Van mở rộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expected life in the order of 25 to 30 years</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T022150Z" creationid="LanHK" creationdate="20210715T021924Z">
@@ -4193,6 +4201,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154708Z" creationid="Kieu Lan" creationdate="20210405T154706Z">
         <seg>Hot Water Nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot water recovery exchanger</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T044806Z" creationid="LanHK" creationdate="20210724T044729Z">
+        <seg>Hot water recovery exchanger     /     Bộ trao đổi thu hồi nhiệt nước nóng</seg>
       </tuv>
     </tu>
     <tu>
