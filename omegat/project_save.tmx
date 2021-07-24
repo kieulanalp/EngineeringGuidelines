@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1174,6 +1174,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T064021Z" creationid="LanHK" creationdate="20210715T063717Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a Total Heat Recovery: when there is demand for hot water as well as chilled water, unit operates in total heat recovery mode. When one of the demand is fulfilled, unit changes to chiller or heat pump mode.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T045451Z" creationid="LanHK" creationdate="20210724T045451Z">
+        <seg>As a Total Heat Recovery: when there is demand for hot water as well as chilled water, unit operates in total heat recovery mode. When one of the demand is fulfilled, unit changes to chiller or heat pump mode.     /     </seg>
       </tuv>
     </tu>
     <tu>
@@ -6728,6 +6736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SIMULTANEOUS HOT WATER &amp; CHILLED WATER PRODUCTION;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T045215Z" creationid="LanHK" creationdate="20210724T045215Z">
+        <seg>SIMULTANEOUS HOT WATER &amp; CHILLED WATER PRODUCTION:;;;Đồng thời sản xuất nước nóng và nước mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SIP - Sub Indicator Panel (also known as Repeater or Sub Alarm Panel)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T054013Z">
@@ -8665,6 +8681,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T045011Z" creationid="LanHK" creationdate="20210724T045011Z">
         <seg>The unit operates in air cooled chiller mode when there is no demand for hot water     /     Unit hoạt động trong chế độ chiller giải nhiệt gió khi không có nhu cầu nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The unit operates in air heat pump mode when there is no demand for chilled water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T045143Z" creationid="LanHK" creationdate="20210724T045143Z">
+        <seg>The unit operates in air heat pump mode when there is no demand for chilled water     /     Unit hoạt động trong chế độ bơm nhiệt không khí khi không có nhu cầu nước mát</seg>
       </tuv>
     </tu>
     <tu>
