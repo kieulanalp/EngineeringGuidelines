@@ -7634,6 +7634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TYPICAL SCHEMATIC MULTI-FUNCTION HEAT RECOVERY CHILLER</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T041834Z" creationid="LanHK" creationdate="20210724T041834Z">
+        <seg>TYPICAL SCHEMATIC MULTI-FUNCTION HEAT RECOVERY CHILLER;;; sơ đồ chiller đa chứ năng thu hồi nhiệt điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 1 - Two Stage Fire Alarm and Detection System –Sample Cause and Effect Matrix – for information only</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T040645Z" creationid="Kieu Lan" creationdate="20210713T040645Z">
