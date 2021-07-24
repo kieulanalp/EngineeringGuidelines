@@ -729,8 +729,8 @@
       <tuv lang="EN-US">
         <seg>Actual will be approximately 40% higher as there is no or little diversity with plant selection as for these options.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210722T100715Z" creationid="LanHK" creationdate="20210722T100715Z">
-        <seg>Actual will be approximately 40% higher as there is no or little diversity with plant selection as for these options.     /     Công suất htực tế sẽ cao hơn khoảng 40% do không có hoặc có rất ít lựa chọn máy cho các phương án trên</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T014942Z" creationid="LanHK" creationdate="20210722T100715Z">
+        <seg>Actual will be approximately 40% higher as there is no or little diversity with plant selection as for these options.     /     Công suất thực tế sẽ cao hơn khoảng 40% do không có hoặc có rất ít lựa chọn máy cho các phương án trên</seg>
       </tuv>
     </tu>
     <tu>
@@ -8749,11 +8749,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>không rõ nghĩa lắm??</note>
       <tuv lang="EN-US">
         <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210723T100625Z" creationid="LanHK" creationdate="20210722T101218Z">
-        <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.     /     Thoát nước ngưng bằng trọng lực sẽ được bố trí dưới tất cả các cuộn làm mát, bất kể mức độ thải nhiệt</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T015733Z" creationid="LanHK" creationdate="20210722T101218Z">
+        <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.     /     Thoát nước ngưng bằng trọng lực sẽ được bố trí dưới tất cả các cuộn làm mát, bất kể mức độ thải ẩn nhiệt hoặc nhiệt độ nước lạnh</seg>
       </tuv>
     </tu>
     <tu>
