@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5954,8 +5954,8 @@
       <tuv lang="EN-US">
         <seg>Outline schematic layouts to illustrate the fire strategy</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T013940Z" creationid="LanHK" creationdate="20210602T013926Z">
-        <seg>Outline schematic layouts to illustrate the fire strategy         /       Sơ đồ nguyên tắc để minh họa cho chiến lược PCCC</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T045019Z" creationid="LanHK" creationdate="20210602T013926Z">
+        <seg>Outline schematic layouts to illustrate the fire strategy         /       Sơ đồ nguyên lý để minh họa cho chiến lược PCCC</seg>
       </tuv>
     </tu>
     <tu>
@@ -7950,8 +7950,8 @@
       <tuv lang="EN-US">
         <seg>The design of these systems is to ensure they are effective, fit for purpose and will ensure a safe environment for guests and staff whilst simplifying the operation and maintenance of the fire systems as much as practically possible. Section 1.1 of this document identifies acceptable standards to achieve these aims.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T012734Z" creationid="LanHK" creationdate="20210602T012734Z">
-        <seg>The design of these systems is to ensure they are effective, fit for purpose and will ensure a safe environment for guests and staff whilst simplifying the operation and maintenance of the fire systems as much as practically possible. Section 1.1 of this document identifies acceptable standards to achieve these aims.        /       Việc thiết kế các hệ thống này là nhằm đảm bảo tính hiệu quả, phù hợp với chức năng và sẽ đảm bảo một môi trường an toàn cho khách khứa và nhân viên, đồng thời đơn giản hóa việc vận hành và bảo trì hệ thống PCCC hết mức có thể. Mục 1.1 của tài liệu này liệt kê các tiêu chuẩn được chấp nhận để đạt được những mục tiêu trên</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T044501Z" creationid="LanHK" creationdate="20210602T012734Z">
+        <seg>The design of these systems is to ensure they are effective, fit for purpose and will ensure a safe environment for guests and staff whilst simplifying the operation and maintenance of the fire systems as much as practically possible. Section 1.1 of this document identifies acceptable standards to achieve these aims.        /       Việc thiết kế các hệ thống này là nhằm đảm bảo tính hiệu quả, phù hợp với chức năng và sẽ đảm bảo một môi trường an toàn cho khách và nhân viên, đồng thời đơn giản hóa việc vận hành và bảo trì hệ thống PCCC hết mức có thể. Mục 1.1 của tài liệu này liệt kê các tiêu chuẩn được chấp nhận để đạt được những mục tiêu trên</seg>
       </tuv>
     </tu>
     <tu>
@@ -7998,8 +7998,8 @@
       <tuv lang="EN-US">
         <seg>The designers (including fire, MEP, architectural, interior) must provide a fire safety strategy for the whole building, which must include all passive and active systems, and clearly show:-</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T012846Z" creationid="LanHK" creationdate="20210602T012846Z">
-        <seg>The designers (including fire, MEP, architectural, interior) must provide a fire safety strategy for the whole building, which must include all passive and active systems, and clearly show:-        /       Thiết kế (gồm PCCC, MEP, Kiến trúc, Nội thất) phải cung cấp một bản chiến lược PCCC cho toàn bộ tòa nhà, trong đó gồm tất cả các hệ thôgns bị động và chủ động, và chiến lược này cần cho thấy rõ</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T044704Z" creationid="LanHK" creationdate="20210602T012846Z">
+        <seg>The designers (including fire, MEP, architectural, interior) must provide a fire safety strategy for the whole building, which must include all passive and active systems, and clearly show:-        /       Thiết kế (gồm PCCC, MEP, Kiến trúc, Nội thất) phải cung cấp một chiến lược an toàn PCCC cho toàn bộ tòa nhà, trong đó gồm tất cả các hệ  bị động và chủ độngthống, và chiến lược này cần cho thấy rõ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8407,8 +8407,8 @@
       <tuv lang="EN-US">
         <seg>The provision of facilities to assist the fire services in locating and fighting fires.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T013538Z" creationid="LanHK" creationdate="20210602T013538Z">
-        <seg>The provision of facilities to assist the fire services in locating and fighting fires.        /       Cơ sở vật chất được cung cấp để hỗ trợ lực lượng PCCC xác định vị trí và dập lửa</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T044958Z" creationid="LanHK" creationdate="20210602T013538Z">
+        <seg>The provision of facilities to assist the fire services in locating and fighting fires.        /       Cơ sở vật chất được cung cấp để hỗ trợ lực lượng PCCC xác định vị trí và chữa cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -9897,8 +9897,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>details of the standards/codes to be adopted in the design of these services.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T013405Z" creationid="LanHK" creationdate="20210602T013203Z">
-        <seg>details of the standards/codes to be adopted in the design of these services.        /       Tính đầy đủ của các dịch vụ được thiết kế để phát hiện và chống lan lửa và khói - bao gồm chi tiết về các tiêu chuẩn/quy tắc sẽ được áp dụng khi thiết kế các dịch vụ này</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T044919Z" creationid="LanHK" creationdate="20210602T013203Z">
+        <seg>details of the standards/codes to be adopted in the design of these services.        /       Tính đầy đủ của các hạng mục được thiết kế để phát hiện và chống lan lửa và khói - bao gồm chi tiết về các tiêu chuẩn/quy tắc sẽ được áp dụng khi thiết kế các hạng mục này</seg>
       </tuv>
     </tu>
     <tu>
@@ -10153,8 +10153,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>of occupants, identification of fire compartmentation, fire doors and shutters.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T013152Z" creationid="LanHK" creationdate="20210602T013152Z">
-        <seg>of occupants, identification of fire compartmentation, fire doors and shutters.        /       Các yếu tố kiến trúc chống cháy lan, chống khói lan, bao gồm cả việc cung cấp lối thoát cho người trong tòa nhà, xác định khoang ngăn cháy lan, cửa ra vào và cửa cuốn chống cháy</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T044820Z" creationid="LanHK" creationdate="20210602T013152Z">
+        <seg>of occupants, identification of fire compartmentation, fire doors and shutters.        /       Các yếu tố kiến trúc chống cháy lan, chống khói lan, bao gồm cả việc cung cấp lối thoát nạn cho người trong tòa nhà, nhận dạng khoang ngăn cháy lan, cửa ra vào và cửa cuốn chống cháy</seg>
       </tuv>
     </tu>
     <tu>
