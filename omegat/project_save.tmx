@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6170,8 +6170,8 @@
       <tuv lang="EN-US">
         <seg>Property Section 1 Fire and Life Safety.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T100751Z">
-        <seg>Property Section 1 Fire and Life Safety.        /       Mục về tài sản 1 Tiêu chuẩn An toàn Sinh mạng và PCCC</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T044404Z" creationid="LanHK" creationdate="20210601T100751Z">
+        <seg>Property Section 1 Fire and Life Safety.        /       Mục 1 về tài sản Tiêu chuẩn An toàn Sinh mạng và PCCC</seg>
       </tuv>
     </tu>
     <tu>
