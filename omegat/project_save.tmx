@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2998,8 +2998,8 @@
       <tuv lang="EN-US">
         <seg>FIRE SAFETY REGULATIONS</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T014431Z" creationid="LanHK" creationdate="20210602T014431Z">
-        <seg>FIRE SAFETY REGULATIONS         /       QUY ĐỊNH PCCC</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T045304Z" creationid="LanHK" creationdate="20210602T014431Z">
+        <seg>FIRE SAFETY REGULATIONS         /       QUY ĐỊNH AN TOÀN PCCC</seg>
       </tuv>
     </tu>
     <tu>
@@ -3575,8 +3575,8 @@
       <tuv lang="EN-US">
         <seg>For relevant Country/State Local Requirement</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T014505Z" creationid="LanHK" creationdate="20210602T014459Z">
-        <seg>For relevant Country/State Local Requirement        /       Các quy định, yêu cầu quốc gia/địa phương quan trọng</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T045236Z" creationid="LanHK" creationdate="20210602T014459Z">
+        <seg>For relevant Country/State Local Requirement        /       Các quy định, yêu cầu quốc gia/địa phương liên quan</seg>
       </tuv>
     </tu>
     <tu>
@@ -4952,8 +4952,8 @@
       <tuv lang="EN-US">
         <seg>LOCAL GOVERNMENT DEPARTMENTS e.g. home office, provide guidance</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T034741Z" creationid="LanHK" creationdate="20210602T014542Z">
-        <seg>LOCAL GOVERNMENT DEPARTMENTS        /       BAN NGÀNH ĐỊA PHƯƠNG  e.g. home office, provide guidance        /       vd. home office, cung cấp hướng dẫn</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210724T045350Z" creationid="LanHK" creationdate="20210602T014542Z">
+        <seg>LOCAL GOVERNMENT DEPARTMENTS        /      SỞ BAN NGÀNH ĐỊA PHƯƠNG  e.g. home office, provide guidance        /       vd. cơ quan địa phương, cung cấp hướng dẫn</seg>
       </tuv>
     </tu>
     <tu>
