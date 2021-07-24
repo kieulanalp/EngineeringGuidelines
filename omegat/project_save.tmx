@@ -1776,6 +1776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chilled water exchanger</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T042220Z" creationid="LanHK" creationdate="20210724T042220Z">
+        <seg>Chilled water exchanger     /     Bộ trao đổi nhiệt nước mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chiller Type</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T075927Z" creationid="LanHK" creationdate="20210722T075927Z">
@@ -1876,6 +1884,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T110936Z">
         <seg>Communication with continuously staffed position     /     Kết nối tới vị trí luôn có nhân viên trực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compressor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T041949Z" creationid="LanHK" creationdate="20210724T041949Z">
+        <seg>Compressor     /     Máy nén</seg>
       </tuv>
     </tu>
     <tu>
@@ -6392,6 +6408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recent Cost Benefit Analysis for Delhi Project 2 year payback</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T042007Z" creationid="LanHK" creationdate="20210724T042007Z">
+        <seg>Recent Cost Benefit Analysis for Delhi Project 2 year payback     /     Phân tích chi phí-lợi ích cho dự án Delhi, 2 năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reception - General</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063317Z" creationid="LanHK" creationdate="20210715T063317Z">
@@ -6932,6 +6956,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T103526Z" creationid="LanHK" creationdate="20210716T103526Z">
         <seg>Similarly, for air handling plant rooms, these should be located adjacent to the space they serve in order to minimize capital costs and ongoing fan power consumed and duct space for distribution.     /     Tương tự, đối với các phòng máy xử lý không khí, chúng nên được bố trí gần các không gian chúng phục vụ để giảm thiểu chi phí đầu tư và năng lượng để duy trì quạt chạy và không gian cho đường ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple water cooled heat pump (heating mode version) arrangement</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T041945Z" creationid="LanHK" creationdate="20210724T041945Z">
+        <seg>Simple water cooled heat pump (heating mode version) arrangement     /     Bố trí bơm nhiệt giải nhiệt nước đơn giản (chế độ làm nóng)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9591,6 +9623,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091417Z" creationid="LanHK" creationdate="20210702T091417Z">
         <seg>a) Self-Contained (minimum 1 hour or 90 minutes for Asia)     /     a) Pin tích hợp (tối thiểu 1h hoặc 90p đối với châu Á)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a) Traditional</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210724T041907Z" creationid="LanHK" creationdate="20210724T041907Z">
+        <seg>a) Traditional     /     Truyền thống</seg>
       </tuv>
     </tu>
     <tu>
