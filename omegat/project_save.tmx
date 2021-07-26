@@ -1186,6 +1186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a Total Heat Recovery:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210726T091317Z" creationid="LanHK" creationdate="20210726T091317Z">
+        <seg>As a Total Heat Recovery:;;;Thu hồi nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a Total Heat Recovery: when there is demand for hot water as well as chilled water, unit operates in total heat recovery mode. When one of the demand is fulfilled, unit changes to chiller or heat pump mode.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T045451Z" creationid="LanHK" creationdate="20210724T045451Z">
@@ -6756,6 +6764,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082927Z" creationid="Kieu Lan" creationdate="20210713T082927Z">
         <seg>Russia, CIS, Balkans     /     Nga, Cộng đồng các Quốc gia Độc lập, Balkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SIMULTANEOUS HOT WATER &amp; CHILLED WATER PRODUCTION.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210726T091301Z" creationid="LanHK" creationdate="20210726T091301Z">
+        <seg>SIMULTANEOUS HOT WATER &amp; CHILLED WATER PRODUCTION:;;;Đồng thời sản xuất nước nóng và nước mát</seg>
       </tuv>
     </tu>
     <tu>
