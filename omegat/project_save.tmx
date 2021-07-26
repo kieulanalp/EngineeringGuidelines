@@ -666,8 +666,8 @@
       <tuv lang="EN-US">
         <seg>A vent at roof level</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T102954Z" creationid="LanHK" creationdate="20210602T102954Z">
-        <seg>A vent at roof level        /       có lỗ thông trên tầng mái</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T073351Z" creationid="LanHK" creationdate="20210602T102954Z">
+        <seg>A vent at roof level        /       có lỗ thông khí trên tầng mái</seg>
       </tuv>
     </tu>
     <tu>
@@ -6594,8 +6594,8 @@
       <tuv lang="EN-US">
         <seg>Refuse chutes present a fire and health hazard and should not be installed.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T103327Z" creationid="LanHK" creationdate="20210602T103327Z">
-        <seg>Refuse chutes present a fire and health hazard and should not be installed.        /       Ống thả rác tạo ra nguy cơ gây cháy và nguy cơ đối với sức khỏe và không nên lắp đặt</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T073646Z" creationid="LanHK" creationdate="20210602T103327Z">
+        <seg>Refuse chutes present a fire and health hazard and should not be installed.        /       Ống thả rác tạo ra nguy cơ gây cháy và nguy hại đối với sức khỏe và không nên lắp đặt</seg>
       </tuv>
     </tu>
     <tu>
