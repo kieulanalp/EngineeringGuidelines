@@ -5481,8 +5481,8 @@
       <tuv lang="EN-US">
         <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T030402Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)        /       Phòng máy và các phòng hoặc khu vực liền kề (120p)</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T020457Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Mechanical / plant rooms and adjoining rooms or areas (120 minutes)        /       Phòng máy/Phòng kĩ thuật và các phòng hoặc khu vực liền kề (120p)</seg>
       </tuv>
     </tu>
     <tu>
