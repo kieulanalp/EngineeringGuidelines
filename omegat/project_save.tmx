@@ -3079,8 +3079,8 @@
       <tuv lang="EN-US">
         <seg>False ceiling</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T050113Z" creationid="LanHK" creationdate="20210602T050113Z">
-        <seg>False ceiling        /       trần nổi</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T064411Z" creationid="LanHK" creationdate="20210602T050113Z">
+        <seg>False ceiling        /       trần giả</seg>
       </tuv>
     </tu>
     <tu>
@@ -3119,8 +3119,8 @@
       <tuv lang="EN-US">
         <seg>File resisting walls extend to the floor above and do not end at the false ceiling</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T050108Z" creationid="LanHK" creationdate="20210602T050108Z">
-        <seg>File resisting walls extend to the floor above and do not end at the false ceiling        /       tường chống cháy kéo dài đến tầng trên và không dừng ở trần nổi</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T064407Z" creationid="LanHK" creationdate="20210602T050108Z">
+        <seg>File resisting walls extend to the floor above and do not end at the false ceiling        /       tường chống cháy kéo dài đến tầng trên và không dừng ở trần giả</seg>
       </tuv>
     </tu>
     <tu>
@@ -3215,8 +3215,8 @@
       <tuv lang="EN-US">
         <seg>Fire Resisting Doors</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074854Z">
-        <seg>Fire Resisting Doors    /    Cửa ngăn cháy</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T064452Z" creationid="LanHK" creationdate="20210525T074854Z">
+        <seg>Fire Resisting Doors    /    Cửa chống cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -3375,8 +3375,8 @@
       <tuv lang="EN-US">
         <seg>Fire protected corridor</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T050149Z" creationid="LanHK" creationdate="20210602T050149Z">
-        <seg>Fire protected corridor        /       hành lang chống cháy</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T064443Z" creationid="LanHK" creationdate="20210602T050149Z">
+        <seg>Fire protected corridor        /       Hành lang chống cháy</seg>
       </tuv>
     </tu>
     <tu>
