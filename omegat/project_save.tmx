@@ -913,6 +913,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All cooling towers should be operated simultaneously with variable speed drives to save energy, whilst still optimizing the condenser water temperature for increased chiller efficiency.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210726T092212Z" creationid="LanHK" creationdate="20210726T092212Z">
+        <seg>All cooling towers should be operated simultaneously with variable speed drives to save energy, whilst still optimizing the condenser water temperature for increased chiller efficiency.     /     Tất cả tháp giải nhiệt sẽ vận hành đồng thời với biến áp để tiết kiệm năng lượng, trong khi vẫn tối ưu hóa nhiệt độ nước dàn ngưng để tăng hiệu suất chiller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All exits must not discharge into the same area such as the breakout space so that a fire cannot cut-off all means of escape.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T033819Z" creationid="LanHK" creationdate="20210610T033819Z">
@@ -8737,6 +8745,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T035230Z" creationid="LanHK" creationdate="20210611T035230Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The use of condenser water as a low grade heat source should be investigated.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210726T100415Z" creationid="LanHK" creationdate="20210726T100415Z">
+        <seg>The use of condenser water as a low grade heat source should be investigated.     /     Cần nghiên cứu việc sử dụng nước bình ngưng làm nguồn nhiệt thấp</seg>
       </tuv>
     </tu>
     <tu>
