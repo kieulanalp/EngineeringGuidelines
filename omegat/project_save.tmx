@@ -186,8 +186,8 @@
       <tuv lang="EN-US">
         <seg>120 minutes + sprinkler protection</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210701T022810Z" creationid="LanHK" creationdate="20210701T022810Z">
-        <seg>120 minutes + sprinkler </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T020005Z" creationid="LanHK" creationdate="20210701T022810Z">
+        <seg>120 minutes + sprinkler         /   120p + bảo vệ với sprinkler</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>60 minutes + sprinkler protection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T015906Z" creationid="PHUONG.DTM" creationdate="20210726T015906Z">
+        <seg>60 minutes + sprinkler protection        /   60p + bảo vệ với sprinkler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75dB (A) at the bed-head and 65dB (A) elsewhere lasting 10 seconds</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064321Z" creationid="Kieu Lan" creationdate="20210705T064321Z">
@@ -484,16 +492,16 @@
       <tuv lang="EN-US">
         <seg>90 minutes + sprinkler protection</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210701T022812Z" creationid="LanHK" creationdate="20210701T022812Z">
-        <seg>120 minutes + sprinkler</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T015827Z" creationid="LanHK" creationdate="20210701T022812Z">
+        <seg>120 minutes + sprinkler        /       120p + bảo vệ với sprinkler</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>90 minutes or 60 minutes + sprinkler protection</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T023857Z" creationid="LanHK" creationdate="20210602T023857Z">
-        <seg>90 minutes or 60 minutes + sprinkler protection        /       90p hoặc 60p+sprinkler</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T015755Z" creationid="LanHK" creationdate="20210602T023857Z">
+        <seg>90 minutes or 60 minutes + sprinkler protection        /       90p hoặc 60p + bảo vệ với sprinkler</seg>
       </tuv>
     </tu>
     <tu>
@@ -2620,8 +2628,8 @@
       <tuv lang="EN-US">
         <seg>Elevator shafts, flues &amp; pipe chases in all construction above four stories</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210602T024908Z" creationid="LanHK" creationdate="20210602T024908Z">
-        <seg>Elevator shafts, flues &amp; pipe chases in all construction above four stories        /       Trục thang máy, đường ống khí thải và ống dẫn trong tất cả các tòa nhà hơn bốn tầng</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T015949Z" creationid="LanHK" creationdate="20210602T024908Z">
+        <seg>Elevator shafts, flues &amp; pipe chases in all construction above four stories        /       Trục thang máy, đường ống khí và ống dẫn trong tất cả các tòa nhà hơn bốn tầng</seg>
       </tuv>
     </tu>
     <tu>
