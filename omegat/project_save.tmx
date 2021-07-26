@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1556,6 +1556,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T092331Z" creationid="LanHK" creationdate="20210716T092331Z">
         <seg>Building construction type,     /     Loại hình thi công tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building height is measured from the fire brigade access level to finished floor level of the highest floor with guest access. This includes guestrooms, restaurants, meeting rooms and fitness facilities. It does not include mechanical and plant rooms, storerooms and offices.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T015540Z" creationid="PHUONG.DTM" creationdate="20210726T015540Z">
+        <seg>Building height is measured from the fire brigade access level to finished floor level of the highest floor with guest access. This includes guestrooms, restaurants, meeting rooms and fitness facilities. It does not include mechanical and plant rooms, storerooms and offices.        /       Chiều cao tòa nhà được tính toán từ tiếp cận của tầng tiếp cận của lực lượng phòng cháy tới tầng hoàn thiện cao nhất có tiếp cận cho khách. Bao gồm các phòng khách, các nhà hàng, các phòng họp, các phòng tập; không bao gồm các phòng kĩ thuật, kho và văn phòng. </seg>
       </tuv>
     </tu>
     <tu>
