@@ -1971,8 +1971,8 @@
       <tuv lang="EN-US">
         <seg>Condenser Water Circuits</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091446Z">
-        <seg>Condenser Water Circuits    /    </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210726T091849Z" creationid="LanHK" creationdate="20210525T091446Z">
+        <seg>Condenser Water Circuits    /    Đường ống nước ngưng</seg>
       </tuv>
     </tu>
     <tu>
@@ -9439,6 +9439,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210726T091644Z" creationid="LanHK" creationdate="20210726T091644Z">
         <seg>When there is demand for hot water as well as chilled water, unit operates in total heat recovery mode. When one of the demand is fulfilled, unit changes to chiller or heat pump mode.     /     Khi có đồng thời nhu cầu nước nóng và nước mát, các unit hoạt động trong chế đọ thu hồi nhiệt toàn phần. Khi một nhu cầu được hoàn thành, unit chuyển sang chế độ chiller hoặc bơm nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where applicable, condenser water circuits (where selected) shall reject heat to atmosphere by removing-heat directly from the refrigeration cooling process.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210726T092100Z" creationid="LanHK" creationdate="20210726T092100Z">
+        <seg>Where applicable, condenser water circuits (where selected) shall reject heat to atmosphere by removing-heat directly from the refrigeration cooling process.     /     Nếu có thể, đường nước ngưng sẽ thải nhiệt vào bầu khí quyển bằng cách loại bỏ nhiệt trực tiếp trong quá trình làm lạnh</seg>
       </tuv>
     </tu>
     <tu>
