@@ -2829,8 +2829,8 @@
       <tuv lang="EN-US">
         <seg>Escape routes must not be via any service corridor or area.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T033843Z" creationid="LanHK" creationdate="20210610T033843Z">
-        <seg>Escape routes must not be via any service corridor or area.    /    Đường thoát hiểm không được thông qua hành lang hoặc khu vực dịch vụ</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T032422Z" creationid="LanHK" creationdate="20210610T033843Z">
+        <seg>Escape routes must not be via any service corridor or area.    /    Đường thoát hiểm không được qua bất kỳ khu vực hay hành lang service nào </seg>
       </tuv>
     </tu>
     <tu>
@@ -8584,8 +8584,8 @@
       <tuv lang="EN-US">
         <seg>The route must be even and without trip hazards</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T035815Z" creationid="LanHK" creationdate="20210610T035815Z">
-        <seg>The route must be even and without trip hazards    /    Lối đi phải bằng phỏng và không có nguy cơ gây vấp ngã</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T041941Z" creationid="LanHK" creationdate="20210610T035815Z">
+        <seg>The route must be even and without trip hazards    /    Lối đi phải bằng phẳng và không có nguy cơ gây trượt ngã</seg>
       </tuv>
     </tu>
     <tu>
@@ -8600,8 +8600,8 @@
       <tuv lang="EN-US">
         <seg>The route must be protected by suitable barriers at least 1100mm high and with no gaps greater than 100mm</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T040010Z" creationid="LanHK" creationdate="20210610T035857Z">
-        <seg>The route must be protected by suitable barriers at least 1100mm high and with no gaps greater than 100mm to prevent falling    /    Lối thoát phải được bảo vệ bằng lan can thích hợp cao tối thiểu 110mm và không có khoảng hở lớn hơn 100m</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T042003Z" creationid="LanHK" creationdate="20210610T035857Z">
+        <seg>The route must be protected by suitable barriers at least 1100mm high and with no gaps greater than 100mm to prevent falling    /    Lối thoát hiểm phải được bảo vệ bằng lan can thích hợp cao tối thiểu 1100mm và không có khoảng hở lớn hơn 100m</seg>
       </tuv>
     </tu>
     <tu>
@@ -9550,8 +9550,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Where escape routes are across roofs the following safeguards must be put in place:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T035751Z" creationid="LanHK" creationdate="20210610T035751Z">
-        <seg>Where escape routes are across roofs the following safeguards must be put in place:    /    Nếu đường thoát hiểm dẫn qua mái nhà, phải có các biện pháp đảm bảo an toàn như sau</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T041848Z" creationid="LanHK" creationdate="20210610T035751Z">
+        <seg>Where escape routes are across roofs the following safeguards must be put in place:    /    Nếu đường thoát hiểm dẫn qua mái nhà, phải có các biện pháp đảm bảo an toàn như sau:</seg>
       </tuv>
     </tu>
     <tu>
