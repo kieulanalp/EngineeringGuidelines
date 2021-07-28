@@ -1385,6 +1385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic heat exchanger cleaning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T045229Z" creationid="LanHK" creationdate="20210728T045229Z">
+        <seg>Automatic heat exchanger cleaning     /     Tự động vệ sinh bộ trao đổi nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic sprinklers are not required on the atrium side of the glass wall when there is no walkway or other floor area on the atrium side above the main floor level.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T091545Z" creationid="LanHK" creationdate="20210611T091545Z">
@@ -2021,6 +2029,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093535Z" creationid="LanHK" creationdate="20210713T093535Z">
         <seg>Computer and PABX rooms     /     Phòng máy tính và PABX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer based capacity/combustion control with remote control/ monitoring.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T045523Z" creationid="LanHK" creationdate="20210728T045523Z">
+        <seg>Computer based capacity/combustion control with remote control/ monitoring.     /     Kiểm soát công suất/tỉ lệ chất đốt bằng máy tính, với tính năng điều khiển/giám sát từ xa</seg>
       </tuv>
     </tu>
     <tu>
