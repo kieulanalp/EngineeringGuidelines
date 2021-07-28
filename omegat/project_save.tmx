@@ -5440,6 +5440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOTOR DRIVEN THREE WAY CONTROL VALVE ON FURTHEST AIR HANDLING UNIT TO KEEP PIPE HOT.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T064721Z" creationid="LanHK" creationdate="20210728T064721Z">
+        <seg>MOTOR DRIVEN THREE WAY CONTROL VALVE ON FURTHEST AIR HANDLING UNIT TO KEEP PIPE HOT.     /     Van kiểm soát ba ngả trên AHU xa nhất để giữ nóng đường ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main Fire Panel</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080053Z">
@@ -7927,6 +7935,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043618Z" creationid="LanHK" creationdate="20210602T043618Z">
         <seg>TYPICAL GUEST ROOM DETAIL.        /       CHI TIẾT PHÒNG KHÁCH ĐIỂN HÌNH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TYPICAL MOTOR DRIVEN TWO WAY CONTROL VALVE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T064949Z" creationid="LanHK" creationdate="20210728T064949Z">
+        <seg>TYPICAL MOTOR DRIVEN TWO WAY CONTROL VALVE     /     Van kiểm soát hai ngả thông thường</seg>
       </tuv>
     </tu>
     <tu>
