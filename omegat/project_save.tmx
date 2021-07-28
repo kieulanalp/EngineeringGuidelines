@@ -2846,8 +2846,8 @@
       <tuv lang="EN-US">
         <seg>Escape stairs must lead directly or via fire protected corridors to the outside of the building, however, in sprinkler protected buildings 50% of stairs may lead into a low risk area of the building from where there is direct access to the final exit and where approved by IHG.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210603T020744Z" creationid="LanHK" creationdate="20210603T020744Z">
-        <seg>Escape stairs must lead directly or via fire protected corridors to the outside of the building, however, in sprinkler protected buildings 50% of stairs may lead into a low risk area of the building from where there is direct access to the final exit and where approved by IHG.        /       thang bộ thoát hiểm phải dẫn trực tiếp hoặc thông qua hành lang chống cháy ra bên ngoài tòa nhà, tuy nhiên, trong tòa nhà có sprinkler, 50 % số thang bộ có thể dẫn tới khu vực nguy cơ thấp tỏng tòa nhà nơi có thể trực tiếp tiếp cận cửa thoát cuối cùng, và cần được IHG chấp thuận</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T022453Z" creationid="LanHK" creationdate="20210603T020744Z">
+        <seg>Escape stairs must lead directly or via fire protected corridors to the outside of the building, however, in sprinkler protected buildings 50% of stairs may lead into a low risk area of the building from where there is direct access to the final exit and where approved by IHG.        /       Thang bộ thoát hiểm phải dẫn trực tiếp hoặc thông qua hành lang chống cháy ra bên ngoài tòa nhà, tuy nhiên, trong tòa nhà có sprinkler, 50 % số thang bộ có thể dẫn ra khu vực nguy cơ rủi ro thấp trong tòa nhà, nơi có thể trực tiếp tiếp cận cửa thoát cuối cùng, và cần được IHG chấp thuận</seg>
       </tuv>
     </tu>
     <tu>
@@ -4816,8 +4816,8 @@
       <tuv lang="EN-US">
         <seg>It is recommended that exits from the ground floor are not via the escape stair enclosure. Where this is unavoidable the final exit must be of sufficient width for the likely number of people using the stair and those escaping from the ground floor.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210603T023249Z" creationid="LanHK" creationdate="20210603T023249Z">
-        <seg>It is recommended that exits from the ground floor are not via the escape stair enclosure. Where this is unavoidable the final exit must be of sufficient width for the likely number of people using the stair and those escaping from the ground floor.        /       Khuyến nghị các lối thoát từ tầng mặt đất không thông qua thang bộ thoát hiểm khép kín. Nếu không thể tránh được, cửa thoát hiểm cuối cùng phải đủ rộng cho tổng số người sử dụng cầu thang và số người thoát hiểm từ tầng mặt đất dự kiến</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T022643Z" creationid="LanHK" creationdate="20210603T023249Z">
+        <seg>It is recommended that exits from the ground floor are not via the escape stair enclosure. Where this is unavoidable the final exit must be of sufficient width for the likely number of people using the stair and those escaping from the ground floor.        /       Khuyến nghị các lối thoát hiểm từ tầng mặt đất không thông qua thang bộ thoát hiểm khép kín. Nếu không thể tránh được, cửa thoát hiểm cuối cùng phải đủ rộng cho tổng số người dự kiến sử dụng và số người thoát hiểm từ tầng mặt đất dự kiến</seg>
       </tuv>
     </tu>
     <tu>
