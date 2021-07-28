@@ -120,6 +120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0.1ppm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095313Z" creationid="Kieu Lan" creationdate="20210728T095313Z">
+        <seg>0.1ppm     /     Hàm lượng đồng ít hơn 0.1ppm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0.35m3/guest night maximum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210717T032205Z">
@@ -402,10 +410,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.12.1 Closed Circuit Water treatment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095222Z" creationid="Kieu Lan" creationdate="20210728T095222Z">
+        <seg>4.12.1 Closed Circuit Water treatment     /     Xử lý nước trong đường ống kín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.12.1 Hot water Temperature definitions -</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095218Z" creationid="Kieu Lan" creationdate="20210728T095218Z">
+        <seg>4.12.1 Hot water Temperature definitions -     /     Định nghĩa Nhiệt độ nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.18.1 Frost Protection - Alternative may be simpler / more economical</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>4.18.1 Frost Protection - Alternative may be simpler    /    more economical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4000ppm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095333Z" creationid="Kieu Lan" creationdate="20210728T095333Z">
+        <seg>4000ppm     /     Hàm lượng chất rắn tan ít hơn 4000ppm</seg>
       </tuv>
     </tu>
     <tu>
@@ -740,6 +772,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T094257Z">
         <seg>REGULATORY APPROVALS AND APPLICATIONS    /    XIN PHÊ DUYỆT TỪ CƠ QUAN CHỨC NĂNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Above 175 0 C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095222Z" creationid="Kieu Lan" creationdate="20210728T095222Z">
+        <seg>Above 175°C     /     Trên 175°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -1449,6 +1489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ba room system to be capable of contris Ing diffie'er.t areas when divided</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095404Z" creationid="Kieu Lan" creationdate="20210728T095404Z">
+        <seg>Ballroom system to be capable of controlling different areas when divided     /     Hệ thống của ballroom phải có thể điều khiển được từng khu riêng biệt khi phòng được chia nhỏ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back of House</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T095656Z" creationid="LanHK" creationdate="20210405T095656Z">
@@ -1577,6 +1625,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Below 10 bar (150 psig)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095221Z" creationid="Kieu Lan" creationdate="20210728T095221Z">
+        <seg>Below 10 bar (150 psig)     /     Dưới 10 bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Below 1200 C (2500F)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095219Z" creationid="Kieu Lan" creationdate="20210728T095219Z">
+        <seg>Below 120°C      /     Dưới 120°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Below 2 Bar (30 psig)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095220Z" creationid="Kieu Lan" creationdate="20210728T095220Z">
+        <seg>Below 2 Bar (30 psig)     /     Dưới 2 Bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Below 20 Bar (300 psig) Temperature</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095222Z" creationid="Kieu Lan" creationdate="20210728T095222Z">
+        <seg>Below 20 Bar (300 psig)      /     Dưới 20 Bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Between 120- 1750 C (250-3500F)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095221Z" creationid="Kieu Lan" creationdate="20210728T095221Z">
+        <seg>Between 120- 175°C     /     Từ 120-175°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boilers, AC Plant, HWS and pumps (m2)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T023227Z" creationid="LanHK" creationdate="20210717T023227Z">
@@ -1653,6 +1741,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T021315Z" creationid="LanHK" creationdate="20210720T021315Z">
         <seg>Bypass valve to maintain minimum chiller flow rate at partial load - to suit chiller requirement     /     Van điều áp để duy trì lưu lượng tối thiểu cho chiller khi chạy một phần phụ tải - điều chỉnh phù hợp yêu cầu của chiller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CAPITAL COSTS etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095228Z" creationid="Kieu Lan" creationdate="20210728T095228Z">
+        <seg>2. Centralise plant and risers to aid balancing, to reduce pipe heat losses / gains and to reduce capital costs etc.     /     Cụm máy và trục ống trung tâm để hỗ trợ cân bằng, để giảm thất thoát/tăng nhiệt trên đường ống và giảm chi phí đầu tư v.v</seg>
       </tuv>
     </tu>
     <tu>
@@ -1917,6 +2013,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T042220Z" creationid="LanHK" creationdate="20210724T042220Z">
         <seg>Chilled water exchanger     /     Bộ trao đổi nhiệt nước mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chilled water, heating and closed condenser water circuits must be provided with a manual dosing system as follows:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095222Z" creationid="Kieu Lan" creationdate="20210728T095222Z">
+        <seg>Chilled water, heating and closed condenser water circuits must be provided with a manual dosing system as follows:     /     Các đường nước mát, nước nóng và nước ngưng phải có hệ thống bơm định lượng hóa chất manual như sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,6 +2520,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022616Z" creationid="LanHK" creationdate="20210717T022616Z">
         <seg>Distribution cable increased in length and size     /     Cáp phân phối phải dài và lớn hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribution options</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095225Z" creationid="Kieu Lan" creationdate="20210728T095225Z">
+        <seg>Distribution options     /     Phương án phân phối</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,10 +4198,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guest</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095535Z" creationid="Kieu Lan" creationdate="20210728T095504Z">
+        <seg>Guest Room     /     Phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest Room</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153638Z" creationid="Kieu Lan" creationdate="20210405T153638Z">
-        <seg>Guest Room Phòng khách</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095509Z" creationid="Kieu Lan" creationdate="20210405T153638Z">
+        <seg>Guest Room     /     Phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hardness less than 7ppm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095223Z" creationid="Kieu Lan" creationdate="20210728T095223Z">
+        <seg>Hardness less than 7ppm     /     Độ cứng ít hơn 7ppm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have direct access to a final exit from the building</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104648Z">
@@ -4326,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High temperature/ pressure hot water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095221Z" creationid="Kieu Lan" creationdate="20210728T095221Z">
+        <seg>High temperature/ pressure hot water     /     Nước nóng nhiệt độ/áp suất cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highest electrical demands located close together</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022715Z" creationid="LanHK" creationdate="20210717T022715Z">
@@ -4358,10 +4494,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horizontal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095209Z" creationid="Kieu Lan" creationdate="20210728T095209Z">
+        <seg>Horizontal     /     theo chiều ngang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal Means of Escape</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T013454Z" creationid="LanHK" creationdate="20210525T075055Z">
         <seg>Horizontal Means of Escape    /    Thoát hiểm chiều ngang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal distribution - example of pipe distribution (typical section) (inefficient and uneconomic)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095228Z" creationid="Kieu Lan" creationdate="20210728T095228Z">
+        <seg>Horizontal distribution - example of pipe distribution (typical section) (inefficient and uneconomic)     /     Phân phối theo chiều ngang - ví dụ về phân phối đường ống (thường thấy) (không hiệu quả và không kinh tế)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4558,6 +4710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If these systems are incorrectly designed, then not only will guests not be provided with comfortable conditions, but the energy costs will be higher than they should be.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095407Z" creationid="Kieu Lan" creationdate="20210728T095407Z">
+        <seg>If these systems are incorrectly designed, then not only will guests not be provided with comfortable conditions, but the energy costs will be higher than they should be.     /     Nếu các hệ thống này không được thiết kế chuẩn xác, không chỉ khách sẽ không có một môi trường dễ chịu, mà cả chi phí năng lượng sẽ bị đội lên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediate alarm in room/area</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081347Z" creationid="Kieu Lan" creationdate="20210713T081347Z">
@@ -4743,6 +4903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increased capital/running costs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095230Z" creationid="Kieu Lan" creationdate="20210728T095230Z">
+        <seg>Increased capital/running costs     /     Tăng chi phí đầu tư/vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Individually controlled / tested</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T084247Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -4894,10 +5062,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interra zones on separate systems - or common system w th each area cf usage capable of being shut down</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095403Z" creationid="Kieu Lan" creationdate="20210728T095403Z">
+        <seg>Internal zones on separate systems - or common system with each area of usage capable of being shut down     /     Các không gian bên trong có hệ thống riêng - hoặc hệ thống chung nhưng mỗi khu vực sử dụng có thể tắt được</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intsrnal coaling design conditions should be achieved at external conditions which are not exceeded by the maximum historical weather data for the location for more than 2% of theyear</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044056Z" creationid="LanHK" creationdate="20210715T044056Z">
         <seg>Internal cooling design conditions should be achieved at external conditions which are not exceeded by the maximum historical weather data for the location for more than 2% of the year     /     Điều kiện thiết kế làm mát trong nhà được quyết định dựa trên điều kiện bên ngoài - chúng không vượt quá dữ liệu thời tiết tối đa cho khu vực này trong hơn 2% thời gian năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron Bacteria: Maximum 0 organism/ml</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095225Z" creationid="Kieu Lan" creationdate="20210728T095225Z">
+        <seg>Iron Bacteria: Maximum 0 organism/ml     /     Vi khuẩn sắt: max 0 vi sinh/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron content less than 0.1ppm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095223Z" creationid="Kieu Lan" creationdate="20210728T095223Z">
+        <seg>Iron content less than 0.1ppm     /     Hàm lượng sắt ít hơn 0.1pm</seg>
       </tuv>
     </tu>
     <tu>
@@ -5215,6 +5407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Less space required - higher ceilings in corridor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095231Z" creationid="Kieu Lan" creationdate="20210728T095231Z">
+        <seg>Less space required - higher ceilings in corridor     /     Cần ít không gian hơn - trần hành lang cao hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Less water discharge</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T074009Z" creationid="LanHK" creationdate="20210610T074009Z">
@@ -5376,6 +5576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Longer installation time</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095230Z" creationid="Kieu Lan" creationdate="20210728T095230Z">
+        <seg>Longer installation time     /     Tăng thời gian lắp đặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Longer installation/commissioning time</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022627Z" creationid="LanHK" creationdate="20210717T022627Z">
@@ -5408,6 +5616,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low temperature/pressure hot water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095212Z" creationid="Kieu Lan" creationdate="20210728T095212Z">
+        <seg>Low temperature/pressure hot water     /     Nước nóng nhiệt độ/áp suất thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower capital cost (reduced services and insulation)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095226Z" creationid="Kieu Lan" creationdate="20210728T095226Z">
+        <seg>Lower capital cost (reduced services and insulation)     /     Giảm chi phí đầu tư (giảm phí dịch vụ và bảo ôn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lower construction fire ratings allowed.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093849Z" creationid="LanHK" creationdate="20210713T093849Z">
@@ -5420,6 +5644,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093910Z" creationid="LanHK" creationdate="20210713T093857Z">
         <seg>Lower insurance premiums may be possible     /     Có khả năng sẽ giúp hạ mức phí bảo hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower running costs (reduced pumping and heat losses)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095227Z" creationid="Kieu Lan" creationdate="20210728T095227Z">
+        <seg>Lower running costs (reduced pumping and heat losses)     /     Giảm chi phí vận hành (giảm phụ tải bơm và thất thoát nhiệt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5720,10 +5952,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medium temperature/pressure hot water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095220Z" creationid="Kieu Lan" creationdate="20210728T095220Z">
+        <seg>Medium temperature/pressure hot water     /     Nước nóng nhiệt độ/áp suất trung bình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meeting Rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063621Z" creationid="LanHK" creationdate="20210715T063621Z">
         <seg>Meeting Rooms***Phòng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meetng rooms on different facades served from different systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095404Z" creationid="Kieu Lan" creationdate="20210728T095404Z">
+        <seg>Meetng rooms on different facades served from different systems     /     Phòng họp tại các mặt dựng khác nhau được phục vụ bởi hệ thống khác nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microbiological limits</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095214Z" creationid="Kieu Lan" creationdate="20210728T095214Z">
+        <seg>Microbiological limits     /     Giới hạn sinh vật học</seg>
       </tuv>
     </tu>
     <tu>
@@ -5905,6 +6161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nitrate reducers: Maximum 100 organisms/ml</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095224Z" creationid="Kieu Lan" creationdate="20210728T095224Z">
+        <seg>Nitrate reducers: Maximum 100 organisms/ml     /     Vi khuẩn nitrate hóa: max 100 vi sinh/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210429T062846Z" creationid="LanHK" creationdate="20210429T062846Z">
@@ -6069,6 +6333,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022941Z" creationid="LanHK" creationdate="20210717T022941Z">
         <seg>Number of Guest Bedrooms     /     Số phòng ngủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OBJECTIVES</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095228Z" creationid="Kieu Lan" creationdate="20210728T095228Z">
+        <seg>Objectives    /    Mục tiêu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6241,6 +6513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PREFERRED PLANT AND RISER LOCATIONS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095228Z" creationid="Kieu Lan" creationdate="20210728T095228Z">
+        <seg>PREFERRED PLANT AND RISER LOCATIONS     /     Vị trí ưu tiên đối với máy và trục ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packaged water cooled</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T094546Z" creationid="LanHK" creationdate="20210722T094546Z">
@@ -6257,10 +6537,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Penmeter pub c areas on afferent facades'on entat'on or, different systems (Typically 4-6m maximum) depth</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095404Z" creationid="Kieu Lan" creationdate="20210728T095404Z">
+        <seg>Perimeter pubic areas on different facades/orientation on different systems (Typically 4-6m maximum) depth     /    Khu rìa không gian công cộng tại các mặt dựng/hướng khác nhau có hệ thống khác nhau (thường sâu max 4-6m) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>People must be able to turn their back and move away from the fire to reach a place of safety</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T014205Z" creationid="LanHK" creationdate="20210603T014205Z">
         <seg>People must be able to turn their back and move away from the fire to reach a place of safety        /       Mọi người cần có thể quay lưng và di chuyển khỏi vị trí đám cháy đến nơi an toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permeter pubic areas on different facades.'onentaton on different systems (Typcaty 4-6m maximum) depth</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095403Z" creationid="Kieu Lan" creationdate="20210728T095403Z">
+        <seg>Perimeter pubic areas on different facades/orientation on different systems (Typically 4-6m maximum) depth     /    Khu rìa không gian công cộng tại các mặt dựng/hướng khác nhau có hệ thống khác nhau (thường sâu max 4-6m) </seg>
       </tuv>
     </tu>
     <tu>
@@ -6565,6 +6861,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T104406Z" creationid="LanHK" creationdate="20210602T104406Z">
         <seg>Provide sprinklers at top and every alternate or 3rd level -86°C        /       Bố trí sprinkler trên đỉnh ống và cách tầng hoặc mỗi ba tầng  -86°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095555Z" creationid="Kieu Lan" creationdate="20210728T095555Z">
+        <seg>Public spaces     /     Không gian công cộng </seg>
       </tuv>
     </tu>
     <tu>
@@ -7193,6 +7497,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Services generally all accessible in vertical services riser</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095227Z" creationid="Kieu Lan" creationdate="20210728T095227Z">
+        <seg>Services generally all accessible in vertical services riser     /     Nhìn chung có thể tiếp cận tất cả các dịch vụ bằng trục ống đứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shorter services runs - generally approximately half the lengths required for horizontal distribution (actual projects have provided reduction in pipe runs alone from 1km-4km)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095226Z" creationid="Kieu Lan" creationdate="20210728T095226Z">
+        <seg>Shorter services runs - generally approximately half the lengths required for horizontal distribution (actual projects have provided reduction in pipe runs alone from 1km-4km)     /     Đường đi ống ngắn hơn - nhìn chung khoảng nửa so với chiều dài cần thiết cho đường ống phân phối theo chiều ngang (Các dự án đã thực hiện cho thấy có thể giảm từ 1km-4km chiều dài đường ống)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shut down the air handlers</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T012903Z" creationid="LanHK" creationdate="20210611T012903Z">
@@ -7245,6 +7565,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T041945Z" creationid="LanHK" creationdate="20210724T041945Z">
         <seg>Simple water cooled heat pump (heating mode version) arrangement     /     Bố trí bơm nhiệt giải nhiệt nước đơn giản (chế độ làm nóng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simpler to commission</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095232Z" creationid="Kieu Lan" creationdate="20210728T095232Z">
+        <seg>Simpler to commission     /     Dễ vận hành hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simpler to commission - pressure differences lower</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095227Z" creationid="Kieu Lan" creationdate="20210728T095227Z">
+        <seg>Simpler to commission - pressure differences lower     /     Dễ vận hành hơn - chênh lệch áp suất ít hơn</seg>
       </tuv>
     </tu>
     <tu>
@@ -7487,6 +7823,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T045340Z" creationid="PHUONG.DTM" creationdate="20210604T110853Z">
         <seg>Space occupied by flow of people escaping     /     Không gian với dòng người thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spaces</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095556Z" creationid="Kieu Lan" creationdate="20210728T095556Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -7803,6 +8147,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sulphate reducers: Maximum 0 organism/ml</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095225Z" creationid="Kieu Lan" creationdate="20210728T095225Z">
+        <seg>Sulphate reducers: Maximum 0 organism/ml     /     Vi khuẩn sulphate hóa: max 0 vi sinh/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Summer</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T062953Z" creationid="LanHK" creationdate="20210715T062953Z">
@@ -7911,6 +8263,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T014745Z" creationid="LanHK" creationdate="20210719T014745Z">
         <seg>TOTAL FRESH AIR SUPPLY ≥ TOTAL EXHAUST 10-20%     /     Tổng lượng cấp khí tươi ≥ Tổng khí xả ra 10-20%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TYPICAL CHILLED WATER SCHEMATIC</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095227Z" creationid="Kieu Lan" creationdate="20210728T095227Z">
+        <seg>Typical chilled water schematic     /     Sơ đồ nước lạnh điển hình</seg>
       </tuv>
     </tu>
     <tu>
@@ -8075,10 +8435,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The aims and objectives are to ensure the air conditioning systems are zoned to suit the thermal and occupancy characteristics of the space. If this is not carried out early enough, then finding space to resolve later in the design may not be possible</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095242Z" creationid="Kieu Lan" creationdate="20210728T095242Z">
+        <seg>The aims and objectives are to ensure the air conditioning systems are zoned to suit the thermal and occupancy characteristics of the space. If this is not carried out early enough, then finding space to resolve later in the design may not be possible     /     Mục đích là đảm bảo các hệ thống điều hòa không khí được phân vùng cho phù hợp với tính chất nhiệt độ và số người trong không gian sử dụng. Nếu việc này không được tiến hành đủ sớm, sẽ khó có không gian để giải quyết trong quá trình thiết kế về sau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The aims and the objectives of the HVAC systems are to:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T034719Z" creationid="LanHK" creationdate="20210715T034646Z">
         <seg>The aims and the objectives of the HVAC systems are to:     /     Mục đích và mục tiêu của các hệ HVAC là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The air conditioning system design is critical to achieve the comfort conditions specified in these standards. The air conditioning for a Hotel also represents a significant percentage of the capital (25% - 35%) and running costs (30% - 50%).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095407Z" creationid="Kieu Lan" creationdate="20210728T095407Z">
+        <seg>The air conditioning system design is critical to achieve the comfort conditions specified in these standards. The air conditioning for a Hotel also represents a significant percentage of the capital (25% - 35%) and running costs (30% - 50%).     /     Thiết kế hệ thống điều hòa không khí là hết sức quan trọng để đạt được điều kiện dễ chịu trong bộ tiêu chuẩn này. Việc điều hòa không khí cho một khách sạncũng chiếm một phần lớn trong vốn đầu tư (25-35%) và chi phí vận hành (30-50%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8293,6 +8669,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect on plant location on the pipe/duct distribution can also have a significant effect on capital and operating costs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095225Z" creationid="Kieu Lan" creationdate="20210728T095225Z">
+        <seg>The effect of plant location on the pipe/duct distribution can also have a significant effect on capital and operating costs.     /     Tác động của vị trí trạm máy chính tới phân phối đường ống có thể có ảnh hưởng lớn tới chi phí đầu tư và chi phí vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The entire building is to be protected throughout by an approved, supervised automatic sprinkler system and</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T045655Z" creationid="LanHK" creationdate="20210611T045655Z">
@@ -8381,6 +8765,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following definitions will apply for hot water temperature and pressure:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095212Z" creationid="Kieu Lan" creationdate="20210728T095212Z">
+        <seg>The following definitions will apply for hot water temperature and pressure:     /     Các định nghĩa sau sẽ áp dụng với nhiệt độ và áp suất nước nóng:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following diagram illustrates the designer’s responsibilities in relation to design approvals:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T093106Z">
@@ -8389,10 +8781,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following highlights good zoning for an air conditioning system, with the correct zoning indicated by the different colors.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095408Z" creationid="Kieu Lan" creationdate="20210728T095408Z">
+        <seg>The following highlights good zoning for an air conditioning system, with the correct zoning indicated by the different colors.     /     Các nội dung tiếp theo sẽ làm rõ việc phân vùng đúng cho hệ thống điều hòa không khí, với các zone đúng được đánh dấu bằng các màu khác nhau (xem ảnh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following illustrates the general principles to be achieved:-</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T044851Z" creationid="Kieu Lan" creationdate="20210601T090531Z">
         <seg>The following illustrates the general principles to be achieved:     /    Phải đạt được các nguyên tắc chung sau đây:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following illustration shows typical zoning of a public area with objectives of achieving:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095233Z" creationid="Kieu Lan" creationdate="20210728T095233Z">
+        <seg>The following illustration shows typical zoning of a public area with objectives of achieving:-     /     Hình ảnh dưới đây cho thấy việc chia vùng điển hình cho một không gian công cộng nhằm đạt được:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8641,6 +9049,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095443Z">
         <seg>The objectives of these systems are for the protection of life and property in the event of a fire or incident. This section of the manual must also be read in conjunction with the IHG ‘Brand Safety Standards’.    /    Mục tiêu của các hệ thống này là để bảo vệ sinh mạng cũng như tài sản khi xảy ra hỏa hoạn hoặc sự cố. Mục này của tài liệu hướng dẫn cần phải được đọc cùng với "Tiêu chuẩn An toàn Thương hiệu" IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The only main disadvantage of the vertical distribution system is that individual floors cannot be independently isolated from one point.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095227Z" creationid="Kieu Lan" creationdate="20210728T095227Z">
+        <seg>The only main disadvantage of the vertical distribution system is that individual floors cannot be independently isolated from one point.     /     Bất lợi duy nhất của hệ thống phân phối theo chiều dọc là không thể cách ly riêng từng tầng từ một điểm</seg>
       </tuv>
     </tu>
     <tu>
@@ -8902,6 +9318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The treatment shall maintain the following water quality:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095222Z" creationid="Kieu Lan" creationdate="20210728T095222Z">
+        <seg>The treatment shall maintain the following water quality:     /     Việc xử lý nước phải duy trì chất lượng nước như sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The unit operates in air cooled chiller mode when there is no demand for hot water</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T045011Z" creationid="LanHK" creationdate="20210724T045011Z">
@@ -8983,6 +9407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are two main ways of distributing services in a Hotel being:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095225Z" creationid="Kieu Lan" creationdate="20210728T095225Z">
+        <seg>There are two main ways of distributing services in a Hotel being:     /     Có hai phương án chính để bố trí đường ống trong một khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are two types of escape lighting, both of which derive their electrical supply from batteries - self-contained luminaries with integral or locally connected battery packs.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T065513Z" creationid="LanHK" creationdate="20210702T082311Z">
@@ -9051,6 +9483,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T092848Z" creationid="LanHK" creationdate="20210716T092748Z">
         <seg>These must be calculated specifically for each hotel project but any major variations from these must be examined and explained.     /     Các con số này phải được tính toán cụ thể cho mỗi dự án khách sạn, tuy nhiên bất cứ thay đổi lớn nào so với nội dung dưới đây đều phải được xem xét và giải trình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These options are illustrated in the following pages, but in general vertical distribution is preferred for the following reasons:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095226Z" creationid="Kieu Lan" creationdate="20210728T095226Z">
+        <seg>These options are illustrated in the following pages, but in general vertical distribution is preferred for the following reasons:     /     Các phương án này được minh họa trong các trang sau, nhưng nhìn chung, ưu tiên phân phối theo chiều dọc vì các lý do sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9189,6 +9629,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T023115Z" creationid="LanHK" creationdate="20210717T023108Z">
         <seg>Total Gross area public space BOH (m2)     /     Tổng diện tích gross cho không gian công cộng BOH (m2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total aerobic plate count: Maximum 10,000 organisms /ml</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095214Z" creationid="Kieu Lan" creationdate="20210728T095214Z">
+        <seg>Total aerobic plate count: Maximum 10,000 organisms /ml     /     Tổng vi khuẩn hiếu khí trên đĩa nuôi cấy: max 10,000 vi sinh/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total an aerobic plate count: Maximum 100 organisms/ml</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095224Z" creationid="Kieu Lan" creationdate="20210728T095224Z">
+        <seg>Total an aerobic plate count: Maximum 100 organisms/ml     /     Tổng vi khuẩn yếm khí trên đĩa nuôi cấy: max 100 vi sinh/ml</seg>
       </tuv>
     </tu>
     <tu>
@@ -9363,6 +9819,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Up to double the pipe length from vertical distribution</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095229Z" creationid="Kieu Lan" creationdate="20210728T095229Z">
+        <seg>Up to double the pipe length from vertical distribution     /     Lên tối gấp đôi chiều dài đường ống so với phân phối theo chiều dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Upon operation of a guestroom smoke detector:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063531Z" creationid="Kieu Lan" creationdate="20210705T063531Z">
@@ -9444,10 +9908,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vertical</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095226Z" creationid="Kieu Lan" creationdate="20210728T095226Z">
+        <seg>Vertical     /     theo chiều dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vertical Means of Escape</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T021714Z" creationid="LanHK" creationdate="20210525T075106Z">
         <seg>Vertical Means of Escape    /    Thoát hiểm trục dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical distribution - example of pipe distribution (efficient and economic)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095230Z" creationid="Kieu Lan" creationdate="20210728T095230Z">
+        <seg>Vertical distribution - example of pipe distribution (efficient and economic)     /     Phân phối theo chiều dọc -  ví dụ về phân phối đường ống (hiệu quả và kinh tế)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9744,6 +10224,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T072428Z" creationid="Kieu Lan" creationdate="20210705T072428Z">
         <seg>Where fire voice evacuation system speakers are also used as public address and background music, the systems must be completely separate with only the speakers and cabling systems being common.     /     Nếu hệ thống loa thông báo sơ tán hỏa hoạn cũng được sử dụng làm loa thông báo công cộng, hệ thống phải hoàn toàn tách biệt, chỉ sử dụng chung loa và hệ thống dây cáp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where oil is used as the primary heating system fuel, the normal required storage capacity is four weeks at full design duty. This may be increased for remote locations or locations where there are potential delivery difficulties. Storage should preferably be below ground, and must be located away from prominent entries to the hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095210Z" creationid="Kieu Lan" creationdate="20210728T095210Z">
+        <seg>Where oil is used as the primary heating system fuel, the normal required storage capacity is four weeks at full design duty. This may be increased for remote locations or locations where there are potential delivery difficulties. Storage should preferably be below ground, and must be located away from prominent entries to the hotel.     /     Nếu nhiên liệu chính của hệ thống sưởi/gia nhiệt là dầu, cần đảm bảo dự trữ bốn tuần hoạt động hết  công suất. Lượng dự trữ này có thể tăng đối với các địa điểm ở xa hoặc các địa điểm có thể gặp khó khăn trong vận chuyển. Kho dự trữ ưu tiên bố trí ngầm và cách xa các lối vào lớn của khách sạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -10127,6 +10615,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>boh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095819Z" creationid="Kieu Lan" creationdate="20210728T095819Z">
+        <seg>BOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>broadcast voice evacuation message to ensure a speedy response to any alarm.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T061731Z" creationid="LanHK" creationdate="20210611T061731Z">
@@ -10163,6 +10659,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095855Z" creationid="LanHK" creationdate="20210713T095855Z">
         <seg>canopies     /     Tất cả các hệ thống chụp hút mùi bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ceiling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095229Z" creationid="Kieu Lan" creationdate="20210728T095229Z">
+        <seg>ceiling     /     Không gian trần chật và trần thấp hơn</seg>
       </tuv>
     </tu>
     <tu>
@@ -10212,6 +10716,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T041915Z" creationid="Kieu Lan" creationdate="20210719T041735Z">
         <seg>correct the power factor to unity such that no tariff penalty is incurred under any load conditions. The equipment will be automatically staged in 50kVAr units.     /     Thiết bị hiệu chỉnh hệ số công suất sẽ được bố trí cho các bảng điều khiển phân phối điện chính để tự động hiệu chỉnh thống nhất hệ số công suất sao cho không phát chi phí phạt trong bất kỳ điều kiện phụ tải nào. Thiết bị sẽ được tự động phân thành các unit 50kVAr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>costs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095232Z" creationid="Kieu Lan" creationdate="20210728T095232Z">
+        <seg>costs     /     Giảm tải bơm - chi phí vận hành thấp hơn</seg>
       </tuv>
     </tu>
     <tu>
@@ -10544,6 +11056,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ph 9.0-10.5 (not to exceed 11)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095215Z" creationid="Kieu Lan" creationdate="20210728T095215Z">
+        <seg>pH 9.0-10.5 (not to exceed 11)      /     độ pH 9.0-10.5 (không được vượt 11)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>plan must be oriented so that it shows the layout of the floor from the guest or meeting room</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042404Z" creationid="PHUONG.DTM" creationdate="20210604T045009Z">
@@ -10556,6 +11076,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210604T045014Z" creationid="PHUONG.DTM" creationdate="20210604T044923Z">
         <seg>plan must show the direction to the primary and secondary escape routes        /        Sơ đồ phải thể hiện được hướng tới đường thoát hiểm ban đầu và thứ hai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>programme</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095231Z" creationid="Kieu Lan" creationdate="20210728T095231Z">
+        <seg>programme     /     Lắp đặt ít phức tạp hơn</seg>
       </tuv>
     </tu>
     <tu>
@@ -10642,8 +11170,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>rooms</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T100534Z" creationid="LanHK" creationdate="20210713T100534Z">
-        <seg>rooms     /     Phòng thang máy</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095538Z" creationid="Kieu Lan" creationdate="20210728T095538Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -10840,6 +11368,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>vertical distribution</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095231Z" creationid="Kieu Lan" creationdate="20210728T095231Z">
+        <seg>vertical distribution     /     Giảm tới 50% chiều dài đường ống nhờ phân phối theo chiều dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>where they lead to, for example, enclosed areas and terraces there must be unrestricted escape from these areas</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T021519Z" creationid="LanHK" creationdate="20210603T014710Z">
@@ -10888,6 +11424,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T100412Z" creationid="Kieu Lan" creationdate="20210728T095240Z">
+        <seg>• Efficient operation     /     Vận hành hiệu quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Designer to demonstrate and provide the acoustic values for all systems to confirm compliance with IHG standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024154Z" creationid="LanHK" creationdate="20210715T022841Z">
@@ -10916,6 +11460,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024312Z" creationid="LanHK" creationdate="20210715T024312Z">
         <seg>• The design of the building and associated systems shall not exceed the targets stated within     /     Thiết kế của tòa nhà và các hệ thống liên quan không vượt quá các mục tiêu nêu ra trong này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Thermal comfort</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095235Z" creationid="Kieu Lan" creationdate="20210728T095235Z">
+        <seg>• Thermal comfort     /     Nhiệt độ dễ chịu</seg>
       </tuv>
     </tu>
     <tu>
