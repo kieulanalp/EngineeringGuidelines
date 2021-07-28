@@ -3806,6 +3806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fully automatic feed and ignition</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T045655Z" creationid="LanHK" creationdate="20210728T045655Z">
+        <seg>Fully automatic feed and ignition     /     Tự động cấp nhiên liệu và đánh lửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Function Room</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063607Z" creationid="LanHK" creationdate="20210715T063607Z">
