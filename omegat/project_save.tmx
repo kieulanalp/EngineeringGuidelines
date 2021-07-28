@@ -624,6 +624,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A preference shall be given to the use of Biomass boilers, as a ‘carbon-neutral’ fuel, and utilising:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T044524Z" creationid="LanHK" creationdate="20210728T044524Z">
+        <seg>A preference shall be given to the use of Biomass boilers, as a ‘carbon-neutral’ fuel, and utilising:     /     Ưu tiên sử dụng nồi hơi đốt sinh khối, và có chức năng sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A pressurisation system comprises two main components:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T015428Z" creationid="LanHK" creationdate="20210611T015428Z">
@@ -1349,6 +1357,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071029Z">
         <seg>Author    /    Tác giả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automated de-ashing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T045155Z" creationid="LanHK" creationdate="20210728T045155Z">
+        <seg>Automated de-ashing     /     Thải tro, xỉ tự động</seg>
       </tuv>
     </tu>
     <tu>
@@ -8013,8 +8029,8 @@
       <tuv lang="EN-US">
         <seg>The central heating distribution plant shall utilise modulating high efficiency / low Nox boilers, with condensing boilers used, having proprietary automatic controls compatible with the BMS system.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>The central heating distribution plant shall utilise modulating high efficiency    /    low Nox boilers, with condensing boilers used, having proprietary automatic controls compatible with the BMS system.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T044229Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>The central heating distribution plant shall utilise modulating high efficiency / low NOx boilers, with condensing boilers used, having proprietary automatic controls compatible with the BMS system.     /     Hệ thống phân phối nhiệt trung tâm sẽ sử dụng nồi hơi hiệu suất cao / ít phát thải NOx, với nồi hơi có thể thu hồi nước ngưng, có điều khiển tự động có thể tích hợp và ohệ thôgns BMS</seg>
       </tuv>
     </tu>
     <tu>
