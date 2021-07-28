@@ -2926,8 +2926,8 @@
       <tuv lang="EN-US">
         <seg>Exits must be located remotely from each other to minimize the risk that all are affected by a fire in the room . One method that can be used to ensure that exits are adequately remote from each other is by ensuring that there is an angle of not less than 450 between the exits when measured from the furthest part of the room.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T033453Z" creationid="LanHK" creationdate="20210609T102019Z">
-        <seg>Exits must be located remotely from each other to minimize the risk that all are affected by a fire in the room . One method that can be used to ensure that exits are adequately remote from each other is by ensuring that there is an angle of not less than 450 between the exits when measured from the furthest part of the room.         /       Lối thoát phải bố trí cách xa nhau để giảm thiểu nguy cơ tất cả các lối đều bị ảnh hưởng bởi đám cháy trong phòng. Một biện pháp đảm bảo các lối thoát cách nhau đủ xa là đảm bảo có một góc không dưới 45độ giữa các lối thoát khi đo từ điểm xa nhất trong phòng.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T024730Z" creationid="LanHK" creationdate="20210609T102019Z">
+        <seg>Exits must be located remotely from each other to minimize the risk that all are affected by a fire in the room . One method that can be used to ensure that exits are adequately remote from each other is by ensuring that there is an angle of not less than 450 between the exits when measured from the furthest part of the room.         /       Lối thoát hiểm phải bố trí cách xa nhau để giảm thiểu nguy cơ rủi ro tất cả các lối đều bị ảnh hưởng bởi đám cháy trong phòng. Một phương pháp đảm bảo các lối thoát hiểm cách nhau đủ xa là đảm bảo có một góc không dưới 45độ giữa các lối thoát khi đo từ điểm xa nhất trong phòng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9445,8 +9445,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>When determining the width of exits and exit routes a minimum of 5mm should be allowed for each person occupying the room.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210609T083240Z" creationid="LanHK" creationdate="20210609T083240Z">
-        <seg>When determining the width of exits and exit routes a minimum of 5mm should be allowed for each person occupying the room.         /       Khi xác định chiều rộng cửa thoát hiểm và lối thoát hiểm, cần tính tối thiều 5mm cho mỗi người trong phòng.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T024511Z" creationid="LanHK" creationdate="20210609T083240Z">
+        <seg>When determining the width of exits and exit routes a minimum of 5mm should be allowed for each person occupying the room.         /       Khi xác định chiều rộng cửa thoát hiểm và lối thoát hiểm, cần tính tối thiểu 5mm cho mỗi người trong phòng.</seg>
       </tuv>
     </tu>
     <tu>
