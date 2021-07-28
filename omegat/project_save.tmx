@@ -5135,6 +5135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOW TEMPERATURE HEATING WATER SYSTEM WITH DOMESTIC HOT WATER HEAT EXCHANGER</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T065451Z" creationid="LanHK" creationdate="20210728T065451Z">
+        <seg>LOW TEMPERATURE HEATING WATER SYSTEM WITH DOMESTIC HOT WATER HEAT EXCHANGER     /     Hệ thống đun nước nhiệt độ thấp với bộ trao đổi nhiệt nước nóng sinh hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LTHW shall be circulated at 80/60°C to serve heating and domestic hot water heat exchangers via a primary distribution circuit with variable speed pumping. This may only be varied following substantiation of alternative temperatures proposed.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T050535Z" creationid="LanHK" creationdate="20210728T050535Z">
@@ -7947,6 +7955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TYPICAL PUBLIC SPACE AIR HANDLING UNIT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T065002Z" creationid="LanHK" creationdate="20210728T065002Z">
+        <seg>TYPICAL PUBLIC SPACE AIR HANDLING UNIT     /     AHU cho không gian công cộng thông thường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TYPICAL SCHEMATIC MULTI-FUNCTION HEAT RECOVERY CHILLER</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T041834Z" creationid="LanHK" creationdate="20210724T041834Z">
@@ -9664,6 +9680,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T071124Z" creationid="LanHK" creationdate="20210601T092745Z">
         <seg>Where deviations from InterContinental Hotels Group standards are agreed (must be in writing), the designers must maintain a schedule of the agreed variations including:    /    Tại nơi có khác biệt so với tiêu chuẩn IHG được chấp thuận (bằng văn bản), Thiết kế phải có danh sách các hạng mục thay đổi đã được chấp thuận, bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where district heating is provided at a higher temperature, it shall be reduced by blending or other means to ensure no exposed pipe or radiator surface temperatures exceed these temperatures for safety.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T065632Z" creationid="LanHK" creationdate="20210728T065632Z">
+        <seg>Where district heating is provided at a higher temperature, it shall be reduced by blending or other means to ensure no exposed pipe or radiator surface temperatures exceed these temperatures for safety.     /     Nếu có nhà máy đun nước của khu vực làm nóng nước ở nhiệt độ cao hơn, phải giảm nhiệt độ nước bằng cách pha nước lạnh hoặc các biện pháp khác để đảm bảo không có đường ống lộ ra ngoài hoặc bề mặt máy sưởi có nhiệt độ vượt quá nhiệt độ an toàn</seg>
       </tuv>
     </tu>
     <tu>
