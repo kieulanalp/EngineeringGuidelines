@@ -1689,6 +1689,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COOLING TOWER WATER TREATMENT AND WATER RECYCLING OPTIONS NOT TO SCALE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T041612Z" creationid="LanHK" creationdate="20210728T041612Z">
+        <seg>COOLING TOWER WATER TREATMENT AND WATER RECYCLING OPTIONS NOT TO SCALE;;;Phương án xử lý nước tháp giải nhiệt và tái sử dụng nước, không đúng tỉ lệ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculations and / or smoke modeling of the system must be provided to IHG for approval.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210625T081142Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -1795,8 +1803,16 @@
       <tuv lang="EN-US">
         <seg>Central Heating Production/ Distribution</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T071629Z" creationid="LanHK" creationdate="20210525T091637Z">
-        <seg>Central Heating Production/ Distribution    /     Hệ thống sản xuất/phân phối nhiệt</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T041642Z" creationid="LanHK" creationdate="20210525T091637Z">
+        <seg>Central Heating Production/ Distribution    /     Hệ thống sản xuất/phân phối nhiệt trung tâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Central Heating Production/Distribution</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T041637Z" creationid="LanHK" creationdate="20210728T041637Z">
+        <seg>Central Heating Production/ Distribution    /     Hệ thống sản xuất/ phân phối nhiệt trung tâm</seg>
       </tuv>
     </tu>
     <tu>
