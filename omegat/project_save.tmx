@@ -2893,8 +2893,8 @@
       <tuv lang="EN-US">
         <seg>Escape lighting (minimum 1lux at floor level) is provided to ensure the safe and effective evacuation of the building.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210702T075424Z" creationid="LanHK" creationdate="20210702T075424Z">
-        <seg>Escape lighting (minimum 1lux at floor level) is provided to ensure the safe and effective evacuation of the building.     /     Chiếu sáng thoát hiểm (tối thiểu 1lux ở mức sàn) được cung cấp để đảm bảo quá trình sơ tán an toàn và hiệu quả khỏi tòa nhà</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T065124Z" creationid="LanHK" creationdate="20210702T075424Z">
+        <seg>Escape lighting (minimum 1lux at floor level) is provided to ensure the safe and effective evacuation of the building.     /     Chiếu sáng thoát nạn (tối thiểu 1lux ở mức sàn) được cung cấp để đảm bảo quá trình sơ tán an toàn và hiệu quả khỏi tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -4825,8 +4825,8 @@
       <tuv lang="EN-US">
         <seg>InterContinental Hotels Group/Code</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210702T075220Z" creationid="LanHK" creationdate="20210702T075220Z">
-        <seg>Zone smoke clearance using installed air handling plant and /or dedicated smoke extraction equipment - InterContinental Hotels Group/Code     /     Thông khói cho zone sử dụng AHU và/hoặc thiết bị hút khói chuyên dụng</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T064317Z" creationid="LanHK" creationdate="20210702T075220Z">
+        <seg>Zone smoke clearance using installed air handling plant and /or dedicated smoke extraction equipment - InterContinental Hotels Group/Code     /     Hút khói cho zone sử dụng AHU và/hoặc thiết bị hút khói chuyên dụng</seg>
       </tuv>
     </tu>
     <tu>
