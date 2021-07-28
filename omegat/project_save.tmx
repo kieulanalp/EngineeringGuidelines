@@ -1809,6 +1809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Care should be taken to match boiler loads as closely as possible to the demand. Modular boiler arrangements allow greater flexibility if controls are flexible enough to responding to the changing demand. Ideally condensing boilers should be used.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T063915Z" creationid="LanHK" creationdate="20210728T063915Z">
+        <seg>Care should be taken to match boiler loads as closely as possible to the demand. Modular boiler arrangements allow greater flexibility if controls are flexible enough to responding to the changing demand. Ideally condensing boilers should be used.     /     Cần chú ý điều chỉnh phụ tải nồi hơi gần nhất có thể với nhu cầu thực tế. Bố trí nồi hơi theo modul cho phép vận hành linh hoạt hơn nếu bộ điều khiển đủ linh hoạt để phản ứng với nhu cầu thay đổi. Tối ưu nhất là nên cân nhắc sử dụng nồi hơi thu hồi nước ngưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Careful orientation of the Hotel can have a significant effect on the energy consumption of the Hotel and although it is accepted this is not always possible, there are many occasions when it can be influenced. For example, the guestrooms are most used early in the morning and evening so guestrooms facing E-W are likely to have a larger cooling demand due to difficulties in providing shading on these orientations due to the low sun angle.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T092048Z" creationid="LanHK" creationdate="20210715T092048Z">
@@ -3714,6 +3722,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T045236Z" creationid="LanHK" creationdate="20210602T014459Z">
         <seg>For relevant Country/State Local Requirement        /       Các quy định, yêu cầu quốc gia/địa phương liên quan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For smaller boiler plants electric heat pumps (or electric boilers in freezing climates) may be preferred, subject to IHG approval.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T064344Z" creationid="LanHK" creationdate="20210728T064344Z">
+        <seg>For smaller boiler plants electric heat pumps (or electric boilers in freezing climates) may be preferred, subject to IHG approval.     /     Đối với các nồi hơi nhỏ hơn, có thể ưu tiên dùng bơm nhiệt điện (hoặc nồi hơi điện tại các vùng khí hậu đóng băng), cần IHG phê duyệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -5841,6 +5857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T064416Z" creationid="LanHK" creationdate="20210728T064416Z">
+        <seg>NOTE:     /     Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NR Rating</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T062746Z" creationid="LanHK" creationdate="20210715T062746Z">
@@ -6013,6 +6037,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044040Z" creationid="Kieu Lan" creationdate="20210713T044040Z">
         <seg>Notify fire brigade if appropriate     /     Thông báo tới lực lượng PCCC nếu hợp lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>November 2015</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T064350Z" creationid="LanHK" creationdate="20210728T064350Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -6885,6 +6917,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082927Z" creationid="Kieu Lan" creationdate="20210713T082927Z">
         <seg>Russia, CIS, Balkans     /     Nga, Cộng đồng các Quốc gia Độc lập, Balkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SEPARATE VARIABLE TEMPERATURE CIRCUIT IS RECURED IF RADIATORS ARE INSTALLED</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T064542Z" creationid="LanHK" creationdate="20210728T064542Z">
+        <seg>SEPARATE VARIABLE TEMPERATURE CIRCUIT IS RECURED IF RADIATORS ARE INSTALLED     /     Cần có đường nước nhiệt độ biến thiên nếu có lắp đặt lò sưởi</seg>
       </tuv>
     </tu>
     <tu>
