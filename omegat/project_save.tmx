@@ -840,11 +840,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>local hot spots là gì????</note>
       <tuv lang="EN-US">
         <seg>Air cooled heat rejection equipment shall be selected to operate 5°C above the design external ambient conditions and shall reflect the actual location of plant and the potential for local hot spots.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210728T033030Z" creationid="LanHK" creationdate="20210728T033030Z">
-        <seg>Air cooled heat rejection equipment shall be selected to operate 5°C above the design external ambient conditions and shall reflect the actual location of plant and the potential for local hot spots.     /     Thiết bị thải nhiệt giải nhiệt gió sẽ được chọn để vận hành cao hơn 5°C s</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T034233Z" creationid="LanHK" creationdate="20210728T033030Z">
+        <seg>Air cooled heat rejection equipment shall be selected to operate 5°C above the design external ambient conditions and shall reflect the actual location of plant and the potential for local hot spots.     /     Thiết bị thải nhiệt giải nhiệt gió sẽ được chọn để vận hành cao hơn 5°C so với điều kiện nhiệt độ không khí thiết kế bên ngoài và sẽ phản ánh vị trí cụ thể của trạm máy và tiềm năng đối với local hot spots.</seg>
       </tuv>
     </tu>
     <tu>
