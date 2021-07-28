@@ -1156,8 +1156,8 @@
       <tuv lang="EN-US">
         <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft. -</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T030623Z">
-        <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft.     /     Bất kỳ tủ điện phụ nào, bảng điện, máy phát, bơm thủy lực hay các thiết bị khác phải được bảo vệ chống cháy trong thời gian trong ít hơn trục thang máy. </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T061915Z" creationid="PHUONG.DTM" creationdate="20210605T030623Z">
+        <seg>Any electrical sub-station, distribution board, generator, hydraulic pump or other apparatus must be fire protected for a period not less than that of the lift shaft.     /     Bất kỳ tủ điện phụ nào, bảng điện, máy phát, bơm thủy lực hay các thiết bị khác phải được bảo vệ chống cháy trong thời gian không ít hơn trục thang máy. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1165,8 +1165,8 @@
       <tuv lang="EN-US">
         <seg>Any power switches or isolators must be clearly identified and labels must be provided at the main switchboard and at the alternative power supply indicating the location of the other supply</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210605T030744Z" creationid="PHUONG.DTM" creationdate="20210605T030322Z">
-        <seg>Any power switches or isolators must be clearly identified and labels must be provided at the main switchboard and at the alternative power supply indicating the location of the other supply       /         Bất kỳ công tắc điện hay isolator nào phải được nhận dạng rõ ràng và được gắn nhãn trên tủ điện chính và nguồn điện dự phòng thể rõ vị trí dự phòng.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T061849Z" creationid="PHUONG.DTM" creationdate="20210605T030322Z">
+        <seg>Any power switches or isolators must be clearly identified and labels must be provided at the main switchboard and at the alternative power supply indicating the location of the other supply       /         Bất kỳ công tắc điện hay isolator nào phải được nhận dạng rõ ràng và được gắn nhãn trên tủ điện chính và nguồn điện dự phòng thể hiện rõ vị trí dự phòng.</seg>
       </tuv>
     </tu>
     <tu>
