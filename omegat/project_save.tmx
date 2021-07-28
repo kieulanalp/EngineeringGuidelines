@@ -420,8 +420,8 @@
       <tuv lang="EN-US">
         <seg>50 to 500 people - a minimum of two exits</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210609T081458Z" creationid="LanHK" creationdate="20210609T081458Z">
-        <seg>50 to 500 people - a minimum of two exits         /       50-500 người - tối thiểu 2 lối thoát</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023823Z" creationid="LanHK" creationdate="20210609T081458Z">
+        <seg>50 to 500 people - a minimum of two exits         /       50-500 người - tối thiểu 2 lối thoát hiểm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4536,8 +4536,8 @@
       <tuv lang="EN-US">
         <seg>In general the occupancy of an assembly room should be based upon a figure of 1m2 / person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210609T082948Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>In general the occupancy of an assembly room should be based upon a figure of 1m2/person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.         /       Nhìn chung sức chứa của phòng hội họp nên được tính toán dựa trên cơ sở 1m2/người trừ khi số ghế ngồi là cố định, ví dụ như trong nhà hàng, trong trường hợp này, sức chứa cần được  tính toán dựa trên số ghế. Trong trường hợp này, cần cẩn trọng khi thay đổi bố trí phòng để đảm bảo sức chứa không vượt quá côgn suất lối thoát</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T024423Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>In general the occupancy of an assembly room should be based upon a figure of 1m2/person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.         /       Nhìn chung sức chứa của phòng hội họp nên được tính toán dựa trên cơ sở 1m2/người trừ khi số ghế ngồi là cố định, ví dụ như trong nhà hàng, trong trường hợp này, sức chứa cần được  tính toán dựa trên số ghế. Trong trường hợp này, cần cẩn trọng khi thay đổi bố trí phòng để đảm bảo sức chứa không vượt quá công suất lối thoát</seg>
       </tuv>
     </tu>
     <tu>
@@ -5658,8 +5658,8 @@
       <tuv lang="EN-US">
         <seg>More than 1000 people - a minimum of four exits but additional exits provided where necessary and approved by IHG</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210609T081818Z" creationid="LanHK" creationdate="20210609T081818Z">
-        <seg>More than 1000 people - a minimum of four exits but additional exits provided where necessary and approved by IHG         /       Hơn 1000 người - tối thiểu 4 lối thoát nhưng các lối thoát bổ sung khác được cung cấp nếu cần thiết và được IHG phê duyệt</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023907Z" creationid="LanHK" creationdate="20210609T081818Z">
+        <seg>More than 1000 people - a minimum of four exits but additional exits provided where necessary and approved by IHG         /       Hơn 1000 người - tối thiểu 4 lối thoát hiểm nhưng các lối thoát bổ sung khác được cung cấp nếu cần thiết và được IHG phê duyệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,8 +6122,8 @@
       <tuv lang="EN-US">
         <seg>Places of assembly such as function rooms, meeting rooms, bars and restaurants must be provided with means of escape based upon the size of the room. Restricting the occupancy of an assembly room because of inadequate means of escape is impractical and unacceptable.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210609T081431Z" creationid="LanHK" creationdate="20210609T081431Z">
-        <seg>Places of assembly such as function rooms, meeting rooms, bars and restaurants must be provided with means of escape based upon the size of the room. Restricting the occupancy of an assembly room because of inadequate means of escape is impractical and unacceptable.         /       Các nơi hội họp như phòng chức năng, phòng họp, bar và nhà hàng cần có lối thoát hiểm phù hợp với kích cỡ phòng. Việc giới hạn số lượng người trong một phòng hội họp vì thiếu lối thoát hiểm là không thực tế và không chấp nhận được.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023748Z" creationid="LanHK" creationdate="20210609T081431Z">
+        <seg>Places of assembly such as function rooms, meeting rooms, bars and restaurants must be provided with means of escape based upon the size of the room. Restricting the occupancy of an assembly room because of inadequate means of escape is impractical and unacceptable.         /       Các nơi hội họp như phòng chức năng, phòng họp, bar và nhà hàng phải được bố trí lối thoát hiểm phù hợp với kích cỡ phòng. Việc giới hạn số lượng người trong một phòng hội họp vì thiếu lối thoát hiểm là không thực tế và không được chấp thuận.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8446,8 +8446,8 @@
       <tuv lang="EN-US">
         <seg>The number of exits must meet the following minimum requirements:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210609T081443Z" creationid="LanHK" creationdate="20210609T081443Z">
-        <seg>The number of exits must meet the following minimum requirements:         /       Số lượng lối thoát phải đáp ứng tối thiểu như sau</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023813Z" creationid="LanHK" creationdate="20210609T081443Z">
+        <seg>The number of exits must meet the following minimum requirements:         /       Số lượng lối thoát hiểm phải đáp ứng tối thiểu như sau</seg>
       </tuv>
     </tu>
     <tu>
