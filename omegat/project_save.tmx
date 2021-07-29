@@ -3043,6 +3043,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Energy cost comparison per year</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T095922Z" creationid="Kieu Lan" creationdate="20210729T095922Z">
+        <seg>Energy cost comparison per year     /     So sánh chi phí năng lượng hàng năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Engineering Design Guidelines</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070039Z">
