@@ -4878,11 +4878,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>https://hvacr.vn/diendan/threads/xin-dinh-nghia-chinh-xac-chi-so-sensible-cooling-trong-may-lanh-chinh-xac.36454/</note>
       <tuv lang="EN-US">
         <seg>In guest bedrooms individual control shall be provided via a flush mounted control panel to InterContinental Hotels Group approval and will be BMS compatible. Units shall operate on water-side control, with fan speed selected to meet the noise criteria in the requirement schedule. Fresh air supply to guestrooms shall be conditioned, to allow the FCU Chilled Water Coils to operate at 100% sensible cooling.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T041947Z" creationid="LanHK" creationdate="20210729T041947Z">
-        <seg>In guest bedrooms individual control shall be provided via a flush mounted control panel to InterContinental Hotels Group approval and will be BMS compatible. Units shall operate on water-side control, with fan speed selected to meet the noise criteria in the requirement schedule. Fresh air supply to guestrooms shall be conditioned, to allow the FCU Chilled Water Coils to operate at 100% sensible cooling.     /     Trong phòng khách, phải cung cấp điều khiển riêng biệt bằng bảng điều khiển gắn liền tường, do IHG phê duyệt và có thể tích hợp với BMS. Các unit là loại </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T044648Z" creationid="LanHK" creationdate="20210729T041947Z">
+        <seg>In guest bedrooms individual control shall be provided via a flush mounted control panel to InterContinental Hotels Group approval and will be BMS compatible. Units shall operate on water-side control, with fan speed selected to meet the noise criteria in the requirement schedule. Fresh air supply to guestrooms shall be conditioned, to allow the FCU Chilled Water Coils to operate at 100% sensible cooling.     /     Trong phòng khách, phải cung cấp điều khiển riêng biệt bằng bảng điều khiển gắn liền tường, do IHG phê duyệt và có thể tích hợp với BMS. Các unit là loại waterside control - dùng van điều khiển dòng nước đi qua ống làm nóng/làm mát hoặc không qua ống nào (https://static1.squarespace.com/static/583dc2681b631b930031188a/t/5968aee544024389ea26d895/1500032743308/FCU+Styles.pdf), tốc độ quạt được chọn để đáp ứng tiêu chí về độ ồn. Nguồn khí tươi cấp cho phòng khách sẽ được điều chỉnh trước, để cho phép dàn ống nước mát của FCU vận hành đạt mức 100% công suất làm lạnh thực</seg>
       </tuv>
     </tu>
     <tu>
@@ -9218,6 +9219,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094544Z">
         <seg>The reason for the variation    /    Lý do có thay đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The required cooling and heating capacity of the fan coil unit shall be achieved at medium speed. Setting the fan coil to high speed allows quick cool down or heat up.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T044824Z" creationid="LanHK" creationdate="20210729T044824Z">
+        <seg>The required cooling and heating capacity of the fan coil unit shall be achieved at medium speed. Setting the fan coil to high speed allows quick cool down or heat up.     /     Công suất làm lạnh và sưởi được yêu cầu của FCU sẽ đạt được ở mức vận tốc (tốc độ?) trung bình. Chuyển sang chế độ tốc độ cao cho phép làm lạnh/làm nóng nhanh</seg>
       </tuv>
     </tu>
     <tu>
