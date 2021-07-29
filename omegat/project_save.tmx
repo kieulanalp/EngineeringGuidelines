@@ -3982,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Four Pipe Radiant panels + variable Air flow</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081438Z" creationid="LanHK" creationdate="20210729T081438Z">
+        <seg>Four Pipe Radiant panels + variable Air flow;;; Tấm trần bức xạ 4 ống + VAV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Four pipe chilled beams &amp; variable Air flow</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T074212Z" creationid="LanHK" creationdate="20210729T074212Z">
@@ -4002,6 +4010,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T030652Z" creationid="LanHK" creationdate="20210729T030652Z">
         <seg>Four pipe vertical or horizontal fan coil units with individual means of isolation, filter, fan and condensate drain (preferably gravity fed) are an acceptable means of providing heating and cooling. Consideration shall be given to providing common control valves serving a number of units in individual thermal zones. Two pipe fan coils may be used in hot arid climates.     /     Các FCU 4 ống dọc hoặc ngang với bảo ôn, lọc và thoát nước ngưng riêng (ưu tiên thoát nước dựa vào trọng lực) riêng biệt được chấp nhận để sưởi và làm mát. Cần cân nhắc bố trí các van điều khiển chung phục vụ một số unit trong các zone. Không được sử dụng cuộn quạt hai ống trong vùng khí hậu nóng khô</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Four piped chilled beams &amp; Radiant Panel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081503Z" creationid="LanHK" creationdate="20210729T081503Z">
+        <seg>Four piped chilled beams &amp; Radiant Panel;;;Chilled beam 4 ống &amp; Tấm trần bức xạ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5845,6 +5861,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093849Z" creationid="LanHK" creationdate="20210713T093849Z">
         <seg>Lower construction fire ratings allowed.     /     Hạ yêu cầu chống cháy của kết cấu xây dựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower cost &amp; suitable for medium-large rooms &amp; loads</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081600Z" creationid="LanHK" creationdate="20210729T081600Z">
+        <seg>Lower cost &amp; suitable for medium-large rooms &amp; loads     /     Chi phí thấp &amp; phù hợp phòng và phụ tải cỡ trung</seg>
       </tuv>
     </tu>
     <tu>
@@ -8412,6 +8436,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suitable for large rooms &amp; larger cooling loads</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081545Z" creationid="LanHK" creationdate="20210729T081545Z">
+        <seg>Suitable for large rooms &amp; larger cooling loads     /     Phù hợp phòng lớn và phụ tải làm mát lớn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable for small to medium rooms &amp; loads for large well insulated rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081612Z" creationid="LanHK" creationdate="20210729T081612Z">
+        <seg>Suitable for small to medium rooms &amp; loads for large well insulated rooms     /     Phù hợp phòng nhỏ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sulphate reducers: Maximum 0 organism/ml</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095225Z" creationid="Kieu Lan" creationdate="20210728T095225Z">
@@ -9960,6 +10000,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Three pipe VRF (VRV)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081517Z" creationid="LanHK" creationdate="20210729T081517Z">
+        <seg>Three pipe VRF (VRV);;;VRF 3 ống</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>n</note>
       <tuv lang="EN-US">
         <seg>To determine the diversified simultaneous cooling load, the grand total calculated cooling load can be reduced by:-</seg>
@@ -11164,8 +11212,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>chilled beam units located in a bulk head over the entrance with variable air flow for boost</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T072139Z" creationid="LanHK" creationdate="20210729T072139Z">
-        <seg>chilled beam units located in a bulk head over the entrance with variable air flow for boost     /     Hệ thống Chilled beam 4 ống trong khoang ngăn phía trên lối vào, tăng cường với luồng khí biến thiên</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T080517Z" creationid="LanHK" creationdate="20210729T072139Z">
+        <seg>chilled beam units located in a bulk head over the entrance with variable air flow for boost     /     Hệ thống Chilled beam 4 ống trong khoang ngăn phía trên lối vào, tăng cường với VAV</seg>
       </tuv>
     </tu>
     <tu>
@@ -11678,8 +11726,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T073237Z" creationid="LanHK" creationdate="20210729T072653Z">
-        <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)     /     Tấm trần bức xạ với luồng khí biến thiên</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T080526Z" creationid="LanHK" creationdate="20210729T072653Z">
+        <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)     /     Tấm trần bức xạ với VAV</seg>
       </tuv>
     </tu>
     <tu>
