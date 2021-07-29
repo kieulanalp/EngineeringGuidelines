@@ -3576,8 +3576,8 @@
       <tuv lang="EN-US">
         <seg>Fire Separation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210701T020324Z" creationid="LanHK" creationdate="20210525T073502Z">
-        <seg>Fire Separation     /     Chống cháy lan</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T092306Z" creationid="LanHK" creationdate="20210525T073502Z">
+        <seg>jFire Separation     /     Chống cháy lan</seg>
       </tuv>
     </tu>
     <tu>
@@ -5380,6 +5380,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041603Z">
         <seg>It must not obstruct escape routes     /     Không được phép cản trở đường thoát nạn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Item</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T043949Z" creationid="LanHK" creationdate="20210505T043949Z">
+        <seg>Item Hạng mục</seg>
       </tuv>
     </tu>
     <tu>
