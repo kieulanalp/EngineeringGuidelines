@@ -10070,6 +10070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VRV system must not be oversized otherwise poor temperature control and condensation is a high risk and excessive latent cooling will occur unnecessarily.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T060810Z" creationid="LanHK" creationdate="20210729T060810Z">
+        <seg>VRV system must not be oversized otherwise poor temperature control and condensation is a high risk and excessive latent cooling will occur unnecessarily.     /     Hệ thống VR không được quá cỡ, nếu không sẽ có nguy cơ kiểm soát nhiệt độ kém và ngưng tụ kém, và xảy ra tình trạng hạ nhiệt ẩn không cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VRV systems can be considered in refurbishment projects due to the reduced pipework size, simplicity of installation and non-reliance on a centralized heating or cooling system.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T045859Z" creationid="LanHK" creationdate="20210729T045859Z">
