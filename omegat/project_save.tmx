@@ -946,6 +946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air systems shall, where external conditions allow, have suitable controls to enable free cooling to be provided utilizing outside air.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T024958Z" creationid="LanHK" creationdate="20210729T024958Z">
+        <seg>Air systems shall, where external conditions allow, have suitable controls to enable free cooling to be provided utilizing outside air.     /     Các hệ thống không khí sẽ có điều khiển phù hợp để cung cấp chế độ free cooling- làm mát bằng việc dùng không khí bên ngoài, nếu điều kiện ngoài trời cho phép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm operates in guest room where fire is detected only</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044116Z" creationid="Kieu Lan" creationdate="20210713T044116Z">
@@ -4714,6 +4722,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210714T024404Z" creationid="LanHK" creationdate="20210714T022535Z">
         <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.     /     Nếu không có khí ga tự nhiên, phải tiến hành phân tích để xác định ưu tiên sử dụng dầu hay khí gas lỏng. Phải có hệ thống phát hiện rò rỉ khí gas, cover cho kho và mạng lưới đường ống đến tận điểm sử dụng cuối cùng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If plant or ceiling space is limited (e.g. existing buildings), fan coil or VRV (VRF) systems are acceptable to the Restaurant, Lounge and Bar areas, however they are not preferred due to the increased maintenance, inability for free cooling and extent of services requiring maintenance within the public domain areas. The use of these systems will only be accepted with the prior approval of InterContinental Hotels Group.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T025304Z" creationid="LanHK" creationdate="20210729T025304Z">
+        <seg>If plant or ceiling space is limited (e.g. existing buildings), fan coil or VRV (VRF) systems are acceptable to the Restaurant, Lounge and Bar areas, however they are not preferred due to the increased maintenance, inability for free cooling and extent of services requiring maintenance within the public domain areas. The use of these systems will only be accepted with the prior approval of InterContinental Hotels Group.     /     Nếu diện tích cho máy hoặc diện tích trần hạn chế (đối với các tòa nhà hiện trạng), có thể chấp nhận các hệ thống cuộn quạt hoặc VRV (VRF) đối với khu vực nhà hàng, lounge và bar, tuy nhiên không khuyến khích dùng vì các hệ thống này đòi hỏi bảo trì nhiều hơn, không có chức năng free cooling và việc bảo trì bảo dưỡng cần tiến hành trong khu vực không gian công cộng. Việc sử dụng các hệ thống này chỉ được chấp nhận nếu được IHG phê duyệt trước.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9556,6 +9572,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T024330Z" creationid="LanHK" creationdate="20210729T024330Z">
         <seg>These systems are most appropriate in areas that require high quantities of fresh air for occupants or equipment e.g. Bar, Lounge, Meeting Rooms, Ballroom Restaurant and Kitchens. Re-circulation shall be incorporated where possible and variable fresh air provided, controlled via air quality (CO2) sensors located in each area.     /     Các hệ thống này phù hợp nhất trong các không gian cần lượng khí tươi lớn cho người hoặc thiết bị ở trong, vd bar, lounge, phòng họp, Ballroom, nhà hàng và các bếp. Tính năng tái tuần hoàn sẽ được tích hợp ở nơi khả thi và cung cáp khí tươi biến thiên, kiểm soát thông qua cảm biến chất lượng không khí (CO2) lắp đặt tại mỗi khu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These systems keep the major maintenance away from the occupied space, and hence avoid guest disturbance and allow the use of free cooling when external conditions permit, resulting in reduced life cycle costs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T025042Z" creationid="LanHK" creationdate="20210729T025042Z">
+        <seg>These systems keep the major maintenance away from the occupied space, and hence avoid guest disturbance and allow the use of free cooling when external conditions permit, resulting in reduced life cycle costs.     /     Các hệ thống này cho phép công việc bảo trì diễn ra xa không gian có người ở, nhờ đó tránh làm phiền khách và cho phép dùng không khí ngoài trời để làm mát nếu điều kiện cho phép, từ đó giảm chi phí vòng đời</seg>
       </tuv>
     </tu>
     <tu>
