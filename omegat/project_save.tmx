@@ -8300,6 +8300,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supply temperature for cooling no less than 8-10 deg. C below room temperature</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T061308Z" creationid="LanHK" creationdate="20210729T061308Z">
+        <seg>Supply temperature for cooling no less than 8-10 deg. C below room temperature     /     Nhiệt độ đầu vào cho làm mát không thấp hơn 8-10 độ C so với nhiệt độ phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System / wiring fault</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081239Z" creationid="Kieu Lan" creationdate="20210713T081239Z">
@@ -10066,6 +10074,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042113Z" creationid="LanHK" creationdate="20210715T042057Z">
         <seg>ventilation     /     Thông gió bãi đỗ xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VRV fan coil units should be selected on the following basis:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T060832Z" creationid="LanHK" creationdate="20210729T060832Z">
+        <seg>VRV fan coil units should be selected on the following basis:     /     FCU VRV được chọn dựa trên cơ sở sau:</seg>
       </tuv>
     </tu>
     <tu>
