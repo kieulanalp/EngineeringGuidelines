@@ -4646,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highest</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T093225Z" creationid="Kieu Lan" creationdate="20210729T093225Z">
+        <seg>Highest;;;Cao nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highest electrical demands located close together</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022715Z" creationid="LanHK" creationdate="20210717T022715Z">
