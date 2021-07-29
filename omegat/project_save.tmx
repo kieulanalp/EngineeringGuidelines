@@ -8580,6 +8580,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TYPICAL GUEST ROOM AC SYSTEM COMPARISON TABLE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T073925Z" creationid="LanHK" creationdate="20210729T073925Z">
+        <seg>TYPICAL GUEST ROOM AC SYSTEM COMPARISON TABLE;;;BẢNG SO SÁNH HỆ THỐNG A/C CHO PHÒNG KHÁCH ĐIỂN HÌNH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TYPICAL GUEST ROOM DETAIL.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043618Z" creationid="LanHK" creationdate="20210602T043618Z">
@@ -9130,6 +9138,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071542Z" creationid="PHUONG.DTM" creationdate="20210608T014750Z">
         <seg>The following systems must be provided as required by the relevant codes, or to enhance the life safety provisions of the entire Hotel:        /        Các hệ thống dưới đây phải được cung cấp tuân thủ theo luật liên quan, hoặc để tăng cường an toàn PCCC cho cả tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following table provides a simple comparison of these systems, which should be carried out for specific projects based on local information:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T073753Z" creationid="LanHK" creationdate="20210729T073753Z">
+        <seg>The following table provides a simple comparison of these systems, which should be carried out for specific projects based on local information:-     /     Bảng sau là một so sánh đơn giản giữa các hệ thống. So sánh nên được tiến hành cho các hệ thống cụ thể dựa trên thông tin địa phương</seg>
       </tuv>
     </tu>
     <tu>
