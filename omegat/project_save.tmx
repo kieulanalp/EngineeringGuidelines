@@ -426,6 +426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.15.2 Four Pipe Fan Coil Units</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T025917Z" creationid="LanHK" creationdate="20210729T025917Z">
+        <seg>4.15.2 Four Pipe Fan Coil Units     /     FCU 4 ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.18.1 Frost Protection - Alternative may be simpler / more economical</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -5315,6 +5323,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030411Z" creationid="LanHK" creationdate="20210602T030357Z">
         <seg>Kitchens and adjoining rooms or areas        /       Bếp và các phòng hoặc khu vực liền kề</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchens shall always utilize all air systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T025311Z" creationid="LanHK" creationdate="20210729T025311Z">
+        <seg>Kitchens shall always utilize all air systems.     /     Các bếp luôn sử dụng hệ thống all-air</seg>
       </tuv>
     </tu>
     <tu>
