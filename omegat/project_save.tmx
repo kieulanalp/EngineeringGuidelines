@@ -948,16 +948,16 @@
       <tuv lang="EN-US">
         <seg>All Air Systems (Preferred solution for air quality and energy use)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T021256Z" creationid="LanHK" creationdate="20210729T021256Z">
-        <seg>All Air Systems (Preferred solution for air quality and energy use)     /     Hệ thống</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T021504Z" creationid="LanHK" creationdate="20210729T021256Z">
+        <seg>All Air Systems (Preferred solution for air quality and energy use)     /     Hệ thống All-air (truyền nhiệt qua không khí trong đường ống dẫn)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>All air Systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091721Z">
-        <seg>All air Systems    /    Tất cả các hệ thống khí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T021427Z" creationid="LanHK" creationdate="20210525T091721Z">
+        <seg>All-air Systems    /   Hệ thống All-air (truyền nhiệt qua không khí)</seg>
       </tuv>
     </tu>
     <tu>
