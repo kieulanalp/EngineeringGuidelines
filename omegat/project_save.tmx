@@ -1218,6 +1218,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annual maintenance cost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T095957Z" creationid="Kieu Lan" creationdate="20210729T095957Z">
+        <seg>Annual maintenance cost     /     Chi phí bảo dưỡng hàng năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annunciation</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T043938Z" creationid="Kieu Lan" creationdate="20210713T043938Z">
@@ -1737,6 +1745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Best</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100058Z" creationid="Kieu Lan" creationdate="20210729T100058Z">
+        <seg>Best     /     Tốt nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Between 120- 1750 C (250-3500F)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095221Z" creationid="Kieu Lan" creationdate="20210728T095221Z">
@@ -2077,6 +2093,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091817Z" creationid="LanHK" creationdate="20210702T091817Z">
         <seg>Central battery system 1.2.3     /     Hệ thống pin trung tâm 1.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler &amp; separate heating &amp;chilled water circuits to room FCU’s</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T101038Z" creationid="Kieu Lan" creationdate="20210729T101038Z">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler &amp; separate heating &amp;chilled water circuits to room FCU’s     /    Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt , nồi hơi &amp; đường nước nóng&amp;nước lạnh tới FCU của phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,6 +3454,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fair</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100103Z" creationid="Kieu Lan" creationdate="20210729T100103Z">
+        <seg>Fair     /     Tương đối tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fair/Good</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100053Z" creationid="Kieu Lan" creationdate="20210729T100043Z">
+        <seg>Fair/Good     /     Tương đối tốt/Tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>False ceiling</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T064411Z" creationid="LanHK" creationdate="20210602T050113Z">
@@ -4294,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100048Z" creationid="Kieu Lan" creationdate="20210729T100048Z">
+        <seg>Good     /     Tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Greater China &amp; Australasia</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T051449Z" creationid="LanHK" creationdate="20210602T023811Z">
@@ -4630,6 +4678,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heating method</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100110Z" creationid="Kieu Lan" creationdate="20210729T100110Z">
+        <seg>Heating method     /     Phương thức làm nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100008Z" creationid="Kieu Lan" creationdate="20210729T100008Z">
+        <seg>High     /     Cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High Rise</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023941Z" creationid="LanHK" creationdate="20210602T023941Z">
@@ -4656,8 +4720,16 @@
       <tuv lang="EN-US">
         <seg>Highest</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T093225Z" creationid="Kieu Lan" creationdate="20210729T093225Z">
-        <seg>Highest;;;Cao nhất</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100013Z" creationid="Kieu Lan" creationdate="20210729T093225Z">
+        <seg>Highest     /     Cao nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highest (Unnecessary latent cooling)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T095948Z" creationid="Kieu Lan" creationdate="20210729T095948Z">
+        <seg>Highest (Unnecessary latent cooling)     /     Cao nhất (hạ nhiệt ẩn không cần thiết)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4730,6 +4802,38 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154708Z" creationid="Kieu Lan" creationdate="20210405T154706Z">
         <seg>Hot Water Nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot water + Air</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100119Z" creationid="Kieu Lan" creationdate="20210729T100119Z">
+        <seg>Hot water + Air     /     Nước nóng+Gió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot water FCU</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100114Z" creationid="Kieu Lan" creationdate="20210729T100114Z">
+        <seg>Hot water FCU     /     FCU nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot water air + Radiant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100143Z" creationid="Kieu Lan" creationdate="20210729T100143Z">
+        <seg>Hot water air + Radiant     /     Gió nước nóng+Bức xạ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot water radiant + Air</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100126Z" creationid="Kieu Lan" creationdate="20210729T100126Z">
+        <seg>Hot water radiant + Air     /     Bức xạ nước nóng+Gió</seg>
       </tuv>
     </tu>
     <tu>
@@ -5841,6 +5945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T095931Z" creationid="Kieu Lan" creationdate="20210729T095931Z">
+        <seg>Low     /     thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low Cooling Demand</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T092111Z" creationid="LanHK" creationdate="20210715T092111Z">
@@ -5925,6 +6037,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095227Z" creationid="Kieu Lan" creationdate="20210728T095227Z">
         <seg>Lower running costs (reduced pumping and heat losses)     /     Giảm chi phí vận hành (giảm phụ tải bơm và thất thoát nhiệt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lowest</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T095935Z" creationid="Kieu Lan" creationdate="20210729T095935Z">
+        <seg>Lowest     /     thấp nhất</seg>
       </tuv>
     </tu>
     <tu>
@@ -6213,6 +6333,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T031612Z" creationid="LanHK" creationdate="20210717T031612Z">
         <seg>Mediterranean***Địa Trung Hải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T095927Z" creationid="Kieu Lan" creationdate="20210729T095927Z">
+        <seg>Medium     /     TB</seg>
       </tuv>
     </tu>
     <tu>
@@ -7489,6 +7617,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>là gì??</note>
+      <tuv lang="EN-US">
+        <seg>Reverse Cycle</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100156Z" creationid="Kieu Lan" creationdate="20210729T100156Z">
+        <seg>Reverse Cycle     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Reviewer</seg>
       </tuv>
@@ -8572,6 +8709,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System Description</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100202Z" creationid="Kieu Lan" creationdate="20210729T100202Z">
+        <seg>System Description     /     Mô tả hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System Fire Integrity</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080023Z">
@@ -8768,6 +8913,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020955Z" creationid="Kieu Lan" creationdate="20210713T020955Z">
         <seg>Technical rooms     /     Phòng kỹ thuật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature control/comfort</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100031Z" creationid="Kieu Lan" creationdate="20210729T100031Z">
+        <seg>Temperature control/comfort     /     Điều khiển nhiệt độ/Độ dễ chịu</seg>
       </tuv>
     </tu>
     <tu>
