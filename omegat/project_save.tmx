@@ -938,6 +938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air systems shall be zoned utilizing VAV or similar (re-heat is not acceptable) according to occupancy pattern and the operations carried out in the area. Physical size of AHU's shall be considered, and the practicality of maintaining large fans, motor and coils.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T024849Z" creationid="LanHK" creationdate="20210729T024849Z">
+        <seg>Air systems shall be zoned utilizing VAV or similar (re-heat is not acceptable) according to occupancy pattern and the operations carried out in the area. Physical size of AHU's shall be considered, and the practicality of maintaining large fans, motor and coils.     /     Các hệ thống không khí sẽ được chia khu nhờ VAV (hệ biến đổi lưu lượng gió) hoặc tương đương (không chấp nhận reheat - làm nóng lại không khí đã làm mát trước đó), phụ thuộc vào số lượng người thường có mặt trong không gian và các hoạt động được tiến hành tại đó. Kích thước AHU sẽ được cân nhắc, và tính thực dụng của việc duy trì các quạt, động cơ và cuộn dây lớn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm operates in guest room where fire is detected only</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044116Z" creationid="Kieu Lan" creationdate="20210713T044116Z">
