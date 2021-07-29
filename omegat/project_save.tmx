@@ -1299,6 +1299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Areas with high fresh air demand</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T045119Z" creationid="LanHK" creationdate="20210729T045119Z">
+        <seg>Areas with high fresh air demand     /     Các khu vực nhu cầu khí tươi cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a Total Heat Recovery:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210726T091317Z" creationid="LanHK" creationdate="20210726T091317Z">
@@ -9600,6 +9608,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These refrigerant based systems are most appropriate for areas that require low fresh air quantities e.g. offices, workshops, retail etc., and can provide both heating and cooling.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T045046Z" creationid="LanHK" creationdate="20210729T045046Z">
+        <seg>These refrigerant based systems are most appropriate for areas that require low fresh air quantities e.g. offices, workshops, retail etc., and can provide both heating and cooling.     /     Các hệ thống dựa vào môi chất làm lạnh phù hợp với các khu vực yêu cầu lượng khí tươi thấp vd văn phòng, workshops, retail v.v. và có thể làm mát và sưởi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These should be used as a guide only for preliminary planning and for checking purposes.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T031225Z" creationid="LanHK" creationdate="20210717T031225Z">
@@ -9637,6 +9653,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024813Z" creationid="LanHK" creationdate="20210715T024813Z">
         <seg>These systems shall be designed and operated to achieve:     /     Các hệ thống sau sẽ được thiết kế và vận hành để đạt được:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are not particularly suitable for:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T045059Z" creationid="LanHK" creationdate="20210729T045059Z">
+        <seg>They are not particularly suitable for:-     /     Các hệ thống này không thực sự phù hợp đối với</seg>
       </tuv>
     </tu>
     <tu>
@@ -9808,6 +9832,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T103136Z" creationid="LanHK" creationdate="20210716T103136Z">
         <seg>Tropical SE Asia     /     Vùng Đông Nam Á nhiệt đới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tropical or sub-tropical locations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T045144Z" creationid="LanHK" creationdate="20210729T045144Z">
+        <seg>Tropical or sub-tropical locations     /     Địa điểm nhiệt đới hoặc </seg>
       </tuv>
     </tu>
     <tu>
