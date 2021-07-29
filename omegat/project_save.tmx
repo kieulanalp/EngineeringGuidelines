@@ -4104,8 +4104,8 @@
       <tuv lang="EN-US">
         <seg>GUEST ROOM A/C OPTIONS:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T035214Z" creationid="LanHK" creationdate="20210715T035214Z">
-        <seg>guest room a/c options:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062843Z" creationid="LanHK" creationdate="20210715T035214Z">
+        <seg>Guest room a/c options:     /     Phương án A/C phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,6 +4298,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095509Z" creationid="Kieu Lan" creationdate="20210405T153638Z">
         <seg>Guest Room     /     Phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Room A/C and Ventilation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062741Z" creationid="LanHK" creationdate="20210729T062741Z">
+        <seg>Guest Room A/C and Ventilation     /     A/C và thông gió phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -4518,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heat reclaim and lower</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062700Z" creationid="LanHK" creationdate="20210729T062700Z">
+        <seg>Heat reclaim and lower running cost     /     Thu hồi nhiệt và chi phí vận hành thấp hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heat reclaim from chiller condenser for pre-heating or heating of DHWS (See illustration)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T021446Z" creationid="LanHK" creationdate="20210719T022407Z">
@@ -4554,6 +4570,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095221Z" creationid="Kieu Lan" creationdate="20210728T095221Z">
         <seg>High temperature/ pressure hot water     /     Nước nóng nhiệt độ/áp suất cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Higher capital costs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062711Z" creationid="LanHK" creationdate="20210729T062711Z">
+        <seg>Higher capital costs     /     Chi phí đầu tư cao hơn</seg>
       </tuv>
     </tu>
     <tu>
@@ -5789,6 +5813,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093910Z" creationid="LanHK" creationdate="20210713T093857Z">
         <seg>Lower insurance premiums may be possible     /     Có khả năng sẽ giúp hạ mức phí bảo hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower running costs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062717Z" creationid="LanHK" creationdate="20210729T062717Z">
+        <seg>Lower running costs     /     Chi phí vận hành thấp hơn</seg>
       </tuv>
     </tu>
     <tu>
@@ -7166,6 +7198,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T073949Z" creationid="LanHK" creationdate="20210610T073949Z">
         <seg>Reduced pipe sizes    /    Giảm kích thước ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduced pumping -</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062541Z" creationid="LanHK" creationdate="20210729T062541Z">
+        <seg>Reduced pumping - lower running costs     /     Giảm tải bơm - chi phí vận hành thấp hơn</seg>
       </tuv>
     </tu>
     <tu>
@@ -11082,6 +11122,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>costs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062542Z" creationid="LanHK" creationdate="20210729T062542Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>designed for</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044457Z" creationid="LanHK" creationdate="20210715T044457Z">
@@ -11285,6 +11333,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
         <seg>locking fire resisting dooi at each floor</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103913Z" creationid="LanHK" creationdate="20210602T103913Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lower running</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062542Z" creationid="LanHK" creationdate="20210729T062542Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -11533,6 +11589,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
         <seg>rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095538Z" creationid="Kieu Lan" creationdate="20210728T095538Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>running</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062701Z" creationid="LanHK" creationdate="20210729T062701Z">
         <seg></seg>
       </tuv>
     </tu>
