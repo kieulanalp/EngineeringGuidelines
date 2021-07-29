@@ -4350,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guestroom units shall have individual fan and temperature controller and a proprietary central BMS compatible system controller shall be provided behind the reception desk.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T045819Z" creationid="LanHK" creationdate="20210729T045819Z">
+        <seg>Guestroom units shall have individual fan and temperature controller and a proprietary central BMS compatible system controller shall be provided behind the reception desk.     /     Các unit trong phòng khách cần có quạt và điều khiển nhiệt độ riêng và một điều khiển tích hợp với BMS sẽ được cung cấp tại bàn lễ tân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guestrooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020612Z" creationid="Kieu Lan" creationdate="20210713T020612Z">
@@ -7146,6 +7154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refrigerant leakage protection shall be incorporated with each VRV design either by the installation of a gas leak detection system or by demonstration of acceptable peak levels in accordance with BS EN 378-1. All pipework joints must be readily accessible for inspection.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T050033Z" creationid="LanHK" creationdate="20210729T050033Z">
+        <seg>Refrigerant leakage protection shall be incorporated with each VRV design either by the installation of a gas leak detection system or by demonstration of acceptable peak levels in accordance with BS EN 378-1. All pipework joints must be readily accessible for inspection.     /     Cần có biện pháp </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refuges - these are places of relative safety where disabled people can await assistance from hotel staff to</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104440Z">
@@ -9884,6 +9900,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two pipe VRV units can only provide cooling or heating and not both simultaneously, hence are only suitable for climates requiring cooling only as otherwise independent room temperature control is not achievable.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T045737Z" creationid="LanHK" creationdate="20210729T045737Z">
+        <seg>Two pipe VRV units can only provide cooling or heating and not both simultaneously, hence are only suitable for climates requiring cooling only as otherwise independent room temperature control is not achievable.     /     Các hệ VRV 2 ống chỉ có thể hoặc làm lạnh hoặc sưởi và không thể đồng thời thực hiện hai chức năng, do đó chỉ phù hợp với các vùng khí hậu chỉ yêu cầu làm lạnh, do việc điều khiển nhiệt độ độc lập cho các phòng không khả thi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two speed ventilation systems (or inverter driven fans) serving the kitchens for economy in “low” periods.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T015855Z" creationid="LanHK" creationdate="20210719T015855Z">
@@ -10042,6 +10066,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042113Z" creationid="LanHK" creationdate="20210715T042057Z">
         <seg>ventilation     /     Thông gió bãi đỗ xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VRV systems can be considered in refurbishment projects due to the reduced pipework size, simplicity of installation and non-reliance on a centralized heating or cooling system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T045859Z" creationid="LanHK" creationdate="20210729T045859Z">
+        <seg>VRV systems can be considered in refurbishment projects due to the reduced pipework size, simplicity of installation and non-reliance on a centralized heating or cooling system.     /     Các hệ thống VRV có thể được cân nhắc cho các dự án cải tạo do kích thước đường ống nhỏ, lắp đặt đơn giản và không phụ thuộc vào hệ thống sưởi/làm mát trung tâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VRV systems do not offer the degree of load diversity that can be applied to central systems, or the provision of ‘free cooling’ with air systems, and this shall be considered in their evaluation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T050020Z" creationid="LanHK" creationdate="20210729T050020Z">
+        <seg>VRV systems do not offer the degree of load diversity that can be applied to central systems, or the provision of ‘free cooling’ with air systems, and this shall be considered in their evaluation.     /     Các hệ thống VRV không đáp ứng được độ biến thiên về phụ tải như các hệ thống trung tâm, không có tính năng "free cooling" như hệ thống all-air, và những điều này sẽ được cân nhắc trong quá trình đánh giá</seg>
       </tuv>
     </tu>
     <tu>
