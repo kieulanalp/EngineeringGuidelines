@@ -9094,6 +9094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following systems are deemed acceptable, dependent on the location, room size and loads:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T070923Z" creationid="LanHK" creationdate="20210729T070923Z">
+        <seg>The following systems are deemed acceptable, dependent on the location, room size and loads:-     /     Các hệ thống sau được chấp nhận, phụ thuộc vào địa điểm, kích thước phòng và các phụ tải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following systems must be provided as required by the relevant codes, or to enhance the life safety provisions of the entire Hotel:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071542Z" creationid="PHUONG.DTM" creationdate="20210608T014750Z">
@@ -11088,6 +11096,15 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
     </tu>
     <tu>
+      <note> variable air flow??</note>
+      <tuv lang="EN-US">
+        <seg>chilled beam units located in a bulk head over the entrance with variable air flow for boost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T072139Z" creationid="LanHK" creationdate="20210729T072139Z">
+        <seg>chilled beam units located in a bulk head over the entrance with variable air flow for boost     /     Hệ thống Chilled beam 4 ống trong khoang ngăn phía trên lối vào, tăng cường với luồng khí biến thiên</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>nt</note>
       <tuv lang="EN-US">
         <seg>chilled water temperature.</seg>
@@ -11206,6 +11223,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T040130Z" creationid="LanHK" creationdate="20210610T040130Z">
         <seg>The route must be illuminated by normal and emergency lighting unless there is sufficient borrowed light, for example, from neighboring street lamps and buildings     /    Lối đi phải có chiếu sáng thông thường và chiếu sáng khẩn cấp trừ khi có đủ ánh sáng từ nguồn mượn, vd từ đèn đường hoặc đèn các tòa nhà xung quanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fan coil units located in a bulk head over the entrance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T071024Z" creationid="LanHK" creationdate="20210729T071024Z">
+        <seg>fan coil units located in a bulk head over the entrance     /     FCU 4 ống bố trí trong khoang ngăn phía trên lối vào </seg>
       </tuv>
     </tu>
     <tu>
