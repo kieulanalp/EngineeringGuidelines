@@ -5327,6 +5327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOW TEMPERATURE HEATING WATER SYSTEM WITH DOMESTIC HOT WATER HEAT EXCHANGER</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T065451Z" creationid="LanHK" creationdate="20210728T065451Z">
+        <seg>LOW TEMPERATURE HEATING WATER SYSTEM WITH DOMESTIC HOT WATER HEAT EXCHANGER     /     Hệ thống đun nước nhiệt độ thấp với bộ trao đổi nhiệt nước nóng sinh hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LTHW shall be circulated at 80/60°C to serve heating and domestic hot water heat exchangers via a primary distribution circuit with variable speed pumping. This may only be varied following substantiation of alternative temperatures proposed.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T050535Z" creationid="LanHK" creationdate="20210728T050535Z">
@@ -8315,6 +8323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TYPICAL PUBLIC SPACE AIR HANDLING UNIT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T065002Z" creationid="LanHK" creationdate="20210728T065002Z">
+        <seg>TYPICAL PUBLIC SPACE AIR HANDLING UNIT     /     AHU cho không gian công cộng thông thường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TYPICAL SCHEMATIC MULTI-FUNCTION HEAT RECOVERY CHILLER</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T041834Z" creationid="LanHK" creationdate="20210724T041834Z">
@@ -8535,6 +8551,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T044229Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>The central heating distribution plant shall utilise modulating high efficiency / low NOx boilers, with condensing boilers used, having proprietary automatic controls compatible with the BMS system.     /     Hệ thống phân phối nhiệt trung tâm sẽ sử dụng nồi hơi hiệu suất cao / ít phát thải NOx, với nồi hơi có thể thu hồi nước ngưng, có điều khiển tự động có thể tích hợp và ohệ thôgns BMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The choice of HVAC system to serve the various Hotel areas shall depend on a number of factors including Hotel configuration, ceiling void depths, Plant room space, external space, utility charges and the extent of the work involved. A full evaluation of options shall be undertaken to ensure the optimum system is selected for each particular project, with typical examples for selection criteria provided water in this design guides for:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T020350Z" creationid="LanHK" creationdate="20210729T020350Z">
+        <seg>The choice of HVAC system to serve the various Hotel areas shall depend on a number of factors including Hotel configuration, ceiling void depths, Plant room space, external space, utility charges and the extent of the work involved. A full evaluation of options shall be undertaken to ensure the optimum system is selected for each particular project, with typical examples for selection criteria provided in this design guides for:     /     Việc lựa chọn hệ thống HVAC để phục vụ nhiều khu vực khách sạn sẽ phụ thuộc một số yếu tố, gồm có bố trí phòng khách sạn, chiều cao không gian áp mái, diện tích phòng máy, không gian bên ngoài, chi phí điện nước.. và quy mô của việc lắp đặt. Cần đánh giá đầy đủ các phương án để đảm bảo lựa chọn được hệ thống tối ưu cho mỗi dự án cụ thể, với ví dụ tiêu biểu cho các tiêu chí chọn lựa đối với các khu vực:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10152,6 +10176,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T071124Z" creationid="LanHK" creationdate="20210601T092745Z">
         <seg>Where deviations from InterContinental Hotels Group standards are agreed (must be in writing), the designers must maintain a schedule of the agreed variations including:    /    Tại nơi có khác biệt so với tiêu chuẩn IHG được chấp thuận (bằng văn bản), Thiết kế phải có danh sách các hạng mục thay đổi đã được chấp thuận, bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where district heating is provided at a higher temperature, it shall be reduced by blending or other means to ensure no exposed pipe or radiator surface temperatures exceed these temperatures for safety.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210728T065632Z" creationid="LanHK" creationdate="20210728T065632Z">
+        <seg>Where district heating is provided at a higher temperature, it shall be reduced by blending or other means to ensure no exposed pipe or radiator surface temperatures exceed these temperatures for safety.     /     Nếu có nhà máy đun nước của khu vực làm nóng nước ở nhiệt độ cao hơn, phải giảm nhiệt độ nước bằng cách pha nước lạnh hoặc các biện pháp khác để đảm bảo không có đường ống lộ ra ngoài hoặc bề mặt máy sưởi có nhiệt độ vượt quá nhiệt độ an toàn</seg>
       </tuv>
     </tu>
     <tu>
