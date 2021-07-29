@@ -216,6 +216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 -“pipe VRV” Heating or Cooling System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062020Z" creationid="LanHK" creationdate="20210729T062014Z">
+        <seg>2 -“pipe VRV” Heating or Cooling System     /     Hệ thống sưởi/làm mát VRV 2 ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2. PROVIDE SPARE PUMP OR MOTOR IMPELLER IN THE PLANT ROOM IN THE EVENT OF A BREATH DOWN.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210720T043743Z" creationid="Kieu Lan" creationdate="20210720T043637Z">
@@ -400,6 +408,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>3 -“pipe VRV” Simultaneous Heating and Cooling System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062120Z" creationid="LanHK" creationdate="20210729T062120Z">
+        <seg>3 -“pipe VRV” Heating or Cooling System     /     Hệ thống sưởi/làm mát VRV 3 ống</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://support.idevicesinc.com/hc/en-us/articles/360000248727-Advanced-Thermostat-Controls</note>
       <tuv lang="EN-US">
         <seg>4 Degree Dead band</seg>
@@ -580,6 +596,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065529Z" creationid="LanHK" creationdate="20210610T065529Z">
         <seg>A - ACTIVATION OF SMOKE DETECTORS SOUNDS AN ALARM IN THE ROOM &amp; ALERTS REMOTE ANNUNCIATOR PANEL    /    A - KÍCH HOẠT ĐẦU BÁO KHÓI KHIẾN KÍCH HOẠT MỘT BÁO ĐỘNG TRONG PHÒNG VÀ BÁO VỀ BẢNG ĐIỀU KHIỂN TỪ XA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A 3pipe system should be zoned differently to a 2 pipe system as illustrated below:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T061955Z" creationid="LanHK" creationdate="20210729T061955Z">
+        <seg>A 3pipe system should be zoned differently to a 2 pipe system as illustrated below:-     /     Một hệ thống ba ống nên được chia khu khác với hệ thống 2 ống, như được minh họa dưới đây</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2750,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Each primary controller shall include an internal 365-day clock    /    calendar with the possibility to operat autonomously or in master    /    slave configuration. More than one master    /    slave group may reside on the same bus network.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each system provides only heating or cooling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062040Z" creationid="LanHK" creationdate="20210729T062040Z">
+        <seg>Each system provides only heating or cooling     /     Mỗi hệ thống chỉ cho phép sưởi hoặc làm mát</seg>
       </tuv>
     </tu>
     <tu>
@@ -5721,6 +5753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low capital cost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062112Z" creationid="LanHK" creationdate="20210729T062112Z">
+        <seg>Low capital cost     /     Chi phí đầu tư thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low temperature/pressure hot water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095212Z" creationid="Kieu Lan" creationdate="20210728T095212Z">
@@ -6494,6 +6534,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T014204Z" creationid="LanHK" creationdate="20210602T014204Z">
         <seg>Once this has been approved in principle by InterContinental Hotels Group, the designer must be responsible for obtaining the approval of the local regulatory authority which should follow the process as indicated below:        /       Một khi các nội dung này đã được phê duyệt bởi IHG, thiết kế phải chịu trách nhiệm xin phê duyệt của cơ quan quản lý địa phương, tuân theo quy trình được mô tả dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only similar zoned rooms on same system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062100Z" creationid="LanHK" creationdate="20210729T062100Z">
+        <seg>Only similar zoned rooms on same system     /     Chỉ các phòng được phân khu giống nhau trên cùng hệ thống</seg>
       </tuv>
     </tu>
     <tu>
@@ -7498,6 +7546,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Same system can provide heating and cooling in adjacent rooms simultaneously</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062202Z" creationid="LanHK" creationdate="20210729T062202Z">
+        <seg>Same system can provide heating and cooling in adjacent rooms simultaneously     /     Một hệ thống có thể đồng thời sưởi và làm mát các phòng liền kề</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Second detector operates or manual call point triggered</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T061119Z" creationid="Kieu Lan" creationdate="20210713T061119Z">
@@ -8360,6 +8416,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075409Z">
         <seg>System Types    /    Các loại hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System has three refrigerant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062147Z" creationid="LanHK" creationdate="20210729T062126Z">
+        <seg>System has three refrigerant pipes    /     Hệ thống có 3 ống môi chất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System only has two refrigerant pipes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062029Z" creationid="LanHK" creationdate="20210729T062029Z">
+        <seg>System only has two refrigerant pipes     /     Hệ thống chỉ có 2 ống môi chất</seg>
       </tuv>
     </tu>
     <tu>
@@ -11350,6 +11422,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095215Z" creationid="Kieu Lan" creationdate="20210728T095215Z">
         <seg>pH 9.0-10.5 (not to exceed 11)      /     độ pH 9.0-10.5 (không được vượt 11)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pipes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T062129Z" creationid="LanHK" creationdate="20210729T062129Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
