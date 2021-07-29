@@ -946,6 +946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Air Systems (Preferred solution for air quality and energy use)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T021256Z" creationid="LanHK" creationdate="20210729T021256Z">
+        <seg>All Air Systems (Preferred solution for air quality and energy use)     /     Hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All air Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091721Z">
@@ -8833,6 +8841,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T032546Z" creationid="Kieu Lan" creationdate="20210713T032526Z">
         <seg>The following sketches illustrate the locations for detectors in a guest room.     /     Bản sketch sau minh họa vị trí các đầu báo trong một phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following systems are considered acceptable:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T020445Z" creationid="LanHK" creationdate="20210729T020445Z">
+        <seg>The following systems are considered acceptable:-     /     Các hệ thống sau được chấp nhận</seg>
       </tuv>
     </tu>
     <tu>
