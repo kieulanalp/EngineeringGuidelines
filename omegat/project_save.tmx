@@ -420,8 +420,8 @@
       <tuv lang="EN-US">
         <seg>4 Degree Dead band</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T033307Z" creationid="LanHK" creationdate="20210715T032853Z">
-        <seg>4 Degree Dead band     /     Deadband 4 độ *Tiêu chuẩn IHG này tính theo độ F (Deadband là một khoảng nhiệt độ xung quanh nhiệt độ đã set khi bật chế độ AUTO. Vd deadband 4 độ và nhiệt độ đã set là 70°F, tức là khoảng nhiệt độ sẽ duy trì ở mức từ 68-72°F. Trong khoảng này, điều hòa sẽ không cần liên tục thay đổi giữa chế độ làm nóng và làm lạnh để duy trì nhiệt độ thoải mái cho người dùng, giúp tiết kiệm năng lượng)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T070646Z" creationid="LanHK" creationdate="20210715T032853Z">
+        <seg>4 Degree Dead band     /     Deadband 4 độ *Tiêu chuẩn này tính theo độ F (Deadband là một khoảng nhiệt độ xung quanh nhiệt độ đã set khi bật chế độ AUTO. Vd deadband 4 độ và nhiệt độ đã set là 70°F, tức là khoảng nhiệt độ sẽ duy trì ở mức từ 68-72°F. Trong khoảng này, điều hòa sẽ không cần liên tục thay đổi giữa chế độ làm nóng và làm lạnh để duy trì nhiệt độ thoải mái cho người dùng, giúp tiết kiệm năng lượng)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2740,8 +2740,8 @@
       <tuv lang="EN-US">
         <seg>Each guestroom will be provided with its own self-controlled system to enable guests to control their own room temperature within pre-set limits, typically 30C either side of the set point, with a 2.2°C dead band, to prevent cycling of the system.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T070614Z" creationid="LanHK" creationdate="20210729T064718Z">
-        <seg>Each guestroom will be provided with its own self-controlled system to enable guests to control their own room temperature within pre-set limits, typically 3°C either side of the set point, with a 2.2°C dead band, to prevent cycling of the system.     /     Mỗi phòng khách sẽ có hệ thống tự điều khiển riêng để khách có thể điều chỉnh nhiệt độ phòng mình trong giới hạn cho phép, thường là trên/dưới 3°C so với nhiệt độ định sẵn cho hệ thống (set point)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T070836Z" creationid="LanHK" creationdate="20210729T064718Z">
+        <seg>Each guestroom will be provided with its own self-controlled system to enable guests to control their own room temperature within pre-set limits, typically 3°C either side of the set point, with a 2.2°C dead band, to prevent cycling of the system.     /     Mỗi phòng khách sẽ có hệ thống tự điều khiển riêng để khách có thể điều chỉnh nhiệt độ phòng mình trong giới hạn cho phép, thường là trên/dưới 3°C so với nhiệt độ định sẵn cho hệ thống (set point), với dead band 2.2°C, để tránh liên tục tự động khởi động/tắt hệ thống để duy trì nhiệt độ</seg>
       </tuv>
     </tu>
     <tu>
