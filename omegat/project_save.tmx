@@ -1349,8 +1349,8 @@
       <tuv lang="EN-US">
         <seg>As an alternative to a conventional public address / voice alarm system a voice-enhanced sounder system that broadcasts a voice alarm message through the detector sounder base may be used and this system is likely to be considerably less expensive. It must be noted, however, that in public areas the system may need to be enhanced by additional sounders to ensure the intelligibility of the message. This is illustrated as follows:-</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T074814Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>As an alternative to a conventional public address / voice alarm system a voice-enhanced sounder system that broadcasts a voice alarm message through the detector sounder base may be used and this system is likely to be considerably less expensive. It must be noted, however, that in public areas the system may need to be enhanced by additional sounders to ensure the intelligibility of the message. This is illustrated as follows:-     /     Thay vì hệ thống hệ thống thông báo công cộng/ báo động bằng giọng nói thông thường, một hệ thống báo động kết hợp thống báo giọng nói, trong đó thông báo bằng giọng nói được phát qua đế âm thanh của đầu báo, có thể được sử dụng, và hệ thống này có thể rẻ hơn đáng kể. Tuy nhiên, cần phải chú ý rằng, trong các khu vực công cộng, hệ thống này có thể cần bổ sung thêm loa hỗ trợ để đảm bảo thông báo được nghe rõ. Xem minh họa ở dưới:</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T061617Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>As an alternative to a conventional public address / voice alarm system a voice-enhanced sounder system that broadcasts a voice alarm message through the detector sounder base may be used and this system is likely to be considerably less expensive. It must be noted, however, that in public areas the system may need to be enhanced by additional sounders to ensure the intelligibility of the message. This is illustrated as follows:-     /     Thay vì hệ thống hệ thống thông báo công cộng/ báo động bằng giọng nói thông thường, một hệ thống báo động kết hợp thông báo bằng giọng nói, trong đó thông báo bằng giọng nói được phát qua đế âm thanh của đầu báo, có thể được sử dụng, và hệ thống này có thể rẻ hơn đáng kể. Tuy nhiên, cần phải chú ý rằng, trong các khu vực công cộng, hệ thống này có thể cần bổ sung thêm loa hỗ trợ để đảm bảo thông báo được nghe rõ. Xem minh họa ở dưới:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2228,8 +2228,8 @@
       <tuv lang="EN-US">
         <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T045736Z" creationid="Kieu Lan" creationdate="20210705T065235Z">
-        <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.      /     Các dây nối phải được bảo vệ và bố trí cầu chì nhiệt để đảm bảo tính liên tục của mạch dù các loa đơn lẻ có thể bị hỏng do lửa.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T045745Z" creationid="Kieu Lan" creationdate="20210705T065235Z">
+        <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.      /     Các dây nối phải được bảo vệ và bố trí cầu chì nhiệt để đảm bảo tính liên tục của mạch dù các loa đơn lẻ có thể bị hỏng do đám cháy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10504,8 +10504,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Where separate public address and background music systems are used they must be isolated via a fire alarm signal through a failsafe, no voltage relay whenever a fire alarm is activated.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T072312Z" creationid="Kieu Lan" creationdate="20210705T072312Z">
-        <seg>Where separate public address and background music systems are used they must be isolated via a fire alarm signal through a failsafe, no voltage relay whenever a fire alarm is activated.     /     Nếu sử dụng hệ thống loa thông báo công cộng và hệ thống phát nhạc nền riêng, chúng phải được tách riêng với hệ thống báo động cháy thông qua cơ chế failsafe - không truyền điện đến khi có báo động cháy bị kích hoạt</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T045952Z" creationid="Kieu Lan" creationdate="20210705T072312Z">
+        <seg>Where separate public address and background music systems are used they must be isolated via a fire alarm signal through a failsafe, no voltage relay whenever a fire alarm is activated.     /     Nếu sử dụng hệ thống loa thông báo công cộng và hệ thống phát nhạc nền riêng, chúng phải được tách riêng với hệ thống báo động cháy thông qua cơ chế failsafe - không truyền điện đến khi có kích hoạt báo động cháy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10648,8 +10648,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Xenon Strobe beacons in addition to the audible alarm signal must be provided in disabled toilets/bathrooms within any areas where high ambient noise levels are to be encountered such as mechanical plant rooms, chiller compounds, etc., and meeting rooms where necessary.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T080411Z" creationid="Kieu Lan" creationdate="20210705T080411Z">
-        <seg>Xenon Strobe beacons in addition to the audible alarm signal must be provided in disabled toilets/bathrooms within any areas where high ambient noise levels are to be encountered such as mechanical plant rooms, chiller compounds, etc., and meeting rooms where necessary.     /     Trong các toilet/phòng tắm cho người khuyết tật trong bất cứ khu vực có độ ồn cao (phòng máy cơ, khu chiller, etc. và các phòng họp), ngoài báo động âm thanh, còn cần bổ sung đèn báo động Xenon  khi cần thiết </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T061721Z" creationid="Kieu Lan" creationdate="20210705T080411Z">
+        <seg>Xenon Strobe beacons in addition to the audible alarm signal must be provided in disabled toilets/bathrooms within any areas where high ambient noise levels are to be encountered such as mechanical plant rooms, chiller compounds, etc., and meeting rooms where necessary.     /     Trong các toilet/phòng tắm cho người khuyết tật trong bất cứ khu vực có độ ồn cao (phòng máy cơ, khu chiller, vv... và các phòng họp), ngoài báo động âm thanh, còn cần bổ sung đèn báo động Xenon khi cần thiết </seg>
       </tuv>
     </tu>
     <tu>
