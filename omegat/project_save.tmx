@@ -1913,6 +1913,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capital Cost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T082031Z" creationid="LanHK" creationdate="20210729T082031Z">
+        <seg>Capital Cost     /     Chi phí đầu tư</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capital and running costs reduced</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022750Z" creationid="LanHK" creationdate="20210717T022750Z">
@@ -8446,8 +8454,8 @@
       <tuv lang="EN-US">
         <seg>Suitable for large rooms &amp; cooling loads. May be oversize for small</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T081852Z" creationid="LanHK" creationdate="20210729T081839Z">
-        <seg>Suitable for large rooms &amp; cooling loads. May be oversize for small rooms     /     </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T082018Z" creationid="LanHK" creationdate="20210729T081839Z">
+        <seg>Suitable for large rooms &amp; cooling loads. May be oversize for small rooms     /      Phù hợp phòng và phụ tải làm mát lớn. Có thể quá cỡ đối với phòng nhỏ</seg>
       </tuv>
     </tu>
     <tu>
