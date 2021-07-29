@@ -2332,6 +2332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DB</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T072350Z" creationid="LanHK" creationdate="20210729T072350Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEDICATED FIRE MAIN DUAL INCOMING SUPPLIES FROM MAINS WHERE PRESSURE PERMITS</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064602Z" creationid="Kieu Lan" creationdate="20210629T064602Z">
@@ -11237,8 +11245,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>fan coil units in hot climates where heating is not required i.e. winter design temperature &gt;10°c</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T072336Z" creationid="LanHK" creationdate="20210729T072336Z">
-        <seg>fan coil units in hot climates where heating is not required i.e. winter design temperature &gt;10°c     /     FCU 2 ống trong khu vực khí hậu nóng không cần sưởi, vd nơi nhiệt độ thiết kế mùa đông &gt;10°C</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T072403Z" creationid="LanHK" creationdate="20210729T072336Z">
+        <seg>fan coil units in hot climates where heating is not required i.e. winter design temperature &gt;10°C DB     /     FCU 2 ống trong khu vực khí hậu nóng không cần sưởi, vd nơi nhiệt độ thiết kế mùa đông &gt;10°C DB</seg>
       </tuv>
     </tu>
     <tu>
@@ -11591,6 +11599,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T014416Z" creationid="LanHK" creationdate="20210720T014416Z">
         <seg>pump     /     Không để bơm phụ, động cơ dự phòng hoặc bộ cánh bơm tại hiện trường hoặc một bơm dự phòng thông thường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T072653Z" creationid="LanHK" creationdate="20210729T072653Z">
+        <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)     /     Tấm trần sưởi bức xạ với</seg>
       </tuv>
     </tu>
     <tu>
