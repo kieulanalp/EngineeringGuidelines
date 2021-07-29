@@ -1309,8 +1309,8 @@
       <tuv lang="EN-US">
         <seg>Areas with low latent cooling demand</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T045331Z" creationid="LanHK" creationdate="20210729T045253Z">
-        <seg>Areas with low latent cooling demand     /     Khu vực ít có nhu cầu khử ẩm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T061536Z" creationid="LanHK" creationdate="20210729T045253Z">
+        <seg>Areas with low latent cooling demand     /     Khu vực ít có nhu cầu khử ẩm (hạ nhiệt ẩn?)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8304,6 +8304,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T061308Z" creationid="LanHK" creationdate="20210729T061308Z">
         <seg>Supply temperature for cooling no less than 8-10 deg. C below room temperature     /     Nhiệt độ đầu vào cho làm mát không thấp hơn 8-10 độ C so với nhiệt độ phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supply temperature for heating no more than 8 deg. C above room temperature</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T061322Z" creationid="LanHK" creationdate="20210729T061322Z">
+        <seg>Supply temperature for heating no more than 8 deg. C above room temperature     /     Nhiệt độ đầu vào cho sưởi không cao hơn 8 độ C so với nhiệt độ phòng</seg>
       </tuv>
     </tu>
     <tu>
