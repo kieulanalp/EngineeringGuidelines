@@ -2228,8 +2228,8 @@
       <tuv lang="EN-US">
         <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T065917Z" creationid="Kieu Lan" creationdate="20210705T065235Z">
-        <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.      /     Các dây nối phải được bảo vệ và phải bố trí cầu chì nhiệt để đảm bảo mạch vẫn kín mặc dù các loa đơn lẻ có thể bị hỏng hóc do lửa.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T045736Z" creationid="Kieu Lan" creationdate="20210705T065235Z">
+        <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.      /     Các dây nối phải được bảo vệ và bố trí cầu chì nhiệt để đảm bảo tính liên tục của mạch dù các loa đơn lẻ có thể bị hỏng do lửa.</seg>
       </tuv>
     </tu>
     <tu>
