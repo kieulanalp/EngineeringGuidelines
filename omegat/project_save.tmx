@@ -1068,8 +1068,8 @@
       <tuv lang="EN-US">
         <seg>All fire resistant cables, connections and junction boxes must comply with the following:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210706T084158Z" creationid="Kieu Lan" creationdate="20210706T082425Z">
-        <seg>All fire resistant cables, connections and junction boxes must comply with the following:     /     Tất cả cáp điện, cáp nối và hộp nối điện phải tuân thủ yêu cầu như sua:</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T080713Z" creationid="Kieu Lan" creationdate="20210706T082425Z">
+        <seg>All fire resistant cables, connections and junction boxes must comply with the following:     /     Tất cả cáp điện, cáp nối và hộp nối điện phải tuân thủ yêu cầu như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6500,8 +6500,8 @@
       <tuv lang="EN-US">
         <seg>Note: fire retardant cabling is not acceptable for use and the cabling must provide a minimum one (1) hour rating at the temperatures specified earlier in this guide. Certification of compliance with this must be provided.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210706T082313Z" creationid="Kieu Lan" creationdate="20210705T125836Z">
-        <seg>Note: fire retardant cabling is not acceptable for use and the cabling must provide a minimum one (1) hour rating at the temperatures specified earlier in this guide. Certification of compliance with this must be provided.     /     Chú ý: không chấp nhận cáp fire retardant (cáp fire retardant được thiết kế để chống cháy lan sang các khu vực khác, giảm khói và khí độc khi cháy, khác với fire resistant là được thiết kế chống cháy để đảm bảo mạch điện tiếp tục vận hành trong một khoảng thời gian nhất định), và cáp phải đảm bảo chống cháy tối thiểu 1h</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T075320Z" creationid="Kieu Lan" creationdate="20210705T125836Z">
+        <seg>Note: fire retardant cabling is not acceptable for use and the cabling must provide a minimum one (1) hour rating at the temperatures specified earlier in this guide. Certification of compliance with this must be provided.     /     Chú ý: không chấp nhận cáp fire retardant (cáp fire retardant được thiết kế để chống cháy lan sang các khu vực khác, giảm khói và khí độc khi cháy, khác với fire resistant là được thiết kế chống cháy để đảm bảo mạch điện tiếp tục vận hành trong một khoảng thời gian nhất định), và cáp phải đảm bảo chống cháy tối thiểu 1h. Phải cung cấp chứng nhận xác minh tuân thủ yêu cầu chống cháy này.</seg>
       </tuv>
     </tu>
     <tu>
