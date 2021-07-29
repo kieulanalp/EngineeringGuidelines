@@ -4686,6 +4686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hotels Group</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T073257Z" creationid="LanHK" creationdate="20210729T073257Z">
+        <seg>Hotels Group approval</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hotels are unique developments in that they are operational for 24 hours a day, with guests paying for comfort highest standards of life safety is an expectation.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T070643Z" creationid="Kieu Lan" creationdate="20210601T090556Z">
@@ -10975,6 +10983,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>approval.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T073252Z" creationid="LanHK" creationdate="20210729T073252Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>areas that are exposed to freezing conditions</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100441Z" creationid="LanHK" creationdate="20210713T100441Z">
@@ -11602,11 +11618,12 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
     </tu>
     <tu>
+      <note>variable air flow??</note>
       <tuv lang="EN-US">
         <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T072653Z" creationid="LanHK" creationdate="20210729T072653Z">
-        <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)     /     Tấm trần sưởi bức xạ với</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T073237Z" creationid="LanHK" creationdate="20210729T072653Z">
+        <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)     /     Tấm trần bức xạ với luồng khí biến thiên</seg>
       </tuv>
     </tu>
     <tu>
