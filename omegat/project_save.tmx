@@ -5867,8 +5867,8 @@
       <tuv lang="EN-US">
         <seg>Lower cost &amp; suitable for medium-large rooms &amp; loads</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T081600Z" creationid="LanHK" creationdate="20210729T081600Z">
-        <seg>Lower cost &amp; suitable for medium-large rooms &amp; loads     /     Chi phí thấp &amp; phù hợp phòng và phụ tải cỡ trung</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081620Z" creationid="LanHK" creationdate="20210729T081600Z">
+        <seg>Lower cost &amp; suitable for medium-large rooms &amp; loads     /     Chi phí thấp &amp; phù hợp phòng và phụ tải  vừa phải</seg>
       </tuv>
     </tu>
     <tu>
@@ -8436,6 +8436,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suitable for large rooms &amp; cooling loads</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081715Z" creationid="LanHK" creationdate="20210729T081715Z">
+        <seg>Suitable for large rooms &amp; cooling loads     /     Phù hợp phòng và phụ tải làm mát lớn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable for large rooms &amp; cooling loads. May be oversize for small</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081852Z" creationid="LanHK" creationdate="20210729T081839Z">
+        <seg>Suitable for large rooms &amp; cooling loads. May be oversize for small rooms     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suitable for large rooms &amp; larger cooling loads</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T081545Z" creationid="LanHK" creationdate="20210729T081545Z">
@@ -8446,8 +8462,8 @@
       <tuv lang="EN-US">
         <seg>Suitable for small to medium rooms &amp; loads for large well insulated rooms</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T081612Z" creationid="LanHK" creationdate="20210729T081612Z">
-        <seg>Suitable for small to medium rooms &amp; loads for large well insulated rooms     /     Phù hợp phòng nhỏ</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T081645Z" creationid="LanHK" creationdate="20210729T081612Z">
+        <seg>Suitable for small to medium rooms &amp; loads for large well insulated rooms     /     Phù hợp phòng và phụ tải nhỏ đến vừa với phòng lớn bảo ôn tốt</seg>
       </tuv>
     </tu>
     <tu>
