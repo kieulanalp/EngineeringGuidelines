@@ -948,8 +948,8 @@
       <tuv lang="EN-US">
         <seg>Air systems shall be zoned utilizing VAV or similar (re-heat is not acceptable) according to occupancy pattern and the operations carried out in the area. Physical size of AHU's shall be considered, and the practicality of maintaining large fans, motor and coils.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T024849Z" creationid="LanHK" creationdate="20210729T024849Z">
-        <seg>Air systems shall be zoned utilizing VAV or similar (re-heat is not acceptable) according to occupancy pattern and the operations carried out in the area. Physical size of AHU's shall be considered, and the practicality of maintaining large fans, motor and coils.     /     Các hệ thống không khí sẽ được chia khu nhờ VAV (hệ biến đổi lưu lượng gió) hoặc tương đương (không chấp nhận reheat - làm nóng lại không khí đã làm mát trước đó), phụ thuộc vào số lượng người thường có mặt trong không gian và các hoạt động được tiến hành tại đó. Kích thước AHU sẽ được cân nhắc, và tính thực dụng của việc duy trì các quạt, động cơ và cuộn dây lớn.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T042022Z" creationid="LanHK" creationdate="20210729T024849Z">
+        <seg>cAir systems shall be zoned utilizing VAV or similar (re-heat is not acceptable) according to occupancy pattern and the operations carried out in the area. Physical size of AHU's shall be considered, and the practicality of maintaining large fans, motor and coils.     /     Các hệ thống không khí sẽ được chia khu nhờ VAV (hệ biến đổi lưu lượng gió) hoặc tương đương (không chấp nhận reheat - làm nóng lại không khí đã làm mát trước đó), phụ thuộc vào số lượng người thường có mặt trong không gian và các hoạt động được tiến hành tại đó. Kích thước AHU sẽ được cân nhắc, và tính thực dụng của việc duy trì các quạt, động cơ và dàn ống lớn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4744,8 +4744,8 @@
       <tuv lang="EN-US">
         <seg>If plant or ceiling space is limited (e.g. existing buildings), fan coil or VRV (VRF) systems are acceptable to the Restaurant, Lounge and Bar areas, however they are not preferred due to the increased maintenance, inability for free cooling and extent of services requiring maintenance within the public domain areas. The use of these systems will only be accepted with the prior approval of InterContinental Hotels Group.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T025304Z" creationid="LanHK" creationdate="20210729T025304Z">
-        <seg>If plant or ceiling space is limited (e.g. existing buildings), fan coil or VRV (VRF) systems are acceptable to the Restaurant, Lounge and Bar areas, however they are not preferred due to the increased maintenance, inability for free cooling and extent of services requiring maintenance within the public domain areas. The use of these systems will only be accepted with the prior approval of InterContinental Hotels Group.     /     Nếu diện tích cho máy hoặc diện tích trần hạn chế (đối với các tòa nhà hiện trạng), có thể chấp nhận các hệ thống cuộn quạt hoặc VRV (VRF) đối với khu vực nhà hàng, lounge và bar, tuy nhiên không khuyến khích dùng vì các hệ thống này đòi hỏi bảo trì nhiều hơn, không có chức năng free cooling và việc bảo trì bảo dưỡng cần tiến hành trong khu vực không gian công cộng. Việc sử dụng các hệ thống này chỉ được chấp nhận nếu được IHG phê duyệt trước.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T042157Z" creationid="LanHK" creationdate="20210729T025304Z">
+        <seg>If plant or ceiling space is limited (e.g. existing buildings), fan coil or VRV (VRF) systems are acceptable to the Restaurant, Lounge and Bar areas, however they are not preferred due to the increased maintenance, inability for free cooling and extent of services requiring maintenance within the public domain areas. The use of these systems will only be accepted with the prior approval of InterContinental Hotels Group.     /     Nếu diện tích cho máy hoặc diện tích trần hạn chế (đối với các tòa nhà hiện trạng), có thể chấp nhận các hệ thống FCU hoặc VRV (VRF) đối với khu vực nhà hàng, lounge và bar, tuy nhiên không khuyến khích dùng vì các hệ thống này đòi hỏi bảo trì nhiều hơn, không có chức năng free cooling và việc bảo trì bảo dưỡng cần tiến hành trong khu vực không gian công cộng. Việc sử dụng các hệ thống này chỉ được chấp nhận nếu được IHG phê duyệt trước.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9781,8 +9781,8 @@
       <tuv lang="EN-US">
         <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210724T015733Z" creationid="LanHK" creationdate="20210722T101218Z">
-        <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.     /     Thoát nước ngưng bằng trọng lực sẽ được bố trí dưới tất cả các cuộn làm mát, bất kể mức độ thải ẩn nhiệt hoặc nhiệt độ nước lạnh</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210729T042016Z" creationid="LanHK" creationdate="20210722T101218Z">
+        <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.     /     Thoát nước ngưng bằng trọng lực sẽ được bố trí dưới tất cả các dàn ống làm mát, bất kể mức độ thải ẩn nhiệt hoặc nhiệt độ nước lạnh</seg>
       </tuv>
     </tu>
     <tu>
