@@ -2099,16 +2099,24 @@
       <tuv lang="EN-US">
         <seg>Central chiller plant, heat recovery fresh air AHU, boiler &amp; separate heating &amp;chilled water circuits to room FCU’s</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T101038Z" creationid="Kieu Lan" creationdate="20210729T101038Z">
-        <seg>Central chiller plant, heat recovery fresh air AHU, boiler &amp; separate heating &amp;chilled water circuits to room FCU’s     /    Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt , nồi hơi &amp; đường nước nóng&amp;nước lạnh tới FCU của phòng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210730T022717Z" creationid="Kieu Lan" creationdate="20210729T101038Z">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler &amp; separate heating &amp;chilled water circuits to room FCU’s     /    Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt, nồi hơi &amp; đường nước nóng&amp;nước lạnh tới FCU của phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler separate heating &amp; chilled water circuits to ceiling radiant panels &amp; variable air flow for boost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210730T041958Z" creationid="Kieu Lan" creationdate="20210730T041958Z">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler separate heating &amp; chilled water circuits to ceiling radiant panels &amp; variable air flow for boost     /     Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt , nồi hơi &amp; đường nước nóng&amp;nước lạnh tới tấm trần bức xạ và tăng cường bằng VAV</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Central chiller plant, heat recovery fresh air AHU, boiler, separate heating &amp; chilled water circuits to room chilled beams with variable air flow for boost</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210730T022714Z" creationid="Kieu Lan" creationdate="20210730T022714Z">
-        <seg>Central chiller plant, heat recovery fresh air AHU, boiler, separate heating &amp; chilled water circuits to room chilled beams with variable air flow for boost     /     Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt, nồi hơi &amp; đường nước nóng&amp;nước lạnh tới </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210730T022736Z" creationid="Kieu Lan" creationdate="20210730T022714Z">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler, separate heating &amp; chilled water circuits to room chilled beams with variable air flow for boost     /     Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt, nồi hơi &amp; đường nước nóng&amp;nước lạnh tới chilled beam trong phòng và tăng cường bằng VAV</seg>
       </tuv>
     </tu>
     <tu>
