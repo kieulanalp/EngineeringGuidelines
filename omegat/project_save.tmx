@@ -3512,8 +3512,8 @@
       <tuv lang="EN-US">
         <seg>Fault alarm at fire panel &amp; pagers only</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081333Z" creationid="Kieu Lan" creationdate="20210713T081329Z">
-        <seg>Chỉ báo lỗi ở tủ báo cháy và máy liên lạc của nhân viên</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T031409Z" creationid="Kieu Lan" creationdate="20210713T081329Z">
+        <seg>Báo lỗi ở tủ báo cháy và máy liên lạc của nhân viên</seg>
       </tuv>
     </tu>
     <tu>
@@ -3688,8 +3688,8 @@
       <tuv lang="EN-US">
         <seg>Fire Suppression systems shall be strictly in accordance with this brief and the local authorities / fire officer’s specific requirements.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Fire Suppression systems shall be strictly in accordance with this brief and the local authorities    /    fire officer’s specific requirements.</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T032941Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Fire Suppression systems shall be strictly in accordance with this brief and the local authorities    /    fire officer’s specific requirements.    /    Hệ thống chữa cháy phải tuân thủ nghiêm ngặt theo yêu cầu của mô tả này và các yêu cầu của địa phương</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,8 +4328,8 @@
       <tuv lang="EN-US">
         <seg>Generator running / fault (only during alarm)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081306Z" creationid="Kieu Lan" creationdate="20210713T081306Z">
-        <seg>Máy phát đang chạy/Lỗi máy phát (chỉ khi đang có báo động)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T031344Z" creationid="Kieu Lan" creationdate="20210713T081306Z">
+        <seg>Máy phát chạy/lỗi máy phát (chỉ khi đang có báo động)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8674,8 +8674,8 @@
       <tuv lang="EN-US">
         <seg>Supply / return sir duct smoke detector operates</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081212Z" creationid="Kieu Lan" creationdate="20210713T081212Z">
-        <seg>Đầu báo khói ống cấp/hồi khí vận hành</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T031310Z" creationid="Kieu Lan" creationdate="20210713T081212Z">
+        <seg>Đầu báo khói ống cấp/hồi khí kích hoạt</seg>
       </tuv>
     </tu>
     <tu>
