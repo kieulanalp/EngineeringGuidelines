@@ -1483,8 +1483,8 @@
       <tuv lang="EN-US">
         <seg>Austria Belgium Finland France Germany Ireland Italy Portugal Spain Sweden Switzerland UK</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T083212Z" creationid="Kieu Lan" creationdate="20210713T083212Z">
-        <seg>Austria Belgium Finland France Germany Ireland Italy Portugal Spain Sweden Switzerland Uk     /     Áo, Bỉ, Phần Lan, Pháp, Đức, Ai-len Ý Bồ Đào Nha, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Anh</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T033327Z" creationid="Kieu Lan" creationdate="20210713T083212Z">
+        <seg>Austria Belgium Finland France Germany Ireland Italy Portugal Spain Sweden Switzerland Uk     /     Áo, Bỉ, Phần Lan, Pháp, Đức, Ai-len, Ý, Bồ Đào Nha, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Anh</seg>
       </tuv>
     </tu>
     <tu>
