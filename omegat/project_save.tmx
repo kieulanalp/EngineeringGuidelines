@@ -8101,8 +8101,8 @@
       <tuv lang="EN-US">
         <seg>Smoke Control</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210505T040433Z" creationid="LanHK" creationdate="20210505T040433Z">
-        <seg>Smoke Control Kiểm soát khói</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025123Z" creationid="LanHK" creationdate="20210505T040433Z">
+        <seg>Smoke Control      /     Kiểm soát khói</seg>
       </tuv>
     </tu>
     <tu>
@@ -8887,8 +8887,8 @@
       <tuv lang="EN-US">
         <seg>Table 1 - Two Stage Fire Alarm and Detection System –Sample Cause and Effect Matrix – for information only</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T040645Z" creationid="Kieu Lan" creationdate="20210713T040645Z">
-        <seg>Table 1 - Two Stage Fire Alarm and Detection System –Sample Cause and Effect Matrix – for information only     /     Bảng 1 - Hệ thống Báo động và phát hiện cháy hai giai đoạn - Sample Ma trận Nhân quả đơn - thông tin chỉ mang tính tham khảo</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T024918Z" creationid="Kieu Lan" creationdate="20210713T040645Z">
+        <seg>Table 1 - Two Stage Fire Alarm and Detection System –Sample Cause and Effect Matrix – for information only     /     Bảng 1 - Hệ thống Báo động và phát hiện cháy hai giai đoạn - Ví dụ Ma trận Nhân quả đơn - thông tin chỉ mang tính tham khảo</seg>
       </tuv>
     </tu>
     <tu>
