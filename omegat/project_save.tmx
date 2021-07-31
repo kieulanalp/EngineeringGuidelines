@@ -8182,8 +8182,8 @@
       <tuv lang="EN-US">
         <seg>Smoke detectors must be provided in the supply duct for shut down of associated AHU and annunciation at the Fire Panel.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T033615Z" creationid="Kieu Lan" creationdate="20210713T033507Z">
-        <seg>Smoke detectors must be provided in the supply duct for shut down of associated AHU and annunciation at the Fire Panel.     /     Phải cung cấp đầu báo khói trong ống cấp để shut down hệ thống AHU liên quan và báo về tủ báo cháy</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T023208Z" creationid="Kieu Lan" creationdate="20210713T033507Z">
+        <seg>Smoke detectors must be provided in the supply duct for shut down of associated AHU and annunciation at the Fire Panel.     /     Phải cung cấp đầu báo khói trong ống cấp khi để ngắt hệ thống AHU liên quan và báo về tủ báo cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -10857,8 +10857,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Where atriums are present, optical beam detectors must be provided for detection of smoke in the atrium and operation of the atrium smoke clearance system.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T033441Z" creationid="Kieu Lan" creationdate="20210713T032747Z">
-        <seg>Where atriums are present, optical beam detectors must be provided for detection of smoke in the atrium and operation of the atrium smoke clearance system.     /     Nếu có giếng trời, phải sử dụng đầu báo tia quang học để phát hiện khói trong giếng trời và vận hành hệ thống thoát khói trong giếng trời</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T023033Z" creationid="Kieu Lan" creationdate="20210713T032747Z">
+        <seg>Where atriums are present, optical beam detectors must be provided for detection of smoke in the atrium and operation of the atrium smoke clearance system.     /     Nếu có giếng trời, phải sử dụng đầu báo tia quang học để phát hiện khói trong giếng trời và vận hành hệ thống hút khói trong giếng trời</seg>
       </tuv>
     </tu>
     <tu>
