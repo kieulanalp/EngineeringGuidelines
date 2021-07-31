@@ -2764,8 +2764,8 @@
       <tuv lang="EN-US">
         <seg>Dry-pendant sprinklers extending through the wall from wet sprinkler piping in an adjacent heated area. If subject to freezing conditions use a dry system.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T093009Z" creationid="LanHK" creationdate="20210713T092852Z">
-        <seg>Dry-pendant sprinklers extending through the wall from wet sprinkler piping in an adjacent heated area. If subject to freezing conditions use a dry system.     /     Sprinkler pendant khô xuyên qua tường từ đường ống nước của sprinkler ướt trong khu vực được sưởi liền kề. Nếu môi trường có khả năng đóng băng, cân nhắc sử dụng hệ thống khô</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034618Z" creationid="LanHK" creationdate="20210713T092852Z">
+        <seg>Dry-pendant sprinklers extending through the wall from wet sprinkler piping in an adjacent heated area. If subject to freezing conditions use a dry system.     /     Sprinkler pendant khô xuyên tường từ đường ống nước của sprinkler ướt trong khu vực được sưởi liền kề. Nếu môi trường có khả năng đóng băng, cân nhắc sử dụng hệ thống khô</seg>
       </tuv>
     </tu>
     <tu>
@@ -5899,8 +5899,8 @@
       <tuv lang="EN-US">
         <seg>Loading docks, covered platforms, exterior canopies &gt;1.2 width</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T092303Z" creationid="LanHK" creationdate="20210713T092303Z">
-        <seg>Loading docks, covered platforms, exterior canopies &gt;1.2 width     /     Khu dỡ hàng, platform có mái che, mái hiên ngoại thất vượt 1.2 chiều rộng</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034415Z" creationid="LanHK" creationdate="20210713T092303Z">
+        <seg>Loading docks, covered platforms, exterior canopies &gt;1.2 width     /     Khu dỡ hàng, platform có mái che, mái hiên bên ngoài vượt 1.2 chiều rộng</seg>
       </tuv>
     </tu>
     <tu>
@@ -6916,8 +6916,8 @@
       <tuv lang="EN-US">
         <seg>Over 800mm shall require upturned sprinklers (combustible ceiling).</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T091747Z" creationid="LanHK" creationdate="20210713T091747Z">
-        <seg>Over 800mm shall require upturned sprinklers (combustible ceiling).     /     Nếu trên 800mm, cần có sprinkler hướng lên trên (trần có thể cháy)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034341Z" creationid="LanHK" creationdate="20210713T091747Z">
+        <seg>Over 800mm shall require upturned sprinklers (combustible ceiling).     /     Nếu trên 800mm, cần có sprinkler hướng lên trên</seg>
       </tuv>
     </tu>
     <tu>
@@ -11657,8 +11657,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>horizontal runs</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T093104Z" creationid="LanHK" creationdate="20210713T093104Z">
-        <seg>horizontal runs     /     Hệ thống ống dẫn ngang của hệ hút mùi bếp</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034638Z" creationid="LanHK" creationdate="20210713T093104Z">
+        <seg>horizontal runs     /     Hệ thống ống dẫn ngang của hệ chụp hút bếp</seg>
       </tuv>
     </tu>
     <tu>
