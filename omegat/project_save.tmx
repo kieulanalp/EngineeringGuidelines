@@ -826,8 +826,8 @@
       <tuv lang="EN-US">
         <seg>Above the highest opening, above the lowest opening and at alternate floor levels for buildings &gt; 2 stories.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T091546Z" creationid="LanHK" creationdate="20210713T091546Z">
-        <seg>Above the highest opening, above the lowest opening and at alternate floor levels for buildings &gt; 2 stories     /     Phía trên cửa ống cao nhất, phía trên cửa ống thấp nhất và bố trí cách tầng nếu là tòa nhà hơn 2 tầng</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T033718Z" creationid="LanHK" creationdate="20210713T091546Z">
+        <seg>Above the highest opening, above the lowest opening and at alternate floor levels for buildings &gt; 2 stories     /     Phía trên cửa ống mở cao nhất, phía trên cửa ống mở thấp nhất và bố trí cách tầng nếu là tòa nhà hơn 2 tầng</seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,8 +5298,8 @@
       <tuv lang="EN-US">
         <seg>Inside saunas, steam rooms, walk-in cold rooms and rooms containing flammable materials.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T085135Z" creationid="Kieu Lan" creationdate="20210713T085135Z">
-        <seg>Inside saunas, steam rooms, walk-in cold rooms and rooms containing flammable materials.     /     trong sauna, phòng xông hơi, phòng lạnh và phòng chứa vật liệu dễ cháy</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T033550Z" creationid="Kieu Lan" creationdate="20210713T085135Z">
+        <seg>Inside saunas, steam rooms, walk-in cold rooms and rooms containing flammable materials.     /     Trong sauna, phòng xông hơi, phòng lạnh và phòng chứa vật liệu dễ cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -5867,8 +5867,8 @@
       <tuv lang="EN-US">
         <seg>Linen and rubbish chutes</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T085215Z" creationid="Kieu Lan" creationdate="20210713T085215Z">
-        <seg>Linen and rubbish chutes     /     ống thả đồ gặt và ống thả rác</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T033555Z" creationid="Kieu Lan" creationdate="20210713T085215Z">
+        <seg>Linen and rubbish chutes     /     Ống thả đồ gặt và ống thả rác</seg>
       </tuv>
     </tu>
     <tu>
@@ -8093,8 +8093,8 @@
       <tuv lang="EN-US">
         <seg>Small enclosures</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T091455Z" creationid="Kieu Lan" creationdate="20210713T085105Z">
-        <seg>Small enclosures     /     Không gian nhỏ hẹp</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T033538Z" creationid="Kieu Lan" creationdate="20210713T085105Z">
+        <seg>Small enclosures     /     Không gian kín nhỏ </seg>
       </tuv>
     </tu>
     <tu>
