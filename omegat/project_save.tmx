@@ -586,16 +586,16 @@
       <tuv lang="EN-US">
         <seg>&lt; 2.2 sqm. if walls and ceilings are non-combustible. length of closet must not exceed 0.9m.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T093659Z" creationid="LanHK" creationdate="20210713T093659Z">
-        <seg>&lt; 2.2 sqm. if walls and ceilings are non-combustible. length of closet must not exceed 0.9m.     /     &lt;2.2m, nếu tường và trần không bắt lửa, chiều dài tủ không vượt quá 0.9m</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034918Z" creationid="LanHK" creationdate="20210713T093659Z">
+        <seg>&lt; 2.2 sqm. if walls and ceilings are non-combustible. length of closet must not exceed 0.9m.     /     &lt;2.2m2, nếu tường và trần không bắt lửa, chiều dài tủ không vượt quá 0.9m</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T093721Z" creationid="LanHK" creationdate="20210713T093721Z">
-        <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.     /     &lt;5m, nếu tường và trần không bắt lửa</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034926Z" creationid="LanHK" creationdate="20210713T093721Z">
+        <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.     /     &lt;5m2, nếu tường và trần không bắt lửa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4496,8 +4496,8 @@
       <tuv lang="EN-US">
         <seg>Guestroom closets</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T093628Z" creationid="LanHK" creationdate="20210713T093628Z">
-        <seg>Guestroom closets     /     Tủ trong phòng khách</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034830Z" creationid="LanHK" creationdate="20210713T093628Z">
+        <seg>Guestroom closets     /     Tủ quần áo trong phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -7580,8 +7580,8 @@
       <tuv lang="EN-US">
         <seg>Required along the horizontal section of ductwork and top of risers.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T093203Z" creationid="LanHK" creationdate="20210713T093203Z">
-        <seg>Required along the horizontal section of ductwork and top of risers.     /     Yêu cầu có dọc theo các đoạn ống ngang và trên đỉnh trục ống dọc</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034712Z" creationid="LanHK" creationdate="20210713T093203Z">
+        <seg>Required along the horizontal section of ductwork and top of risers.     /     Yêu cầu bố trí dọc theo các đoạn ống ngang và trên đỉnh trục ống dọc</seg>
       </tuv>
     </tu>
     <tu>
