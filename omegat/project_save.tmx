@@ -4536,8 +4536,8 @@
       <tuv lang="EN-US">
         <seg>Guestrooms</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020612Z" creationid="Kieu Lan" creationdate="20210713T020612Z">
-        <seg>Guestrooms     /     Phòng kháhc</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T021818Z" creationid="Kieu Lan" creationdate="20210713T020612Z">
+        <seg>Guestrooms     /     Phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -6908,8 +6908,8 @@
       <tuv lang="EN-US">
         <seg>Output to BMS</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020528Z" creationid="Kieu Lan" creationdate="20210713T020528Z">
-        <seg>Output to BMS     /     Output đến BMS ( Hệ thống quản lý toà nhà)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T021802Z" creationid="Kieu Lan" creationdate="20210713T020528Z">
+        <seg>Output to BMS     /     Output đến BMS </seg>
       </tuv>
     </tu>
     <tu>
@@ -7957,8 +7957,8 @@
       <tuv lang="EN-US">
         <seg>Service risers if not fire isolated at each level</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020949Z" creationid="Kieu Lan" creationdate="20210713T020949Z">
-        <seg>Service risers if not fire isolated at each level     /     Đường ống đứng dịch vụ nếu không được ngăn cháy lan tại mỗi tầng</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T021858Z" creationid="Kieu Lan" creationdate="20210713T020949Z">
+        <seg>Service risers if not fire isolated at each level     /     Trục ống đứng dịch vụ nếu không được ngăn cháy lan tại mỗi tầng</seg>
       </tuv>
     </tu>
     <tu>
