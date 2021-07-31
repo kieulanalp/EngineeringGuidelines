@@ -996,8 +996,8 @@
       <tuv lang="EN-US">
         <seg>Alarm operates in guest room where fire is detected only</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044116Z" creationid="Kieu Lan" creationdate="20210713T044116Z">
-        <seg>Alarm operates in guest room where fire is detected only     /     Vận hành báo động trong phòng khách chỉ tại nơi phát hiện cháy</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025256Z" creationid="Kieu Lan" creationdate="20210713T044116Z">
+        <seg>Alarm operates in guest room where fire is detected only     /     Báo động kích hoạt trong phòng khách chỉ tại nơi phát hiện cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1236,8 +1236,8 @@
       <tuv lang="EN-US">
         <seg>Annunciation &amp;indication- main fire indicator panel</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044002Z" creationid="Kieu Lan" creationdate="20210713T044002Z">
-        <seg>Annunciation &amp;indication- main fire indicator panel     /     Thông báo &amp; chỉ định - Tủ báo cháy chính</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025143Z" creationid="Kieu Lan" creationdate="20210713T044002Z">
+        <seg>Annunciation &amp; indication- main fire indicator panel     /     Thông báo &amp; hiển thị - Tủ báo cháy chính</seg>
       </tuv>
     </tu>
     <tu>
@@ -1252,8 +1252,8 @@
       <tuv lang="EN-US">
         <seg>Annunciation on repeater mimic panels</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044023Z" creationid="Kieu Lan" creationdate="20210713T044023Z">
-        <seg>Annunciation on repeater mimic panels     /     Thông báo trên bảng repeater, mimic</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025217Z" creationid="Kieu Lan" creationdate="20210713T044023Z">
+        <seg>Annunciation on repeater mimic panels     /     Thông báo trên tủ repeater mimic</seg>
       </tuv>
     </tu>
     <tu>
@@ -7556,8 +7556,8 @@
       <tuv lang="EN-US">
         <seg>Release all fire doors, release controlled access doors</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044256Z" creationid="Kieu Lan" creationdate="20210713T044256Z">
-        <seg>Release all fire doors, release controlled access doors     /     Nhả tất cả các cửa chống cháy và cửa có kiểm soát truy cập</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025356Z" creationid="Kieu Lan" creationdate="20210713T044256Z">
+        <seg>Release all fire doors, release controlled access doors     /     Nhả tất cả các cửa chống cháy và cửa có kiểm soát ra vào</seg>
       </tuv>
     </tu>
     <tu>
@@ -8583,16 +8583,16 @@
       <tuv lang="EN-US">
         <seg>Start appropriate smoke extract fans, smoke vents&amp; stair pressurisation</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044154Z" creationid="Kieu Lan" creationdate="20210713T044154Z">
-        <seg>Start appropriate smoke extract fans, smoke vents&amp; stair pressurisation     /     Khởi động quạt hút khói, ống thông khói và tăng áp cầu thang phù hợp</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025318Z" creationid="Kieu Lan" creationdate="20210713T044154Z">
+        <seg>Start appropriate smoke extract fans, smoke vents&amp; stair pressurisation     /     Khởi động quạt hút khói, ống hút khói và tăng áp cầu thang phù hợp</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Stop all supply and extract vent plant</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044223Z" creationid="Kieu Lan" creationdate="20210713T044223Z">
-        <seg>Stop all supply and extract vent plant     /     Dừng tất cả các máy đường ống cấp và thu khí</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025331Z" creationid="Kieu Lan" creationdate="20210713T044223Z">
+        <seg>Stop all supply and extract vent plant     /     Dừng tất cả các máy đường ống cấp và hút khí</seg>
       </tuv>
     </tu>
     <tu>
