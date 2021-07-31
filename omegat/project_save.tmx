@@ -4336,8 +4336,8 @@
       <tuv lang="EN-US">
         <seg>Generator running/fault (only during alarm)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080310Z" creationid="Kieu Lan" creationdate="20210713T080253Z">
-        <seg>Generator running/fault (only during alarm)     /     Máy phát đang chạy/Lỗi máy phát (chỉ khi đang có báo động)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T030013Z" creationid="Kieu Lan" creationdate="20210713T080253Z">
+        <seg>Generator running/fault (only during alarm)     /     Máy phát chạy/lỗi máy phát (chỉ khi đang có báo động)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,8 +5618,8 @@
       <tuv lang="EN-US">
         <seg>Kitchen hood fire suppression system operates</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T061153Z" creationid="Kieu Lan" creationdate="20210713T061153Z">
-        <seg>Kitchen hood fire suppression system operates     /     Hệ thống chữa cháy tích hợp trên chụp hút mùi bếp vận hành</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025758Z" creationid="Kieu Lan" creationdate="20210713T061153Z">
+        <seg>Kitchen hood fire suppression system operates     /     Hệ thống chữa cháy chụp hút bếp kích hoạt</seg>
       </tuv>
     </tu>
     <tu>
@@ -8417,6 +8417,9 @@
       <tuv lang="EN-US">
         <seg>Sprinkler valve tamper switch</seg>
       </tuv>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025922Z">
+        <seg>Sprinkler valve tamper switch           /         Công tắc tamper switch van sprinkler</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -8695,8 +8698,8 @@
       <tuv lang="EN-US">
         <seg>Supply air duct smoke detector no response after time delay</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T061230Z" creationid="Kieu Lan" creationdate="20210713T061230Z">
-        <seg>Supply air duct smoke detector no response after time delay     /       Đầu báo khói trong ống cấp khí sau thời gian chờ</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025847Z" creationid="Kieu Lan" creationdate="20210713T061230Z">
+        <seg>Supply air duct smoke detector no response after time delay     /       Đầu báo khói trong ống cấp khí không phản hồi sau thời gian chờ</seg>
       </tuv>
     </tu>
     <tu>
