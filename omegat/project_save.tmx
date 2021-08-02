@@ -7828,6 +7828,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Public Areas A/C and Ventilation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T082843Z" creationid="Kieu Lan" creationdate="20210802T082843Z">
+        <seg>Public Areas A/C and Ventilation     /     A/C và thông gió không gian công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Public Toilets</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063342Z" creationid="LanHK" creationdate="20210715T063342Z">
@@ -10109,6 +10117,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The location of return/extract will generally have little impact on the air distribution within a room, which will be dictated by the supply air system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T082826Z" creationid="Kieu Lan" creationdate="20210802T082826Z">
+        <seg>The location of return/extract will generally have little impact on the air distribution within a room, which will be dictated by the supply air system.     /     Vị trí của miệng cấp/thải khí nhìn chung sẽ ít có ảnh hưởng đến phân phối không khí trong phòng. Việc phân phối phụ thuộc vào hệ thống cấp khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The locations of the main plant rooms (being substation/switch room, chillers, boilers and hot water storage) can have a significant effect on the capital cost and running costs for the Hotel.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T103350Z" creationid="LanHK" creationdate="20210716T103350Z">
@@ -10796,6 +10812,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T070938Z" creationid="LanHK" creationdate="20210611T032845Z">
         <seg>This document provides basic guidance on the areas to be considered when an atrium is proposed in a hotel or when an existing hotel has an atrium.    /    Văn bản này cung cấp hướng dẫn cơ bản về các vấn đề cần cân nhắc khi đề xuất thiết kế giếng trời trong khách sạn hoặc khách sạn sẵn có có giếng trời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes foyers, restaurants, bars, meeting rooms, ballrooms, lounges etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T083040Z" creationid="Kieu Lan" creationdate="20210802T083040Z">
+        <seg>This includes foyers, restaurants, bars, meeting rooms, ballrooms, lounges etc.     /     Bao gồm các khu tiền sảnh, nhà hàng, bar, phòng họp, lounge, v.v</seg>
       </tuv>
     </tu>
     <tu>
