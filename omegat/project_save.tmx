@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2093,6 +2093,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091817Z" creationid="LanHK" creationdate="20210702T091817Z">
         <seg>Central battery system 1.2.3     /     Hệ thống pin trung tâm 1.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Central chiller plant, Heat recovery fresh air AHU, boiler separate heating &amp;chilled water circuit to ceiling cost in radiant panels.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T030016Z" creationid="Kieu Lan" creationdate="20210802T030016Z">
+        <seg>Central chiller plant, Heat recovery fresh air AHU, boiler separate heating &amp;chilled water circuit to ceiling cost in radiant panels.     /     </seg>
       </tuv>
     </tu>
     <tu>
