@@ -1308,8 +1308,8 @@
       <tuv lang="EN-US">
         <seg>An option to fire dampers in a bathroom or rest room exhaust duct, which requires no maintenance, is a subduct.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T024356Z" creationid="LanHK" creationdate="20210602T041328Z">
-        <seg>An option to fire dampers in a bathroom or rest room exhaust duct, which requires no maintenance, is a subduct.        /       Một lựa chọn thay thế van chặn lửa ống hút trong phòng tắm hoặc phòng vệ sinh mà không yêu cầu bảo trì là một ống phụ</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T094947Z" creationid="LanHK" creationdate="20210602T041328Z">
+        <seg>An option to fire dampers in a bathroom or rest room exhaust duct, which requires no maintenance, is a subduct.        /       Một lựa chọn thay thế van chặn lửa ống hút khí trong phòng tắm hoặc phòng vệ sinh mà không yêu cầu bảo trì là một ống phụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4801,8 +4801,8 @@
       <tuv lang="EN-US">
         <seg>Guestroom Exhaust Ventilation</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041427Z" creationid="Kieu Lan" creationdate="20210802T041427Z">
-        <seg>Guestroom Exhaust Ventilation     /     Thông gió thoát khí phòng khách</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T094937Z" creationid="Kieu Lan" creationdate="20210802T041427Z">
+        <seg>Guestroom Exhaust Ventilation     /     Thông gió hút khí phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -7342,8 +7342,8 @@
       <tuv lang="EN-US">
         <seg>Opening windows are an acceptable alternative to mechanical ventilation in suitable climates. Exhaust systems shall be provided for processes such as welding, carpentry, painting</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T085517Z" creationid="LanHK" creationdate="20210715T085517Z">
-        <seg>Opening windows are an acceptable alternative to mechanical ventilation in suitable climates. Exhaust systems shall be provided for processes such as welding, carpentry, painting     /     Tại các vùng khí hậu thích hợp, phương án mở cửa sổ có thể thay thế cho thông khí cơ học. Sẽ cung cấp hệ thống thải khi cho các quá trình như hàn, mộc, quét sơn</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095057Z" creationid="LanHK" creationdate="20210715T085517Z">
+        <seg>Opening windows are an acceptable alternative to mechanical ventilation in suitable climates. Exhaust systems shall be provided for processes such as welding, carpentry, painting     /     Tại các vùng khí hậu thích hợp, phương án mở cửa sổ có thể thay thế cho thông khí cơ học. Sẽ cung cấp hệ thống hút khí cho các công việc như hàn, mộc, quét sơn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8399,8 +8399,8 @@
       <tuv lang="EN-US">
         <seg>SUPPLY AND EXHAUST VENTILATION SYSTEMS</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T035208Z" creationid="LanHK" creationdate="20210715T035120Z">
-        <seg>supply and exhaust ventilation systems     /     các hệ thống cấp và xả khí</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095027Z" creationid="LanHK" creationdate="20210715T035120Z">
+        <seg>supply and exhaust ventilation systems     /     các hệ thống cấp và hút khí</seg>
       </tuv>
     </tu>
     <tu>
@@ -11335,8 +11335,8 @@
       <tuv lang="EN-US">
         <seg>Ventilation rates to be based on 8-12 l/s per guest, final figure to balance the exhaust rate. The maximum number of guests per room to be utilized hence:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T081904Z" creationid="LanHK" creationdate="20210715T081904Z">
-        <seg>Ventilation rates to be based on 8-12 l/s per guest, final figure to balance the exhaust rate. The maximum number of guests per room to be utilized hence:     /     Lưu lượng thông gió dự trên cơ sở 8-12 l/s trên khách, con số cuối cùng cần cân đối với tỉ lệ thải khí. Ở đây áp dựng số lượng khách tối đa trên phòng:</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095034Z" creationid="LanHK" creationdate="20210715T081904Z">
+        <seg>Ventilation rates to be based on 8-12 l/s per guest, final figure to balance the exhaust rate. The maximum number of guests per room to be utilized hence:     /     Lưu lượng thông gió dự trên cơ sở 8-12 l/s trên khách, con số cuối cùng cần cân đối với tỉ lệ hút khí. Ở đây áp dựng số lượng khách tối đa trên phòng:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12556,8 +12556,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>nor are the supply and exhaust air grilles located for their proper use in such a system, therefore, a dedicated smoke management system must be provided.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T035134Z" creationid="LanHK" creationdate="20210611T035134Z">
-        <seg>In general HVAC systems do not have the capacity for use as a smoke management system for an atrium, nor are the supply and exhaust air grilles located for their proper use in such a system, therefore, a dedicated smoke management system must be provided.    /    Hệ thống HVAC bình thường không có chức năng kiểm soát khói cho giếng trời, và lưới cấp/xả khí cũng không được bố trí tại vị trí phù hợp cho hệ thống kiểm soát khói, vì vậy, cần có một hệ thống kiểm soát khói chuyên dụng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095019Z" creationid="LanHK" creationdate="20210611T035134Z">
+        <seg>In general HVAC systems do not have the capacity for use as a smoke management system for an atrium, nor are the supply and exhaust air grilles located for their proper use in such a system, therefore, a dedicated smoke management system must be provided.    /    Hệ thống HVAC bình thường không có chức năng kiểm soát khói cho giếng trời, và miệng cấp/hút khí cũng không được bố trí tại vị trí phù hợp cho hệ thống kiểm soát khói, vì vậy, cần có một hệ thống kiểm soát khói chuyên dụng</seg>
       </tuv>
     </tu>
     <tu>
