@@ -3558,6 +3558,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FCU with AC Motor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043554Z" creationid="Kieu Lan" creationdate="20210802T043554Z">
+        <seg>FCU with AC Motor     /     FCU với động cơ AC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FCU with BLDC Motor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043644Z" creationid="Kieu Lan" creationdate="20210802T043644Z">
+        <seg>FCU with BLDC Motor     /     FCU với động cơ BLDC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FFCP - Fire Fan Control Panel</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T023804Z" creationid="LanHK" creationdate="20210610T025049Z">
@@ -4799,6 +4815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HIGH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043605Z" creationid="Kieu Lan" creationdate="20210802T043605Z">
+        <seg>HIGH     /     Cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOSEREEL / HOSE RACK (MAY BE OMITTED IN SOME</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T070825Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -5977,6 +6001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOW</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043617Z" creationid="Kieu Lan" creationdate="20210802T043617Z">
+        <seg>LOW     /     Thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOW TEMPERATURE HEATING WATER SYSTEM WITH DOMESTIC HOT WATER HEAT EXCHANGER</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T065451Z" creationid="LanHK" creationdate="20210728T065451Z">
@@ -6398,6 +6430,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081315Z">
         <seg>MECHANICAL SERVICES    /    Các máy móc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MEDIUM</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043610Z" creationid="Kieu Lan" creationdate="20210802T043610Z">
+        <seg>MEDIUM     /     Trung bình</seg>
       </tuv>
     </tu>
     <tu>
@@ -9241,6 +9281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TYPICAL GUESTROOM A-PIPE RADIANT CEILING OPTION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T044609Z" creationid="Kieu Lan" creationdate="20210802T044609Z">
+        <seg>TYPICAL GUESTROOM 4-PIPE RADIANT CEILING OPTION     /     Phương án trần bức xạ 4 ống phòng khách điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TYPICAL MOTOR DRIVEN TWO WAY CONTROL VALVE</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T064949Z" creationid="LanHK" creationdate="20210728T064949Z">
@@ -10590,6 +10638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This system not suitable in hot/humid climates with openable windows, or if guest corridor is not air conditioned:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043755Z" creationid="Kieu Lan" creationdate="20210802T043755Z">
+        <seg>This system not suitable in hot/humid climates with openable windows, or if guest corridor is not air conditioned:     /     Hệ thống này không phù hợp với khí hậu nóng/ẩm với các cửa sổ có thể mở, hoặc nếu hành lang phòng khách không có điều hòa không khí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This works by maintaining the pressure within the escape routes at a higher pressure than the adjacent spaces</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T015413Z" creationid="LanHK" creationdate="20210611T015413Z">
@@ -10853,6 +10909,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080334Z">
         <seg>Typical guest Floor Fire Protection System    /    Hệ thống phòng cháy điển hình tại tầng phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical guestroom 4-pipe radiant ceiling option (subject to approval of IHG)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043726Z" creationid="Kieu Lan" creationdate="20210802T043726Z">
+        <seg>Typical guestroom 4-pipe radiant ceiling option (subject to approval of IHG)     /     Phương án trần bức xạ 4 ống phòng khách điển hình (cần IHG phê duyệt)</seg>
       </tuv>
     </tu>
     <tu>
