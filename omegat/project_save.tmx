@@ -5513,6 +5513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In suitable climates with sealed windows and doors so infiltration can be controlled</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T045251Z" creationid="Kieu Lan" creationdate="20210802T045251Z">
+        <seg>In suitable climates with sealed windows and doors so infiltration can be controlled     /     Trong các vùng khí hậu phù hợp với cửa sổ và cửa ra vào kín để kiểm soát được nhiệt thâm nhập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the event of power failure the fastening must release</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210603T112253Z" creationid="PHUONG.DTM" creationdate="20210603T112253Z">
@@ -9891,6 +9899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fresh air systems must have adequate additional capacity to provide a boost facility to enable a rapid response to a guest’s comfort requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T062617Z" creationid="Kieu Lan" creationdate="20210802T062617Z">
+        <seg>The fresh air systems must have adequate additional capacity to provide a boost facility to enable a rapid response to a guest’s comfort requirements     /     Hệ thống khí tươi phải có dư công suất để cung cấp tăng cường, cho phép phản ứng nhanh với nhu cầu của khách về độ thoải mái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The full cooling loads shall be included for individual spaces.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T012720Z" creationid="Kieu Lan" creationdate="20210719T065448Z">
@@ -10610,6 +10626,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024813Z" creationid="LanHK" creationdate="20210715T024813Z">
         <seg>These systems shall be designed and operated to achieve:     /     Các hệ thống sau sẽ được thiết kế và vận hành để đạt được:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are however not without risk, and must only be used under the following conditions:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T045229Z" creationid="Kieu Lan" creationdate="20210802T045229Z">
+        <seg>They are however not without risk, and must only be used under the following conditions:-     /     Tuy nhiên, chúng không phải không có rủi ro, và chỉ được phép sử dụng trong các điều kiện sau:</seg>
       </tuv>
     </tu>
     <tu>
