@@ -2388,8 +2388,8 @@
       <tuv lang="EN-US">
         <seg>Comments</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210505T044432Z" creationid="LanHK" creationdate="20210505T044432Z">
-        <seg>Comments Nhận xét</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T085505Z" creationid="LanHK" creationdate="20210505T044432Z">
+        <seg>Comments     /     Nhận xét</seg>
       </tuv>
     </tu>
     <tu>
@@ -5233,8 +5233,8 @@
       <tuv lang="EN-US">
         <seg>Humidity override shall be provided in function rooms to override chilled water temperature re-set when necessary, as illustrated.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T085445Z" creationid="Kieu Lan" creationdate="20210802T085445Z">
-        <seg>Humidity override shall be provided in function rooms to override chilled water temperature re-set when necessary, as illustrated.     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T094920Z" creationid="Kieu Lan" creationdate="20210802T085445Z">
+        <seg>Humidity override shall be provided in function rooms to override chilled water temperature re-set when necessary, as illustrated.     /     Cần có </seg>
       </tuv>
     </tu>
     <tu>
@@ -5948,8 +5948,8 @@
       <tuv lang="EN-US">
         <seg>Item</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210505T043949Z" creationid="LanHK" creationdate="20210505T043949Z">
-        <seg>Item Hạng mục</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T085455Z" creationid="LanHK" creationdate="20210505T043949Z">
+        <seg>Item     /     Hạng mục</seg>
       </tuv>
     </tu>
     <tu>
