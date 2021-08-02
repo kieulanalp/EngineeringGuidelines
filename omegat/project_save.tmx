@@ -4175,6 +4175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh air AHU</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040233Z" creationid="Kieu Lan" creationdate="20210802T040233Z">
+        <seg>Fresh air AHU     /     AHU khí tươi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh air ventilation heat loss and gain</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035400Z" creationid="Kieu Lan" creationdate="20210721T034928Z">
@@ -5389,6 +5397,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T062202Z" creationid="LanHK" creationdate="20210715T045914Z">
         <seg>Internal Design Criteria     /     Tiêu chí thiết kế trong nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal Plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040212Z" creationid="Kieu Lan" creationdate="20210802T040212Z">
+        <seg>Internal Plant     /     Máy trong nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -7487,6 +7503,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T074003Z" creationid="LanHK" creationdate="20210610T074003Z">
         <seg>Reduced water storage    /    Giảm lượng nước dự trữ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redundancy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040723Z" creationid="Kieu Lan" creationdate="20210802T040723Z">
+        <seg>Redundancy     /     Dự phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -10579,6 +10603,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VRF condensing unit</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040207Z" creationid="Kieu Lan" creationdate="20210802T040207Z">
+        <seg>VRF condensing unit     /     Dàn ngưng VRF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VRV fan coil units should be selected on the following basis:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T060832Z" creationid="LanHK" creationdate="20210729T060832Z">
@@ -10815,6 +10847,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100348Z" creationid="LanHK" creationdate="20210713T100348Z">
         <seg>Water deluge system     /     Hệ thống sử dụng đầu phun mở</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water or air cooled chiller + fresh air AHU</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040228Z" creationid="Kieu Lan" creationdate="20210802T040228Z">
+        <seg>Water or air cooled chiller + fresh air AHU     /     Chiller giải nhiệt gió hoặc nước + AHU khí tươi</seg>
       </tuv>
     </tu>
     <tu>
