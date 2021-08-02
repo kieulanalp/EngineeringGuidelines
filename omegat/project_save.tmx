@@ -3244,6 +3244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Energy Consumption can be reduced by up to 20-25%</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T065448Z" creationid="Kieu Lan" creationdate="20210802T065448Z">
+        <seg>Energy Consumption can be reduced by up to 20-25%     /     Giảm năng lượng tiêu thụ từ 20-25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Energy Metering and Sub-Metering</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T030829Z" creationid="LanHK" creationdate="20210715T030829Z">
@@ -3458,6 +3466,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T033525Z" creationid="LanHK" creationdate="20210610T033525Z">
         <seg>Example of a function room with an area of 400m2:     /    Ví dụ về một phòng chức năng với diện tích 400m2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excellent use of low grade water for free cooling if available</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T070628Z" creationid="Kieu Lan" creationdate="20210802T070628Z">
+        <seg>Excellent use of low grade water for free cooling if available     /     Dễ dàng sử dụng nước chất lượng thấp để làm mát miễn phú nếu có</seg>
       </tuv>
     </tu>
     <tu>
