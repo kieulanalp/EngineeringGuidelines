@@ -10898,6 +10898,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To provide good internal air quality, the fresh air shall be monitored by BMS and controlled by CO2 sensors, which shall vary the volume of fresh air supplied to suit the needs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T084032Z" creationid="Kieu Lan" creationdate="20210802T084032Z">
+        <seg>To provide good internal air quality, the fresh air shall be monitored by BMS and controlled by CO2 sensors, which shall vary the volume of fresh air supplied to suit the needs.     /     Để cung cấp khí tươi trong nhà có chất lượng tốt, khí tươi sẽ được giám sát qua BMS và kiểm soát bởi cảm biến CO2, giúp thay đổi lưu lượng cấp khí tươi phù hợp với nhu cầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To provide sufficient continuous heating for the domestic hot water supply</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T071712Z" creationid="LanHK" creationdate="20210715T035051Z">
