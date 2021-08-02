@@ -448,6 +448,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>3.18.2 LOCATION OF EXHAUST IN GUEST BATHROOMS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041143Z" creationid="Kieu Lan" creationdate="20210802T041143Z">
+        <seg>3.18.2 LOCATION OF EXHAUST IN GUEST BATHROOMS     /     3.18.2 Bố trí đường ống thải trong phòng tắm khách</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://support.idevicesinc.com/hc/en-us/articles/360000248727-Advanced-Thermostat-Controls</note>
       <tuv lang="EN-US">
         <seg>4 Degree Dead band</seg>
@@ -1913,6 +1921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CLEARANCE OF STEAM</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041323Z" creationid="Kieu Lan" creationdate="20210802T041257Z">
+        <seg>clearance of steam     /     Bố trí ống thải phía trên bồn tắm/khoang tắm sen để thoát hơi nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CO2 EMISSIONS</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024324Z" creationid="LanHK" creationdate="20210715T024315Z">
@@ -2501,6 +2517,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DOOR TO BE UNDERCUT TO ALLOW MAKE UP AIR WHEN CLOSED IF REQUIRED</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041244Z" creationid="Kieu Lan" creationdate="20210802T041152Z">
+        <seg>Door to be undercut to allow make up air when closed if required     /     Cửa có khe hở ở vị trí tiếp xúc mặt sàn cho phép bù khí khi cửa đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Daily Maximum Temperatures</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044402Z" creationid="LanHK" creationdate="20210715T044402Z">
@@ -2831,6 +2855,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024202Z" creationid="LanHK" creationdate="20210715T024202Z">
         <seg>Energy consumption     /     Tiêu thụ năng lượng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXHAUST RISER</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041345Z" creationid="Kieu Lan" creationdate="20210802T041330Z">
+        <seg>Exhaust riser     /     trục ống thải</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,6 +3490,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043610Z" creationid="LanHK" creationdate="20210602T043454Z">
         <seg>FIRE DAMPER FOR ANY DUCT FROM LOBBY OR RISER SHAFT        /       VAN CHẶN LỬA CHO BẤT CỨ ĐƯỜNG ỐNG NÀO TỪ LOBBY HOẶC TRỤC ỐNG ĐỨNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIRE DAMPER WITH ACCESS PANEL</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041343Z" creationid="Kieu Lan" creationdate="20210802T041343Z">
+        <seg>Fire damper with access panel     /     Van chặn lửa với nắp thăm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4555,6 +4595,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093927Z" creationid="LanHK" creationdate="20210713T093927Z">
         <seg>Guest “comfort” factor and attraction to corporate companies.     /     Yếu tố "an tâm" đối với khách và thu hút doanh nghiệp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guestroom Exhaust Ventilation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041427Z" creationid="Kieu Lan" creationdate="20210802T041427Z">
+        <seg>Guestroom Exhaust Ventilation     /     Thông gió thoát khí phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -7848,6 +7896,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T064542Z" creationid="LanHK" creationdate="20210728T064542Z">
         <seg>SEPARATE VARIABLE TEMPERATURE CIRCUIT IS RECURED IF RADIATORS ARE INSTALLED     /     Cần có đường nước nhiệt độ biến thiên nếu có lắp đặt lò sưởi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SHOWER/BATH FOR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041251Z" creationid="Kieu Lan" creationdate="20210802T041251Z">
+        <seg>shower/bath for</seg>
       </tuv>
     </tu>
     <tu>
@@ -11876,6 +11932,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210703T034654Z" creationid="LanHK" creationdate="20210703T034654Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>locate exhaust over</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041253Z" creationid="Kieu Lan" creationdate="20210802T041253Z">
+        <seg>Locate exhaust over</seg>
       </tuv>
     </tu>
     <tu>
