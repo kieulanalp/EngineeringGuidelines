@@ -5231,6 +5231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Humidity override shall be provided in function rooms to override chilled water temperature re-set when necessary, as illustrated.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T085445Z" creationid="Kieu Lan" creationdate="20210802T085445Z">
+        <seg>Humidity override shall be provided in function rooms to override chilled water temperature re-set when necessary, as illustrated.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hydrants (external) - InterContinental Hotels Group /Code</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071903Z" creationid="LanHK" creationdate="20210702T071903Z">
