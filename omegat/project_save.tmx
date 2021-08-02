@@ -46,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- AIR VELOCITY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041631Z" creationid="Kieu Lan" creationdate="20210802T041631Z">
+        <seg>- Air Velocity     /     Vận tốc gió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- ALL AREAS TO BE REACHED WTH 30m HOSE,</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071126Z" creationid="LanHK" creationdate="20210610T071126Z">
         <seg>- ALL AREAS TO BE REACHED WTH 30m HOSE,    /    Tất cả các khu vực có thể tiếp cận bởi cuộn vòi 30m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- CONSISTENT AIR TEMPERATURE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041628Z" creationid="Kieu Lan" creationdate="20210802T041628Z">
+        <seg>- Consistent air temperature     /     Nhiệt độ không khí ổn định</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +502,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T025917Z" creationid="LanHK" creationdate="20210729T025917Z">
         <seg>4.15.2 Four Pipe Fan Coil Units     /     FCU 4 ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.16.3 Guest room air distribution and heating</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041450Z" creationid="Kieu Lan" creationdate="20210802T041450Z">
+        <seg>4.16.3 Guest room air distribution and heating     /     Phân bố khí và sưởi trong phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -956,6 +980,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T031102Z" creationid="LanHK" creationdate="20210715T031102Z">
         <seg>Air Infiltration Reduction Methods     /     Các phương pháp giảm thiểu không khí thâm nhập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air Velocity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041542Z" creationid="Kieu Lan" creationdate="20210802T041542Z">
+        <seg>Air Velocity     /     Vận tốc gió</seg>
       </tuv>
     </tu>
     <tu>
@@ -1969,6 +2001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CORRECT SELECTION OF THE SUPPLY AIR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041644Z" creationid="Kieu Lan" creationdate="20210802T041644Z">
+        <seg>Correct selection of the supply air</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculations and / or smoke modeling of the system must be provided to IHG for approval.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210625T081142Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -2371,6 +2411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consistent air temperature</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041538Z" creationid="Kieu Lan" creationdate="20210802T041538Z">
+        <seg>Consistent air temperature     /     Nhiệt độ không khí ổn định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control Systems)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T045859Z" creationid="LanHK" creationdate="20210715T045859Z">
@@ -2489,6 +2537,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T044750Z" creationid="Kieu Lan" creationdate="20210601T090429Z">
         <seg>DEVIATIONS SCHEDULE    /   Danh mục các hạng mục khác biệt so với tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DIFFIUSER ENSURES GOOD AIR DISTRIBUTION THROUGHOUT.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T042202Z" creationid="Kieu Lan" creationdate="20210802T042202Z">
+        <seg>diffiuser ensures good air distribution throughout.     /     Việc chọn đúng miệng cấp gió sẽ đảm bảo phân bố không khí tốt</seg>
       </tuv>
     </tu>
     <tu>
@@ -4343,6 +4399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GUEST ROOM AIR DISTRIBUTION 8c HEATING</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041611Z" creationid="Kieu Lan" creationdate="20210802T041611Z">
+        <seg>Guest room air distribution &amp; heating     /     Phân bố khí &amp; sưởi trong phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gas detections shall be provided in all rooms having gas supply, to sound on alarm and shut off the gas in the event of leakage being detected.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210714T030214Z" creationid="LanHK" creationdate="20210714T030214Z">
@@ -5103,6 +5167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IT IS THE SUPPLY AIR DISTRIBUTION THAT WILL DETERMINE THE EXTENT OF COMFORT ACHIEVED IN THE OCCUPIED SPACE, WHICH IS MEASURED IN:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041623Z" creationid="Kieu Lan" creationdate="20210802T041623Z">
+        <seg>It is the supply air distribution that will determine the extent of comfort achieved in the occupied space which is measured in:     /     Việc phân bố khí trong phòng sẽ quyết định mức độ thoải mái có thể đạt được trong không gian, được đo lường bằng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IT rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100537Z" creationid="LanHK" creationdate="20210713T100537Z">
@@ -5605,6 +5677,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T022643Z" creationid="LanHK" creationdate="20210603T023249Z">
         <seg>It is recommended that exits from the ground floor are not via the escape stair enclosure. Where this is unavoidable the final exit must be of sufficient width for the likely number of people using the stair and those escaping from the ground floor.        /       Khuyến nghị các lối thoát hiểm từ tầng mặt đất không thông qua thang bộ thoát hiểm khép kín. Nếu không thể tránh được, cửa thoát hiểm cuối cùng phải đủ rộng cho tổng số người dự kiến sử dụng và số người thoát hiểm từ tầng mặt đất dự kiến</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is the supply air distribution that will determine the extent of comfort achieved in the occupied space which is measured in:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041530Z" creationid="Kieu Lan" creationdate="20210802T041530Z">
+        <seg>It is the supply air distribution that will determine the extent of comfort achieved in the occupied space which is measured in:     /     Việc phân bố khí trong phòng sẽ quyết định mức độ thoải mái có thể đạt được trong không gian, được đo lường bằng</seg>
       </tuv>
     </tu>
     <tu>
