@@ -2581,6 +2581,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DROPPED CEILING AT ENTRY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T042335Z" creationid="Kieu Lan" creationdate="20210802T042335Z">
+        <seg>DROPPED CEILING AT ENTRY     /     Hạ trần ở lối vào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Daily Maximum Temperatures</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044402Z" creationid="LanHK" creationdate="20210715T044402Z">
@@ -5733,6 +5741,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041603Z">
         <seg>It must not obstruct escape routes     /     Không được phép cản trở đường thoát nạn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should discharge the air across the ceiling to use the coanda effect for good distribution.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043048Z" creationid="Kieu Lan" creationdate="20210802T043048Z">
+        <seg>It should discharge the air across the ceiling to use the coanda effect for good distribution.     /     Miệng cấp gió thổi gió ra theo trần nhà để sử dụng hiệu ứng Coanda, giúp phân bố không khí tôts</seg>
       </tuv>
     </tu>
     <tu>
@@ -10112,6 +10128,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023101Z" creationid="LanHK" creationdate="20210602T023101Z">
         <seg>The structure of the building includes:        /       Kết cấu tòa nhà bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supply diffuser type and size must be selected to achieve the required air flow to distribute throughout the room without causing noise or drafts.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T042444Z" creationid="Kieu Lan" creationdate="20210802T042444Z">
+        <seg>The supply diffuser type and size must be selected to achieve the required air flow to distribute throughout the room without causing noise or drafts.     /     Loại và kích cỡ miệng cấp gió phải được chọn để đạt lưu lượng khí được yêu cầu để phân phối trong khắp phòng mà không gây tiếng ồn hay hút gió</seg>
       </tuv>
     </tu>
     <tu>
