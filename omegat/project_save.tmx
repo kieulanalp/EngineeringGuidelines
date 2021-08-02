@@ -475,8 +475,8 @@
       <tuv lang="EN-US">
         <seg>3.18.2 LOCATION OF EXHAUST IN GUEST BATHROOMS</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041143Z" creationid="Kieu Lan" creationdate="20210802T041143Z">
-        <seg>3.18.2 LOCATION OF EXHAUST IN GUEST BATHROOMS     /     3.18.2 Bố trí đường ống thải trong phòng tắm khách</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095234Z" creationid="Kieu Lan" creationdate="20210802T041143Z">
+        <seg>3.18.2 LOCATION OF EXHAUST IN GUEST BATHROOMS     /     3.18.2 Bố trí đường ống hút khí trong phòng tắm khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,8 +2518,8 @@
       <tuv lang="EN-US">
         <seg>Coverage of the whole of the occupied area must be achieved by careful consideration, in particular of the supply.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T072321Z" creationid="Kieu Lan" creationdate="20210802T072225Z">
-        <seg>Coverage of the whole of the occupied area must be achieved by careful consideration, in particular of the supply. Generally, the exhaust will not have an effect on the air distribution, as can be illustrated in the following sketch:     /     Cần cân nhắc cẩn thận để đảm bảo cấp đủ khí cho toàn bộ không gian, đặc biệt là nguồn cấp khí. Nhìn chung, khí thải sẽ không ảnh hưởng đến phân phối khí, như được minh họa dưới đây:</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095253Z" creationid="Kieu Lan" creationdate="20210802T072225Z">
+        <seg>Coverage of the whole of the occupied area must be achieved by careful consideration, in particular of the supply. Generally, the exhaust will not have an effect on the air distribution, as can be illustrated in the following sketch:     /     Cần cân nhắc cẩn thận để đảm bảo cấp đủ khí cho toàn bộ không gian, đặc biệt là nguồn cấp khí. Nhìn chung, việc hút khí sẽ không ảnh hưởng đến phân phối khí, như được minh họa dưới đây:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2989,8 +2989,8 @@
       <tuv lang="EN-US">
         <seg>EXHAUST RISER</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041345Z" creationid="Kieu Lan" creationdate="20210802T041330Z">
-        <seg>Exhaust riser     /     trục ống thải</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095239Z" creationid="Kieu Lan" creationdate="20210802T041330Z">
+        <seg>Exhaust riser     /     trục ống hút</seg>
       </tuv>
     </tu>
     <tu>
@@ -7174,8 +7174,8 @@
       <tuv lang="EN-US">
         <seg>Note. Where it can be demonstrated that there is no possibility of adjacent or any rooms within the hotel having heating/cooling demands simultaneously, then 2 pipe systems may be considered. This must only be with the prior approval of InterContinental Hotels Group. Fresh air shall be provided to the guest rooms for occupancy needs, and exhaust air via the bathrooms.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T073514Z" creationid="LanHK" creationdate="20210729T073514Z">
-        <seg>Note. Where it can be demonstrated that there is no possibility of adjacent or any rooms within the hotel having heating/cooling demands simultaneously, then 2 pipe systems may be considered. This must only be with the prior approval of InterContinental Hotels Group. Fresh air shall be provided to the guest rooms for occupancy needs, and exhaust air via the bathrooms.     /     Lưu ý: Nếu có thể chứng minh được là không có khả năng các phòng liền kề hoặc bất cứ phòng nào trong khách sạn sẽ có nhu cầu sưởi/làm mát đồng thời, vậy thì có thể cân nhắc hệ thống 2 ống. Việc này chỉ có thể tiến hành nếu có phê duyệt của IHG. Khí tươi sẽ được cấp vào phòng khách, thải ra qua buồng tắm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095227Z" creationid="LanHK" creationdate="20210729T073514Z">
+        <seg>Note. Where it can be demonstrated that there is no possibility of adjacent or any rooms within the hotel having heating/cooling demands simultaneously, then 2 pipe systems may be considered. This must only be with the prior approval of InterContinental Hotels Group. Fresh air shall be provided to the guest rooms for occupancy needs, and exhaust air via the bathrooms.     /     Lưu ý: Nếu có thể chứng minh được là không có khả năng các phòng liền kề hoặc bất cứ phòng nào trong khách sạn sẽ có nhu cầu sưởi/làm mát đồng thời, vậy thì có thể cân nhắc hệ thống 2 ống. Việc này chỉ có thể tiến hành nếu có phê duyệt của IHG. Khí tươi sẽ được cấp vào phòng khách, hút ra qua buồng tắm</seg>
       </tuv>
     </tu>
     <tu>
@@ -9372,8 +9372,8 @@
       <tuv lang="EN-US">
         <seg>TOTAL FRESH AIR SUPPLY fc TOTAL EXHAUST 10-20%</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T014745Z" creationid="LanHK" creationdate="20210719T014745Z">
-        <seg>TOTAL FRESH AIR SUPPLY ≥ TOTAL EXHAUST 10-20%     /     Tổng lượng cấp khí tươi ≥ Tổng khí xả ra 10-20%</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095105Z" creationid="LanHK" creationdate="20210719T014745Z">
+        <seg>TOTAL FRESH AIR SUPPLY ≥ TOTAL EXHAUST 10-20%     /     Tổng lượng cấp khí tươi ≥ Tổng khí hút 10-20%</seg>
       </tuv>
     </tu>
     <tu>
@@ -12308,8 +12308,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>equal and equivalent, to reduce exhaust requirements by approximately 30% from conventional systems, and eliminate grease passing through the system utilising high efficiency cyclone filters and “UV” filtration. For information or Halton&amp; Gaylord equipment</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T021913Z" creationid="LanHK" creationdate="20210719T021913Z">
-        <seg>equal and equivalent, to reduce exhaust requirements by approximately 30% from conventional systems, and eliminate grease passing through the system utilising high efficiency cyclone filters and “UV” filtration. For information or Halton&amp; Gaylord equipment     /     Sử dụng hệ thống chụp hút bếp với      /     Một hệ thống hút mùi bếp chính hãng với vòi phun, vd như “Halton Capture Jet” Gaylord ELX Hood hoặc tương đương để giảm thiểu lượng khí phải hút khoảng 30% so với các hệ thống truyền thống, và loại bỏ dầu mỡ đi qua hệ thống bằng các bộ lọc xoáy và đèn "UV. Xem thêm về thiết bị Halton &amp; Gaylord </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095148Z" creationid="LanHK" creationdate="20210719T021913Z">
+        <seg>equal and equivalent, to reduce exhaust requirements by approximately 30% from conventional systems, and eliminate grease passing through the system utilising high efficiency cyclone filters and “UV” filtration. For information or Halton&amp; Gaylord equipment     /     Một hệ thống hút mùi bếp chính hãng với vòi phun, vd như “Halton Capture Jet” Gaylord ELX Hood hoặc tương đương để giảm thiểu lượng khí phải hút khoảng 30% so với các hệ thống truyền thống, và loại bỏ dầu mỡ đi qua hệ thống bằng các bộ lọc xoáy và đèn "UV. Xem thêm về thiết bị Halton &amp; Gaylord </seg>
       </tuv>
     </tu>
     <tu>
