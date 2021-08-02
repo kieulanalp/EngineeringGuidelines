@@ -224,6 +224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>15 years</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040829Z" creationid="Kieu Lan" creationdate="20210802T040829Z">
+        <seg>15 years     /     15 năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15%</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T103044Z" creationid="LanHK" creationdate="20210716T103044Z">
@@ -387,8 +395,8 @@
       <tuv lang="EN-US">
         <seg>25 year plant / system</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>25 year plant    /    system</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040826Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>25 year plant/ system     /     Máy/Hệ thống 25 năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -860,6 +868,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T031110Z" creationid="LanHK" creationdate="20210715T031110Z">
         <seg>Acoustic Isolation     /     Tiêu âm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actual capital cost comparison depends on location.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041046Z" creationid="Kieu Lan" creationdate="20210802T041046Z">
+        <seg>Actual capital cost comparison depends on location.     /     So sánh chi phí đầu tư thực tế phụ thuộc vào địa điểm</seg>
       </tuv>
     </tu>
     <tu>
@@ -5103,6 +5119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If water cooled chillers used then legionella risk can be high if correct procedures are not put in place.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041022Z" creationid="Kieu Lan" creationdate="20210802T041022Z">
+        <seg>If water cooled chillers used then legionella risk can be high if correct procedures are not put in place.     /     Nếu chiller giải nhiệt nước được sử dụng, có thể gây nguy cơ nhiễm khuẩn Legionella cao nếu không có quy trình xử lý đúng đắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediate alarm in room/area</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081347Z" creationid="Kieu Lan" creationdate="20210713T081347Z">
@@ -5813,6 +5837,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065322Z" creationid="LanHK" creationdate="20210610T065322Z">
         <seg>Leaks in the system could cause problems    /    Rò rỉ nước trong hệ thống có thể gây sự cố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legionella Risk</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040841Z" creationid="Kieu Lan" creationdate="20210802T040841Z">
+        <seg>Legionella Risk     /     Nguy cơ Legionella</seg>
       </tuv>
     </tu>
     <tu>
@@ -6643,6 +6675,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nil</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040856Z" creationid="Kieu Lan" creationdate="20210802T040856Z">
+        <seg>Nil     /     không có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nil air cooled</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040852Z" creationid="Kieu Lan" creationdate="20210802T040852Z">
+        <seg>Nil air cooled     /     không có do giải nhiệt gió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nitrate reducers: Maximum 100 organisms/ml</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095224Z" creationid="Kieu Lan" creationdate="20210728T095224Z">
@@ -6795,6 +6843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notes: Two pipe systems is not shown as this can only be used where simultaneous heating/cooling is not required for room temperature control.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040941Z" creationid="Kieu Lan" creationdate="20210802T040941Z">
+        <seg>Notes: Two pipe systems is not shown as this can only be used where simultaneous heating/cooling is not required for room temperature control.     /     Lưu ý: ở đây không trình bày về hệ thống 2 ống do hệ thống này chỉ được sử dụng khi việc kiểm soát nhiệt độ phòng không yêu cầu sưởi/làm mát đồng thời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notify fire brigade If appropriate</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080619Z" creationid="Kieu Lan" creationdate="20210713T080619Z">
@@ -6935,6 +6991,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T030933Z" creationid="LanHK" creationdate="20210715T030933Z">
         <seg>Optimize façade design     /     Tối ưu hóa thiết kế mặt tiền</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options 1 - 4 provide more opportunity for heat recovery from a central plant.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041107Z" creationid="Kieu Lan" creationdate="20210802T041107Z">
+        <seg>Options 1 - 4 provide more opportunity for heat recovery from a central plant.     /     Phương án 1-4 tạo điều kiện thu hồi nhiệt từ trạm máy trung tâm dễ dàng hơn</seg>
       </tuv>
     </tu>
     <tu>
