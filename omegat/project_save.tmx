@@ -9898,6 +9898,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>tối nghĩa???</note>
       <tuv lang="EN-US">
         <seg>The fresh air systems must have adequate additional capacity to provide a boost facility to enable a rapid response to a guest’s comfort requirements</seg>
       </tuv>
@@ -10204,6 +10205,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The room cooling load must be limited due to the systems restricted capacity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T065405Z" creationid="Kieu Lan" creationdate="20210802T062708Z">
+        <seg>The room cooling load must be limited due to the systems restricted capacity     /     Phụ tải làm mát của phòng bị giới hạn do công suất có giới hạn của hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The route must be at least 3m from any opening or vent unless the route is protected from fire within the</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T040509Z" creationid="LanHK" creationdate="20210610T040509Z">
@@ -10312,6 +10321,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T032609Z" creationid="LanHK" creationdate="20210611T032609Z">
         <seg>The system cannot work without these 2 areas working together.    /    Hệ thống không thể vận hành nếu không có hai bộ phận này phối hợp với nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system must operate 24 hours a day</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T062639Z" creationid="Kieu Lan" creationdate="20210802T062639Z">
+        <seg>The system must operate 24 hours a day     /     Hệ thống phải vận hnàh 24h/ngày</seg>
       </tuv>
     </tu>
     <tu>
