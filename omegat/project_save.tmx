@@ -1008,6 +1008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air Distribution - Large Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T072146Z" creationid="Kieu Lan" creationdate="20210802T072146Z">
+        <seg>Air Distribution - Large Areas     /     Phân phối không khí - Không gian lớn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Infiltration Reduction Methods</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T031102Z" creationid="LanHK" creationdate="20210715T031102Z">
@@ -2504,6 +2512,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063408Z" creationid="Kieu Lan" creationdate="20210713T020623Z">
         <seg>Corridors***Hành lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coverage of the whole of the occupied area must be achieved by careful consideration, in particular of the supply.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T072321Z" creationid="Kieu Lan" creationdate="20210802T072225Z">
+        <seg>Coverage of the whole of the occupied area must be achieved by careful consideration, in particular of the supply. Generally, the exhaust will not have an effect on the air distribution, as can be illustrated in the following sketch:     /     Cần cân nhắc cẩn thận để đảm bảo cấp đủ khí cho toàn bộ không gian, đặc biệt là nguồn cấp khí. Nhìn chung, khí thải sẽ không ảnh hưởng đến phân phối khí, như được minh họa dưới đây:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5829,6 +5845,15 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T044658Z" creationid="Kieu Lan" creationdate="20210802T044658Z">
         <seg>Issues to address with chilled beams and radiant ceilings.     /     Vấn đề cần quan tâm đối với chilled beams và trần bức xạ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>?????????????</note>
+      <tuv lang="EN-US">
+        <seg>It can be seen that with an extract velocity of 2.8m/s, this drops significantly at only 600mm from the intake to 0.05m/s, which will have no affect whatsoever on the overall room air distribution.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T082741Z" creationid="Kieu Lan" creationdate="20210802T072251Z">
+        <seg>It can be seen that with an extract velocity of 2.8m/s, this drops significantly at only 600mm (0.6m) from the intake to 0.05m/s, which will have no affect whatsoever on the overall room air distribution.     /     Có thể thấy với vận tốc thải khí 2.8m/s, chỉ giảm 600mm (0.6m), xuống </seg>
       </tuv>
     </tu>
     <tu>
