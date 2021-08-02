@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>($)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043504Z" creationid="Kieu Lan" creationdate="20210802T043504Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The signal must be a siren or two-tone)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064341Z" creationid="Kieu Lan" creationdate="20210705T064341Z">
@@ -2025,6 +2033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capacity (TR)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043323Z" creationid="Kieu Lan" creationdate="20210802T043323Z">
+        <seg>Capacity (TR)     /     Công suất (TR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capital Cost</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T082031Z" creationid="LanHK" creationdate="20210729T082031Z">
@@ -2817,6 +2833,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022733Z" creationid="LanHK" creationdate="20210717T022733Z">
         <seg>Distribution/cable size minimised     /     Giảm thiểu kích cỡ cáp phân phối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diversity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043430Z" creationid="Kieu Lan" creationdate="20210802T043430Z">
+        <seg>Diversity     /     Sự đa dạng</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,6 +3691,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T064411Z" creationid="LanHK" creationdate="20210602T050113Z">
         <seg>False ceiling        /       trần giả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fan Speed</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043327Z" creationid="Kieu Lan" creationdate="20210802T043327Z">
+        <seg>Fan Speed     /     Tốc độ quạt</seg>
       </tuv>
     </tu>
     <tu>
@@ -5087,6 +5119,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hour s of Oper ation /Yr</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043424Z" creationid="Kieu Lan" creationdate="20210802T043424Z">
+        <seg>Hours of Operation /Yr     /     Số giờ vận hành/năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hours of Opera tion</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043403Z" creationid="Kieu Lan" creationdate="20210802T043403Z">
+        <seg>Hours of Operation     /     Số giờ vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Housekeeping/linen</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T064344Z" creationid="LanHK" creationdate="20210715T064344Z">
@@ -5501,6 +5549,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103911Z" creationid="LanHK" creationdate="20210602T103911Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input Power (Watts)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043358Z" creationid="Kieu Lan" creationdate="20210802T043358Z">
+        <seg>Input Power (Watts)     /     Công suất đầu vào</seg>
       </tuv>
     </tu>
     <tu>
@@ -7259,6 +7315,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Payback Period (Years)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043542Z" creationid="Kieu Lan" creationdate="20210802T043542Z">
+        <seg>Payback Period (Years)     /     Thời gian hồi vốn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Penmeter pub c areas on afferent facades'on entat'on or, different systems (Typically 4-6m maximum) depth</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095404Z" creationid="Kieu Lan" creationdate="20210728T095404Z">
@@ -7375,6 +7439,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T090108Z" creationid="Kieu Lan" creationdate="20210713T014119Z">
         <seg>Portable visible and vibrating alarm units must be provided for guests with impaired hearing. These units must be operational throughout the hotel and be activated when the fire evacuation alarm is operated. A typical vibrating pad system wireless is illustrated as follows:-     /     Thiết bị báo động thị giác, có rung và có thể di chuyển phải được cung cấp cho khách khiếm thính. Các thiết bị này phải được vận hành trên khắp khách sạn và phải được kích hoạt khi có báo động sơ tán kích hoạt. Một hệ thống pad rung không dây được minh họa bên dưới:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power Cost ($/kWH)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043410Z" creationid="Kieu Lan" creationdate="20210802T043410Z">
+        <seg>Power Cost ($/kWH)     /     Chi phí điện</seg>
       </tuv>
     </tu>
     <tu>
@@ -10616,6 +10688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total Yearly running Cost ($)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043445Z" creationid="Kieu Lan" creationdate="20210802T043445Z">
+        <seg>Total Yearly running Cost ($)     /     Tổng chi phí vận hành hàng năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total aerobic plate count: Maximum 10,000 organisms /ml</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095214Z" creationid="Kieu Lan" creationdate="20210728T095214Z">
@@ -10709,6 +10789,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T015855Z" creationid="LanHK" creationdate="20210719T015855Z">
         <seg>Two speed ventilation systems (or inverter driven fans) serving the kitchens for economy in “low” periods.     /     Các hệ thống thông gió hai tốc độ (hoặc sử dụng quạt inverter) phục vụ cho các bếp để tiết kiệm trong các giai đoạn ít khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043255Z" creationid="Kieu Lan" creationdate="20210802T043255Z">
+        <seg>Type     /     Loại</seg>
       </tuv>
     </tu>
     <tu>
@@ -10814,6 +10902,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T092019Z" creationid="LanHK" creationdate="20210716T092019Z">
         <seg>Understanding the wind strengths and patterns for the site can help in locating intakes &amp; discharges and benefiting from natural ventilation. The following is an illustration of a typical wind path diagram:     /     Hiểu sức gió và các luồng gió tại vị trí dự án có thể giúp xác định hướng thu và thải khí (intakes &amp; discharges) và thu được lợi ích từ thông gió tự nhiên. Hình dưới minh họa một biểu đồ hướng gió điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit Price</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043503Z" creationid="Kieu Lan" creationdate="20210802T043503Z">
+        <seg>Unit Price ($)     /     Chi phí unit</seg>
       </tuv>
     </tu>
     <tu>
@@ -11479,6 +11575,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T045513Z" creationid="LanHK" creationdate="20210505T045513Z">
         <seg>YES CÓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yearly Running Cost ($)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043439Z" creationid="Kieu Lan" creationdate="20210802T043439Z">
+        <seg>Yearly Running Cost ($)     /     Chi phí vận hành hàng năm</seg>
       </tuv>
     </tu>
     <tu>
