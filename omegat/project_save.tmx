@@ -514,6 +514,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.16.4 Typical guestroom 4-pipe fan coil unit system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043104Z" creationid="Kieu Lan" creationdate="20210802T043104Z">
+        <seg>4.16.4 Typical guestroom 4-pipe fan coil unit system     /     Hệ thống FCU 4 ống phòng khách điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.18.1 Frost Protection - Alternative may be simpler / more economical</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -10741,6 +10749,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065919Z" creationid="LanHK" creationdate="20210610T065919Z">
         <seg>Typical guest Floor Fire Protection System    /    Hệ thống phòng cháy điển hình tại tầng phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical analysis of BLDC motors for FCU’s</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043250Z" creationid="Kieu Lan" creationdate="20210802T043250Z">
+        <seg>Typical analysis of BLDC motors for FCU’s     /     Phân tích động cơ BLDC (một chiều không chổi than) điển hình cho FCU</seg>
       </tuv>
     </tu>
     <tu>
