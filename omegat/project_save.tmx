@@ -3059,6 +3059,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Economy cycle control shall be provided for all air handling units to maximize the use of free cooling when available.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T084230Z" creationid="Kieu Lan" creationdate="20210802T084230Z">
+        <seg>Economy cycle control shall be provided for all air handling units to maximize the use of free cooling when available.     /     Điều khiển chế độ Economy sẽ được cung cấp cho tất cả AHU để tận dụng tối ưu free cooling khi có thể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Efficiencies - 90% +</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T045714Z" creationid="LanHK" creationdate="20210728T045714Z">
