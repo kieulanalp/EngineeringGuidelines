@@ -5577,6 +5577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increased room comfort levels due to radiant effect and low air velocities</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T070646Z" creationid="Kieu Lan" creationdate="20210802T070646Z">
+        <seg>Increased room comfort levels due to radiant effect and low air velocities     /     Tăng mức độ thoải mái trong phòng nhờ hiệu ứng bức xạ và vận tốc gió thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Individually controlled / tested</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T084247Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -7011,6 +7019,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No bulkhead or room entry - improved room aesthetics (radiant ceiling option only)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T071219Z" creationid="Kieu Lan" creationdate="20210802T071219Z">
+        <seg>No bulkhead or room entry - improved room aesthetics (radiant ceiling option only)     /     Không cần bulkhead ở lối vào phòng - tăng tính thẩm mỹ (đối với phương án trần bức xạ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No condensate drain which can be a health hazard if not cleaned regularly</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T070730Z" creationid="Kieu Lan" creationdate="20210802T070730Z">
+        <seg>No condensate drain which can be a health hazard if not cleaned regularly     /     Không cần đường thoát nước ngưng, đây có thể gây nguy cơ cho sức khỏe nếu không được vệ sinh thường xuyên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No in room maintenance as there is no fan or filter</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T070700Z" creationid="Kieu Lan" creationdate="20210802T070700Z">
+        <seg>No in room maintenance as there is no fan or filter     /     Không cần bảo dưỡng trong phòng do không có quạt hay lưới lọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No response after predetermined time delay</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T061058Z" creationid="Kieu Lan" creationdate="20210713T061058Z">
@@ -7775,6 +7807,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T075050Z" creationid="LanHK" creationdate="20210610T074527Z">
         <seg>Pump or accumulator    /    Bơm hoặc bình nén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quieter system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T070741Z" creationid="Kieu Lan" creationdate="20210802T070741Z">
+        <seg>Quieter system     /     Hệ thống chạy ít tiếng ồn hơn</seg>
       </tuv>
     </tu>
     <tu>
