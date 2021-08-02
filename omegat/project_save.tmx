@@ -192,6 +192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>100% for compressor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040730Z" creationid="Kieu Lan" creationdate="20210802T040730Z">
+        <seg>100% for compressor     /     100% cho máy nén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>120 Minute fire resisting construction</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T051540Z" creationid="LanHK" creationdate="20210602T051540Z">
@@ -381,6 +389,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>25 year plant    /    system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>25 year plant/ 20 year system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040812Z" creationid="Kieu Lan" creationdate="20210802T040812Z">
+        <seg>25 year plant/ 20 year system     /     Máy 25 năm/ hệ thống 20 năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -5829,6 +5845,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T074009Z" creationid="LanHK" creationdate="20210610T074009Z">
         <seg>Less water discharge    /    Xả ít nước hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Life Expectancy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040755Z" creationid="Kieu Lan" creationdate="20210802T040755Z">
+        <seg>Life Expectancy     /     Vòng đời kỳ vọng</seg>
       </tuv>
     </tu>
     <tu>
@@ -11852,6 +11876,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041944Z" creationid="Kieu Lan" creationdate="20210629T041944Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nil for failed compressor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040749Z" creationid="Kieu Lan" creationdate="20210802T040749Z">
+        <seg>nil for failed compressor     /     không có cho sự cố máy nén</seg>
       </tuv>
     </tu>
     <tu>
