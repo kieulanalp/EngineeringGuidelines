@@ -508,8 +508,8 @@
       <tuv lang="EN-US">
         <seg>4.16.3 Guest room air distribution and heating</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041450Z" creationid="Kieu Lan" creationdate="20210802T041450Z">
-        <seg>4.16.3 Guest room air distribution and heating     /     Phân bố khí và sưởi trong phòng khách</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T042212Z" creationid="Kieu Lan" creationdate="20210802T041450Z">
+        <seg>4.16.3 Guest room air distribution and heating     /     Phân bố không khí và sưởi trong phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -3606,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FRESH AIR DUCTED TO THE BACK OF THE FAN COIL UNIT AND NOT DIRECT TO THE ROOM</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T042329Z" creationid="Kieu Lan" creationdate="20210802T042329Z">
+        <seg>Fresh air ducted to the back of the fan coil unit and not direct to the room     /     Ống khí tươi đến FCU chứ không dẫn thẳng vào phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FRONT OF BUILDING</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T020419Z" creationid="LanHK" creationdate="20210701T020419Z">
@@ -4401,8 +4409,8 @@
       <tuv lang="EN-US">
         <seg>GUEST ROOM AIR DISTRIBUTION 8c HEATING</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041611Z" creationid="Kieu Lan" creationdate="20210802T041611Z">
-        <seg>Guest room air distribution &amp; heating     /     Phân bố khí &amp; sưởi trong phòng khách</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T042215Z" creationid="Kieu Lan" creationdate="20210802T041611Z">
+        <seg>Guest room air distribution &amp; heating     /     Phân bố không khí &amp; sưởi trong phòng khách</seg>
       </tuv>
     </tu>
     <tu>
