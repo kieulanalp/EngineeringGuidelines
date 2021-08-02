@@ -2096,11 +2096,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>đoạn cost in là sao nhỉ??</note>
       <tuv lang="EN-US">
         <seg>Central chiller plant, Heat recovery fresh air AHU, boiler separate heating &amp;chilled water circuit to ceiling cost in radiant panels.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T030016Z" creationid="Kieu Lan" creationdate="20210802T030016Z">
-        <seg>Central chiller plant, Heat recovery fresh air AHU, boiler separate heating &amp;chilled water circuit to ceiling cost in radiant panels.     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T034356Z" creationid="Kieu Lan" creationdate="20210802T030016Z">
+        <seg>Central chiller plant, Heat recovery fresh air AHU, boiler separate heating &amp;chilled water circuit to ceiling cost in radiant panels.     /     Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt , nồi hơi &amp; đường nước nóng&amp;nước lạnh tới tấm trần bức xạ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11523,6 +11524,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T044919Z" creationid="LanHK" creationdate="20210602T013203Z">
         <seg>details of the standards/codes to be adopted in the design of these services.        /       Tính đầy đủ của các hạng mục được thiết kế để phát hiện và chống lan lửa và khói - bao gồm chi tiết về các tiêu chuẩn/quy tắc sẽ được áp dụng khi thiết kế các hạng mục này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>detector operates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081118Z" creationid="Kieu Lan" creationdate="20210713T081118Z">
+        <seg>vận hành</seg>
       </tuv>
     </tu>
     <tu>
