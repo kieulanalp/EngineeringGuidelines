@@ -9035,8 +9035,8 @@
       <tuv lang="EN-US">
         <seg>Sprinkler water valve shut</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T103011Z" creationid="LanHK" creationdate="20210713T103011Z">
-        <seg>Sprinkler water valve shut    /    Van nước sprinkler đóng</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T061806Z" creationid="LanHK" creationdate="20210713T103011Z">
+        <seg>Sprinkler water valve shut    /    Van nước sprinkler ngắt</seg>
       </tuv>
     </tu>
     <tu>
@@ -12492,8 +12492,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>in the room &amp; alerts remote annunciator panel.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T015755Z" creationid="Kieu Lan" creationdate="20210714T015755Z">
-        <seg>in the room &amp; alerts remote annunciator panel.     /    Kích hoạt đầu báo khói khiến kích hoạt một báo động trong phòng và báo về bảng điều khiển từ xa</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T061941Z" creationid="Kieu Lan" creationdate="20210714T015755Z">
+        <seg>in the room &amp; alerts remote annunciator panel.     /    Kích hoạt đầu báo khói khiến kích hoạt một báo động trong phòng và báo về tủ annunciator</seg>
       </tuv>
     </tu>
     <tu>
@@ -12901,8 +12901,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>sprinkler water flow control valve to fill up the sprinkler pipe work with water.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T020001Z" creationid="Kieu Lan" creationdate="20210714T020001Z">
-        <seg>sprinkler water flow control valve to fill up the sprinkler pipe work with water.     /     Kích hoạt đầu báo cháy thứ hai mở van kiểm soát dòng chảy để nước vào đường ống sprinkler</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T062029Z" creationid="Kieu Lan" creationdate="20210714T020001Z">
+        <seg>sprinkler water flow control valve to fill up the sprinkler pipe work with water.     /     Kích hoạt đầu báo khói thứ hai mở van kiểm soát dòng chảy để nước vào đường ống sprinkler</seg>
       </tuv>
     </tu>
     <tu>
