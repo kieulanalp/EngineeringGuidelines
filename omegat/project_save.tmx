@@ -4585,8 +4585,8 @@
       <tuv lang="EN-US">
         <seg>Gas tank installations</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T100403Z" creationid="LanHK" creationdate="20210713T100403Z">
-        <seg>Gas tank installations     /     Bồn ga</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T045248Z" creationid="LanHK" creationdate="20210713T100403Z">
+        <seg>Gas tank installations     /     Lắp đặt bồn ga</seg>
       </tuv>
     </tu>
     <tu>
@@ -13053,8 +13053,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>with the manufacturer.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T095942Z" creationid="LanHK" creationdate="20210713T095942Z">
-        <seg>with the manufacturer.     /     Thiết kế và kích cỡ của hệ thống này được phát triển cùng với nhà sản xuất</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T045152Z" creationid="LanHK" creationdate="20210713T095942Z">
+        <seg>with the manufacturer.     /     Thiết kế và kích thước của hệ thống này được thực hiện cùng với nhà sản xuất</seg>
       </tuv>
     </tu>
     <tu>
