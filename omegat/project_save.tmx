@@ -370,8 +370,8 @@
       <tuv lang="EN-US">
         <seg>2.7.7 Kitchen Hood Suppression</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T071850Z" creationid="LanHK" creationdate="20210610T071850Z">
-        <seg>2.7.7 Kitchen Hood Suppression    /    Hệ thống chữa cháy tích hợp trong chụp hút mùi bếp</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T070013Z" creationid="LanHK" creationdate="20210610T071850Z">
+        <seg>2.7.7 Kitchen Hood Suppression    /    Hệ thống chữa cháy chụp hút bếp</seg>
       </tuv>
     </tu>
     <tu>
@@ -8375,8 +8375,8 @@
       <tuv lang="EN-US">
         <seg>SPRINKLER HEAD</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210610T071838Z">
-        <seg>SPRINKLER SPACING NOT TO EXCEED 11.1m3 PER SPRINKLER HEAD     /    Khoảng cách giữa các sprinklerkhông vượt quá 11.1m3 mỗi đầu sprinkler</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T065955Z" creationid="LanHK" creationdate="20210610T071838Z">
+        <seg>SPRINKLER SPACING NOT TO EXCEED 11.1m2 PER SPRINKLER HEAD     /    Khoảng cách giữa các sprinkler không vượt quá 11.1m2 mỗi đầu sprinkler</seg>
       </tuv>
     </tu>
     <tu>
@@ -8391,8 +8391,8 @@
       <tuv lang="EN-US">
         <seg>SPRINKLER SPACING NOT TO EXCEED 11.1m’PER</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T071835Z" creationid="LanHK" creationdate="20210610T071835Z">
-        <seg></seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T065657Z" creationid="LanHK" creationdate="20210610T071835Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -10143,8 +10143,8 @@
       <tuv lang="EN-US">
         <seg>The kitchen cooking range and hood shall be protected with a proprietary wet chemical (not foam, dry powder or gas) suppression system such as Ansul or equivalent.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T072118Z" creationid="LanHK" creationdate="20210610T072118Z">
-        <seg>The kitchen cooking range and hood shall be protected with a proprietary wet chemical (not foam, dry powder or gas) suppression system such as Ansul or equivalent.    /    Dàn bếp nấu và chụp hút mùi cần được bảo vệ bởi hệ thống chữa cháy hóa chất ướt có bản quyền sáng chế (không phải bọt, bột khô hoặc khí gas) như Ansul hoặc tương đương</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T070044Z" creationid="LanHK" creationdate="20210610T072118Z">
+        <seg>The kitchen cooking range and hood shall be protected with a proprietary wet chemical (not foam, dry powder or gas) suppression system such as Ansul or equivalent.    /    Dàn bếp nấu và chụp hút cần được bảo vệ bởi hệ thống chữa cháy hóa chất ướt có bản quyền sáng chế (không phải dạng bọt, bột khô hoặc khí gas) như Ansul hoặc tương đương</seg>
       </tuv>
     </tu>
     <tu>
