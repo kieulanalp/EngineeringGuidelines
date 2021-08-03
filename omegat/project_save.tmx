@@ -690,8 +690,8 @@
       <tuv lang="EN-US">
         <seg>A - ACTIVATION OF SMOKE DETECTORS SOUNDS AN ALARM IN THE ROOM &amp; ALERTS REMOTE ANNUNCIATOR PANEL</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T065529Z" creationid="LanHK" creationdate="20210610T065529Z">
-        <seg>A - ACTIVATION OF SMOKE DETECTORS SOUNDS AN ALARM IN THE ROOM &amp; ALERTS REMOTE ANNUNCIATOR PANEL    /    A - KÍCH HOẠT ĐẦU BÁO KHÓI KHIẾN KÍCH HOẠT MỘT BÁO ĐỘNG TRONG PHÒNG VÀ BÁO VỀ BẢNG ĐIỀU KHIỂN TỪ XA</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T062545Z" creationid="LanHK" creationdate="20210610T065529Z">
+        <seg>A - ACTIVATION OF SMOKE DETECTORS SOUNDS AN ALARM IN THE ROOM &amp; ALERTS REMOTE ANNUNCIATOR PANEL    /    A - KÍCH HOẠT ĐẦU BÁO KHÓI KHIẾN KÍCH HOẠT MỘT BÁO ĐỘNG TRONG PHÒNG VÀ GỬI TÍN HIỆU VỀ TỦ ĐIỀU KHIỂN</seg>
       </tuv>
     </tu>
     <tu>
@@ -1675,8 +1675,8 @@
       <tuv lang="EN-US">
         <seg>B - ACTIVATION OF SECOND SMOKE DETECTOR OPENS THE SPRINKLER WATER FLOW CONTROL VALVE TO FILL UP THE SPRINKLER PIPEWORK WITH WATER</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T065710Z" creationid="LanHK" creationdate="20210610T065710Z">
-        <seg>B - ACTIVATION OF SECOND SMOKE DETECTOR OPENS THE SPRINKLER WATER FLOW CONTROL VALVE TO FILL UP THE SPRINKLER PIPEWORK WITH WATER    /    B - KÍCH HOẠT ĐẦU BÁO CHÁY THỨ HAI MỞ VAN KIỂM SOÁT DÒNG CHẢY ĐỂ NƯỚC VÀO ĐƯỜNG ỐNG SPRINKLER</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T062622Z" creationid="LanHK" creationdate="20210610T065710Z">
+        <seg>B - ACTIVATION OF SECOND SMOKE DETECTOR OPENS THE SPRINKLER WATER FLOW CONTROL VALVE TO FILL UP THE SPRINKLER PIPEWORK WITH WATER    /    B - VIỆC KÍCH HOẠT ĐẦU BÁO KHÓI THỨ HAI KHIẾN MỞ VAN KIỂM SOÁT DÒNG CHẢY ĐỂ NƯỚC VÀO ĐƯỜNG ỐNG SPRINKLER</seg>
       </tuv>
     </tu>
     <tu>
@@ -8367,8 +8367,8 @@
       <tuv lang="EN-US">
         <seg>SPRINKLER 'WATER VALVE SHUT</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T065356Z" creationid="LanHK" creationdate="20210610T065356Z">
-        <seg>SPRINKLER WATER VALVE SHUT    /    VAN NƯỚC SPRINKLER ĐÓNG</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T062458Z" creationid="LanHK" creationdate="20210610T065356Z">
+        <seg>SPRINKLER WATER VALVE SHUT    /    VAN NƯỚC SPRINKLER NGẮT</seg>
       </tuv>
     </tu>
     <tu>
@@ -11165,8 +11165,8 @@
       <tuv lang="EN-US">
         <seg>Typical Guest floor Fire Protection System</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T065919Z" creationid="LanHK" creationdate="20210610T065919Z">
-        <seg>Typical guest Floor Fire Protection System    /    Hệ thống phòng cháy điển hình tại tầng phòng khách</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T064005Z" creationid="LanHK" creationdate="20210610T065919Z">
+        <seg>Typical guest Floor Fire Protection System    /    Hệ thống chữa cháy điển hình tại tầng phòng khách</seg>
       </tuv>
     </tu>
     <tu>
