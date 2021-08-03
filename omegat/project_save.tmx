@@ -554,6 +554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.19.2 Kitchens</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T073035Z" creationid="Kieu Lan" creationdate="20210803T073035Z">
+        <seg>4.19.2 Kitchens     /     Bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4000ppm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095333Z" creationid="Kieu Lan" creationdate="20210728T095333Z">
@@ -716,6 +724,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T063547Z" creationid="Kieu Lan" creationdate="20210629T050101Z">
         <seg>A carbon monoxide detector/alarm is not required in a kitchen. Where the only potential source of CO is gas kitchen equipment, there should be written certification from a professional engineer that it has been installed and complies with local codes and the manufacturers installation instructions     /     Trong bếp không cần có đầu báo/báo động khí CO. Với các nơi có nguồn khí CO nguy cơ là thiết bị bếp ga, phải có chứng nhận bằng văn bản bởi kỹ sư chuyên nghiệp rằng bếp được lắp đặt tuân thủ với quy định địa phương và hướng dẫn lắp đặt của nhà sx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dedicated AHU shall be provided to serve the kitchen area. The unit shall provide 100% fresh air (no re-circulation permitted) with heat recovery. This air shall be tempered to room conditions (cooled/heated) prior to supply to the kitchen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T102714Z" creationid="Kieu Lan" creationdate="20210803T102714Z">
+        <seg>A dedicated AHU shall be provided to serve the kitchen area. The unit shall provide 100% fresh air (no re-circulation permitted) with heat recovery. This air shall be tempered to room conditions (cooled/heated) prior to supply to the kitchen.     /     Bố trí AHU dành riêng cho khu vực bếp. AHU cung cấp 100% khí tươi (không cho phép tái tuần hoàn không khí) với thu hồi nhiệt. Khí tươi này</seg>
       </tuv>
     </tu>
     <tu>
@@ -2276,16 +2292,16 @@
       <tuv lang="EN-US">
         <seg>Central chiller plant, heat recovery fresh air AHU, boiler separate heating &amp; chilled water circuits to ceiling radiant panels &amp; variable air flow for boost</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210730T041958Z" creationid="Kieu Lan" creationdate="20210730T041958Z">
-        <seg>Central chiller plant, heat recovery fresh air AHU, boiler separate heating &amp; chilled water circuits to ceiling radiant panels &amp; variable air flow for boost     /     Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt , nồi hơi &amp; đường nước nóng&amp;nước lạnh tới tấm trần bức xạ và tăng cường bằng VAV</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T015600Z" creationid="Kieu Lan" creationdate="20210730T041958Z">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler separate heating &amp; chilled water circuits to ceiling radiant panels &amp; variable air flow for boost     /     Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt , nồi hơi &amp; đường nước nóng&amp;nước lạnh tới tấm trần bức xạ và tăng cường bằng biến đổi lưu lượng gió</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Central chiller plant, heat recovery fresh air AHU, boiler, separate heating &amp; chilled water circuits to room chilled beams with variable air flow for boost</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210730T022736Z" creationid="Kieu Lan" creationdate="20210730T022714Z">
-        <seg>Central chiller plant, heat recovery fresh air AHU, boiler, separate heating &amp; chilled water circuits to room chilled beams with variable air flow for boost     /     Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt, nồi hơi &amp; đường nước nóng&amp;nước lạnh tới chilled beam trong phòng và tăng cường bằng VAV</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T015558Z" creationid="Kieu Lan" creationdate="20210730T022714Z">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler, separate heating &amp; chilled water circuits to room chilled beams with variable air flow for boost     /     Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt, nồi hơi &amp; đường nước nóng&amp;nước lạnh tới chilled beam trong phòng và tăng cường bằng biến đổi lưu lượng gió</seg>
       </tuv>
     </tu>
     <tu>
@@ -3015,6 +3031,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095239Z" creationid="Kieu Lan" creationdate="20210802T041330Z">
         <seg>Exhaust riser     /     trục ống hút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each area will be provided with local automatic temperature control, monitored by the BMS.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T072930Z" creationid="Kieu Lan" creationdate="20210803T072930Z">
+        <seg>Each area will be provided with local automatic temperature control, monitored by the BMS.     /     Mỗi khu vực có kiểm soát nhiệt độ tự động, được giám sát bằng BMS</seg>
       </tuv>
     </tu>
     <tu>
@@ -4369,16 +4393,16 @@
       <tuv lang="EN-US">
         <seg>Four Pipe Radiant panels + variable Air flow</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T081438Z" creationid="LanHK" creationdate="20210729T081438Z">
-        <seg>Four Pipe Radiant panels + variable Air flow;;; Tấm trần bức xạ 4 ống + VAV</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T015539Z" creationid="LanHK" creationdate="20210729T081438Z">
+        <seg>Four Pipe Radiant panels + variable Air flow;;; Tấm trần bức xạ 4 ống + biến đổi lưu lượng gió</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Four pipe chilled beams &amp; variable Air flow</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T074212Z" creationid="LanHK" creationdate="20210729T074212Z">
-        <seg>Four pipe chilled beams &amp; variable Air flow;;;Chilled beam 4 ống &amp; VAV</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T015537Z" creationid="LanHK" creationdate="20210729T074212Z">
+        <seg>Four pipe chilled beams &amp; variable Air flow;;;Chilled beam 4 ống &amp; biến đổi lưu lượng gió</seg>
       </tuv>
     </tu>
     <tu>
@@ -10753,8 +10777,8 @@
       <tuv lang="EN-US">
         <seg>These areas should preferably be served by variable air volume all air systems from central plant, providing the zoning is similar.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T015449Z" creationid="Kieu Lan" creationdate="20210803T015128Z">
-        <seg>These areas should preferably be served by variable air volume all air systems from central plant, providing the zoning is similar.     /     Ưu tiên phục vụ các khu vực này bằng </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T015629Z" creationid="Kieu Lan" creationdate="20210803T015128Z">
+        <seg>These areas should preferably be served by variable air volume all air systems from central plant, providing the zoning is similar.     /     Ưu tiên phục vụ các khu vực này bằng các hệ thống VAV từ trạm máy trung tâm, miễn là việc chia zone giống nhau</seg>
       </tuv>
     </tu>
     <tu>
@@ -11637,6 +11661,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a zone requirement prevents all air systems from a central plant, each room/zone may generally be provided with an in ceiling 4 pipe fan coil unit.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T073032Z" creationid="Kieu Lan" creationdate="20210803T073032Z">
+        <seg>Where a zone requirement prevents all air systems from a central plant, each room/zone may generally be provided with an in ceiling 4 pipe fan coil unit.     /     Nếu một khu vực có yêu cầu tất cả các hệ thống gió không chung trạm máy chính, mỗi phòng/zone nhìn chung có thể được bố trí một FCU 4 ống âm trần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where applicable, condenser water circuits (where selected) shall reject heat to atmosphere by removing-heat directly from the refrigeration cooling process.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210726T092100Z" creationid="LanHK" creationdate="20210726T092100Z">
@@ -12243,8 +12275,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>chilled beam units located in a bulk head over the entrance with variable air flow for boost</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T080517Z" creationid="LanHK" creationdate="20210729T072139Z">
-        <seg>chilled beam units located in a bulk head over the entrance with variable air flow for boost     /     Hệ thống Chilled beam 4 ống trong khoang ngăn phía trên lối vào, tăng cường với VAV</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T015518Z" creationid="LanHK" creationdate="20210729T072139Z">
+        <seg>chilled beam units located in a bulk head over the entrance with variable air flow for boost     /     Hệ thống Chilled beam 4 ống trong khoang ngăn phía trên lối vào, tăng cường bằng biến đổi lưu lượng gió</seg>
       </tuv>
     </tu>
     <tu>
@@ -12773,8 +12805,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T080526Z" creationid="LanHK" creationdate="20210729T072653Z">
-        <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)     /     Tấm trần bức xạ với VAV</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210803T015528Z" creationid="LanHK" creationdate="20210729T072653Z">
+        <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)     /     Tấm trần bức xạ với biến đổi lưu lượng gió</seg>
       </tuv>
     </tu>
     <tu>
