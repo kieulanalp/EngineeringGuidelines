@@ -3220,6 +3220,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elevator machine</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T060813Z" creationid="PHUONG.DTM" creationdate="20210803T060813Z">
+        <seg>Elevator machine     /     Máy thang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elevator opening directly into, for example, a public area or a guestroom corridoi.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T094635Z" creationid="LanHK" creationdate="20210602T070657Z">
