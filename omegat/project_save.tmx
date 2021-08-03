@@ -8174,8 +8174,8 @@
       <tuv lang="EN-US">
         <seg>Required along the horizontal section of ductwork and top of risers.</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034712Z" creationid="LanHK" creationdate="20210713T093203Z">
-        <seg>Required along the horizontal section of ductwork and top of risers.     /     Yêu cầu bố trí dọc theo các đoạn ống ngang và trên đỉnh trục ống dọc</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T044454Z" creationid="LanHK" creationdate="20210713T093203Z">
+        <seg>Required along the horizontal section of ductwork and top of risers.     /     Yêu cầu bố trí dọc theo các đoạn ống ngang và trên đỉnh trục ống đứng</seg>
       </tuv>
     </tu>
     <tu>
@@ -12853,8 +12853,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>shop, etc.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T095006Z" creationid="LanHK" creationdate="20210713T095006Z">
-        <seg>shop, etc.     /     Dịch vụ - cắt tóc, hàng bánh v.v</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T044720Z" creationid="LanHK" creationdate="20210713T095006Z">
+        <seg>shop, etc.     /     Dịch vụ - cắt tóc, quầy bánh v.v</seg>
       </tuv>
     </tu>
     <tu>
