@@ -1250,6 +1250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All hotel projects should utilise 2 port valves in lieu of 3 ports due to the benefits and substantial savings that can be made with these. This is demonstrated in the following example:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T073257Z" creationid="Kieu Lan" creationdate="20210804T073257Z">
+        <seg>All hotel projects should utilise 2 port valves in lieu of 3 ports due to the benefits and substantial savings that can be made with these. This is demonstrated in the following example:     /     Tất cả các dự án khách sạn nên sử dụng van 2 ngả thay vì 3 ngả do van 2 ngả có nhiều lợi ích và tiết kiệm hơn. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All in accordance with Section 1.0</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210702T092147Z">
@@ -3484,6 +3492,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensure jet fans do not impact on Fire Sprinkler operation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071849Z" creationid="Kieu Lan" creationdate="20210804T071849Z">
+        <seg>Ensure jet fans do not impact on Fire Sprinkler operation     /     Đảm bảo quạt hướng trục không gây ảnh hưởng đến sprinkler vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensure that all detectors are accessible for maintenance purposes.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T032750Z" creationid="Kieu Lan" creationdate="20210713T032744Z">
@@ -3947,6 +3963,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043327Z" creationid="Kieu Lan" creationdate="20210802T043327Z">
         <seg>Fan Speed     /     Tốc độ quạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fan capacities shall be sufficient to meet the requirements of the Life Safety Guidelines.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071836Z" creationid="Kieu Lan" creationdate="20210804T071836Z">
+        <seg>Fan capacities shall be sufficient to meet the requirements of the Life Safety Guidelines.     /     Công suất quạt phải đủ đạt tiêu chuẩn của Hướng dẫn An toàn</seg>
       </tuv>
     </tu>
     <tu>
@@ -5217,8 +5241,8 @@
       <tuv lang="EN-US">
         <seg>Heating / Cooling Control Options</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Heating    /    Cooling Control Options</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071942Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Heating / Cooling Control Options     /     Phương án điều khiển sưởi/làm mát</seg>
       </tuv>
     </tu>
     <tu>
@@ -6198,6 +6222,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071820Z" creationid="Kieu Lan" creationdate="20210804T071820Z">
         <seg>Jet fan technology to limit the amount of supply and extract ductwork where ductless plenum systems are not feasible, in conjunction with efficient plant positioning (may require CFD analysis).     /     Công nghệ quạt hướng trục để giảm thiểu đường ống cấp và hút gió nếu hệ thống hộp gió không ống không khả thi, kết hợp với bố trí máy ở vị trí tối ưu (có thể yêu cầu phân tích CFD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jet fans may not be acceptable to some authorities</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071903Z" creationid="Kieu Lan" creationdate="20210804T071903Z">
+        <seg>Jet fans may not be acceptable to some authorities     /     Quạt hướng trục có thể không được một số chính quyền chấp nhận</seg>
       </tuv>
     </tu>
     <tu>
@@ -7472,6 +7504,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044549Z" creationid="Kieu Lan" creationdate="20210713T080401Z">
         <seg>Note:     /     Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Jet fans may not be permitted in some countries, such as UAE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071921Z" creationid="Kieu Lan" creationdate="20210804T071921Z">
+        <seg>Note: Jet fans may not be permitted in some countries, such as UAE     /     Lưu ý: Quạt hướng trục bị cấm ở một số nước, vd như Ả rập</seg>
       </tuv>
     </tu>
     <tu>
