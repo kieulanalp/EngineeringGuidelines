@@ -10928,6 +10928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These systems shall also be served from the standby generator supply.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T045444Z" creationid="Kieu Lan" creationdate="20210804T045444Z">
+        <seg>These systems shall also be served from the standby generator supply.     /     Các hệ thống này cũng sẽ được cấp </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These systems shall be designed and operated to achieve:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024813Z" creationid="LanHK" creationdate="20210715T024813Z">
