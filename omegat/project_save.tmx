@@ -2531,6 +2531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Constant Air Volume (CAV)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T065125Z" creationid="Kieu Lan" creationdate="20210804T065125Z">
+        <seg>Constant Air Volume (CAV)     /     Hệ thống lưu lượng gió không đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control Systems)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T045859Z" creationid="LanHK" creationdate="20210715T045859Z">
@@ -3859,6 +3867,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043327Z" creationid="Kieu Lan" creationdate="20210802T043327Z">
         <seg>Fan Speed     /     Tốc độ quạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fan coil unit</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T065113Z" creationid="Kieu Lan" creationdate="20210804T065113Z">
+        <seg>Fan coil unit     /     FCU</seg>
       </tuv>
     </tu>
     <tu>
@@ -9362,6 +9378,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suitable for larger areas with high fresh loads (e.g. kitchen, laundry)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T065245Z" creationid="Kieu Lan" creationdate="20210804T065245Z">
+        <seg>Suitable for larger areas with high fresh air loads (e.g. kitchen, laundry)     /     Phù hợp khu vực rộng với phụ tải khí tươi cao (vd. bếp, phòng giặt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable for larger areas with variable loads (e.g. staff kitchen)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070754Z" creationid="Kieu Lan" creationdate="20210804T070754Z">
+        <seg>Suitable for larger areas with variable loads (e.g. staff kitchen)     /     Phù hợp với khu vực rộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable for rooms with small floor areas without high fresh air loads. (e.g. corridors)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T065211Z" creationid="Kieu Lan" creationdate="20210804T065211Z">
+        <seg>Suitable for rooms with small floor areas without high fresh air loads. (e.g. corridors)     /     Phù hợp với phòng có diện tích sàn nhỏ, phụ tải khí tươi không cao (vd. hành lang)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suitable for small to medium rooms &amp; loads for large well insulated rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T081645Z" creationid="LanHK" creationdate="20210729T081612Z">
@@ -11082,8 +11122,8 @@
       <tuv lang="EN-US">
         <seg>Three pipe VRF (VRV)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T081517Z" creationid="LanHK" creationdate="20210729T081517Z">
-        <seg>Three pipe VRF (VRV);;;VRF 3 ống</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T065148Z" creationid="LanHK" creationdate="20210729T081517Z">
+        <seg>Three pipe VRF (VRV)     /     VRF 3 ống</seg>
       </tuv>
     </tu>
     <tu>
@@ -11521,6 +11561,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210720T040929Z" creationid="Kieu Lan" creationdate="20210720T040929Z">
         <seg>VSD for all chillers     /     Biến áp đối với tất cả chiller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variable Air Volume (VAV)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T065139Z" creationid="Kieu Lan" creationdate="20210804T065139Z">
+        <seg>Variable Air Volume (VAV)     /     Hệ thống lưu lượng gió biến thiên</seg>
       </tuv>
     </tu>
     <tu>
