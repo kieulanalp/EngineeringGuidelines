@@ -10156,6 +10156,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following table provides a simple comparison of systems suitable for BOH spaces. This should be prepared for each project taking into account local conditions to determine the most appropriate:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T064910Z" creationid="Kieu Lan" creationdate="20210804T064910Z">
+        <seg>The following table provides a simple comparison of systems suitable for BOH spaces. This should be prepared for each project taking into account local conditions to determine the most appropriate:     /     Bảng sau là một so sánh đơn giản giữa các hệ thống phù hợp cho BOH. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following table provides a simple comparison of these systems, which should be carried out for specific projects based on local information:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T073753Z" creationid="LanHK" creationdate="20210729T073753Z">
@@ -10936,6 +10944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These systems are only appropriate for IT rooms (as standby) small stand-alone rooms/ buildings and plant/technical areas requiring cooling. Generally they provide excessive latent cooling which increases running costs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T064455Z" creationid="Kieu Lan" creationdate="20210804T064455Z">
+        <seg>These systems are only appropriate for IT rooms (as standby) small stand-alone rooms/ buildings and plant/technical areas requiring cooling. Generally they provide excessive latent cooling which increases running costs.     /     Các hệ thống này chỉ phù hợp với phòng IT (làm dự phòng), phòng/tòa nhà nhỏ độc lập và các khu vực phòng máy/phòng kỹ thuật cần làm mát. Thường các hệ thống này thường khử ẩm nhiều, khiến tăng chi phí vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These systems as illustrated above have benefits in providing reduced energy consumption from conventional systems and increased comfort levels.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T045153Z" creationid="Kieu Lan" creationdate="20210802T045153Z">
@@ -10996,6 +11012,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042345Z" creationid="PHUONG.DTM" creationdate="20210604T043026Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They must be provided with time/temperature control, and be corrosion resistant to suit the atmosphere which they are installed. Only approved refrigerants may be used.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T064542Z" creationid="Kieu Lan" creationdate="20210804T064542Z">
+        <seg>They must be provided with time/temperature control, and be corrosion resistant to suit the atmosphere which they are installed. Only approved refrigerants may be used.     /     Phải có điều khiển thời gian/nhiệt độ đi kèm, và phải chống ăn mòn để phù hợp với không gian lắp đặt. Chỉ được phép sử dụng các môi chất lạnh được phê duyệt</seg>
       </tuv>
     </tu>
     <tu>
