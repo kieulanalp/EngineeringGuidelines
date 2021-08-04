@@ -6098,6 +6098,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kitchen Hoods shall be “Halton Capture Jet” or equal to provide a 30% reduction in the exhaust rate from conventional systems, and eliminate grease passing through the system approved system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T041608Z" creationid="Kieu Lan" creationdate="20210804T041608Z">
+        <seg>Kitchen Hoods shall be “Halton Capture Jet” or equal to provide a 30% reduction in the exhaust rate from conventional systems, and eliminate grease passing through the system approved system.     /     Chụp hút mùi bếp sử dụng “Halton Capture Jet” hoặc tương đương để giảm thiểu 30% tỉ lệ hút khí so với hệ thống thông thường, và loại bỏ dầu mỡ bị hút qua hệ thống được phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen exhaust ductwork shall be a dedicated system constructed from 16gauge steel with drip proof weld joints, and clean out access doors at all changes in direction, where sprinkler heads are located, and every 6m maximum. Fire dampers are not permitted. The duct shall be fire rated in accordance with the fire strategy and to meet local regulations.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T042718Z" creationid="Kieu Lan" creationdate="20210804T042718Z">
+        <seg>Kitchen exhaust ductwork shall be a dedicated system constructed from 16gauge steel with drip proof weld joints, and clean out access doors at all changes in direction, where sprinkler heads are located, and every 6m maximum. Fire dampers are not permitted. The duct shall be fire rated in accordance with the fire strategy and to meet local regulations.     /     Đường ống chụp hút mùi phải là một hệ thống dành riêng, vật liệu thép 16gauge với mối nối hàn chống rò và nắp thăm để vệ sinh tại các vị trí đường ống đổi hướng, tại vị trí đầu sprinkler, và tối đa cứ mỗi 6m. Không cho phép dùng van chặn lửa. Đường ống phải chống cháy tuân thủ theo chiến lược chống cháy và đảm bảo các yêu cầu của địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kitchen fire suppression system operates</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T031212Z" creationid="Kieu Lan" creationdate="20210713T081135Z">
@@ -8120,6 +8136,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T043717Z" creationid="LanHK" creationdate="20210722T043717Z">
         <seg>Refer to the illustrations.     /     Tham khảo hình minh họa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the typical kitchen ventilation duct arrangement illustration.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T041512Z" creationid="Kieu Lan" creationdate="20210804T041512Z">
+        <seg>Refer to the typical kitchen ventilation duct arrangement illustration.     /     Tham khảo hình minh họa bố trí đường ống thông gió bếp điển hình</seg>
       </tuv>
     </tu>
     <tu>
