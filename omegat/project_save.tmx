@@ -5945,6 +5945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inner layer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081509Z" creationid="Kieu Lan" creationdate="20210804T081509Z">
+        <seg>Inner layer     /     Lớp trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input Power (Watts)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043358Z" creationid="Kieu Lan" creationdate="20210802T043358Z">
@@ -7219,6 +7227,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Middle layer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081518Z" creationid="Kieu Lan" creationdate="20210804T081512Z">
+        <seg>Middle layer     /     Lớp giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mimic Panel - an engraved panel identifying site buildings and/or building sectional layout with or without a visual (LED) indication of where alarm/s have been activated.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T071605Z" creationid="LanHK" creationdate="20210610T024759Z">
@@ -7792,6 +7808,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095941Z">
         <seg>Other relevant documentation is provided below:-    /    Các tài liệu có liên quan được liệt kê dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outer Layer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081516Z" creationid="Kieu Lan" creationdate="20210804T081516Z">
+        <seg>Outer Layer     /     Lớp ngoài</seg>
       </tuv>
     </tu>
     <tu>
@@ -9579,6 +9603,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength and rigidity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081646Z" creationid="Kieu Lan" creationdate="20210804T081646Z">
+        <seg>Strength and rigidity     /     Độ bền và độ cứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Structural Fire Resistance</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T073334Z">
@@ -9655,6 +9687,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070836Z" creationid="Kieu Lan" creationdate="20210804T070836Z">
         <seg>Suitable for smaller rooms without high fresh air loads.     /     Phù hợp với phòng nhỏ hơn không có phụ tải khí tươi cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable lining for the fluid flowing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081617Z" creationid="Kieu Lan" creationdate="20210804T081617Z">
+        <seg>Suitable lining for the fluid flowing     /     Lót trong phù hợp cho chất lỏng chảy</seg>
       </tuv>
     </tu>
     <tu>
