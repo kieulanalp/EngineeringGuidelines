@@ -232,6 +232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>12 Month old installation - poor vapour barrier</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081914Z" creationid="Kieu Lan" creationdate="20210804T081914Z">
+        <seg>12 Month old installation - poor vapour barrier     /     Chi tiết lắp đặt 12 tháng - chặn hơi nước kém</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>120 Minute fire resisting construction</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T051540Z" creationid="LanHK" creationdate="20210602T051540Z">
@@ -2660,6 +2668,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corrosion on Steel Pipework</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081850Z" creationid="Kieu Lan" creationdate="20210804T081850Z">
+        <seg>Corrosion on Steel Pipework     /     Gỉ sét trên đường ống thép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coverage of the whole of the occupied area must be achieved by careful consideration, in particular of the supply.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095253Z" creationid="Kieu Lan" creationdate="20210802T072225Z">
@@ -3742,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expansion reduction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081651Z" creationid="Kieu Lan" creationdate="20210804T081651Z">
+        <seg>Expansion reduction     /     Chống giãn nở</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expansion valve</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T044733Z" creationid="LanHK" creationdate="20210724T042227Z">
@@ -4315,6 +4339,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081254Z" creationid="Kieu Lan" creationdate="20210713T070046Z">
         <seg>Lỗi thông thường của bơm chữa cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire resistance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081654Z" creationid="Kieu Lan" creationdate="20210804T081654Z">
+        <seg>Fire resistance     /     Chống cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -5973,6 +6005,22 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T033550Z" creationid="Kieu Lan" creationdate="20210713T085135Z">
         <seg>Inside saunas, steam rooms, walk-in cold rooms and rooms containing flammable materials.     /     Trong sauna, phòng xông hơi, phòng lạnh và phòng chứa vật liệu dễ cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation cost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081825Z" creationid="Kieu Lan" creationdate="20210804T081825Z">
+        <seg>Installation cost     /     Chi phí lắp đặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation time</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081830Z" creationid="Kieu Lan" creationdate="20210804T081830Z">
+        <seg>Installation time     /     Thời gian lắp đặt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7940,6 +7988,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pipe material comparison for Chilled water pipes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081929Z" creationid="Kieu Lan" creationdate="20210804T081929Z">
+        <seg>Pipe material comparison for Chilled water pipes     /     So sánh vật liệu cho đường ống nước mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Places of assembly such as function rooms, meeting rooms, bars and restaurants must be provided with means of escape based upon the size of the room. Restricting the occupancy of an assembly room because of inadequate means of escape is impractical and unacceptable.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023748Z" creationid="LanHK" creationdate="20210609T081431Z">
@@ -7992,6 +8048,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154651Z" creationid="Kieu Lan" creationdate="20210405T154651Z">
         <seg>Plumbing and Drainage&lt;t0/&gt; &lt;t1/&gt;Hệ Thống Bơm và Thoát Nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polypropylene</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081704Z" creationid="Kieu Lan" creationdate="20210804T081704Z">
+        <seg>Polypropylene     /     Nhựa PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polypropylene Composite Pipe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081802Z" creationid="Kieu Lan" creationdate="20210804T081802Z">
+        <seg>Polypropylene Composite Pipe     /     Ống composite PP</seg>
       </tuv>
     </tu>
     <tu>
@@ -8392,6 +8464,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T064025Z" creationid="LanHK" creationdate="20210715T064025Z">
         <seg>Recreation Areas***Khu giải trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduced insulation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081841Z" creationid="Kieu Lan" creationdate="20210804T081841Z">
+        <seg>Reduced insulation     /     Giảm bảo ôn</seg>
       </tuv>
     </tu>
     <tu>
@@ -8966,6 +9046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Services Pipes and Valves</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081740Z" creationid="Kieu Lan" creationdate="20210804T081740Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Services generally all accessible in vertical services riser</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095227Z" creationid="Kieu Lan" creationdate="20210728T095227Z">
@@ -8994,6 +9082,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071044Z">
         <seg>Signed    /    Đã ký</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Significant savings can be made on:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081819Z" creationid="Kieu Lan" creationdate="20210804T081819Z">
+        <seg>Significant savings can be made on:     /     Có thể tiết kiệm đáng kể ở các mục</seg>
       </tuv>
     </tu>
     <tu>
@@ -9583,6 +9679,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025318Z" creationid="Kieu Lan" creationdate="20210713T044154Z">
         <seg>Start appropriate smoke extract fans, smoke vents&amp; stair pressurisation     /     Khởi động quạt hút khói, ống hút khói và tăng áp cầu thang phù hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Pipework can be subject to corrosion</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081856Z" creationid="Kieu Lan" creationdate="20210804T081856Z">
+        <seg>Steel Pipework can be subject to corrosion     /     Đường ống thép có thể han gỉ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12040,8 +12144,8 @@
       <tuv lang="EN-US">
         <seg>Water</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081239Z">
-        <seg>Water    /    Nước</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081754Z" creationid="Kieu Lan" creationdate="20210804T081738Z">
+        <seg>Water Services Pipes and Valves     /     Đường ống và van nước</seg>
       </tuv>
     </tu>
     <tu>
@@ -12130,6 +12234,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T074310Z" creationid="LanHK" creationdate="20210610T074310Z">
         <seg>Water supply    /    Nguồn cấp nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water treatment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081835Z" creationid="Kieu Lan" creationdate="20210804T081835Z">
+        <seg>Water treatment     /     Xử lý nước</seg>
       </tuv>
     </tu>
     <tu>
@@ -13608,6 +13720,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100617Z" creationid="LanHK" creationdate="20210713T100617Z">
         <seg>utilised.     /     Sử dụng các van pre-action được chế tạo chuyên dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>uv resistance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081659Z" creationid="Kieu Lan" creationdate="20210804T081659Z">
+        <seg>UV resistance     /     Chống UV</seg>
       </tuv>
     </tu>
     <tu>
