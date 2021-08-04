@@ -554,6 +554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.19.2 Kitchens</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T033725Z" creationid="Kieu Lan" creationdate="20210804T033725Z">
+        <seg>4.19.2 Kitchens     /     Bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4000ppm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095333Z" creationid="Kieu Lan" creationdate="20210728T095333Z">
@@ -716,6 +724,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T063547Z" creationid="Kieu Lan" creationdate="20210629T050101Z">
         <seg>A carbon monoxide detector/alarm is not required in a kitchen. Where the only potential source of CO is gas kitchen equipment, there should be written certification from a professional engineer that it has been installed and complies with local codes and the manufacturers installation instructions     /     Trong bếp không cần có đầu báo/báo động khí CO. Với các nơi có nguồn khí CO nguy cơ là thiết bị bếp ga, phải có chứng nhận bằng văn bản bởi kỹ sư chuyên nghiệp rằng bếp được lắp đặt tuân thủ với quy định địa phương và hướng dẫn lắp đặt của nhà sx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dedicated AHU shall be provided to serve the kitchen area. The unit shall provide 100% fresh air (no re-circulation permitted) with heat recovery. This air shall be tempered to room conditions (cooled/heated) prior to supply to the kitchen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T033734Z" creationid="Kieu Lan" creationdate="20210804T033734Z">
+        <seg>A dedicated AHU shall be provided to serve the kitchen area. The unit shall provide 100% fresh air (no re-circulation permitted) with heat recovery. This air shall be tempered to room conditions (cooled/heated) prior to supply to the kitchen.     /     Có AHU</seg>
       </tuv>
     </tu>
     <tu>
@@ -11641,6 +11657,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210726T091644Z" creationid="LanHK" creationdate="20210726T091644Z">
         <seg>When there is demand for hot water as well as chilled water, unit operates in total heat recovery mode. When one of the demand is fulfilled, unit changes to chiller or heat pump mode.     /     Khi có đồng thời nhu cầu nước nóng và nước mát, các unit hoạt động trong chế đọ thu hồi nhiệt toàn phần. Khi một nhu cầu được hoàn thành, unit chuyển sang chế độ chiller hoặc bơm nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where a zone requirement prevents all air systems from a central plant, each room/zone may generally be provided with an in ceiling 4 pipe fan coil unit.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T033723Z" creationid="Kieu Lan" creationdate="20210804T033723Z">
+        <seg>Where a zone requirement prevents all air systems from a central plant, each room/zone may generally be provided with an in ceiling 4 pipe fan coil unit.     /     Nếu một khu vực không cho phép sử dụng hệ thống all-air từ trạm máy trung tâm, mỗi phòng/zone nhìn chung sẽ được bố trí một unit FCU 4 ống âm trần</seg>
       </tuv>
     </tu>
     <tu>
