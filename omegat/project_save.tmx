@@ -562,6 +562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.19.3 IT Rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T044207Z" creationid="Kieu Lan" creationdate="20210804T044207Z">
+        <seg>4.19.3 IT Rooms     /     Phòng IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4000ppm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095333Z" creationid="Kieu Lan" creationdate="20210728T095333Z">
@@ -5515,6 +5523,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T020336Z" creationid="LanHK" creationdate="20210602T025713Z">
         <seg>In addition to structural fire resistance, separation to prevent the spread of fire and smoke must be provided to protect means of escape and to enclose high fire risk areas of the hotel.        /       Ngoài các kết cấu chống cháy, việc phân khoang ngăn cháy và khói lan phải được cung cấp để đảm bảo đường thoát hiểm và khoanh vùng các khu vực có nguy cơ cháy cao trong khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the common air conditioning system serving these areas, a separate independent split system shall be provided for each room to guarantee availability of cooling at all times. Failure shall be alarmed at the BMS.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T045121Z" creationid="Kieu Lan" creationdate="20210804T045121Z">
+        <seg>In addition to the common air conditioning system serving these areas, a separate independent split system shall be provided for each room to guarantee availability of cooling at all times. Failure shall be alarmed at the BMS.     /     Ngoài hệ thống điều hòa không khí chung phục vụ các khu vực này, một hệ thống hai cục riêng độc lập sẽ được cung cấp cho mỗi phòng để đảm bảo luôn có khả năng làm mát. Sự cố sẽ được báo về BMS</seg>
       </tuv>
     </tu>
     <tu>
