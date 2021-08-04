@@ -5175,6 +5175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HDPE (High density Polyethylene)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T082618Z" creationid="Kieu Lan" creationdate="20210804T082601Z">
+        <seg>HDPE (High density Polyethylene)     /     Nhựa PE mật độ cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HIGH</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043605Z" creationid="Kieu Lan" creationdate="20210802T043605Z">
@@ -7283,6 +7291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mild Steel Pipes (Schedule 40,80 )</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T082937Z" creationid="Kieu Lan" creationdate="20210804T082937Z">
+        <seg>Mild Steel Pipes (Schedule 40,80)     /     Thép mềm (SCH 40,80)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mimic Panel - an engraved panel identifying site buildings and/or building sectional layout with or without a visual (LED) indication of where alarm/s have been activated.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T071605Z" creationid="LanHK" creationdate="20210610T024759Z">
@@ -8096,6 +8112,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043410Z" creationid="Kieu Lan" creationdate="20210802T043410Z">
         <seg>Power Cost ($/kWH)     /     Chi phí điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre insulated HDPE (High density Polyethylene)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T082630Z" creationid="Kieu Lan" creationdate="20210804T082630Z">
+        <seg>Pre insulated HDPE (High density Polyethylene)     /     HDPE đã bảo ôn</seg>
       </tuv>
     </tu>
     <tu>
