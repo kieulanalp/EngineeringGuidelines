@@ -2073,6 +2073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Butt Fusion, Compression</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T092512Z" creationid="Kieu Lan" creationdate="20210804T092512Z">
+        <seg>Butt Fusion, Compression Joints</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bypass valve to maintain minimum chiller flow rate at partial load - to suit chiller requirement</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T021315Z" creationid="LanHK" creationdate="20210720T021315Z">
@@ -6366,6 +6374,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084546Z" creationid="Kieu Lan" creationdate="20210804T084546Z">
         <seg>Joining method     /     Phương pháp nối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joints</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T092505Z" creationid="Kieu Lan" creationdate="20210804T092505Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
