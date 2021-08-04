@@ -4431,6 +4431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a typical hotel with a 2600 kW Systems, the flow rates are:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074210Z" creationid="Kieu Lan" creationdate="20210804T074210Z">
+        <seg>For a typical hotel with a 2600 kW System, the flow rates are:     /     Đối với một khách sạn điển hình với hệ thống 2600 kWW, lưu lượng là:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For alarms installed within corridors/common areas, the alarm should be clearly audible in all bedrooms over background noise levels and with all intervening doors closed with a minimum rating of 85dBA at 3m/10 ft. If the alarm is intended to notify sleeping occupants in the same room, the sound pressure level is permitted to be 75dBA at 3m/10 ft.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T045043Z" creationid="Kieu Lan" creationdate="20210628T070639Z">
@@ -8822,6 +8830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the following illustration for a typical 2 port valve system with primary pumping only.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074707Z" creationid="Kieu Lan" creationdate="20210804T074250Z">
+        <seg>See the following illustration for a typical 2 port valve system with primary pumping only.     /     Xem hình dưới về hệ van 2 ngả với chỉ bơm chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the design maximum &amp; minimum external design temperatures based on weather data for the area and the following:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T043820Z" creationid="LanHK" creationdate="20210715T043820Z">
@@ -11328,6 +11344,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Three port valve system - 114.5 Kg/s (+29%)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074300Z" creationid="Kieu Lan" creationdate="20210804T074240Z">
+        <seg>Three port valve system - 114.5 Kg/s (+29%)     /     Hệ van ba ngả - 114.5 Kg/s (+29%)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>n</note>
       <tuv lang="EN-US">
         <seg>To determine the diversified simultaneous cooling load, the grand total calculated cooling load can be reduced by:-</seg>
@@ -11504,6 +11528,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T045737Z" creationid="LanHK" creationdate="20210729T045737Z">
         <seg>Two pipe VRV units can only provide cooling or heating and not both simultaneously, hence are only suitable for climates requiring cooling only as otherwise independent room temperature control is not achievable.     /     Các hệ VRV 2 ống chỉ có thể hoặc làm lạnh hoặc sưởi và không thể đồng thời thực hiện hai chức năng, do đó chỉ phù hợp với các vùng khí hậu chỉ yêu cầu làm lạnh, do việc điều khiển nhiệt độ độc lập cho các phòng không khả thi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two port valve system - 88.9 Kg/s</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074256Z" creationid="Kieu Lan" creationdate="20210804T074225Z">
+        <seg>Two port valve system - 88.9 Kg/s     /     Hệ van hai ngả - 88.9 Kg/s</seg>
       </tuv>
     </tu>
     <tu>
