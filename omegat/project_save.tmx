@@ -548,8 +548,8 @@
       <tuv lang="EN-US">
         <seg>4.18.1 Frost Protection - Alternative may be simpler / more economical</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>4.18.1 Frost Protection - Alternative may be simpler    /    more economical</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074731Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>4.18.1 Frost Protection - Alternative may be simpler/more economical     /     Bảo vệ chống đóng băng - Phương án thay thế có thể đơn giản/kinh tế hơn</seg>
       </tuv>
     </tu>
     <tu>
@@ -7724,6 +7724,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optional Simpler Efficient Solution (Recommended)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081118Z" creationid="Kieu Lan" creationdate="20210804T081118Z">
+        <seg>Optional Simpler Efficient Solution (Recommended)     /     Phương án đơn giản hiệu quả hơn (khuyến nghị)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options 1 - 4 provide more opportunity for heat recovery from a central plant.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041107Z" creationid="Kieu Lan" creationdate="20210802T041107Z">
@@ -11576,6 +11584,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T013344Z" creationid="LanHK" creationdate="20210720T013344Z">
         <seg>Typical Chilled Water Schematic     /     Sơ đồ nước mát điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Frost Protection System (Inefficient)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074747Z" creationid="Kieu Lan" creationdate="20210804T074747Z">
+        <seg>Typical Frost Protection System (Inefficient)     /     Hệ thống bảo vệ chống đóng băng thông thường (không hiệu quả)</seg>
       </tuv>
     </tu>
     <tu>
