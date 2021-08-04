@@ -578,6 +578,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.19.5 Split Refrigerant DC system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T050158Z" creationid="Kieu Lan" creationdate="20210804T050158Z">
+        <seg>4.19.5 Split Refrigerant DC system     /     Hệ thống điều hòa hai cục điện một chiều</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4000ppm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095333Z" creationid="Kieu Lan" creationdate="20210728T095333Z">
@@ -3851,6 +3859,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043327Z" creationid="Kieu Lan" creationdate="20210802T043327Z">
         <seg>Fan Speed     /     Tốc độ quạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fan coil units to provide de-humidification and cooling shall be provided in hot climates (above 30°C).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T045727Z" creationid="Kieu Lan" creationdate="20210804T045713Z">
+        <seg>Fan coil units to provide de-humidification and cooling shall be provided in hot climates (above 30°C).     /     Hút ẩm và làm mát băng FCU được cung cấp ở các vùng khí hậu nóng (trên 30°C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12478,6 +12494,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T040307Z" creationid="Kieu Lan" creationdate="20210719T040307Z">
         <seg>efficiency and minimize latent cooling     /     Tính năng reset nhiệt độ cấp nước mát từ chiller khi điều kiện bên ngoài cho phép nhằm tối đa hóa hiệu suất chiller và tối thiểu hóa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>entrances to the building in cold climates (below 5°C)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T045724Z" creationid="Kieu Lan" creationdate="20210804T045640Z">
+        <seg>entrances to the building in cold climates (below 5°C)     /     Rèm không khí loại ít ồn, dùng nước nóng và lắp trên cửa được cung cấp phía trên các cửa lobby tại lối vào chính các tòa nhà tại vùng khí hậu lạnh (Dưới 5°C)</seg>
       </tuv>
     </tu>
     <tu>
