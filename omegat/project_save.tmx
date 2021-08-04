@@ -2225,6 +2225,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carbon monoxide air quality sensors to control vfd (variable speed) supply and extract fans.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071401Z" creationid="Kieu Lan" creationdate="20210804T071324Z">
+        <seg>Carbon monoxide air quality sensors to control vfd (variable speed) supply and extract fans.     /     Cảm biến chất lượng không khí khí CO để kiểm soát quạt cấp và hút khí biến tần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Care should be taken to match boiler loads as closely as possible to the demand. Modular boiler arrangements allow greater flexibility if controls are flexible enough to responding to the changing demand. Ideally condensing boilers should be used.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T063915Z" creationid="LanHK" creationdate="20210728T063915Z">
@@ -3083,6 +3091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ductless plenum supply and exhaust systems providing cross flow ventilation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071545Z" creationid="Kieu Lan" creationdate="20210804T071545Z">
+        <seg>Ductless plenum supply and exhaust systems providing cross flow ventilation     /     Hệ thống hộp cấp và hút gió không đường ống để thông gió chéo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During early mornings/late afternoons the sun angles are much lower. At these times horizontal shading is far less effective, and so, in terms of passive fixed shading, vertical elements can then be employed to help reduce the periods and extent of solar penetration.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T095417Z" creationid="LanHK" creationdate="20210715T094244Z">
@@ -3392,6 +3408,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T050636Z">
         <seg>Emergency lighting falls into two categories; escape lighting and standby lighting.     /     Chiếu sáng sự cố sẽ chia thành 2 mục: Chiếu sáng thoát nạn và chiếu sáng dự phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enclosed Car parks</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071231Z" creationid="Kieu Lan" creationdate="20210804T071231Z">
+        <seg>Enclosed Car parks     /     Bãi đỗ xe kín</seg>
       </tuv>
     </tu>
     <tu>
@@ -6166,6 +6190,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T021358Z" creationid="LanHK" creationdate="20210715T021358Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jet fan technology to limit the amount of supply and extract ductwork where ductless plenum systems are not feasible, in conjunction with efficient plant positioning (may require CFD analysis).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071820Z" creationid="Kieu Lan" creationdate="20210804T071820Z">
+        <seg>Jet fan technology to limit the amount of supply and extract ductwork where ductless plenum systems are not feasible, in conjunction with efficient plant positioning (may require CFD analysis).     /     Công nghệ quạt hướng trục để giảm thiểu đường ống cấp và hút gió nếu hệ thống hộp gió không ống không khả thi, kết hợp với bố trí máy ở vị trí tối ưu (có thể yêu cầu phân tích CFD)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10841,8 +10873,8 @@
       <tuv lang="EN-US">
         <seg>The systems shall be variable speed, or 2 speed minimum to operate at low speed for energy savings at times of low use.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T043922Z" creationid="Kieu Lan" creationdate="20210804T043922Z">
-        <seg>The systems shall be variable speed, or 2 speed minimum to operate at low speed for energy savings at times of low use.     /     Hệ thống có tốc độ biến thiên, hoặc hai tốc độ tối thiểu vận hành ở chế độ tốc độ thấp để tiết kiệm năng lượng trong những thời điểm ít sử dụng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071340Z" creationid="Kieu Lan" creationdate="20210804T043922Z">
+        <seg>The systems shall be variable speed, or 2 speed minimum to operate at low speed for energy savings at times of low use.     /     Hệ thống có biến tần, hoặc hai tốc độ tối thiểu vận hành ở chế độ tốc độ thấp để tiết kiệm năng lượng trong những thời điểm ít sử dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -12082,6 +12114,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T072428Z" creationid="Kieu Lan" creationdate="20210705T072428Z">
         <seg>Where fire voice evacuation system speakers are also used as public address and background music, the systems must be completely separate with only the speakers and cabling systems being common.     /     Nếu hệ thống loa thông báo sơ tán hỏa hoạn cũng được sử dụng làm loa thông báo công cộng, hệ thống phải hoàn toàn tách biệt, chỉ sử dụng chung loa và hệ thống dây cáp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where natural ventilation is impractical the design shall incorporate the following:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071256Z" creationid="Kieu Lan" creationdate="20210804T071256Z">
+        <seg>Where natural ventilation is impractical the design shall incorporate the following:     /     Nơi mà phương án thông gió tự nhiên không thực tế, thiết kế phải bao gồm các mục sau</seg>
       </tuv>
     </tu>
     <tu>
