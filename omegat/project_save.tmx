@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'y</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084316Z" creationid="Kieu Lan" creationdate="20210804T084316Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'~'-\System</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T073932Z" creationid="LanHK" creationdate="20210729T073932Z">
@@ -5175,6 +5183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HDPE (High density Polyethelene) has outstanding flexibility &amp; high Imapct Resistance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084358Z" creationid="Kieu Lan" creationdate="20210804T084358Z">
+        <seg>HDPE (High density Polyethelene) has outstanding flexibility &amp; high Imapct Resistance.     /     HDPE có độ dẻo và khả năng chịu va đập mạnh tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HDPE (High density Polyethylene)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T082618Z" creationid="Kieu Lan" creationdate="20210804T082601Z">
@@ -7047,6 +7063,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063901Z" creationid="LanHK" creationdate="20210715T063901Z">
         <seg>Massage/Tắm nắng/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Material specification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084325Z" creationid="Kieu Lan" creationdate="20210804T084325Z">
+        <seg>Material specification     /     Thông số vật liệu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12170,6 +12194,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T071646Z" creationid="LanHK" creationdate="20210610T071313Z">
         <seg>WET RISER LANDING VALVE     /    Van trục ống chứa nước cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WZ. w</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084315Z" creationid="Kieu Lan" creationdate="20210804T084315Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
