@@ -216,6 +216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>100% for chiller compressor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071207Z" creationid="Kieu Lan" creationdate="20210804T071207Z">
+        <seg>100% for chiller compressor     /     100% cho máy nén chiller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>100% for compressor</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040730Z" creationid="Kieu Lan" creationdate="20210802T040730Z">
@@ -2314,6 +2322,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler &amp; separate heating &amp; chilled water circuits to FCU’s</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070933Z" creationid="Kieu Lan" creationdate="20210804T070933Z">
+        <seg>Central chiller plant, heat recovery fresh air AHU, boiler &amp; separate heating &amp;chilled water circuits to FCU’s     /    Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt, nồi hơi &amp; đường nước nóng&amp;nước lạnh tới FCU </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Central chiller plant, heat recovery fresh air AHU, boiler &amp; separate heating &amp;chilled water circuits to room FCU’s</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210730T022717Z" creationid="Kieu Lan" creationdate="20210729T101038Z">
@@ -2334,6 +2350,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210730T022736Z" creationid="Kieu Lan" creationdate="20210730T022714Z">
         <seg>Central chiller plant, heat recovery fresh air AHU, boiler, separate heating &amp; chilled water circuits to room chilled beams with variable air flow for boost     /     Trạm chiller trung tâm, AHU khí tươi thu hồi nhiệt, nồi hơi &amp; đường nước nóng&amp;nước lạnh tới chilled beam trong phòng và tăng cường bằng VAV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Central chiller plant, recirculating AHU with min fresh air, boiler serving AHU. Chilled water circuit to AHU.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071034Z" creationid="Kieu Lan" creationdate="20210804T071034Z">
+        <seg>Central chiller plant, recirculating AHU with min fresh air, boiler serving AHU. Chilled water circuit to AHU.     /     Trạm chiller trung tâm, AHU tái tuần holàn với khí tươi tối thiểu, nồi hơi phục vụ AHU. Đường nước mát tới AHU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Central chiller plant, recirculating AHU with variable fresh air, boiler serving AHU and terminal re-heat coil. Chilled water circuit to AHU.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071142Z" creationid="Kieu Lan" creationdate="20210804T071142Z">
+        <seg>Central chiller plant, recirculating AHU with variable fresh air, boiler serving AHU and terminal re-heat coil. Chilled water circuit to AHU.     /     Trạm chiller trung tâm, AHU tái tuần hoàn với khí tươi biến thiên, nồi hơi phục vụ AHU và ống làm nóng lại ở điểm cuối. Đường nước mát tới AHU</seg>
       </tuv>
     </tu>
     <tu>
@@ -3698,6 +3730,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210714T034142Z" creationid="LanHK" creationdate="20210714T034142Z">
         <seg>External fire hydrants     /     Trụ nước cứu hỏa ngoài tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071150Z" creationid="Kieu Lan" creationdate="20210804T071150Z">
+        <seg>External Plant     /     Máy bên ngoài</seg>
       </tuv>
     </tu>
     <tu>
@@ -5945,6 +5985,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Internal plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071153Z" creationid="Kieu Lan" creationdate="20210804T071153Z">
+        <seg>Internal Plant     /     Máy trong nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>??</note>
       <tuv lang="EN-US">
         <seg>Internal wet rising/falling mains/sprinkler systems - Combined or individual</seg>
@@ -6378,6 +6426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legionella risk</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071223Z" creationid="Kieu Lan" creationdate="20210804T071223Z">
+        <seg>Legionella Risk     /     Nguy cơ Legionella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leisure Activity</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081203Z">
@@ -6422,6 +6478,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075256Z">
         <seg>Life Safety Systems    /    Các hệ thống An toàn sinh mạng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Life expectancy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071220Z" creationid="Kieu Lan" creationdate="20210804T071218Z">
+        <seg>Life Expectancy     /     Vòng đời kỳ vọng</seg>
       </tuv>
     </tu>
     <tu>
@@ -7232,6 +7296,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040852Z" creationid="Kieu Lan" creationdate="20210802T040852Z">
         <seg>Nil air cooled     /     không có do giải nhiệt gió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nil for failed compressor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071216Z" creationid="Kieu Lan" creationdate="20210804T071216Z">
+        <seg>nil for failed compressor     /     không có cho sự cố máy nén</seg>
       </tuv>
     </tu>
     <tu>
