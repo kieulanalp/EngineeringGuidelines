@@ -2145,6 +2145,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capital cost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070841Z" creationid="Kieu Lan" creationdate="20210804T070841Z">
+        <seg>Capital Cost     /     Chi phí đầu tư</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Car Parking Garage</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T012731Z" creationid="LanHK" creationdate="20210603T012731Z">
@@ -3855,6 +3863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fair/good</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070850Z" creationid="Kieu Lan" creationdate="20210804T070850Z">
+        <seg>Fair/Good     /     Tương đối tốt/Tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>False ceiling</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T064411Z" creationid="LanHK" creationdate="20210602T050113Z">
@@ -4555,6 +4571,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035400Z" creationid="Kieu Lan" creationdate="20210721T034928Z">
         <seg>Fresh air ventilation heat loss and gain     /     Tăng giảm nhiệt do thông khí tươi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From AHU</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070857Z" creationid="Kieu Lan" creationdate="20210804T070857Z">
+        <seg>From AHU     /     Từ ahu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From AHU or air coil</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070903Z" creationid="Kieu Lan" creationdate="20210804T070903Z">
+        <seg>From AHU or air coil     /     Từ AHU hoặc ống gió</seg>
       </tuv>
     </tu>
     <tu>
@@ -8364,6 +8396,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>????</note>
+      <tuv lang="EN-US">
+        <seg>Reverse cycle</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070909Z" creationid="Kieu Lan" creationdate="20210804T070909Z">
+        <seg>Reverse cycle     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Reviewer</seg>
       </tuv>
@@ -9380,16 +9421,16 @@
       <tuv lang="EN-US">
         <seg>Suitable for larger areas with high fresh loads (e.g. kitchen, laundry)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T065245Z" creationid="Kieu Lan" creationdate="20210804T065245Z">
-        <seg>Suitable for larger areas with high fresh air loads (e.g. kitchen, laundry)     /     Phù hợp khu vực rộng với phụ tải khí tươi cao (vd. bếp, phòng giặt)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070800Z" creationid="Kieu Lan" creationdate="20210804T065245Z">
+        <seg>Suitable for larger areas with high fresh air loads (e.g. kitchen, laundry)     /     Phù hợp với khu vực rộng với phụ tải khí tươi cao (vd. bếp, phòng giặt)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Suitable for larger areas with variable loads (e.g. staff kitchen)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070754Z" creationid="Kieu Lan" creationdate="20210804T070754Z">
-        <seg>Suitable for larger areas with variable loads (e.g. staff kitchen)     /     Phù hợp với khu vực rộng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070824Z" creationid="Kieu Lan" creationdate="20210804T070754Z">
+        <seg>Suitable for larger areas with variable loads (e.g. staff kitchen)     /     Phù hợp với khu vực rộng với phụ tải biến thiên (vd. bếp nhân viên)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9406,6 +9447,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T081645Z" creationid="LanHK" creationdate="20210729T081612Z">
         <seg>Suitable for small to medium rooms &amp; loads for large well insulated rooms     /     Phù hợp phòng và phụ tải nhỏ đến vừa với phòng lớn bảo ôn tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable for smaller rooms without high fresh air loads.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070836Z" creationid="Kieu Lan" creationdate="20210804T070836Z">
+        <seg>Suitable for smaller rooms without high fresh air loads.     /     Phù hợp với phòng nhỏ hơn không có phụ tải khí tươi cao</seg>
       </tuv>
     </tu>
     <tu>
@@ -9510,6 +9559,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075409Z">
         <seg>System Types    /    Các loại hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System description</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070918Z" creationid="Kieu Lan" creationdate="20210804T070918Z">
+        <seg>System Description     /     Mô tả hệ thống</seg>
       </tuv>
     </tu>
     <tu>
