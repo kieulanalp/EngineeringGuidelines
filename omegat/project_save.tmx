@@ -288,6 +288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>15mm to 800mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084536Z" creationid="Kieu Lan" creationdate="20210804T084536Z">
+        <seg>15mm - 800mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 -“pipe VRV” Heating or Cooling System</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T062020Z" creationid="LanHK" creationdate="20210729T062014Z">
@@ -429,6 +437,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T013005Z" creationid="LanHK" creationdate="20210720T013005Z">
         <seg>20% for guest rooms     /     20% đối với phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20mm-225mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084541Z" creationid="Kieu Lan" creationdate="20210804T084541Z">
+        <seg>20mm - 225mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -5185,8 +5201,8 @@
       <tuv lang="EN-US">
         <seg>HDPE (High density Polyethelene) has outstanding flexibility &amp; high Imapct Resistance.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084358Z" creationid="Kieu Lan" creationdate="20210804T084358Z">
-        <seg>HDPE (High density Polyethelene) has outstanding flexibility &amp; high Imapct Resistance.     /     HDPE có độ dẻo và khả năng chịu va đập mạnh tốt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084512Z" creationid="Kieu Lan" creationdate="20210804T084358Z">
+        <seg>HDPE (High density Polyethelene) has outstanding flexibility &amp; high Imapct Resistance.     /     HDPE có độ dẻo và khả năng chịu va đập tốt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6346,6 +6362,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Joining method</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084546Z" creationid="Kieu Lan" creationdate="20210804T084546Z">
+        <seg>Joining method     /     Phương pháp nối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>K</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T021400Z" creationid="LanHK" creationdate="20210715T021400Z">
@@ -7323,6 +7347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mild Steel Pipes is most commonly used steel pipe world wide , due to its good mechanical strength and usability.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084442Z" creationid="Kieu Lan" creationdate="20210804T084442Z">
+        <seg>Mild Steel Pipes is most commonly used steel pipe world wide , due to its good mechanical strength and usability.     /     Thép mềm là loại ống thép được sử dụng rộng rãi nhất trên thế giới do dộ bền cơ học tốt và tính ứng dụng cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mimic Panel - an engraved panel identifying site buildings and/or building sectional layout with or without a visual (LED) indication of where alarm/s have been activated.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T071605Z" creationid="LanHK" creationdate="20210610T024759Z">
@@ -8096,6 +8128,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084313Z" creationid="Kieu Lan" creationdate="20210804T084313Z">
         <seg>Polybutylene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polybutlene is Flexible &amp; High Impact resistance pipe . It is composed of three layers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084508Z" creationid="Kieu Lan" creationdate="20210804T084508Z">
+        <seg>Polybutylene is Flexible &amp; High Impact resistance pipe . It is composed of three layers     /     Polybutylene có độ dẻo và khả năng chịu va đập tốt</seg>
       </tuv>
     </tu>
     <tu>
@@ -9226,6 +9266,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T060747Z" creationid="Kieu Lan" creationdate="20210628T060747Z">
         <seg>Single- or multiple-station (interconnected) carbon monoxide detectors and alarms must be installed in each of the following locations     /     Đầu báo khí CO đơn hoặc đa trạm và báo động phải được lắp đặt ở mỗi vị trí sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sizes available</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084521Z" creationid="Kieu Lan" creationdate="20210804T084521Z">
+        <seg>Sizes available     /     Kích cỡ có trên thị trường</seg>
       </tuv>
     </tu>
     <tu>
@@ -11985,6 +12033,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063531Z" creationid="Kieu Lan" creationdate="20210705T063531Z">
         <seg>Upon operation of a guestroom smoke detector:     /     Khi kích hoạt đầu báo khói trong phòng khách:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upto 1000mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084531Z" creationid="Kieu Lan" creationdate="20210804T084531Z">
+        <seg>Upto 1000mm     /     lên đến 1000m</seg>
       </tuv>
     </tu>
     <tu>
