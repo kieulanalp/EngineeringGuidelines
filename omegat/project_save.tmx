@@ -3550,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example Kitchen Ventilation Drawing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T043944Z" creationid="Kieu Lan" creationdate="20210804T043944Z">
+        <seg>Example Kitchen Ventilation Drawing     /     Ví dụ bản vẽ thông gió bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example of a function room with an area of 400m2:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T033525Z" creationid="LanHK" creationdate="20210610T033525Z">
@@ -9534,6 +9542,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T044609Z" creationid="Kieu Lan" creationdate="20210802T044609Z">
         <seg>TYPICAL GUESTROOM 4-PIPE RADIANT CEILING OPTION     /     Phương án trần bức xạ 4 ống phòng khách điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TYPICAL KITCHEN ARRANGEMENT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T043927Z" creationid="Kieu Lan" creationdate="20210804T043927Z">
+        <seg>TYPICAL KITCHEN ARRANGEMENT     /     Bố trí bếp điển hình</seg>
       </tuv>
     </tu>
     <tu>
