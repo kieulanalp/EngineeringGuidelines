@@ -1617,6 +1617,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>25%</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T095417Z" creationid="Kieu Lan" creationdate="20210805T095417Z">
+        <seg>25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>25% for other areas</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T013016Z" creationid="LanHK" creationdate="20210720T013016Z">
@@ -2618,6 +2626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T085222Z" creationid="Kieu Lan" creationdate="20210805T085222Z">
+        <seg>5.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -3391,6 +3407,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061409Z" creationid="Kieu Lan" creationdate="20210805T061409Z">
         <seg>ASHRAE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUTOMATIC POWER FACTOR CORRECTION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T084038Z" creationid="Kieu Lan" creationdate="20210805T084038Z">
+        <seg>Automatic power factor correction     /     Tự động điều chỉnh hệ số công suất</seg>
       </tuv>
     </tu>
     <tu>
@@ -5373,6 +5397,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210726T091849Z" creationid="LanHK" creationdate="20210525T091446Z">
         <seg>Condenser Water Circuits    /    Đường ống nước ngưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conference/Banquet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T095425Z" creationid="Kieu Lan" creationdate="20210805T095425Z">
+        <seg>Conference/Banquet     /     Phòng hội nghị/Phòng tiệc</seg>
       </tuv>
     </tu>
     <tu>
@@ -8504,6 +8536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Health Club</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T095433Z" creationid="Kieu Lan" creationdate="20210805T095433Z">
+        <seg>Health Club</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Health Club - Changing</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063841Z" creationid="LanHK" creationdate="20210715T063841Z">
@@ -9862,6 +9902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kitchens</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T095416Z" creationid="Kieu Lan" creationdate="20210805T095416Z">
+        <seg>Kitchens     /     Bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kitchens and adjoining rooms or areas</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030411Z" creationid="LanHK" creationdate="20210602T030357Z">
@@ -9878,6 +9926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>L UPS (REFER DETAILS)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T083839Z" creationid="Kieu Lan" creationdate="20210805T081456Z">
+        <seg>UPS (refer details)     /     UPS (tham khảo chi tiết)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIFE CYCLE AND OPERATING COSTS</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T023414Z" creationid="LanHK" creationdate="20210715T023414Z">
@@ -9890,6 +9946,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T021938Z" creationid="LanHK" creationdate="20210715T021427Z">
         <seg>Life Expectancy     /     Yêu cầu về vòng đời thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LIGHTNING PROTECTION SYSTEM IN ACCORDANCE WITH LOCAL STANDARDS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T083907Z" creationid="Kieu Lan" creationdate="20210805T083907Z">
+        <seg>Lightning protection system in accordance with local standards     /     Chống sét tuân thủ tiêu chuẩn địa phương</seg>
       </tuv>
     </tu>
     <tu>
@@ -9938,6 +10002,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T050535Z" creationid="LanHK" creationdate="20210728T050535Z">
         <seg>LTHW shall be circulated at 80/60°C to serve heating and domestic hot water heat exchangers via a primary distribution circuit with variable speed pumping. This may only be varied following substantiation of alternative temperatures proposed.     /     Nước nóng nhiệt độ thấp phục vụ các bộ trao đổi nhiệt cho sưởi ấm và nước nóng sinh hoạt thông qua đường ống phân phối chính với bơm biến tần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LV DISTRIBUTION SYSTEM (SEE SCHEMATIC AND DESCRIPTION)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T084104Z" creationid="Kieu Lan" creationdate="20210805T084044Z">
+        <seg>LV distribution system (see schematic and description)     /     Hệ thống phân phối điện nhẹ (xem sơ đồ và mô tả)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10481,8 +10553,8 @@
       <tuv lang="EN-US">
         <seg>MATV AND CABLING. AMPLIFIERS AS NECESSARY TO SUIT INTERCON STANDARDS AND LOCAL STATION AVAILABILITY</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T072149Z" creationid="Kieu Lan" creationdate="20210805T065258Z">
-        <seg>MATV and cabling. amplifiers as necessary to suit intercon standards and local station availability     /     MATV và cáp, </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T080840Z" creationid="Kieu Lan" creationdate="20210805T065258Z">
+        <seg>MATV and cabling. Amplifiers as necessary to suit intercon standards and local station availability     /     MATV và cáp. Cần có bộ khuếch đại đạt tiêu chuẩn của IHG</seg>
       </tuv>
     </tu>
     <tu>
@@ -10523,6 +10595,15 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061355Z" creationid="Kieu Lan" creationdate="20210805T061355Z">
         <seg>Macedonia Serbia and Montenegro Slovenia Turkey Romania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>máy chủ???</note>
+      <tuv lang="EN-US">
+        <seg>Main Board</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T095544Z" creationid="Kieu Lan" creationdate="20210805T095544Z">
+        <seg>Main Board     /     Máy chủ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12368,6 +12449,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T085228Z" creationid="Kieu Lan" creationdate="20210805T085228Z">
+        <seg>Power     /     Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power Cost ($/kWH)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043410Z" creationid="Kieu Lan" creationdate="20210802T043410Z">
@@ -13198,6 +13287,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061617Z" creationid="Kieu Lan" creationdate="20210805T061254Z">
         <seg>Safe and secure     /     An toàn và bảo đảm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECURITY SYSTEM</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T083848Z" creationid="Kieu Lan" creationdate="20210805T083848Z">
+        <seg>Security system     /     Hệ thống an ninh</seg>
       </tuv>
     </tu>
     <tu>
@@ -15109,6 +15206,15 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095225Z" creationid="Kieu Lan" creationdate="20210728T095225Z">
         <seg>The effect of plant location on the pipe/duct distribution can also have a significant effect on capital and operating costs.     /     Tác động của vị trí trạm máy chính tới phân phối đường ống có thể có ảnh hưởng lớn tới chi phí đầu tư và chi phí vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>spare capacity within containment capacities, switchgear space on all switchboards and individual transformer capacity</note>
+      <tuv lang="EN-US">
+        <seg>The electrical services installations must be designed to serve all areas of the Hotel, and provide for future expansion/flexibility. This must comprise spare capacity within containment capacities, switchgear space on all switchboards and individual transformer capacity (based on anticipated maximum demand peak load requirements) to allow for the following power increases:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T095703Z" creationid="Kieu Lan" creationdate="20210805T095408Z">
+        <seg>The electrical services installations must be designed to serve all areas of the Hotel, and provide for future expansion/flexibility. This must comprise spare capacity within containment capacities, switchgear space on all switchboards and individual transformer capacity (based on anticipated maximum demand peak load requirements) to allow for the following power increases:     /     Thiết kế lắp đặt điện phải phục vụ tất cả các khu vực của khách sạn, và tạo điều kiện cho việc mở rộng/thay đổi linh hoạt trong tương lai. Nó phải bao gồm công suất dự phòng bên trong containment capacities, diện tích để bổ sung công tắc trên tất cả các tủ điện và công suất máy biến áp độc lập (dựa trên yêu cầu tải đỉnh dự kiến), để tạo điều kiện tăng điện cấp cho các khu vực sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17444,11 +17550,12 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
     </tu>
     <tu>
+      <note>check lại activity section là đoạn nào trong này</note>
       <tuv lang="EN-US">
         <seg>Where the electrical supply to the development is provided from the electricity supply authority / company at low voltage, the substation arrangement must be selected and installed in accordance with the supply authority’s requirements and shall be provided from dual incoming supplies as detailed in the activity section of this document.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Where the electrical supply to the development is provided from the electricity supply authority    /    company at low voltage, the substation arrangement must be selected and installed in accordance with the supply authority’s requirements and shall be provided from dual incoming supplies as detailed in the activity section of this document.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T100950Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Where the electrical supply to the development is provided from the electricity supply authority / company at low voltage, the substation arrangement must be selected and installed in accordance with the supply authority’s requirements and shall be provided from dual incoming supplies as detailed in the activity section of this document.     /     Nếu nguồn cấp từ cơ quan/công ty điện lực tới dự án là điện hạ thế, phải chọn và lắp đặt trạm biến áp tuân theo yêu cầu của đơn vị cung cấp và </seg>
       </tuv>
     </tu>
     <tu>
@@ -17473,6 +17580,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061313Z" creationid="Kieu Lan" creationdate="20210805T061313Z">
         <seg>Where the specific airflow rate per unit of floor area is high (as in lobbies, theatres, and conference rooms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where the supply will be delivered at high voltage, either two transformers at 50% each or one at 100% each of the maximum peak demand must be provided. The transformers must be dry type either cast resin or sealed silicon filled, with forced air cooling for peak transformer loads. Forced ventilation must be installed within the substation when dry type transformer is installed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T095705Z" creationid="Kieu Lan" creationdate="20210805T095705Z">
+        <seg>Where the supply will be delivered at high voltage, either two transformers at 50% each or one at 100% each of the maximum peak demand must be provided. The transformers must be dry type either cast resin or sealed silicon filled, with forced air cooling for peak transformer loads. Forced ventilation must be installed within the substation when dry type transformer is installed.</seg>
       </tuv>
     </tu>
     <tu>
