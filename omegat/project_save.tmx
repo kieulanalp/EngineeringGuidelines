@@ -497,6 +497,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>20-125mm straight lengths 4 m. 160630mm straight lengths 5,8 m</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045755Z" creationid="Kieu Lan" creationdate="20210805T045755Z">
+        <seg>20-125mm straight lengths 4m. 160-630mm straight lengths 5,8 m     /     20-125mm ống thẳng 4m. 160-630mm ống thẳng 5.8m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20mm-225mm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084541Z" creationid="Kieu Lan" creationdate="20210804T084541Z">
@@ -4149,6 +4157,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>FRP (fiberglass reinforced plastic) is rigid &amp; non flexible in nature, and has high impact Resistance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045516Z" creationid="Kieu Lan" creationdate="20210805T045516Z">
+        <seg>FRP (fiberglass reinforced plastic) is rigid &amp; non flexible in nature, and has high impact Resistance.     /     FRP cứng và không dẻo, chống va đập tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>noting diversification with this load for central plant</note>
       <tuv lang="EN-US">
         <seg>Fabric/solar heat loss and gain - noting diversification with this load for central plant</seg>
@@ -5395,6 +5411,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T082618Z" creationid="Kieu Lan" creationdate="20210804T082601Z">
         <seg>HDPE (High density Polyethylene)     /     Nhựa PE mật độ cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HDPE (High density Polyethylene) has outstanding flexibility &amp; high Imapct Resistance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045457Z" creationid="Kieu Lan" creationdate="20210805T045457Z">
+        <seg>HDPE (High density Polyethylene) has outstanding flexibility &amp; high Imapct Resistance.     /     HDPE có độ dẻo và chống va đập tốt</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,8 +8406,8 @@
       <tuv lang="EN-US">
         <seg>Polypropylene (PP) is used extensively for HVAC applications. It is a multilayered pipe mechanically stabilized through a fibre mix integrated in the middle layer &amp; corrosion resistant PP layer in inner and outer part.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045234Z" creationid="Kieu Lan" creationdate="20210805T045234Z">
-        <seg>Polypropylene (PP) is used extensively for HVAC applications. It is a multilayered pipe mechanically stabilized through a fibre mix integrated in the middle layer &amp; corrosion resistant PP layer in inner and outer part.     /     PP được sử dụng rộng rãi đối với HVAC. </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045414Z" creationid="Kieu Lan" creationdate="20210805T045234Z">
+        <seg>Polypropylene (PP) is used extensively for HVAC applications. It is a multilayered pipe mechanically stabilized through a fibre mix integrated in the middle layer &amp; corrosion resistant PP layer in inner and outer part.     /     PP được sử dụng rộng rãi đối với HVAC. Là loại ống có độ bền ổn định nhờ lớp giữa là hỗn hợp sợi và lớp trong cùng và ngoài cùng là PP chống ăn mòn</seg>
       </tuv>
     </tu>
     <tu>
@@ -9226,6 +9250,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T085024Z" creationid="Kieu Lan" creationdate="20210713T085024Z">
         <seg>SPRINKLERS ARE REQUIRED IN THE FOLLOWING LOCATIONS:     /     SPRINKLER ĐƯỢC YÊU CẦU Ở CÁC VỊ TRÍ SAU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SS (Stainless steel pipe) is used for high pressure systems schedule 40, 80 pipes are suitable for HVAC applications. SS is available in following grades 304, 316.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045603Z" creationid="Kieu Lan" creationdate="20210805T045603Z">
+        <seg>SS (Stainless steel pipe) is used for high pressure systems schedule 40, 80 pipes are suitable for HVAC applications. SS is available in following grades 304, 316.     /     Thép không gỉ dùng cho các hệ thống áp lực cao, ống SCH40, 80 phù hợp cho HVAC. Thép không gỉ có loại 304 và 316</seg>
       </tuv>
     </tu>
     <tu>
