@@ -15989,8 +15989,8 @@
       <tuv lang="EN-US">
         <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064140Z" creationid="Kieu Lan" creationdate="20210629T064140Z">
-        <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:     /     Phải tiến hành nghiên cứu mức độ đáng tin cậy đối với dịch vụ điện nước để thể hiện số giờ cung cấp mỗi năm, nhưng các nguyên tắc chung được liệt kê dưới đây </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T092524Z" creationid="Kieu Lan" creationdate="20210629T064140Z">
+        <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:     /     Phải tiến hành nghiên cứu mức độ đáng tin cậy đối với dịch vụ điện nước, thể hiện số giờ cung cấp mỗi năm, nhưng các nguyên tắc chung được liệt kê dưới đây </seg>
       </tuv>
     </tu>
     <tu>
@@ -16770,8 +16770,8 @@
       <tuv lang="EN-US">
         <seg>UTILITY SERVICES</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T063958Z" creationid="LanHK" creationdate="20210525T081231Z">
-        <seg>UTILITY SERVICES     /     DỊCH VỤ ĐIỆN NƯỚC</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T092253Z" creationid="LanHK" creationdate="20210525T081231Z">
+        <seg>UTILITY SERVICES     /     DỊCH VỤ ĐIỆN NƯỚC (XEM VĂN BẢN GỐC ĐỂ CÓ VÍ DỤ) </seg>
       </tuv>
     </tu>
     <tu>
