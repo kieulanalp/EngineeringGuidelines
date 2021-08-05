@@ -553,6 +553,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>25mm to 600mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045759Z" creationid="Kieu Lan" creationdate="20210805T045759Z">
+        <seg>25mm - 600mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>260kWh/m|2/annum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210717T032126Z">
@@ -1164,6 +1172,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020609Z" creationid="Kieu Lan" creationdate="20210713T020609Z">
         <seg>Addressable hard-wired smoke detectors must be installed in all areas including:     /     Đầu báo cháy định địa chỉ có dây đấu nối phải được lắp đặt tại mọi khu vực bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adhesive Bonding</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T050304Z" creationid="Kieu Lan" creationdate="20210805T050304Z">
+        <seg>Adhesive Bonding     /     Nối bằng keo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3518,8 +3534,8 @@
       <tuv lang="EN-US">
         <seg>Electro Fusion</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044047Z" creationid="Kieu Lan" creationdate="20210805T044047Z">
-        <seg>Electro Fusion, Butt Fusion, Compression Joints     /     Hàn điện, hàn nối đầu, mối nối </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045827Z" creationid="Kieu Lan" creationdate="20210805T044047Z">
+        <seg>Electro Fusion, Butt Fusion, Compression Joints     /     Hàn gia nhiệt, hàn điện, hàn nối đầu, mối nối </seg>
       </tuv>
     </tu>
     <tu>
@@ -5163,6 +5179,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063354Z" creationid="LanHK" creationdate="20210715T063354Z">
         <seg>Gift Shop***Cửa hàng lưu niệm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glue adhesive and thread joints.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045817Z" creationid="Kieu Lan" creationdate="20210805T045817Z">
+        <seg>Glue adhesive and thread joints.     /     Mối nối keo và bằng ren</seg>
       </tuv>
     </tu>
     <tu>
@@ -14232,6 +14256,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T022848Z" creationid="LanHK" creationdate="20210701T022848Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>up to 1000mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045805Z" creationid="Kieu Lan" creationdate="20210805T045805Z">
+        <seg>lên đến 1000mm</seg>
       </tuv>
     </tu>
     <tu>
