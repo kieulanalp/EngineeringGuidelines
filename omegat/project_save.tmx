@@ -1351,7 +1351,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>??</note>
       <tuv lang="EN-US">
         <seg>2.7.8 Fog / Water Misting Systems</seg>
       </tuv>
@@ -3073,7 +3072,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>	</note>
       <tuv lang="EN-US">
         <seg>98% of the annual external</seg>
       </tuv>
@@ -14124,13 +14122,29 @@
       </tuv>
     </tu>
     <tu>
-      <note>kb là gì :v
-</note>
+      <note>Tamper switch: công tắc giám sát 
+The two most common kinds of supervisory switches found in most sprinkler systems are tamper switches to monitor the control valves and flow or pressure switches to detect when a sprinkler system flows water.
+
+Tamper switches and valve supervision
+According to the National Fire Protection Association (NFPA), the control valve is the most common point of failure in fire sprinkler systems. In cases where sprinklers failed to operate during a fire, 59% were due to the system being shut off. For this reason, NFPA 13: Standard for the Installation of Sprinkler Systems has multiple rules to ensure that control valves stay open. These items boil down to two techniques: valves must be indicating, and they must be locked and/or supervised. Perhaps the best way to supervise a valve is with an electronic tamper switch.
+
+Indicating valves
+The most basic rule states that it should be simple to determine whether a valve is open or closed. In the language of NFPA 13 (16.9.3.2), control valves must be “indicating.” This means the valve displays the position of the valve—open or closed—for quick viewing by building management, contractors, and first responders.
+
+Supervision and tamper switches
+NFPA 13 (16.9.3.3.1) requires additional layers of security in the form of supervision, which can take different approaches. Physical security can be a viable solution that is allowed by NFPA 13. Facilities managers may lock the valve in the correct position. Alternatively, they could use a fenced enclosure as long as the valve is inspected weekly and sealed in the open position.
+
+The most sophisticated and effective form of supervision is electronic supervision with tamper switches. A tamper switch is a relatively simple piece of equipment consisting of:
+
+A tamper-proof housing for the circuitry
+A cable outlet to communicate with a fire alarm panel or monitoring system
+An actuating arm that interfaces with the valve
+Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Sprinkler valve tamper switch</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025922Z">
-        <seg>Sprinkler valve tamper switch           /         Công tắc tamper switch van sprinkler</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T103350Z">
+        <seg>Sprinkler valve tamper switch           /         Công tắc giám sát (tamper switch) van sprinkler</seg>
       </tuv>
     </tu>
     <tu>
