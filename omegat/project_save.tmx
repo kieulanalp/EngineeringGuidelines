@@ -4471,6 +4471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flanged, grooved, threaded, welding</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020349Z" creationid="Kieu Lan" creationdate="20210805T020349Z">
+        <seg>Flanged, grooved, threaded, welding     /     Mặt bích, rãnh, ren, hàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Floors</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023110Z" creationid="LanHK" creationdate="20210602T023110Z">
