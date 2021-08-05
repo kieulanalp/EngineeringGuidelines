@@ -120,6 +120,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-10°C to 95°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044134Z" creationid="Kieu Lan" creationdate="20210805T044134Z">
+        <seg>-10°C - 95°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-30°C to 340°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044130Z" creationid="Kieu Lan" creationdate="20210805T044130Z">
+        <seg>-30°C - 340°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-4o°C to 60°C (max)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044124Z" creationid="Kieu Lan" creationdate="20210805T044124Z">
+        <seg>-4o°C - 60°C (max)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-DEPARTMENT ON CLIMATE ZONE</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T035216Z" creationid="LanHK" creationdate="20210715T035216Z">
@@ -172,6 +196,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T034600Z" creationid="LanHK" creationdate="20210715T034600Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.15 to 0.20</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044225Z" creationid="Kieu Lan" creationdate="20210805T044225Z">
+        <seg>0.15 - 0.20</seg>
       </tuv>
     </tu>
     <tu>
@@ -451,8 +483,8 @@
       <tuv lang="EN-US">
         <seg>20 years</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020809Z" creationid="Kieu Lan" creationdate="20210805T020809Z">
-        <seg>20 years     /     20 năm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044203Z" creationid="Kieu Lan" creationdate="20210805T020809Z">
+        <seg>20 năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -692,8 +724,8 @@
       <tuv lang="EN-US">
         <seg>50 years</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020750Z" creationid="Kieu Lan" creationdate="20210805T020750Z">
-        <seg>50 years     /     50 năm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044200Z" creationid="Kieu Lan" creationdate="20210805T020750Z">
+        <seg>50 năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2129,10 +2161,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Butt Fusion, Compression</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044048Z" creationid="Kieu Lan" creationdate="20210805T044048Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Butt Fusion, Compression Joints</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020501Z" creationid="Kieu Lan" creationdate="20210805T020501Z">
-        <seg>Butt Fusion, Compression Joints     /     Hàn nhiệt hạch, hàn điện, hàn nối đầu, mối nối </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044059Z" creationid="Kieu Lan" creationdate="20210805T020501Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3251,6 +3291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXCELLENT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044238Z" creationid="Kieu Lan" creationdate="20210805T044238Z">
+        <seg>EXCELLENT     /     Rất tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXHAUST RISER</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095239Z" creationid="Kieu Lan" creationdate="20210802T041330Z">
@@ -3416,6 +3464,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081250Z">
         <seg>Electricity    /    Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electro Fusion</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044047Z" creationid="Kieu Lan" creationdate="20210805T044047Z">
+        <seg>Electro Fusion, Butt Fusion, Compression Joints     /     Hàn điện, hàn nối đầu, mối nối </seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,6 +4931,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063607Z" creationid="LanHK" creationdate="20210715T063607Z">
         <seg>Function Room***Phòng chức năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fusion</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044101Z" creationid="Kieu Lan" creationdate="20210805T044101Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -7355,6 +7419,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical strength</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044233Z" creationid="Kieu Lan" creationdate="20210805T044233Z">
+        <seg>Mechanical strength     /     Sức bền cơ học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mediterranean</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T031612Z" creationid="LanHK" creationdate="20210717T031612Z">
@@ -9535,6 +9607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Socket Fusion, Electro</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044108Z" creationid="Kieu Lan" creationdate="20210805T044108Z">
+        <seg>Socket Fusion, Electro Fusion, Butt Fusion, Compression Joints     /     Hàn nhiệt hạch, hàn điện, hàn nối đầu, mối nối </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Solar Shading - Sun Paths</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083351Z">
@@ -11536,6 +11616,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thermal conductivity w/mk</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044327Z" creationid="Kieu Lan" creationdate="20210805T044327Z">
+        <seg>Thermal conductivity w/mk     /     Truyền nhiệt w/mk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thermal expansion mm/m°k</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044222Z" creationid="Kieu Lan" creationdate="20210805T044222Z">
+        <seg>Thermal expansion mm/m°k     /     Giãn nở nhiệt mm/m°k</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These Engineering and Brand Safety Design Standards have been prepared to enable designers and specifiers of the mechanical, electrical and public health (MEP) services to understand the priorities and requirements of the IHG brand. The standards are not intended to provide inflexible prescriptive requirements but rather form a strategic framework of value, good practice, innovation energy efficiency and longevity from which the designers and specifiers can work. In summary the Brand Standards have been prepared in order to:</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210723T062646Z" creationid="LanHK" creationdate="20210525T092532Z">
@@ -13019,6 +13115,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T041904Z" creationid="Kieu Lan" creationdate="20210629T041904Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and the following tables provide comparisons for some of these options, which may vary, depending on the country.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044538Z" creationid="Kieu Lan" creationdate="20210805T044538Z">
+        <seg>and the following tables provide comparisons for some of these options, which may vary, depending on the country.     /     Có nhiều loại vật liệu ống nước trên thị trường có lợi íh so với các hệ thống ống thép truyền thống và bảng dưới đây so sánh một số phương án, có thể khác nhau tùy thuộc vào quốc gia</seg>
       </tuv>
     </tu>
     <tu>
