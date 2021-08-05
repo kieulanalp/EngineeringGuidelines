@@ -650,10 +650,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4800 kPa to 21000 kPa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020601Z" creationid="Kieu Lan" creationdate="20210805T020601Z">
+        <seg>4800 kPa to 21000 kPa     /     4800 kPa tới 21000 kPa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50 to 500 people - a minimum of two exits</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023823Z" creationid="LanHK" creationdate="20210609T081458Z">
         <seg>50 to 500 people - a minimum of two exits         /       50-500 người - tối thiểu 2 lối thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>50 years</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020750Z" creationid="Kieu Lan" creationdate="20210805T020750Z">
+        <seg>50 years     /     50 năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4855,6 +4871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GOOD</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020730Z" creationid="Kieu Lan" creationdate="20210805T020730Z">
+        <seg>GOOD     /     Tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GROUND SOURCE (SUBJECT TO IHG APPROVAL)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042051Z" creationid="LanHK" creationdate="20210715T042015Z">
@@ -8012,6 +8036,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POOR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020742Z" creationid="Kieu Lan" creationdate="20210805T020742Z">
+        <seg>POOR     /     kém</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PREFERABLY LOCATED ADJACENT TO SUBSTATION</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T035151Z" creationid="LanHK" creationdate="20210715T035116Z">
@@ -8256,6 +8288,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065228Z" creationid="LanHK" creationdate="20210610T065159Z">
         <seg>Pre-action Dry Sprinkler System    /    Hệ thống sprinkler pre-action khô</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressure range</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020615Z" creationid="Kieu Lan" creationdate="20210805T020509Z">
+        <seg>Pressure range     /     Dải áp suất</seg>
       </tuv>
     </tu>
     <tu>
@@ -8768,6 +8808,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T044454Z" creationid="LanHK" creationdate="20210713T093203Z">
         <seg>Required along the horizontal section of ductwork and top of risers.     /     Yêu cầu bố trí dọc theo các đoạn ống ngang và trên đỉnh trục ống đứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resistance to corrosion</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020728Z" creationid="Kieu Lan" creationdate="20210805T020728Z">
+        <seg>Resistance to corrosion     /     Chống ăn mòn</seg>
       </tuv>
     </tu>
     <tu>
@@ -10271,6 +10319,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T045904Z" creationid="LanHK" creationdate="20210715T045904Z">
         <seg>Temperature occurs less than 2% of the year     /     Nhiệt độ đạt đến ít hơn 2%/năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020607Z" creationid="Kieu Lan" creationdate="20210805T020607Z">
+        <seg>Temperature range     /     Dải nhiệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -12073,6 +12129,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084531Z" creationid="Kieu Lan" creationdate="20210804T084531Z">
         <seg>Upto 1000mm     /     lên đến 1000m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upto 1600 kPa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020517Z" creationid="Kieu Lan" creationdate="20210805T020517Z">
+        <seg>Upto 1600 kPa     /     Lên đến 1600 kPa</seg>
       </tuv>
     </tu>
     <tu>
