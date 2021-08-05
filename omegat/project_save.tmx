@@ -5589,8 +5589,8 @@
       <tuv lang="EN-US">
         <seg>DISTRICT COOLING OR HEATING</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T071638Z" creationid="LanHK" creationdate="20210714T022503Z">
-        <seg>DISTRICT COOLING OR HEATING     /     Nhà máy làm mát/gia nhiệt theo khu vực</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T095319Z" creationid="LanHK" creationdate="20210714T022503Z">
+        <seg>DISTRICT COOLING OR HEATING     /    Làm mát/gia nhiệt theo khu vực</seg>
       </tuv>
     </tu>
     <tu>
@@ -14569,8 +14569,8 @@
       <tuv lang="EN-US">
         <seg>TO HEAT EXCHANGER ROOM</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T065745Z" creationid="Kieu Lan" creationdate="20210629T065340Z">
-        <seg>TO HEAT EXCHANGER ROOM     /     Đường ống sưởi/làm mát từ nhà máy trung tâm dẫn đến phòng trao đổi nhiệt</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T095524Z" creationid="Kieu Lan" creationdate="20210629T065340Z">
+        <seg>TO HEAT EXCHANGER ROOM     /     Đường ống sưởi/làm mát  dẫn đến phòng trao đổi nhiệt</seg>
       </tuv>
     </tu>
     <tu>
