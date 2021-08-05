@@ -282,8 +282,8 @@
       <tuv lang="EN-US">
         <seg>.PPROPRIATE FOR</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061455Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>.PPROPRIATE FOR</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061644Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
+        <seg>Appropriate for</seg>
       </tuv>
     </tu>
     <tu>
@@ -2594,6 +2594,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.1.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061801Z" creationid="Kieu Lan" creationdate="20210805T061801Z">
+        <seg>5.1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -3325,8 +3333,8 @@
       <tuv lang="EN-US">
         <seg>ADAPABILITY</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061455Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>ADAPABILITY</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061640Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
+        <seg>Adapability     /     Dễ thích ứng</seg>
       </tuv>
     </tu>
     <tu>
@@ -3479,6 +3487,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T050304Z" creationid="Kieu Lan" creationdate="20210805T050304Z">
         <seg>Adhesive Bonding     /     Nối bằng keo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adopt Best Management Plan (BMP)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061804Z" creationid="Kieu Lan" creationdate="20210805T061804Z">
+        <seg>Adopt Best Management Plan (BMP)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4777,8 +4793,8 @@
       <tuv lang="EN-US">
         <seg>COMPATIBLE WITH ARCHITECTURE AND INTERIOR DESIGN</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061455Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>COMPATIBLE WITH ARCHITECTURE AND INTERIOR DESIGN</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061727Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
+        <seg>Compatible with architecture and interior design     /     Phù hợp với thiết kế kiến trúc và nội thất</seg>
       </tuv>
     </tu>
     <tu>
@@ -4817,8 +4833,8 @@
       <tuv lang="EN-US">
         <seg>COST EFFECTIVE</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061253Z" creationid="Kieu Lan" creationdate="20210805T061253Z">
-        <seg>COST EFFECTIVE</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061557Z" creationid="Kieu Lan" creationdate="20210805T061253Z">
+        <seg>Cost effective     /     Tối ưu chi phí</seg>
       </tuv>
     </tu>
     <tu>
@@ -6044,6 +6060,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E_01</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061803Z" creationid="Kieu Lan" creationdate="20210805T061803Z">
+        <seg>E_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each area will be provided with local automatic temperature control, monitored by the BMS.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T033627Z" creationid="Kieu Lan" creationdate="20210804T033627Z">
@@ -6841,8 +6865,8 @@
       <tuv lang="EN-US">
         <seg>FLEXIBILITY</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061254Z" creationid="Kieu Lan" creationdate="20210805T061254Z">
-        <seg>FLEXIBILITY</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061623Z" creationid="Kieu Lan" creationdate="20210805T061254Z">
+        <seg>Flexibility     /     Linh hoạt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7834,8 +7858,8 @@
       <tuv lang="EN-US">
         <seg>GENERAL PRINCIPLES</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061255Z" creationid="Kieu Lan" creationdate="20210805T061255Z">
-        <seg>GENERAL PRINCIPLES</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061545Z" creationid="Kieu Lan" creationdate="20210805T061255Z">
+        <seg>General principles     /     Nguyên tắc chung</seg>
       </tuv>
     </tu>
     <tu>
@@ -7866,8 +7890,8 @@
       <tuv lang="EN-US">
         <seg>GOOD VISUAL COMFORT</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061455Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>GOOD VISUAL COMFORT</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061716Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
+        <seg>Good visual comfort     /     Đảm bảo chiếu sáng</seg>
       </tuv>
     </tu>
     <tu>
@@ -12594,8 +12618,16 @@
       <tuv lang="EN-US">
         <seg>RELIABLE COMMUNICATIOI</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061503Z" creationid="Kieu Lan" creationdate="20210805T061503Z">
-        <seg>RELIABLE COMMUNICATIOI</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061750Z" creationid="Kieu Lan" creationdate="20210805T061503Z">
+        <seg>Reliable communication systems     /     Hệ thống liên lạc đảm bảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RELIABLE POWER SUPPLY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061801Z" creationid="Kieu Lan" creationdate="20210805T061801Z">
+        <seg>Reliable power supply     /     Nguồn điện đảm bảo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13028,8 +13060,8 @@
       <tuv lang="EN-US">
         <seg>SAFE AND SECU</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061254Z" creationid="Kieu Lan" creationdate="20210805T061254Z">
-        <seg>SAFE AND SECU</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061617Z" creationid="Kieu Lan" creationdate="20210805T061254Z">
+        <seg>Safe and secure     /     An toàn và bảo đảm</seg>
       </tuv>
     </tu>
     <tu>
@@ -13214,6 +13246,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095027Z" creationid="LanHK" creationdate="20210715T035120Z">
         <seg>supply and exhaust ventilation systems     /     các hệ thống cấp và hút khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SYSTEMS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061751Z" creationid="Kieu Lan" creationdate="20210805T061746Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -17495,8 +17535,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>\ DEVELOPMENT OF THIS NATURE</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061455Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>\ DEVELOPMENT OF THIS NATURE</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061702Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
+        <seg>a development of this nature     /     Phù hợp với dự án</seg>
       </tuv>
     </tu>
     <tu>
