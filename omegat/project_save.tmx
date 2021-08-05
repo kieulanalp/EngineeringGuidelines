@@ -690,6 +690,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.20.2 Comparative insulation thickness</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044646Z" creationid="Kieu Lan" creationdate="20210805T044646Z">
+        <seg>4.20.2 Comparative insulation thickness     /     So sánh độ dày bảo ôn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4000ppm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095333Z" creationid="Kieu Lan" creationdate="20210728T095333Z">
@@ -1028,6 +1036,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064749Z" creationid="Kieu Lan" creationdate="20210705T064749Z">
         <seg>A voice evacuation system is compulsory for new and replacement fire alarm systems unless the building is not high rise and has a sprinkler system throughout.     /     Hệ thống thông báo sơ tán bằng giọng nói là bắt buộc đối với các hệ thống báo cháy mới và thay thế, trừ khi tòa nhà không phải nhà cao tầng và có hệ thống sprinkler trên khắp tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ABS (Acrylonitrile butadiene styrene) is rigid non flexible, High impact Resistance pipe suitable for Condenser water application.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045140Z" creationid="Kieu Lan" creationdate="20210805T045114Z">
+        <seg>ABS (Acrylonitrile butadiene styrene) is rigid non flexible, High impact Resistance pipe suitable for Condenser water application.     /     ABS là vật liệu cứng, không dẻo, chống va đập tốt, phù hợp ứng dụng cho ống nước ngưng</seg>
       </tuv>
     </tu>
     <tu>
@@ -1615,6 +1631,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094027Z" creationid="LanHK" creationdate="20210713T094027Z">
         <seg>Applications for Fire Suppression Systems     /     Ứng dụng của các Hệ thống Chữa cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aquatherm Pipe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044959Z" creationid="Kieu Lan" creationdate="20210805T044959Z">
+        <seg>Aquatherm Pipe     /     Ống Aquatherm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2554,6 +2578,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chilled water and heating pipes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044637Z" creationid="Kieu Lan" creationdate="20210805T044637Z">
+        <seg>Chilled water and heating pipes     /     Ống nước mát và nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chilled water exchanger</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T042220Z" creationid="LanHK" creationdate="20210724T042220Z">
@@ -2670,6 +2702,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T110936Z">
         <seg>Communication with continuously staffed position     /     Kết nối tới vị trí luôn có nhân viên trực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comparison of pipes sizes and insulation requirements for Aquatherm and steel pipes (Reference BS 5422: 2001 conditions)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044747Z" creationid="Kieu Lan" creationdate="20210805T044747Z">
+        <seg>Comparison of pipes sizes and insulation requirements for Aquatherm and steel pipes (Reference BS 5422: 2001 conditions)     /     So sánh các yêu cầu về kích thước ống và bảo ôn đối với Aquatherm và ống thép (Tham khảo BS 5422: 2001)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6233,6 +6273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insulation Thickness at 5°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044945Z" creationid="Kieu Lan" creationdate="20210805T044945Z">
+        <seg>Insulation Thickness at 5°C     /     Nhiệt độ bảo ôn ở mức 5°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insulation requirement for Chilled water pipes</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020819Z" creationid="Kieu Lan" creationdate="20210805T020819Z">
@@ -8244,6 +8292,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pipe material comparison for Condenser water pipes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045105Z" creationid="Kieu Lan" creationdate="20210805T045105Z">
+        <seg>Pipe material comparison for Condenser water pipes     /     So sánh vật liệu cho ống nước ngưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Places of assembly such as function rooms, meeting rooms, bars and restaurants must be provided with means of escape based upon the size of the room. Restricting the occupancy of an assembly room because of inadequate means of escape is impractical and unacceptable.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023748Z" creationid="LanHK" creationdate="20210609T081431Z">
@@ -8320,6 +8376,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081704Z" creationid="Kieu Lan" creationdate="20210804T081704Z">
         <seg>Polypropylene     /     Nhựa PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polypropylene (PP) is used extensively for HVAC applications. It is a multilayered pipe mechanically stabilized through a fibre mix integrated in the middle layer &amp; corrosion resistant PP layer in inner and outer part.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045234Z" creationid="Kieu Lan" creationdate="20210805T045234Z">
+        <seg>Polypropylene (PP) is used extensively for HVAC applications. It is a multilayered pipe mechanically stabilized through a fibre mix integrated in the middle layer &amp; corrosion resistant PP layer in inner and outer part.     /     PP được sử dụng rộng rãi đối với HVAC. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9995,6 +10059,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steel Pipe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044949Z" creationid="Kieu Lan" creationdate="20210805T044949Z">
+        <seg>Steel Pipe     /     Ống thép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Pipe Size (mm)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044920Z" creationid="Kieu Lan" creationdate="20210805T044920Z">
+        <seg>Steel Pipe Size (mm)     /     Size ống thép (mm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steel Pipework can be subject to corrosion</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081856Z" creationid="Kieu Lan" creationdate="20210804T081856Z">
@@ -10913,6 +10993,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071542Z" creationid="PHUONG.DTM" creationdate="20210608T014750Z">
         <seg>The following systems must be provided as required by the relevant codes, or to enhance the life safety provisions of the entire Hotel:        /        Các hệ thống dưới đây phải được cung cấp tuân thủ theo luật liên quan, hoặc để tăng cường an toàn PCCC cho cả tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following table illustrates the reduction in insulation requirements for alternative pipe materials</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044909Z" creationid="Kieu Lan" creationdate="20210805T044909Z">
+        <seg>The following table illustrates the reduction in insulation requirements for alternative pipe materials     /     Bảng sau liệt kê các yêu cầu về bảo ôn đối với các vật liệu ống khác nhau</seg>
       </tuv>
     </tu>
     <tu>
