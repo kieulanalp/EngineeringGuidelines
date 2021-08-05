@@ -7610,8 +7610,8 @@
       <tuv lang="EN-US">
         <seg>For alarms installed within corridors/common areas, the alarm should be clearly audible in all bedrooms over background noise levels and with all intervening doors closed with a minimum rating of 85dBA at 3m/10 ft. If the alarm is intended to notify sleeping occupants in the same room, the sound pressure level is permitted to be 75dBA at 3m/10 ft.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T045043Z" creationid="Kieu Lan" creationdate="20210628T070639Z">
-        <seg>For alarms installed within corridors/common areas, the alarm should be clearly audible in all bedrooms over background noise levels and with all intervening doors closed with a minimum rating of 85dBA at 3m/10 ft. If the alarm is intended to notify sleeping occupants in the same room, the sound pressure level is permitted to be 75dBA at 3m/10 ft.     /     Đối với báo động lắp đặt trong khu vực chung/hành lang, báo động nên được nghe thấy rõ trong tất cả các phòng ngủ, bất chấp tiếng ồn môi trường và với tất cả các cửa giữa báo động và phòng ngủ đóng, ở mức tối thiểu 85dBA cách 3m. Nếu báo động nhằm để cảnh báo người đang ngủ trong phòng, áp suất âm thanh được phép ở mức 75dBA cách 3m</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T085747Z" creationid="Kieu Lan" creationdate="20210628T070639Z">
+        <seg>For alarms installed within corridors/common areas, the alarm should be clearly audible in all bedrooms over background noise levels and with all intervening doors closed with a minimum rating of 85dBA at 3m/10 ft. If the alarm is intended to notify sleeping occupants in the same room, the sound pressure level is permitted to be 75dBA at 3m/10 ft.     /     Đối với báo động lắp đặt trong khu vực chung/hành lang, báo động nên được nghe thấy rõ trong tất cả các phòng ngủ, bất chấp tiếng ồn môi trường và cả khi tất cả các cửa phòng ngủ đóng, ở mức tối thiểu 85dBA tại 3m. Nếu báo động nhằm để báo động cho người đang ngủ trong phòng, âm thanh được phép ở mức 75dBA tại 3m</seg>
       </tuv>
     </tu>
     <tu>
