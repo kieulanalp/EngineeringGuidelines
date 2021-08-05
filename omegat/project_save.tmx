@@ -3493,8 +3493,8 @@
       <tuv lang="EN-US">
         <seg>Adopt Best Management Plan (BMP)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061804Z" creationid="Kieu Lan" creationdate="20210805T061804Z">
-        <seg>Adopt Best Management Plan (BMP)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061844Z" creationid="Kieu Lan" creationdate="20210805T061804Z">
+        <seg>Adopt Best Management Plan (BMP)     /     Áp dụng BMP (Biện pháp điều hành tối ưu)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6068,6 +6068,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E_02</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061844Z" creationid="Kieu Lan" creationdate="20210805T061844Z">
+        <seg>E_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each area will be provided with local automatic temperature control, monitored by the BMS.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T033627Z" creationid="Kieu Lan" creationdate="20210804T033627Z">
@@ -6407,8 +6415,16 @@
       <tuv lang="EN-US">
         <seg>Energy Metering and Sub-Metering</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T030829Z" creationid="LanHK" creationdate="20210715T030829Z">
-        <seg>Energy Metering and Sub-Metering     /     Đo đạc năng lượng và đo chỉ số phụ</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061905Z" creationid="LanHK" creationdate="20210715T030829Z">
+        <seg>Energy Metering and Sub-Metering     /     Công tơ và công tơ phụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Energy Metering and Sub-metering</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061857Z" creationid="Kieu Lan" creationdate="20210805T061857Z">
+        <seg>Energy Metering and Sub-metering     /     Công tơ và công tơ phụ</seg>
       </tuv>
     </tu>
     <tu>
