@@ -2602,6 +2602,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.1.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062945Z" creationid="Kieu Lan" creationdate="20210805T062945Z">
+        <seg>5.1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.1.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062947Z" creationid="Kieu Lan" creationdate="20210805T062947Z">
+        <seg>5.1.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -6124,6 +6140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E_12</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062945Z" creationid="Kieu Lan" creationdate="20210805T062945Z">
+        <seg>E_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each area will be provided with local automatic temperature control, monitored by the BMS.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T033627Z" creationid="Kieu Lan" creationdate="20210804T033627Z">
@@ -6264,6 +6288,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T080139Z" creationid="LanHK" creationdate="20210722T075935Z">
         <seg>Electrical Power     /     Công suất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical Services, systems included</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062954Z" creationid="Kieu Lan" creationdate="20210805T062954Z">
+        <seg>Electrical Services, systems included     /     Hệ thống điện bao gồm</seg>
       </tuv>
     </tu>
     <tu>
@@ -10447,6 +10479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MATV AND CABLING. AMPLIFIERS AS NECESSARY TO SUIT INTERCON STANDARDS AND LOCAL STATION AVAILABILITY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T065258Z" creationid="Kieu Lan" creationdate="20210805T065258Z">
+        <seg>MATV AND CABLING. AMPLIFIERS AS NECESSARY TO SUIT INTERCON STANDARDS AND LOCAL STATION AVAILABILITY     /     MATV và cáp, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MCP - Manual Call Point - (also known as Break Glass Alarm)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T054021Z">
@@ -12810,8 +12850,8 @@
       <tuv lang="EN-US">
         <seg>Reduce Light Pollution</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062916Z" creationid="Kieu Lan" creationdate="20210805T062916Z">
-        <seg>Reduce Light Pollution</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062945Z" creationid="Kieu Lan" creationdate="20210805T062916Z">
+        <seg>Reduce Light Pollution     /     Giảm ô nhiễm ánh sáng</seg>
       </tuv>
     </tu>
     <tu>
@@ -14519,6 +14559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TELECOMMS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T063048Z" creationid="Kieu Lan" creationdate="20210805T063048Z">
+        <seg>TELECOMMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TO HEAT EXCHANGER ROOM</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T065745Z" creationid="Kieu Lan" creationdate="20210629T065340Z">
@@ -14531,6 +14579,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095105Z" creationid="LanHK" creationdate="20210719T014745Z">
         <seg>TOTAL FRESH AIR SUPPLY ≥ TOTAL EXHAUST 10-20%     /     Tổng lượng cấp khí tươi ≥ Tổng khí hút 10-20%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRANSFORMERS AND LV PANELS -</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T063219Z" creationid="Kieu Lan" creationdate="20210805T063219Z">
+        <seg>TRANSFORMERS AND LV PANELS -     /     Biến áp và tủ LV</seg>
       </tuv>
     </tu>
     <tu>
@@ -16322,6 +16378,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T012953Z" creationid="LanHK" creationdate="20210720T012855Z">
         <seg>To determine the diversified simultaneous cooling load, the grand total calculated cooling load can be reduced by:-     /     Để xác định phụ tải làm mát đồng thời đa dạng, tổng phụ tải làm mát tính toán có thể giảm đi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To illustrate the main electrical services that are included within the designer’s responsibility.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T063048Z" creationid="Kieu Lan" creationdate="20210805T063048Z">
+        <seg>To illustrate the main electrical services that are included within the designer’s responsibility.     /     Hình dưới minh họa các hạng mục điện thuộc phạm vi trách nhiệm của thiết kế</seg>
       </tuv>
     </tu>
     <tu>
