@@ -5605,8 +5605,8 @@
       <tuv lang="EN-US">
         <seg>DOMESTIC WATER</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T064352Z" creationid="Kieu Lan" creationdate="20210629T064352Z">
-        <seg>DOMESTIC WATER     /     Nước dân dụng</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T092634Z" creationid="Kieu Lan" creationdate="20210629T064352Z">
+        <seg>DOMESTIC WATER     /     Nước sinh hoạt</seg>
       </tuv>
     </tu>
     <tu>
