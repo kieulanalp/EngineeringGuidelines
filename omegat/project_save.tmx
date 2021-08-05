@@ -11258,8 +11258,8 @@
       <tuv lang="EN-US">
         <seg>Non-fire resisting glass may be used where:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T072010Z" creationid="LanHK" creationdate="20210611T072010Z">
-        <seg>Non-fire resisting glass may be used where:     /     Kính không chống cháy có thể được sử dụng khi:</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T080652Z" creationid="LanHK" creationdate="20210611T072010Z">
+        <seg>Non-fire resisting glass may be used where:     /     Kính không chống cháy có thể được sử dụng tại nơi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14913,8 +14913,8 @@
       <tuv lang="EN-US">
         <seg>The automatic sprinklers are located so that the entire surface of the glass is wet upon their operation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T085121Z" creationid="LanHK" creationdate="20210611T085116Z">
-        <seg>The automatic sprinklers are located so that the entire surface of the glass is wet upon their operation     /     Sprinkler tự động được bố trí sao để làm ướt toàn bộ bề mặt kính khi vận hành</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T080810Z" creationid="LanHK" creationdate="20210611T085116Z">
+        <seg>The automatic sprinklers are located so that the entire surface of the glass is wet upon their operation     /     Sprinkler tự động được bố trí để làm ướt toàn bộ bề mặt kính khi vận hành</seg>
       </tuv>
     </tu>
     <tu>
@@ -18556,8 +18556,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>more than 300mm from the glass</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210611T072121Z" creationid="LanHK" creationdate="20210611T072121Z">
-        <seg>Fast response automatic sprinklers are spaced 1800mm apart or less along both sides of the glass and not more than 300mm from the glass     /     sprinkler tự động phản ứng nhanh được bố trí cách nhau 1800mm hoặc ít hơn dọc hai bên kính và cách mặt kính không quá 300mm</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T080802Z" creationid="LanHK" creationdate="20210611T072121Z">
+        <seg>Fast response automatic sprinklers are spaced 1800mm apart or less along both sides of the glass and not more than 300mm from the glass     /     sprinkler tự động phản ứng nhanh được bố trí cách nhau 1800mm hoặc ít hơn dọc hai bên kính và cách mặt kính không quá 300mm </seg>
       </tuv>
     </tu>
     <tu>
