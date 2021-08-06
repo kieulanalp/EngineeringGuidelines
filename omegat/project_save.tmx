@@ -15625,6 +15625,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following tables provide a range of actual maximum demand and power consumption from 32 Hotels located in sub-tropical climates and includes the chiller plant for air conditioners which can be used for benchmarking:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T033640Z" creationid="Kieu Lan" creationdate="20210806T033640Z">
+        <seg>The following tables provide a range of actual maximum demand and power consumption from 32 Hotels located in sub-tropical climates and includes the chiller plant for air conditioners which can be used for benchmarking:     /     Các bảng sau cho thấy khoảng nhu cầu và tiêu thụ điện năng thực tế tối đa từ 32 khách sạn trong các vùng khí hậu cậnh nhiệt đới và bao gồm một trạm chiller cho điều hòa không khí có thể sử dụng trong quá trình đánh giá benchmark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fresh air quantities indicated for public spaces are the maximum to be allowed for calculations and equipment selection. The actual fresh air quantity is to be controlled via air quality sensors, to maintain a maximum CO2 level in the occupied space of 600ppm.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T085418Z" creationid="LanHK" creationdate="20210715T085308Z">
