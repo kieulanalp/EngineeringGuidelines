@@ -2739,8 +2739,8 @@
       <tuv lang="EN-US">
         <seg>5% Negative, max 15 pa</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061417Z" creationid="Kieu Lan" creationdate="20210805T061417Z">
-        <seg>5% Negative, max 15 pa</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103545Z" creationid="Kieu Lan" creationdate="20210805T061417Z">
+        <seg>5% Negative, max 15 pa          5% âm, tối đa 15pa</seg>
       </tuv>
     </tu>
     <tu>
@@ -13035,8 +13035,8 @@
       <tuv lang="EN-US">
         <seg>Positive</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061418Z" creationid="Kieu Lan" creationdate="20210805T061418Z">
-        <seg>Positive</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103603Z" creationid="Kieu Lan" creationdate="20210805T061418Z">
+        <seg>Positive      Dương</seg>
       </tuv>
     </tu>
     <tu>
