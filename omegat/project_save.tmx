@@ -3933,8 +3933,8 @@
       <tuv lang="EN-US">
         <seg>An electrical load analysis must be carried out to detail the predicted loads for the hotel, by service and department area, based in VA/m2 floor loadings. This load analysis must include allowances for increase in electrical demand, and typical maximum values are indicated in the table following:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041412Z" creationid="Kieu Lan" creationdate="20210806T041121Z">
-        <seg>An electrical load analysis must be carried out to detail the predicted loads for the hotel, by service and department area, based in VA/m2 floor loadings. This load analysis must include allowances for increase in electrical demand, and typical maximum values are indicated in the table following:     /     Phải tiến hành phân tích phụ tải điện để có chi tiết các phụ tải dự tính trong khách sạn, tính theo </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041714Z" creationid="Kieu Lan" creationdate="20210806T041121Z">
+        <seg>An electrical load analysis must be carried out to detail the predicted loads for the hotel, by service and department area, based in VA/m2 floor loadings. This load analysis must include allowances for increase in electrical demand, and typical maximum values are indicated in the table following:     /     Phải tiến hành phân tích phụ tải điện để có chi tiết các phụ tải dự tính trong khách sạn, tính theo dịch vụ và bộ phận, dựa trên cơ sở phụ tải tầng VA/m2</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,8 +4126,8 @@
       <tuv lang="EN-US">
         <seg>Area</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T062454Z" creationid="LanHK" creationdate="20210715T062454Z">
-        <seg>Area***Khu vực</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041420Z" creationid="LanHK" creationdate="20210715T062454Z">
+        <seg>Area     /     Khu vực</seg>
       </tuv>
     </tu>
     <tu>
