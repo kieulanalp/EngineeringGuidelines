@@ -16662,6 +16662,14 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Transformer outputs must be brought with bus ties or cable in case of small rating of transformer (less than 1000kVA) to enable segregation of the switchboard for maintenance purposes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T024344Z" creationid="Kieu Lan" creationdate="20210806T024344Z">
+        <seg>Transformer outputs must be brought with bus ties or cable in case of small rating of transformer (less than 1000kVA) to enable segregation of the switchboard for maintenance purposes.     /     Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>không rõ nghĩa lắm??</note>
       <tuv lang="EN-US">
         <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.</seg>
