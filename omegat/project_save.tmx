@@ -594,16 +594,16 @@
       <tuv lang="EN-US">
         <seg>10% Negative, max 15 Pa</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061416Z" creationid="Kieu Lan" creationdate="20210805T061416Z">
-        <seg>10% Negative, max 15 Pa</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103525Z" creationid="Kieu Lan" creationdate="20210805T061416Z">
+        <seg>10% Negative, max 15 Pa       10% âm, tối đa 15Pa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>10% Negative, max 15 pa</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061411Z" creationid="Kieu Lan" creationdate="20210805T061411Z">
-        <seg>10% Negative, max 15 pa</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103318Z" creationid="Kieu Lan" creationdate="20210805T061411Z">
+        <seg>10% Negative, max 15 pa        10% âm, tối đa 15pa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2723,16 +2723,16 @@
       <tuv lang="EN-US">
         <seg>5% Negative</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061414Z" creationid="Kieu Lan" creationdate="20210805T061414Z">
-        <seg>5% Negative</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103428Z" creationid="Kieu Lan" creationdate="20210805T061414Z">
+        <seg>5% Negative*** 5% dương</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>5% Negative (Note 6)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061412Z" creationid="Kieu Lan" creationdate="20210805T061412Z">
-        <seg>5% Negative (Note 6)</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103359Z" creationid="Kieu Lan" creationdate="20210805T061412Z">
+        <seg>5% Negative (Note 6)         5% Âm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2755,8 +2755,8 @@
       <tuv lang="EN-US">
         <seg>5% positive</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061412Z" creationid="Kieu Lan" creationdate="20210805T061412Z">
-        <seg>5% positive</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103341Z" creationid="Kieu Lan" creationdate="20210805T061412Z">
+        <seg>5% positive*** 5% dương</seg>
       </tuv>
     </tu>
     <tu>
@@ -5585,8 +5585,8 @@
       <tuv lang="EN-US">
         <seg>Coffee Shop</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045020Z" creationid="LanHK" creationdate="20210715T063502Z">
-        <seg>Coffee Shop     /     Quán Cafe</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103346Z" creationid="LanHK" creationdate="20210715T063502Z">
+        <seg>Coffee Shop     /     Cafe</seg>
       </tuv>
     </tu>
     <tu>
@@ -8569,8 +8569,8 @@
       <tuv lang="EN-US">
         <seg>Gift Shop</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T063354Z" creationid="LanHK" creationdate="20210715T063354Z">
-        <seg>Gift Shop***Cửa hàng lưu niệm</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103325Z" creationid="LanHK" creationdate="20210715T063354Z">
+        <seg>Gift Shop***Quầy lưu niệm</seg>
       </tuv>
     </tu>
     <tu>
@@ -10808,8 +10808,8 @@
       <tuv lang="EN-US">
         <seg>Lounge - General</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061414Z" creationid="Kieu Lan" creationdate="20210805T061414Z">
-        <seg>Lounge - General</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103434Z" creationid="Kieu Lan" creationdate="20210805T061414Z">
+        <seg>Lounge - General         Chung</seg>
       </tuv>
     </tu>
     <tu>
@@ -11714,8 +11714,8 @@
       <tuv lang="EN-US">
         <seg>Negative</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061410Z" creationid="Kieu Lan" creationdate="20210805T061410Z">
-        <seg>Negative</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103256Z" creationid="Kieu Lan" creationdate="20210805T061410Z">
+        <seg>Negative*** Âm</seg>
       </tuv>
     </tu>
     <tu>
@@ -11778,8 +11778,8 @@
       <tuv lang="EN-US">
         <seg>No Filtration</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061411Z" creationid="Kieu Lan" creationdate="20210805T061411Z">
-        <seg>No Filtration</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T103305Z" creationid="Kieu Lan" creationdate="20210805T061411Z">
+        <seg>No Filtration         Không lọc</seg>
       </tuv>
     </tu>
     <tu>
