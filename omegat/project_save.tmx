@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>141.7</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T092423Z" creationid="Kieu Lan" creationdate="20210806T092423Z">
+        <seg>141.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>148kg/m2</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061438Z" creationid="Kieu Lan" creationdate="20210805T061438Z">
@@ -1036,6 +1044,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061301Z" creationid="Kieu Lan" creationdate="20210805T061301Z">
         <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>18.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T092423Z" creationid="Kieu Lan" creationdate="20210806T092423Z">
+        <seg>18.3</seg>
       </tuv>
     </tu>
     <tu>
@@ -15443,6 +15459,15 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061429Z" creationid="Kieu Lan" creationdate="20210805T061429Z">
         <seg>Telephone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>??</note>
+      <tuv lang="EN-US">
+        <seg>Telephone switchboard room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093212Z" creationid="Kieu Lan" creationdate="20210806T093212Z">
+        <seg>Telephone switchboard room     /     Phòng tủ điện điện thoại</seg>
       </tuv>
     </tu>
     <tu>
