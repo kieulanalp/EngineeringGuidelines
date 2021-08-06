@@ -5013,6 +5013,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Catering Equipment such as:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025658Z" creationid="Kieu Lan" creationdate="20210806T025658Z">
+        <seg>Catering Equipment such as:     /     Thiết bị phục vụ F&amp;B như:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cause &amp; effect matrix</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080102Z">
@@ -5210,6 +5218,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022325Z" creationid="LanHK" creationdate="20210717T022325Z">
         <seg>Chiller located central - distribution splits for guest rooms and other areas     /     Chiller nằm ở vị trí trung tâm - đường phân phối chia đều cho phòng khách và khu công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chillers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025514Z" creationid="Kieu Lan" creationdate="20210806T025514Z">
+        <seg>Chillers</seg>
       </tuv>
     </tu>
     <tu>
@@ -6639,6 +6655,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T023630Z" creationid="LanHK" creationdate="20210717T023630Z">
         <seg>Equipment (m2)     /       Thiết bị điện thoại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escalators</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025644Z" creationid="Kieu Lan" creationdate="20210806T025644Z">
+        <seg>Escalators     /     Thang cuốn</seg>
       </tuv>
     </tu>
     <tu>
@@ -8246,6 +8270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grills</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025717Z" creationid="Kieu Lan" creationdate="20210806T025717Z">
+        <seg>Grills     /     Vỉ nướng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gross area public / BOH (m2)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -8622,6 +8654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heating</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025632Z" creationid="Kieu Lan" creationdate="20210806T025610Z">
+        <seg>Heating Systems     /     Hệ thống sưởi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heating / Cooling Control Option</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -8874,6 +8914,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T064344Z" creationid="LanHK" creationdate="20210715T064344Z">
         <seg>Housekeeping/linen***Housekeeping/kho đồ vải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Humidification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025551Z" creationid="Kieu Lan" creationdate="20210806T025516Z">
+        <seg>Humidification Plant     /     Máy tạo ẩm</seg>
       </tuv>
     </tu>
     <tu>
@@ -10870,6 +10918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical Services such as:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025513Z" creationid="Kieu Lan" creationdate="20210806T025513Z">
+        <seg>Mechanical Services such as:     /     Các máy móc cơ như</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical Services, Systems Included</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T034614Z" creationid="LanHK" creationdate="20210715T034614Z">
@@ -11823,6 +11879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ovens</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025704Z" creationid="Kieu Lan" creationdate="20210806T025704Z">
+        <seg>Ovens     /     Lò nướng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over 800mm shall require upturned sprinklers (combustible ceiling).</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034341Z" creationid="LanHK" creationdate="20210713T091747Z">
@@ -12343,6 +12407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025553Z" creationid="Kieu Lan" creationdate="20210806T025553Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plant Locations- should be central to the location being served</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T031434Z" creationid="LanHK" creationdate="20210717T031434Z">
@@ -12787,6 +12859,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T075050Z" creationid="LanHK" creationdate="20210610T074527Z">
         <seg>Pump or accumulator    /    Bơm hoặc bình nén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pumps</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025600Z" creationid="Kieu Lan" creationdate="20210806T025554Z">
+        <seg>Pumps     /     Bơm</seg>
       </tuv>
     </tu>
     <tu>
@@ -14658,6 +14738,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080319Z" creationid="Kieu Lan" creationdate="20210713T080319Z">
         <seg>System/wiring fault     /     Lỗi hệ thống/lỗi đường dây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025620Z" creationid="Kieu Lan" creationdate="20210806T025614Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -16687,6 +16775,14 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Transportation Systems such as:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025639Z" creationid="Kieu Lan" creationdate="20210806T025639Z">
+        <seg>Transportation Systems such as:     /     Các hệ thống vận tải như</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>không rõ nghĩa lắm??</note>
       <tuv lang="EN-US">
         <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.</seg>
@@ -17151,6 +17247,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T084854Z" creationid="LanHK" creationdate="20210715T084739Z">
         <seg>Ventilation rates to be selected to achieve the maximum summer temperature requirement. Fans to be controlled from a local thermostat. Natural ventilation is an acceptable alternative if suitable control can be demonstrated.     /     Lưu lượng thông khí được chọn để đạt yêu cầu tối đa về nhiệt độ trong hè. Các quạt điều khiển bằng một bộ điều khiển cục bộ. Chấp nhận thông khí tự nhiên nếu có thể chứng minh khả năng kiểm soát phù hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ventilation system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025628Z" creationid="Kieu Lan" creationdate="20210806T025628Z">
+        <seg>Ventilation system     /     Hệ thống thông gió</seg>
       </tuv>
     </tu>
     <tu>
@@ -18784,6 +18888,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T044340Z" creationid="PHUONG.DTM" creationdate="20210604T045213Z">
         <seg>notice must be secured to the inside of the door at a height where it can be easily read        /        Thông báo phải được bảo đảm ở phía trong cửa tại cao độ có thể dễ đọc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>o</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025513Z" creationid="Kieu Lan" creationdate="20210806T025513Z">
+        <seg>o</seg>
       </tuv>
     </tu>
     <tu>
