@@ -824,6 +824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>13.9</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093213Z" creationid="Kieu Lan" creationdate="20210806T093213Z">
+        <seg>13.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>130</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045103Z" creationid="Kieu Lan" creationdate="20210806T045103Z">
@@ -13306,8 +13314,8 @@
       <tuv lang="EN-US">
         <seg>Public Toilets</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T063342Z" creationid="LanHK" creationdate="20210715T063342Z">
-        <seg>Public Toilets***Toilet công cộng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093403Z" creationid="LanHK" creationdate="20210715T063342Z">
+        <seg>Public Toilets     /     Toilet công cộng</seg>
       </tuv>
     </tu>
     <tu>
