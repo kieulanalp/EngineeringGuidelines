@@ -10132,6 +10132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LPD(w/m2) (Ashrae 90.1)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T043717Z" creationid="Kieu Lan" creationdate="20210806T043717Z">
+        <seg>LPD(w/m2) (Ashrae 90.1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LTHW shall be circulated at 80/60°C to serve heating and domestic hot water heat exchangers via a primary distribution circuit with variable speed pumping. This may only be varied following substantiation of alternative temperatures proposed.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T050535Z" creationid="LanHK" creationdate="20210728T050535Z">
@@ -12651,6 +12659,15 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T085228Z" creationid="Kieu Lan" creationdate="20210805T085228Z">
         <seg>Power     /     Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>power này ở đây là gì? Công suất? nhưng mà nếu vậy thì hình như không đúng đơn vị đo</note>
+      <tuv lang="EN-US">
+        <seg>Power (w/m2)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044822Z" creationid="Kieu Lan" creationdate="20210806T044822Z">
+        <seg>Power (w/m2)</seg>
       </tuv>
     </tu>
     <tu>
