@@ -2031,12 +2031,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>https://support.idevicesinc.com/hc/en-us/articles/360000248727-Advanced-Thermostat-Controls</note>
+      <note>	</note>
       <tuv lang="EN-US">
         <seg>4 Degree Dead band</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210729T070646Z" creationid="LanHK" creationdate="20210715T032853Z">
-        <seg>4 Degree Dead band     /     Deadband 4 độ *Tiêu chuẩn này tính theo độ F (Deadband là một khoảng nhiệt độ xung quanh nhiệt độ đã set khi bật chế độ AUTO. Vd deadband 4 độ và nhiệt độ đã set là 70°F, tức là khoảng nhiệt độ sẽ duy trì ở mức từ 68-72°F. Trong khoảng này, điều hòa sẽ không cần liên tục thay đổi giữa chế độ làm nóng và làm lạnh để duy trì nhiệt độ thoải mái cho người dùng, giúp tiết kiệm năng lượng)</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T074016Z" creationid="LanHK" creationdate="20210715T032853Z">
+        <seg>4 Degree Dead band     /     Dải Deadband 4 độ *Tiêu chuẩn này tính theo độ F (Ghi chú giải thích của PD: Deadband là một khoảng nhiệt độ xung quanh nhiệt độ đã set khi bật chế độ AUTO. Vd deadband 4 độ và nhiệt độ đã set là 70°F, tức là khoảng nhiệt độ sẽ duy trì ở mức từ 68-72°F. Trong khoảng này, điều hòa sẽ không cần liên tục thay đổi giữa chế độ làm nóng và làm lạnh để duy trì nhiệt độ thoải mái cho người dùng, giúp tiết kiệm năng lượng)</seg>
       </tuv>
     </tu>
     <tu>
