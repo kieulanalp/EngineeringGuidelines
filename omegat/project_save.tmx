@@ -2633,6 +2633,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.2.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025107Z" creationid="Kieu Lan" creationdate="20210806T025107Z">
+        <seg>5.2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -9732,6 +9740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Items of electrical equipment that have a relatively high electrical connected load generally are high consumers of electrical energy (kWh). The following generally come under this category:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025504Z" creationid="Kieu Lan" creationdate="20210806T025132Z">
+        <seg>Items of electrical equipment that have a relatively high electrical connected load generally are high consumers of electrical energy (kWh). The following generally come under this category:     /     Các thiết bị điện thường có phụ tải kết nối tương đối cao thường tiêu thụ nhiều điện năng (kWh). Các thiết bị dưới đây nhìn chung rơi vào nhóm này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>J</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T021358Z" creationid="LanHK" creationdate="20210715T021358Z">
@@ -16797,6 +16813,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T013344Z" creationid="LanHK" creationdate="20210720T013344Z">
         <seg>Typical Chilled Water Schematic     /     Sơ đồ nước mát điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Electrical Loads</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025137Z" creationid="Kieu Lan" creationdate="20210806T025119Z">
+        <seg>Typical Electrical Loads     /     Tải điện điển hình</seg>
       </tuv>
     </tu>
     <tu>
