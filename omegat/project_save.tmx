@@ -13050,8 +13050,8 @@
       <tuv lang="EN-US">
         <seg>Provide a comfortable odour free temperature controlled environment for occupants up to 24 hours a day.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T034801Z" creationid="LanHK" creationdate="20210715T034801Z">
-        <seg>Provide a comfortable odour free temperature controlled environment for occupants up to 24 hours a day.     /     Cung cấp cho con người một môi trường thoải mái, không có mùi, với nhiệt độ được kiểm soát lên đến 24h/ngày</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T074811Z" creationid="LanHK" creationdate="20210715T034801Z">
+        <seg>Provide a comfortable odour free temperature controlled environment for occupants up to 24 hours a day.     /     Cung cấp cho khách một môi trường thoải mái, không mùi, với nhiệt độ được kiểm soát lên đến 24h/ngày</seg>
       </tuv>
     </tu>
     <tu>
@@ -13106,8 +13106,8 @@
       <tuv lang="EN-US">
         <seg>Provide individual temperature control in guest rooms, with adjacent rooms having heating/cooling simultaneously</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T034835Z">
-        <seg>Provide individual temperature control in guest rooms, with adjacent rooms having heating/cooling simultaneously     /     Cho phép kiểm soát nhiệt độ riêng cho từng phòng khách, với các phòng liền kề có thể sưởi/làm mát đồng thời</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T074924Z" creationid="LanHK" creationdate="20210715T034835Z">
+        <seg>Provide individual temperature control in guest rooms, with adjacent rooms having heating/cooling simultaneously     /     Bố trí kiểm soát nhiệt độ riêng cho từng phòng khách, với các phòng liền kề có thể sưởi/làm mát đồng thời</seg>
       </tuv>
     </tu>
     <tu>
@@ -18596,8 +18596,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>available.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T015615Z" creationid="LanHK" creationdate="20210715T034847Z">
-        <seg>available.     /     Chế độ vận hành tiết kiệm trong tất cả các thiết bị AHU để sử dung khí tươi làm mát "miễn phí" khi có thể</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T075220Z" creationid="LanHK" creationdate="20210715T034847Z">
+        <seg>available.     / </seg>
       </tuv>
     </tu>
     <tu>
