@@ -2641,6 +2641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.2.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T030041Z" creationid="Kieu Lan" creationdate="20210806T030041Z">
+        <seg>5.2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -4617,6 +4625,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095222Z" creationid="Kieu Lan" creationdate="20210728T095222Z">
         <seg>Below 20 Bar (300 psig)      /     Dưới 20 Bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Benchmarking Demand/Consumption</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T031638Z" creationid="Kieu Lan" creationdate="20210806T030042Z">
+        <seg>Benchmarking Demand/Consumption     /     Đánh giá mức nhu cầu / tiêu thụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15790,6 +15806,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T021622Z" creationid="LanHK" creationdate="20210603T015028Z">
         <seg>The maximum distance to reach an emergency exit on a guestroom floor must be no more than 30m or 60m in a sprinkler protected building.        /       Khoảng cách tối đa để tới một lối thoát hiểm tại tầng phòng khách không được vượt quá 30m, hoặc 60m trong tòa nhà có sprinkler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum power demand and energy consumption will depend on a number of issues, including location, size, equipment types, availability of gas or other alternative fuels etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T030043Z" creationid="Kieu Lan" creationdate="20210806T030043Z">
+        <seg>The maximum power demand and energy consumption will depend on a number of issues, including location, size, equipment types, availability of gas or other alternative fuels etc.</seg>
       </tuv>
     </tu>
     <tu>
