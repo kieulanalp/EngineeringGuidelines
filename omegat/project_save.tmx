@@ -15500,8 +15500,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Temperature occurs lessthan 2% of the year</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T045904Z" creationid="LanHK" creationdate="20210715T045904Z">
-        <seg>Temperature occurs less than 2% of the year     /     Nhiệt độ đạt đến ít hơn 2%/năm</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T102708Z" creationid="LanHK" creationdate="20210715T045904Z">
+        <seg>Temperature occurs less than 2% of the year     /     Nhiệt độ xảy ra ít hơn 2%/năm</seg>
       </tuv>
     </tu>
     <tu>
