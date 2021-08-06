@@ -10719,8 +10719,8 @@
       <tuv lang="EN-US">
         <seg>Low Energy Systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T030925Z" creationid="LanHK" creationdate="20210715T030925Z">
-        <seg>Low Energy Systems     /     Các hệ thống ít tiêu thụ năng lượng</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T072658Z" creationid="LanHK" creationdate="20210715T030925Z">
+        <seg>Low Energy Systems     /     Các hệ thống tiêu thụ năng lượng thấp</seg>
       </tuv>
     </tu>
     <tu>
@@ -12145,8 +12145,8 @@
       <tuv lang="EN-US">
         <seg>Optimize façade design</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T030933Z" creationid="LanHK" creationdate="20210715T030933Z">
-        <seg>Optimize façade design     /     Tối ưu hóa thiết kế mặt tiền</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T072707Z" creationid="LanHK" creationdate="20210715T030933Z">
+        <seg>Optimize façade design     /     Tối ưu hóa thiết kế mặt dựng</seg>
       </tuv>
     </tu>
     <tu>
