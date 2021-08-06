@@ -3987,6 +3987,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annual energy consumption for the whole hotel equated to kWh/room/annum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T040914Z" creationid="Kieu Lan" creationdate="20210806T040914Z">
+        <seg>Annual energy consumption for the whole hotel equated to kWh/room/annum     /     Điện năng tiêu thụ hàng năm của khách sạn - kWh/phòng/năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annual maintenance cost</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T095957Z" creationid="Kieu Lan" creationdate="20210729T095957Z">
