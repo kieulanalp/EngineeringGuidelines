@@ -640,6 +640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>107.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045059Z" creationid="Kieu Lan" creationdate="20210806T045059Z">
+        <seg>107.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10AC/hr.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061419Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
@@ -728,6 +736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>12.9</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045022Z" creationid="Kieu Lan" creationdate="20210806T045022Z">
+        <seg>12.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>120</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061428Z" creationid="Kieu Lan" creationdate="20210805T061428Z">
@@ -748,6 +764,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T020005Z" creationid="LanHK" creationdate="20210701T022810Z">
         <seg>120 minutes + sprinkler         /   120p + bảo vệ với sprinkler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>123.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045103Z" creationid="Kieu Lan" creationdate="20210806T045103Z">
+        <seg>123.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -784,10 +808,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>130</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045103Z" creationid="Kieu Lan" creationdate="20210806T045103Z">
+        <seg>130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061301Z" creationid="Kieu Lan" creationdate="20210805T061301Z">
         <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>14.6</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045039Z" creationid="Kieu Lan" creationdate="20210806T045039Z">
+        <seg>14.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>14.9</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045026Z" creationid="Kieu Lan" creationdate="20210806T045026Z">
+        <seg>14.9</seg>
       </tuv>
     </tu>
     <tu>
@@ -844,6 +892,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T103044Z" creationid="LanHK" creationdate="20210716T103044Z">
         <seg> 15%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>15.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045021Z" creationid="Kieu Lan" creationdate="20210806T045021Z">
+        <seg>15.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -924,6 +980,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061259Z" creationid="Kieu Lan" creationdate="20210805T061259Z">
         <seg>168</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>17.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045023Z" creationid="Kieu Lan" creationdate="20210806T045023Z">
+        <seg>17.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,6 +1728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>26</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045014Z" creationid="Kieu Lan" creationdate="20210806T045014Z">
+        <seg>26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>260kWh/m|2/annum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210717T032126Z">
@@ -1732,6 +1804,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044945Z" creationid="Kieu Lan" creationdate="20210806T044945Z">
         <seg>28.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>28.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045045Z" creationid="Kieu Lan" creationdate="20210806T045045Z">
+        <seg>28.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,6 +1960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>34.9</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045021Z" creationid="Kieu Lan" creationdate="20210806T045021Z">
+        <seg>34.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3475</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061430Z" creationid="Kieu Lan" creationdate="20210805T061430Z">
@@ -1908,6 +1996,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061300Z" creationid="Kieu Lan" creationdate="20210805T061300Z">
         <seg>36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>37.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045052Z" creationid="Kieu Lan" creationdate="20210806T045052Z">
+        <seg>37.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2673,6 +2769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.4</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045039Z" creationid="Kieu Lan" creationdate="20210806T045039Z">
+        <seg>5.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -2789,6 +2893,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061421Z" creationid="Kieu Lan" creationdate="20210805T061421Z">
         <seg>6 AC/Hr (Note 15)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045045Z" creationid="Kieu Lan" creationdate="20210806T045045Z">
+        <seg>6.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -2985,6 +3097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045031Z" creationid="Kieu Lan" creationdate="20210806T045031Z">
+        <seg>8.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8.5 l/s/m2</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061412Z" creationid="Kieu Lan" creationdate="20210805T061412Z">
@@ -3037,6 +3157,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061259Z" creationid="Kieu Lan" creationdate="20210805T061259Z">
         <seg>89</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T061331Z" creationid="Kieu Lan" creationdate="20210806T061331Z">
+        <seg>9</seg>
       </tuv>
     </tu>
     <tu>
@@ -5368,8 +5496,8 @@
       <tuv lang="EN-US">
         <seg>Coffee Shop</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T063502Z" creationid="LanHK" creationdate="20210715T063502Z">
-        <seg>Coffee Shop***Quán Cafe</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045020Z" creationid="LanHK" creationdate="20210715T063502Z">
+        <seg>Coffee Shop     /     Quán Cafe</seg>
       </tuv>
     </tu>
     <tu>
@@ -7966,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Foyer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045044Z" creationid="Kieu Lan" creationdate="20210806T045044Z">
+        <seg>Foyer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Free from</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073629Z" creationid="LanHK" creationdate="20210609T073629Z">
@@ -8056,8 +8192,8 @@
       <tuv lang="EN-US">
         <seg>Front Desk</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T093037Z" creationid="LanHK" creationdate="20210405T093037Z">
-        <seg>Front Desk Tiền sảnh</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045051Z" creationid="LanHK" creationdate="20210405T093037Z">
+        <seg>Front Desk     /     Lễ tân</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,6 +8570,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095535Z" creationid="Kieu Lan" creationdate="20210728T095504Z">
         <seg>Guest Room     /     Phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Corridors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045039Z" creationid="Kieu Lan" creationdate="20210806T045039Z">
+        <seg>Guest Corridors     /     Hành lang phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -10014,8 +10158,8 @@
       <tuv lang="EN-US">
         <seg>Kitchen</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061356Z" creationid="Kieu Lan" creationdate="20210805T061356Z">
-        <seg>Kitchen</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045058Z" creationid="Kieu Lan" creationdate="20210805T061356Z">
+        <seg>Kitchen     /     Bếp</seg>
       </tuv>
     </tu>
     <tu>
@@ -10276,6 +10420,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Laundry Work Area</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045102Z" creationid="Kieu Lan" creationdate="20210806T045102Z">
+        <seg>Laundry Work Area     /     Khu giặt là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaks in the system could cause problems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065322Z" creationid="LanHK" creationdate="20210610T065322Z">
@@ -10479,8 +10631,8 @@
       <tuv lang="EN-US">
         <seg>Lobby</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T063225Z" creationid="PHUONG.DTM" creationdate="20210726T063225Z">
-        <seg>Lobby        /       Sảnh</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045009Z" creationid="PHUONG.DTM" creationdate="20210726T063225Z">
+        <seg>Lobby</seg>
       </tuv>
     </tu>
     <tu>
@@ -10529,6 +10681,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T022627Z" creationid="LanHK" creationdate="20210717T022627Z">
         <seg>Longer installation/commissioning time     /     Thời gian lắp đặt / vận hành thử dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lounge</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045021Z" creationid="Kieu Lan" creationdate="20210806T045021Z">
+        <seg>Lounge</seg>
       </tuv>
     </tu>
     <tu>
@@ -11160,8 +11320,8 @@
       <tuv lang="EN-US">
         <seg>Meeting Rooms</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T063621Z" creationid="LanHK" creationdate="20210715T063621Z">
-        <seg>Meeting Rooms***Phòng họp</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045013Z" creationid="LanHK" creationdate="20210715T063621Z">
+        <seg>Meeting Rooms     /     Phòng họp</seg>
       </tuv>
     </tu>
     <tu>
@@ -11443,6 +11603,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063635Z" creationid="LanHK" creationdate="20210715T063635Z">
         <seg>Neutral***cân bằng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Night Club</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045024Z" creationid="Kieu Lan" creationdate="20210806T045024Z">
+        <seg>Night Club</seg>
       </tuv>
     </tu>
     <tu>
@@ -11905,8 +12073,8 @@
       <tuv lang="EN-US">
         <seg>Offices</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T064453Z" creationid="LanHK" creationdate="20210715T064453Z">
-        <seg>Offices***Các văn phòng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045055Z" creationid="LanHK" creationdate="20210715T064453Z">
+        <seg>Offices     /     Các văn phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -13016,6 +13184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Public Corridors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045031Z" creationid="Kieu Lan" creationdate="20210806T045031Z">
+        <seg>Public Corridors     /     Hành lang công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Public Toilets</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063342Z" creationid="LanHK" creationdate="20210715T063342Z">
@@ -13894,6 +14070,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044128Z" creationid="Kieu Lan" creationdate="20210713T044128Z">
         <seg>Send signal to mobile communication system if provided     /     Gửi tín hiệu đến hệ thống liên lạc di động nếu có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service Corridors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045043Z" creationid="Kieu Lan" creationdate="20210806T045043Z">
+        <seg>Service Corridors     /     Hành lang service</seg>
       </tuv>
     </tu>
     <tu>
@@ -17448,6 +17632,15 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210720T040929Z" creationid="Kieu Lan" creationdate="20210720T040929Z">
         <seg>VSD for all chillers     /     Biến áp đối với tất cả chiller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>??</note>
+      <tuv lang="EN-US">
+        <seg>Valet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T061330Z" creationid="Kieu Lan" creationdate="20210806T061330Z">
+        <seg>Valet</seg>
       </tuv>
     </tu>
     <tu>
