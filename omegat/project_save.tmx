@@ -6284,8 +6284,8 @@
       <tuv lang="EN-US">
         <seg>Electrical</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153653Z" creationid="Kieu Lan" creationdate="20210405T153653Z">
-        <seg>Electrical Điện</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T024406Z" creationid="Kieu Lan" creationdate="20210405T153653Z">
+        <seg>Electrical     /     Điện</seg>
       </tuv>
     </tu>
     <tu>
@@ -10174,8 +10174,8 @@
       <tuv lang="EN-US">
         <seg>Lifts</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T063639Z" creationid="LanHK" creationdate="20210715T063639Z">
-        <seg>Lifts***Thang máy</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T024356Z" creationid="LanHK" creationdate="20210715T063639Z">
+        <seg>Lifts     /     Thang máy</seg>
       </tuv>
     </tu>
     <tu>
@@ -16662,11 +16662,12 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <note>be brought with bus ties or cable</note>
       <tuv lang="EN-US">
         <seg>Transformer outputs must be brought with bus ties or cable in case of small rating of transformer (less than 1000kVA) to enable segregation of the switchboard for maintenance purposes.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T024344Z" creationid="Kieu Lan" creationdate="20210806T024344Z">
-        <seg>Transformer outputs must be brought with bus ties or cable in case of small rating of transformer (less than 1000kVA) to enable segregation of the switchboard for maintenance purposes.     /     Điện</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025106Z" creationid="Kieu Lan" creationdate="20210806T024344Z">
+        <seg>Transformer outputs must be brought with bus ties or cable in case of small rating of transformer (less than 1000kVA) to enable segregation of the switchboard for maintenance purposes.     /     Điện đầu ra của máy biến áp phải be brought with bus ties or cable nếu là máy biến áp công suất nhỏ (dưới 1000kVA) để có thể tách riêng tủ điện phục vụ bảo trì</seg>
       </tuv>
     </tu>
     <tu>
