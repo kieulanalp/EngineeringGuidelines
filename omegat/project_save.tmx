@@ -672,6 +672,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.8</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044945Z" creationid="Kieu Lan" creationdate="20210806T044945Z">
+        <seg>11.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>110</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061259Z" creationid="Kieu Lan" creationdate="20210805T061259Z">
@@ -1716,6 +1724,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061420Z" creationid="Kieu Lan" creationdate="20210805T061420Z">
         <seg>28 max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>28.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044945Z" creationid="Kieu Lan" creationdate="20210806T044945Z">
+        <seg>28.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -2845,6 +2861,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061259Z" creationid="Kieu Lan" creationdate="20210805T061259Z">
         <seg>65</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>66</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044938Z" creationid="Kieu Lan" creationdate="20210806T044938Z">
+        <seg>66</seg>
       </tuv>
     </tu>
     <tu>
@@ -4253,6 +4277,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assembly</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044938Z" creationid="Kieu Lan" creationdate="20210806T044938Z">
+        <seg>Assembly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At all levels elevators must be protected by fire resisting landing doors or lobbies with access via self-closing fire resisting doors.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T100128Z" creationid="LanHK" creationdate="20210602T100128Z">
@@ -4497,6 +4529,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T083658Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Bahrain Iran Iraq Israel / Occupied Territories Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen     /     Bahrain Iran Iraq Israel / Lãnh thổ bị chiếm đóng Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ballroom</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044825Z" creationid="Kieu Lan" creationdate="20210806T044825Z">
+        <seg>Ballroom</seg>
       </tuv>
     </tu>
     <tu>
@@ -6881,6 +6921,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043416Z" creationid="LanHK" creationdate="20210602T043416Z">
         <seg>Executive Corridor        /       Hành lang phòng Executive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhibition</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044858Z" creationid="Kieu Lan" creationdate="20210806T044858Z">
+        <seg>Exhibition     /     Trưng bày</seg>
       </tuv>
     </tu>
     <tu>
@@ -10762,6 +10810,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T095544Z" creationid="Kieu Lan" creationdate="20210805T095544Z">
         <seg>Main Board     /     Máy chủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main Entrance Lobby</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044945Z" creationid="Kieu Lan" creationdate="20210806T044945Z">
+        <seg>Main Entrance Lobby     /     Lobby chính</seg>
       </tuv>
     </tu>
     <tu>
@@ -17512,6 +17568,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061353Z" creationid="Kieu Lan" creationdate="20210805T061353Z">
         <seg>Voice evacuation speakers or voice enhanced fire alarm sounders must be provided in all guest bedrooms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W/m2 (max)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044824Z" creationid="Kieu Lan" creationdate="20210806T044824Z">
+        <seg>W/m2 (max)</seg>
       </tuv>
     </tu>
     <tu>
