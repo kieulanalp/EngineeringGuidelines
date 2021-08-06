@@ -3203,16 +3203,16 @@
       <tuv lang="EN-US">
         <seg>A dedicated domestic water supply must be provided to serve all of the hotels ‘non-fire’ requirements from the Water Company’s mains. The Water Supply Company’s mains must be fitted with a water meter at the site boundary, as well as a stop valve either side of the water meter. This should also include a low flow meter.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210714T032942Z" creationid="LanHK" creationdate="20210714T032942Z">
-        <seg>A dedicated domestic water supply must be provided to serve all of the hotels ‘non-fire’ requirements from the Water Company’s mains. The Water Supply Company’s mains must be fitted with a water meter at the site boundary, as well as a stop valve either side of the water meter. This should also include a low flow meter.     /     Phải có nguồn cấp nước sinh hoạt chuyên dụng để phục vụ tất cả các yêu cầu "không liên quan đến chữa cháy" của khách sạn từ công ty cấp nước. Đường ống của công ty cấp nước phải được gắn đồng hồ nước tại ranh giới khuôn viên khách sạn, cũng như van chặn ở hai bên đồng hồ nước. Cũng nên bao gồm một đồng hồ đo lưu lượng thấp.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T035056Z" creationid="LanHK" creationdate="20210714T032942Z">
+        <seg>A dedicated domestic water supply must be provided to serve all of the hotels ‘non-fire’ requirements from the Water Company’s mains. The Water Supply Company’s mains must be fitted with a water meter at the site boundary, as well as a stop valve either side of the water meter. This should also include a low flow meter.     /     Phải có nguồn cấp nước sinh hoạt chuyên dụng để phục vụ tất cả các yêu cầu "không liên quan đến chữa cháy" của khách sạn từ công ty cấp nước. Đường ống của công ty cấp nước phải được gắn đồng hồ nước tại ranh giới khuôn viên khách sạn, cũng như một van chặn ở bên đồng hồ nước. Cũng nên bao gồm một đồng hồ đo lưu lượng nước thấp.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A dedicated fire water supply must be provided to serve all of the hotel’s ‘fire’ supplies, which may include:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210714T034126Z" creationid="LanHK" creationdate="20210714T034126Z">
-        <seg>A dedicated fire water supply must be provided to serve all of the hotel’s ‘fire’ supplies, which may include:     /     Phải có nguồn cấp nước chuyên dụng cho chữa cháy phục vụ tất cả các thiết bị chữa cháy của khách sạn, có thể bao gồm:</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T035124Z" creationid="LanHK" creationdate="20210714T034126Z">
+        <seg>A dedicated fire water supply must be provided to serve all of the hotel’s ‘fire’ supplies, which may include:     /     Phải có nguồn cấp nước chuyên dụng cho chữa cháy, phục vụ tất cả các thiết bị chữa cháy của khách sạn, có thể bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5867,8 +5867,8 @@
       <tuv lang="EN-US">
         <seg>Design of the substation must be strictly in accordance with the local supply authority requirements. Provide signed approval from Local Supply Authority for substation design.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082308Z" creationid="Kieu Lan" creationdate="20210714T082201Z">
-        <seg>Design of the substation must be strictly in accordance with the local supply authority requirements. Provide signed approval from Local Supply Authority for substation design.     /     Thiết kế trạm biến áp phải tuân tủ nghiêm ngặt các yêu cầu của chính quyền địa phương. Cung cấp phê duyệt có chữ ký của cơ quan quản lý địa phương cho thiết kế trạm biến áp</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T045304Z" creationid="Kieu Lan" creationdate="20210714T082201Z">
+        <seg>Design of the substation must be strictly in accordance with the local supply authority requirements. Provide signed approval from Local Supply Authority for substation design.     /     Thiết kế trạm phụ tải phải tuân tủ nghiêm ngặt các yêu cầu của chính quyền địa phương. Cung cấp phê duyệt có chữ ký của cơ quan quản lý địa phương cho thiết kế trạm phụ tải</seg>
       </tuv>
     </tu>
     <tu>
@@ -8232,8 +8232,8 @@
       <tuv lang="EN-US">
         <seg>Gas must be provided to the site from the local service provider, and must enter the property in a position that allows unobstructed 24-hour clear access by the utility company. The gas meter and governor assembly together with any gas booster entry point must be at the rear of the building, not accessible by the public, and a dedicated meter room located on an external wall with facility for isolation must be provided to comply with the local regulatory requirements. The gas supply must have an automatic solenoid shut off valve to isolate the gas supply in the event of a fire alarm. If natural gas is to be used without back up it should be available for 95% of the time.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210714T024124Z" creationid="LanHK" creationdate="20210701T022424Z">
-        <seg>Gas must be provided to the site from the local service provider, and must enter the property in a position that allows unobstructed 24-hour clear access by the utility company. The gas meter and governor assembly together with any gas booster entry point must be at the rear of the building, not accessible by the public, and a dedicated meter room located on an external wall with facility for isolation must be provided to comply with the local regulatory requirements. The gas supply must have an automatic solenoid shut off valve to isolate the gas supply in the event of a fire alarm. If natural gas is to be used without back up it should be available for 95% of the time.     /     Khí gas phải được cung cấp cho khách sạn từ nhà cung cấp dịch vụ địa phương và phải tiến vào khuôn viên ở vị trí cho phép công ty tiện ích có thể tiếp cận mà không bị cản trở suốt 24 giờ. Cụm đồng hồ đo gas và bộ điều áp gas cùng với bất kỳ điểm tăng áp gas nào phải ở phía sau tòa nhà, không cho công chúng tiếp cận và phải có phòng đo chuyên dụng nằm ở bức tường bên ngoài với thiết bị cách ly đảm bảo tuân thủ các yêu cầu quy định của địa phương. Nguồn cấp gas phải có van ngắt điện từ tự động để cách ly nguồn cấp gas trong trường hợp có báo cháy. Nếu khí tự nhiên được sử dụng mà không có dự phòng thì phải có sẵn trong 95% thời gian.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T033401Z" creationid="LanHK" creationdate="20210701T022424Z">
+        <seg>Gas must be provided to the site from the local service provider, and must enter the property in a position that allows unobstructed 24-hour clear access by the utility company. The gas meter and governor assembly together with any gas booster entry point must be at the rear of the building, not accessible by the public, and a dedicated meter room located on an external wall with facility for isolation must be provided to comply with the local regulatory requirements. The gas supply must have an automatic solenoid shut off valve to isolate the gas supply in the event of a fire alarm. If natural gas is to be used without back up it should be available for 95% of the time.     /    Gas phải được cung cấp cho khách sạn từ nhà cung cấp dịch vụ địa phương và có đường tiếp cận thông thoáng vào tòa nhà 24/24 . Cụm đồng hồ đo gas và bộ điều áp gas cùng với bất kỳ điểm tăng áp gas nào phải bố trí phía sau tòa nhà, không tiếp cận được từ công cộng và phải có phòng đo chuyên dụng nằm ở tường bên ngoài với thiết bị cách ly đảm bảo tuân thủ các yêu cầu quy định của địa phương. Nguồn cấp gas phải có van ngắt điện từ tự động để cách ly nguồn cấp gas trong trường hợp có báo cháy. Nếu khí tự nhiên được sử dụng mà không có dự phòng thì phải có sẵn trong 95% thời gian.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9208,16 +9208,16 @@
       <tuv lang="EN-US">
         <seg>If local codes do not specify storage requirements of fire water, refer to NFPA requirements</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T060545Z" creationid="Kieu Lan" creationdate="20210714T060545Z">
-        <seg>If local codes do not specify storage requirements of fire water, refer to NFPA requirements     /     Nếu quy định địa phương không nêu rõ yêu cầu về trữ nước PCCC, tham khảo tiêu chuẩn NFPA</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T035428Z" creationid="Kieu Lan" creationdate="20210714T060545Z">
+        <seg>If local codes do not specify storage requirements of fire water, refer to NFPA requirements     /     Nếu quy định địa phương không nêu rõ yêu cầu về trữ nước PCCC, tham chiếu tiêu chuẩn NFPA</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210714T024404Z" creationid="LanHK" creationdate="20210714T022535Z">
-        <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.     /     Nếu không có khí ga tự nhiên, phải tiến hành phân tích để xác định ưu tiên sử dụng dầu hay khí gas lỏng. Phải có hệ thống phát hiện rò rỉ khí gas, cover cho kho và mạng lưới đường ống đến tận điểm sử dụng cuối cùng.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T034257Z" creationid="LanHK" creationdate="20210714T022535Z">
+        <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.     /     Nếu không có khí ga tự nhiên, phải tiến hành phân tích để xác định ưu tiên sử dụng dầu hay khí gas lỏng. Phải có hệ thống phát hiện rò rỉ khí gas, bố trí cho kho và mạng lưới đường ống đến tận điểm sử dụng cuối cùng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9740,8 +9740,8 @@
       <tuv lang="EN-US">
         <seg>Internal wet rising/falling mains/sprinkler systems - Combined or individual</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061400Z">
-        <seg>Internal wet rising/falling mains/sprinkler systems - Combined or individual</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T035235Z">
+        <seg>Internal wet rising/falling mains/sprinkler systems - Combined or individual     /     Hệ thống sprinkler/ chính trục đứng ướt bên trong trong - Hệ combined (kết hợp) hoặc độc lập</seg>
       </tuv>
     </tu>
     <tu>
@@ -15789,8 +15789,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The gas system should be designed to conform to NFPA standards as a minimum for all gas installations including, ventilated risers, combustion gas emissions combustion air and safety precautions must be observed in the design.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210714T030909Z" creationid="LanHK" creationdate="20210714T030909Z">
-        <seg>The gas system should be designed to conform to NFPA standards as a minimum for all gas installations including, ventilated risers, combustion gas emissions combustion air and safety precautions must be observed in the design.     /     Hệ thống gas nên được thiết kế tối thiểu tuân thủ các tiêu chuẩn NFPA  đối với tất cả thiết bị gas lắp đặt, bao gồm: trục ống đứng có thông khí, ống thải khí gas đốt, khí đốt và cần cân nhắc tới các yêu cầu về yêu toàn trong quá trình thiết kế</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T034802Z" creationid="LanHK" creationdate="20210714T030909Z">
+        <seg>The gas system should be designed to conform to NFPA standards as a minimum for all gas installations including, ventilated risers, combustion gas emissions combustion air and safety precautions must be observed in the design.     /     Hệ thống gas nên được thiết kế tối thiểu tuân thủ các tiêu chuẩn NFPA  đối với tất cả thiết bị gas lắp đặt, bao gồm: trục ống đứng có thông khí, ống thải khí gas đốt, khí đốt và cần cân nhắc tới các yêu cầu về an toàn trong quá trình thiết kế</seg>
       </tuv>
     </tu>
     <tu>
@@ -16118,8 +16118,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The requirements for storage will depend upon the reliability of the water supply, which should be confirmed before deciding upon the storage requirements indicated in section 6. It is preferable to reduce storage due to the potential health risk, but the final storage requirements should be based on the reliability, and maximum water flow available.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T095724Z" creationid="Kieu Lan" creationdate="20210714T094153Z">
-        <seg>The requirements for storage will depend upon the reliability of the water supply, which should be confirmed before deciding upon the storage requirements indicated in section 6. It is preferable to reduce storage due to the potential health risk, but the final storage requirements should be based on the reliability, and maximum water flow available.     /     Yêu cầu đối với dự trữ nước sẽ phụ thuộc độ đáng tin cậy của nguồn cấp, việc này cần phải được xác nhận trước khuyết định yêu cầu đối với bể trữ như trong Mục 6. Ưu tiên giảm thiểu lượng nước dự trữ do nguy cơ tiềm ẩn đối với sức khỏe, tuy nhiên yêu cầu cuối cùng đối với bể trữ nước nên dựa trên độ đáng tin cậy và dòng chảy tối đa.</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T035536Z" creationid="Kieu Lan" creationdate="20210714T094153Z">
+        <seg>The requirements for storage will depend upon the reliability of the water supply, which should be confirmed before deciding upon the storage requirements indicated in section 6. It is preferable to reduce storage due to the potential health risk, but the final storage requirements should be based on the reliability, and maximum water flow available.     /     Yêu cầu đối với dự trữ nước sẽ phụ thuộc vào độ đáng tin cậy của nguồn cấp, việc này cần phải được xác nhận trước khi quyết định yêu cầu đối với bể trữ như trong Mục 6. Ưu tiên giảm thiểu lượng nước dự trữ do nguy cơ tiềm ẩn đối với sức khỏe, tuy nhiên yêu cầu cuối cùng đối với bể trữ nước nên dựa trên độ đáng tin cậy và dòng chảy tối đa sẵn có.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16430,8 +16430,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T092524Z" creationid="Kieu Lan" creationdate="20210629T064140Z">
-        <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:     /     Phải tiến hành nghiên cứu mức độ đáng tin cậy đối với dịch vụ điện nước, thể hiện số giờ cung cấp mỗi năm, nhưng các nguyên tắc chung được liệt kê dưới đây </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T031156Z" creationid="Kieu Lan" creationdate="20210629T064140Z">
+        <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:     /     Phải tiến hành nghiên cứu mức độ đáng tin cậy đối với dịch vụ điện nước, thể hiện số giờ cung cấp mỗi năm, nhưng các nguyên tắc chung được liệt kê dưới đây: </seg>
       </tuv>
     </tu>
     <tu>
