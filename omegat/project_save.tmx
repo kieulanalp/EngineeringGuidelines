@@ -2833,6 +2833,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093406Z" creationid="Kieu Lan" creationdate="20210806T093406Z">
+        <seg>5.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.4</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045039Z" creationid="Kieu Lan" creationdate="20210806T045039Z">
@@ -3253,6 +3261,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T061331Z" creationid="Kieu Lan" creationdate="20210806T061331Z">
         <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.7</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093406Z" creationid="Kieu Lan" creationdate="20210806T093406Z">
+        <seg>9.7</seg>
       </tuv>
     </tu>
     <tu>
@@ -6531,6 +6547,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each area of the Hotel must be provided with their own dedicated sub-distribution panels. Distribution subpanels must be installed to achieve sub-circuit cable route length of not greater than 50 meters.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T095810Z" creationid="Kieu Lan" creationdate="20210806T095810Z">
+        <seg>Each area of the Hotel must be provided with their own dedicated sub-distribution panels. Distribution subpanels must be installed to achieve sub-circuit cable route length of not greater than 50 meters.     /     Mỗi khu vực trong khách sạn phải có tủ phân phối điện phụ. Tủ phụ phải được lắp đặt để chiều dài tuyến cáp phụ không vượt quá 50m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each area will be provided with local automatic temperature control, monitored by the BMS.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T033627Z" creationid="Kieu Lan" creationdate="20210804T033627Z">
@@ -9247,6 +9271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hotel, with investigations being made for both HV and LV. Where applicable, the metering system must allow for competitive electricity retailer choice.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T104343Z" creationid="Kieu Lan" creationdate="20210806T104343Z">
+        <seg>Hotel, with investigations being made for both HV and LV. Where applicable, the metering system must allow for competitive electricity retailer choice.     /     Cần phải đàm phán giá điện để đảm bảo việc cấp điện một cách kinh tế nhất cho khách sạn, và phải cân nhắc cả hai phương án điện HV và LV. Nếu được, hệ thống đo điện phải cho phép lựa chọn nhà cung cấp có tính cạnh tranh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hotels Group</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T073326Z" creationid="LanHK" creationdate="20210729T073257Z">
@@ -9644,6 +9676,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T090145Z" creationid="LanHK" creationdate="20210722T033624Z">
         <seg>In general, a water cooled system is more suitable for a larger project due to the following benefits:     /     Nhìn chung, một hệ thống giải nhiệt nước phù hợp với các dự án lớn do các lợi ích sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, systems must provide the following:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T095820Z" creationid="Kieu Lan" creationdate="20210806T095820Z">
+        <seg>In general, systems must provide the following:     /     Nhìn chung, hệ thống phải đảm bảo như sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -13026,6 +13066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power demand for different area may vary according to case.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093430Z" creationid="Kieu Lan" creationdate="20210806T093404Z">
+        <seg>Power demand for different area may vary according to case.     /     Nhu cầu điện năng của các khu vực có thể khác đi, tùy trường hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power factor correction equipment will be provided to the main electrical distribution control boards to automatically</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061441Z" creationid="Kieu Lan" creationdate="20210805T061441Z">
@@ -15869,6 +15917,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The electrical supply must have a reliability of &gt; 99.988%. If a supply of this reliability is not</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T095834Z" creationid="Kieu Lan" creationdate="20210806T095834Z">
+        <seg>The electrical supply must have a reliability of &gt; 99.988%. If a supply of this reliability is not</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The entire building is to be protected throughout by an approved, supervised automatic sprinkler system and</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T045655Z" creationid="LanHK" creationdate="20210611T045655Z">
@@ -16162,6 +16218,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T044720Z" creationid="Kieu Lan" creationdate="20210628T044720Z">
         <seg>The illustrations are shown below:     /    Xem hình ảnh minh họa bên dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The incoming supply, generator supply and electrical distribution must be arranged to prevent a</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T103304Z" creationid="Kieu Lan" creationdate="20210806T103304Z">
+        <seg>The incoming supply, generator supply and electrical distribution must be arranged to prevent a</seg>
       </tuv>
     </tu>
     <tu>
@@ -16643,6 +16707,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T033319Z" creationid="LanHK" creationdate="20210717T033319Z">
         <seg>The target for carbon dioxide emissions should be as required by National Standards, or if they do not exist, then should not exceed 160kg/m2 floor area per annum. In the UK, the energy targets will be set by Building Regulations Part L compliance.     /     Mục tiêu phát thải CO2 nên tuân theo Tiêu chuẩn Quốc gia, hoặc nếu không có tiêu chuẩn quốc gia, mục tiêu không được vượt quá 160kg/m2 mặt sàn một năm. Tại UK, mục tiêu năng lượng được đặt ra trong tài liệu Building Regulations, mục L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tariff for supply must be negotiated to provide the most economic provision of power for the</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T103306Z" creationid="Kieu Lan" creationdate="20210806T103306Z">
+        <seg>The tariff for supply must be negotiated to provide the most economic provision of power for the</seg>
       </tuv>
     </tu>
     <tu>
@@ -18750,6 +18822,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>available, then an additional electrical supply system must also be provided in the form of an independent electrical generating plant, or a totally independent power supply from an alternative generating source. An availability in excess of 99.988% is required (i.e. not more than one hour interruption per year) to obviate the need for the generator.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T103258Z" creationid="Kieu Lan" creationdate="20210806T103258Z">
+        <seg>available, then an additional electrical supply system must also be provided in the form of an independent electrical generating plant, or a totally independent power supply from an alternative generating source. An availability in excess of 99.988% is required (i.e. not more than one hour interruption per year) to obviate the need for the generator.     /     Nguồn cấp điện phải có độ đáng tin cậy lớn hơn &gt; 99.988%. Nếu không đạt được mức này, phải có hệ thống cấp điện bổ sung nhờ nguồn phát thay thế khác. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>b) Central Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091433Z" creationid="LanHK" creationdate="20210702T091433Z">
@@ -19987,6 +20067,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>total loss of power in the event of failure of a single item.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T103543Z" creationid="Kieu Lan" creationdate="20210806T103305Z">
+        <seg>total loss of power in the event of failure of a single item.     /     Nguồn điện cấp vào, nguồn điện máy phát và phân phối điện phải được bố trí để tránh mất điện toàn bộ trong trường hợp một thiết bị xảy ra sự cố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tread depth 280mm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073533Z" creationid="LanHK" creationdate="20210609T073526Z">
@@ -20175,6 +20263,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T100412Z" creationid="Kieu Lan" creationdate="20210728T095240Z">
         <seg>• Efficient operation     /     Vận hành hiệu quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• A reliable electrical supply:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T095825Z" creationid="Kieu Lan" creationdate="20210806T095825Z">
+        <seg>• A reliable electrical supply:     /     Nguồn cấp điện đảm bảo</seg>
       </tuv>
     </tu>
     <tu>
