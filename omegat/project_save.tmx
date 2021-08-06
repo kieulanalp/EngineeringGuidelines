@@ -15227,8 +15227,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The electrical services installations must be designed to serve all areas of the Hotel, and provide for future expansion/flexibility. This must comprise spare capacity within containment capacities, switchgear space on all switchboards and individual transformer capacity (based on anticipated maximum demand peak load requirements) to allow for the following power increases:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T095703Z" creationid="Kieu Lan" creationdate="20210805T095408Z">
-        <seg>The electrical services installations must be designed to serve all areas of the Hotel, and provide for future expansion/flexibility. This must comprise spare capacity within containment capacities, switchgear space on all switchboards and individual transformer capacity (based on anticipated maximum demand peak load requirements) to allow for the following power increases:     /     Thiết kế lắp đặt điện phải phục vụ tất cả các khu vực của khách sạn, và tạo điều kiện cho việc mở rộng/thay đổi linh hoạt trong tương lai. Nó phải bao gồm công suất dự phòng bên trong containment capacities, diện tích để bổ sung công tắc trên tất cả các tủ điện và công suất máy biến áp độc lập (dựa trên yêu cầu tải đỉnh dự kiến), để tạo điều kiện tăng điện cấp cho các khu vực sau:</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T015536Z" creationid="Kieu Lan" creationdate="20210805T095408Z">
+        <seg>The electrical services installations must be designed to serve all areas of the Hotel, and provide for future expansion/flexibility. This must comprise spare capacity within containment capacities, switchgear space on all switchboards and individual transformer capacity (based on anticipated maximum demand peak load requirements) to allow for the following power increases:     /     Thiết kế lắp đặt điện phải phục vụ tất cả các khu vực của khách sạn, và tạo điều kiện cho việc mở rộng/thay đổi linh hoạt trong tương lai. Nó phải bao gồm không gian để bổ sung thêm dây cáp trong tủ cáp, diện tích để bổ sung công tắc trên tất cả các tủ điện và công suất máy biến áp độc lập (dựa trên yêu cầu tải đỉnh dự kiến), để tạo điều kiện tăng điện cấp cho các khu vực sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17600,8 +17600,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Where the supply will be delivered at high voltage, either two transformers at 50% each or one at 100% each of the maximum peak demand must be provided. The transformers must be dry type either cast resin or sealed silicon filled, with forced air cooling for peak transformer loads. Forced ventilation must be installed within the substation when dry type transformer is installed.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T011935Z" creationid="Kieu Lan" creationdate="20210805T095705Z">
-        <seg>Where the supply will be delivered at high voltage, either two transformers at 50% each or one at 100% each of the maximum peak demand must be provided. The transformers must be dry type either cast resin or sealed silicon filled, with forced air cooling for peak transformer loads. Forced ventilation must be installed within the substation when dry type transformer is installed.     /     Nếu nguồn cấp điện là </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T015945Z" creationid="Kieu Lan" creationdate="20210805T095705Z">
+        <seg>Where the supply will be delivered at high voltage, either two transformers at 50% each or one at 100% of the maximum peak demand must be provided. The transformers must be dry type either cast resin or sealed silicon filled, with forced air cooling for peak transformer loads. Forced ventilation must be installed within the substation when dry type transformer is installed.     /     Nếu nguồn cấp điện là điện cao thế, hoặc phải bố trí 2 máy biến áp - mỗi máy đáp ứng 50% tải đỉnh, hoặc một máy đáp ứng 100% tải đỉnh</seg>
       </tuv>
     </tu>
     <tu>
