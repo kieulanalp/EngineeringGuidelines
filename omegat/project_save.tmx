@@ -17058,8 +17058,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>To provide fresh air to all areas for the dilution of odours and for occupancy needs. This must be pre-conditioned</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T075848Z" creationid="Kieu Lan" creationdate="20210805T061408Z">
-        <seg>To provide fresh air to all areas for the dilution of odours and for occupancy needs. This must be pre-conditioned     /       Cấp khí tươi cho tất cả các khu vực để pha loãng mùi và phục vụ nhu cầu của người trong tòa nhà. Việc này phải được định trước bằng các AHU chuyên dụng</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T075901Z" creationid="Kieu Lan" creationdate="20210805T061408Z">
+        <seg>To provide fresh air to all areas for the dilution of odours and for occupancy needs. This must be pre-conditioned     /       Cấp khí tươi cho tất cả các khu vực để pha loãng mùi và phục vụ nhu cầu của người trong tòa nhà. Việc này phải được định trước bằng các AHU chuyên dụng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18710,8 +18710,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>by dedicated AHU’s.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T034949Z">
-        <seg>by dedicated AHU’s.     /     Cung cấp khí tươi cho tất cả các khu vực để tránh mùi lạ và phục vụ nhu cầu của người trong tòa nhà. Việc này phải được định trước bằng hệ thống AHU chuyên dụng</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T075856Z" creationid="LanHK" creationdate="20210715T034949Z">
+        <seg>by dedicated AHU’s. </seg>
       </tuv>
     </tu>
     <tu>
