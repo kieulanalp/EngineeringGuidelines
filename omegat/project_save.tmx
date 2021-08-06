@@ -2649,6 +2649,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.2.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041055Z" creationid="Kieu Lan" creationdate="20210806T041055Z">
+        <seg>5.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -3919,6 +3927,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020011Z" creationid="Kieu Lan" creationdate="20210713T020011Z">
         <seg>An audible alarm activated by any fault or alarm condition, complete with muting switch     /     Báo động âm thanh kích hoạt bởi bất cứ điều kiện sự cố hoặc báo động nào, kèm với nút tắt âm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An electrical load analysis must be carried out to detail the predicted loads for the hotel, by service and department area, based in VA/m2 floor loadings. This load analysis must include allowances for increase in electrical demand, and typical maximum values are indicated in the table following:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041412Z" creationid="Kieu Lan" creationdate="20210806T041121Z">
+        <seg>An electrical load analysis must be carried out to detail the predicted loads for the hotel, by service and department area, based in VA/m2 floor loadings. This load analysis must include allowances for increase in electrical demand, and typical maximum values are indicated in the table following:     /     Phải tiến hành phân tích phụ tải điện để có chi tiết các phụ tải dự tính trong khách sạn, tính theo </seg>
       </tuv>
     </tu>
     <tu>
@@ -15006,6 +15022,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 5.1 - Schedule of Electrical Loads for Various Hotel Areas Note: Figures exclude heating/air conditioning from central plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041122Z" creationid="Kieu Lan" creationdate="20210806T041122Z">
+        <seg>Table 5.1 - Schedule of Electrical Loads for Various Hotel Areas Note: Figures exclude heating/air conditioning from central plant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 5.2 - Requirement for a Generator / Back up Power</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -16581,6 +16605,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These tables are provided for guidance only in accessing the installed capacity and potential running costs. The designer should calculate these figures specifically for each individual hotel and use these for checking purpose.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041054Z" creationid="Kieu Lan" creationdate="20210806T041054Z">
+        <seg>These tables are provided for guidance only in accessing the installed capacity and potential running costs. The designer should calculate these figures specifically for each individual hotel and use these for checking purpose.     /     Các bảng sau chỉ mang tính định hướng trong quá trình đánh giá công suất đã lắp đặt và chi phí vận hành dự kiến. Thiết kế nên tính toán các con số cụ thể cho mỗi khách sạn để sử dụng vào mục đích kiểm tra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are however not without risk, and must only be used under the following conditions:-</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T045229Z" creationid="Kieu Lan" creationdate="20210802T045229Z">
@@ -17061,6 +17093,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025944Z" creationid="Kieu Lan" creationdate="20210806T025909Z">
         <seg>Typical Hotel Power Consumption     /     Các hạng mục tiêu thụ năng lượng điển hình của khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Power Loads for Hotel Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041110Z" creationid="Kieu Lan" creationdate="20210806T041110Z">
+        <seg>Typical Power Loads for Hotel Areas     /     Các phụ tại điển hình trong các khu vực khách sạn</seg>
       </tuv>
     </tu>
     <tu>
