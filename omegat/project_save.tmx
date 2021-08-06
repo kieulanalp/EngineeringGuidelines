@@ -9120,16 +9120,16 @@
       <tuv lang="EN-US">
         <seg>Historical Maximum Temperature Data Occurrence Chart of Design Location</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T044349Z" creationid="LanHK" creationdate="20210715T044349Z">
-        <seg>Historical Maximum Temperature Data Occurrence Chart of Design Location     /     Biểu đồ dữ liệu nhiệt độ tối đa đạt được tại địa điểm thiết kế</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T101820Z" creationid="LanHK" creationdate="20210715T044349Z">
+        <seg>Historical Maximum Temperature Data Occurrence Chart of Design Location     /     Biểu đồ dữ liệu nhiệt độ tối đa xuất hiện tại địa điểm thiết kế</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Historical Minimum Temperature Data Occurrence Chart of Design Location</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T044440Z" creationid="LanHK" creationdate="20210715T044440Z">
-        <seg>Historical Minimum Temperature Data Occurrence Chart of Design Location     /     Biểu đồ dữ liệu nhiệt độ thấp nhất đạt được tại địa điểm thiết kế</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T101953Z" creationid="LanHK" creationdate="20210715T044440Z">
+        <seg>Historical Minimum Temperature Data Occurrence Chart of Design Location     /     Biểu đồ dữ liệu nhiệt độ thấp nhất theo ghi nhận tại địa điểm thiết kế</seg>
       </tuv>
     </tu>
     <tu>
@@ -9979,8 +9979,8 @@
       <tuv lang="EN-US">
         <seg>Internal heating design conditions should be achieved at external conditions which are exceeded by the minimum historical weather data for the location for more than 2% of the year</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T044526Z" creationid="LanHK" creationdate="20210715T044526Z">
-        <seg>Internal cooling design conditions should be achieved at external conditions which are not exceeded by the minimum historical weather data for the location for more than 2% of the year     /     Điều kiện thiết kế làm mát trong nhà được quyết định dựa trên điều kiện bên ngoài - chúng không vượt quá dữ liệu thời tiết thấp nhất cho khu vực này trong hơn 2% thời gian năm</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T102446Z" creationid="LanHK" creationdate="20210715T044526Z">
+        <seg>Internal cooling design conditions should be achieved at external conditions which are not exceeded by the minimum historical weather data for the location for more than 2% of the year     /     Điều kiện thiết kế làm mát trong nhà được quyết định dựa trên điều kiện bên ngoài - chúng không vượt quá dữ liệu thời tiết ghi nhận thấp nhất cho khu vực này trong hơn 2% thời gian năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -15491,8 +15491,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Temperature occurs lessthan 2% of the vear</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T044426Z" creationid="LanHK" creationdate="20210715T044421Z">
-        <seg>Temperature occurs less than 2% of the year     /     Nhiệt độ đạt đến ít hơn 2%/năm</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T101838Z" creationid="LanHK" creationdate="20210715T044421Z">
+        <seg>Temperature occurs less than 2% of the year     /     Nhiệt độ xuất hiện ít hơn 2%/năm</seg>
       </tuv>
     </tu>
     <tu>
