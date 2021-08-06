@@ -17058,8 +17058,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>To provide fresh air to all areas for the dilution of odours and for occupancy needs. This must be pre-conditioned</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061408Z" creationid="Kieu Lan" creationdate="20210805T061408Z">
-        <seg>To provide fresh air to all areas for the dilution of odours and for occupancy needs. This must be pre-conditioned</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T075848Z" creationid="Kieu Lan" creationdate="20210805T061408Z">
+        <seg>To provide fresh air to all areas for the dilution of odours and for occupancy needs. This must be pre-conditioned     /       Cấp khí tươi cho tất cả các khu vực để pha loãng mùi và phục vụ nhu cầu của người trong tòa nhà. Việc này phải được định trước bằng các AHU chuyên dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -18590,14 +18590,6 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T015341Z" creationid="Kieu Lan" creationdate="20210714T015341Z">
         <seg>automatically throughout the whole hotel.     /     Nếu một thiết bị thứ hai kích hoạt trong thời gian chờ, bất kể là loại thiết bị nào, báo động phải được kích hoạt trên toàn bộ khách sạn</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>available.</seg>
-      </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T075220Z" creationid="LanHK" creationdate="20210715T034847Z">
-        <seg>available.     / </seg>
       </tuv>
     </tu>
     <tu>
