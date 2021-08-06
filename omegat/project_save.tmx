@@ -9842,8 +9842,8 @@
       <tuv lang="EN-US">
         <seg>Internal design conditions indicated for each area, as indicated in Table 4.3.2</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T062138Z" creationid="LanHK" creationdate="20210715T025027Z">
-        <seg>Internal design conditions indicated for each area, as indicated in Table 4.3.2     /     Các điều kiện thiết kế trong nhà được chỉ định cho mỗi khu vực như trong bảng 4.3.2</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T065957Z" creationid="LanHK" creationdate="20210715T025027Z">
+        <seg>Internal design conditions indicated for each area, as indicated in Table 4.3.2     /     Các điều kiện thiết kế trong nhà được chỉ định cho mỗi khu vực như trong bảng 4.3.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15667,8 +15667,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The design, installation and maintenance provisions shall be in full compliance with all relevant International, European, National and Local standards and regulations, and in particular any health, fire, safety and environmental legislation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T024537Z" creationid="LanHK" creationdate="20210715T024537Z">
-        <seg>The design, installation and maintenance provisions shall be in full compliance with all relevant International, European, National and Local standards and regulations, and in particular any health, fire, safety and environmental legislation.     /     Thiết kế, lắp đặt và bảo trì phải tuân thủ tất cả các tiêu chuẩn và quy chế Quốc tế, châu Âu, Quốc gia và Địa phương liên quan, và đặc biệt là bất cứ quy định nào về sức khỏe, PCCC, an toàn và môi trường nào</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T065746Z" creationid="LanHK" creationdate="20210715T024537Z">
+        <seg>The design, installation and maintenance provisions shall be in full compliance with all relevant International, European, National and Local standards and regulations, and in particular any health, fire, safety and environmental legislation.     /     Thiết kế, lắp đặt và bảo trì phải tuân thủ tất cả các tiêu chuẩn và quy chế Quốc tế, châu Âu, Quốc gia và Địa phương liên quan, và đặc biệt là bất cứ quy định nào về sức khỏe, PCCC, an toàn và môi trường.</seg>
       </tuv>
     </tu>
     <tu>
