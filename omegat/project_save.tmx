@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -570,8 +570,8 @@
       <tuv lang="EN-US">
         <seg>10 AC/hr. or sized to dissipate heat and moisture from equipment if details are available.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T064943Z" creationid="LanHK" creationdate="20210715T064943Z">
-        <seg>10 AC/hr. or sized to dissipate heat and moisture from equipment if details are available.     /     10AC/giờ hoặc có kích cỡ đủ để tản nhiệt và hơi ẩm nếu có chi tiết</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210807T092239Z" creationid="LanHK" creationdate="20210715T064943Z">
+        <seg>10 AC/hr. or sized to dissipate heat and moisture from equipment if details are available.     /     10AC/giờ hoặc có kích cỡ đủ để tản nhiệt và hơi ẩm từ thiết bị nếu có chi tiết</seg>
       </tuv>
     </tu>
     <tu>
@@ -3883,8 +3883,8 @@
       <tuv lang="EN-US">
         <seg>Air change rate shall depend on kitchen equipment heat output and on extract volume from canopies. A minimum face velocity must be provided to each canopy, refer to the kitchen section of this document. Use of proprietary hoods with UV filtration can reduce this.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T072421Z" creationid="LanHK" creationdate="20210715T065042Z">
-        <seg>Air change rate shall depend on kitchen equipment heat output and on extract volume from canopies. A minimum face velocity must be provided to each canopy, refer to the kitchen section of this document. Use of proprietary hoods with UV filtration can reduce this.     /     Số lần trao đổi gió phụ thuộc vào lượng nhiệt tỏa ra từ bếp và khả năng hút của chụp hút bếp. Mỗi chụp hút có vận tốc bề mặt tối thiểu, tham khảo mục về bếp trong tài liệu này. Sử dụng chụp hút độc quyền chính hãng với bộ lọc UV có thể làm giảm lượng cấp khí</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210807T092757Z" creationid="LanHK" creationdate="20210715T065042Z">
+        <seg>Air change rate shall depend on kitchen equipment heat output and on extract volume from canopies. A minimum face velocity must be provided to each canopy, refer to the kitchen section of this document. Use of proprietary hoods with UV filtration can reduce this.     /     Số lần trao đổi khyí phụ thuộc vào lượng nhiệt tỏa ra từ thiết bị bếp và khả năng hút của chụp hút bếp. Mỗi chụp hút có vận tốc bề mặt tối thiểu, tham khảo mục về bếp trong tài liệu này. Sử dụng chụp hút độc quyền chính hãng với bộ lọc UV có thể làm giảm tỉ lệ này</seg>
       </tuv>
     </tu>
     <tu>
