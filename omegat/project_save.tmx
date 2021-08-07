@@ -13019,8 +13019,8 @@
       <tuv lang="EN-US">
         <seg>Pool hall internal temperature should be designed 1oC above maximum pool water temperature.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T072606Z" creationid="LanHK" creationdate="20210715T072606Z">
-        <seg>Pool hall internal temperature should be designed 1°C above maximum pool water temperature.     /     Nhiệt độ sảnh bể bơi trong nhà nên duy trì cao hơn nhiệt độ nước tối đa 1°C</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210807T092907Z" creationid="LanHK" creationdate="20210715T072606Z">
+        <seg>Pool hall internal temperature should be designed 1°C above maximum pool water temperature.     /     Nhiệt độ sảnh bể bơi trong nhà nên duy trì cao hơn 1°C so với nhiệt độ nước bể bơi tối đa</seg>
       </tuv>
     </tu>
     <tu>
