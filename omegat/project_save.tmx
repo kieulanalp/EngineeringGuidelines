@@ -5264,8 +5264,8 @@
       <tuv lang="EN-US">
         <seg>Car parks requiring mechanical ventilation shall be extracted to prevent the spread of fumes to adjoining spaces. Systems shall be controlled by air quality sensors (CO and N0x) to reduce energy consumption (with override by Life Safety Controls). Ventilation rate in fire/smoke control mode to meet local regulations.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T085747Z" creationid="LanHK" creationdate="20210715T085747Z">
-        <seg>Car parks requiring mechanical ventilation shall be extracted to prevent the spread of fumes to adjoining spaces. Systems shall be controlled by air quality sensors (CO and N0x) to reduce energy consumption (with override by Life Safety Controls). Ventilation rate in fire/smoke control mode to meet local regulations.     /     Các bãi đỗ xe yêu cầu có thông khí cơ học phải bố trí thải khí để tránh khí thải lan sang các không gian liền kề. Các hệ thống phải được kiểm soát thông qua cảm biến chất lượng không khí (CO và NOx) để giảm tiêu thụ năng lượng (Có cơ chế ghi đè thông qua hệ thống an toàn sinh mạng). Lưu lượng thông khí trong chế độ kiểm soát cháy/khói phải tuân thủ quy định địa phương</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210807T114223Z" creationid="LanHK" creationdate="20210715T085747Z">
+        <seg>Car parks requiring mechanical ventilation shall be extracted to prevent the spread of fumes to adjoining spaces. Systems shall be controlled by air quality sensors (CO and N0x) to reduce energy consumption (with override by Life Safety Controls). Ventilation rate in fire/smoke control mode to meet local regulations.     /     Các bãi đỗ xe yêu cầu có thông khí cơ học phải bố trí hút khí để tránh khí lan sang các không gian liền kề. Các hệ thống phải được kiểm soát thông qua cảm biến chất lượng không khí (CO và NOx) để giảm tiêu thụ năng lượng (Có cơ chế ghi đè thông qua hệ thống an toàn sinh mạng). Lưu lượng thông khí trong chế độ kiểm soát cháy/khói phải tuân thủ quy định địa phương</seg>
       </tuv>
     </tu>
     <tu>
