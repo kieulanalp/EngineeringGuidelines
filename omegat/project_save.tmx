@@ -4479,8 +4479,8 @@
       <tuv lang="EN-US">
         <seg>As mentioned previously, the air conditioning will make up a large proportion of the power consumption for a hotel building, and the fresh air will form a significant proportion of this, which can be illustrated as follows for different locations:-</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T103012Z" creationid="LanHK" creationdate="20210716T102923Z">
-        <seg>As mentioned previously, the air conditioning will make up a large proportion of the power consumption for a hotel building, and the fresh air will form a significant proportion of this, which can be illustrated as follows for different locations:-     /     Như đã nói, việc điều hòa không khí sẽ chiếm một phần lớn trong tiêu thụ điện của một tòa khách sạn, và khí tươi sẽ chiếm một phần đáng kể trong đó, ví dụ tại một số địa điểm dưới đây </seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T073236Z" creationid="LanHK" creationdate="20210716T102923Z">
+        <seg>As mentioned previously, the air conditioning will make up a large proportion of the power consumption for a hotel building, and the fresh air will form a significant proportion of this, which can be illustrated as follows for different locations:-     /     Như đã nói, việc điều hòa không khí sẽ chiếm một phần lớn trong tiêu thụ điện của một tòa khách sạn, và khí tươi sẽ chiếm một phần đáng kể trong đó, ví dụ tại một số vị trí dưới đây </seg>
       </tuv>
     </tu>
     <tu>
@@ -8265,8 +8265,8 @@
       <tuv lang="EN-US">
         <seg>Fresh Air Load Estimation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T102115Z" creationid="LanHK" creationdate="20210525T091131Z">
-        <seg>Fresh Air Load Estimation    /    Ước tính phụ tải khí tươi</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T073106Z" creationid="LanHK" creationdate="20210525T091131Z">
+        <seg>Fresh Air Load Estimation    /    Ước tính tải khí tươi</seg>
       </tuv>
     </tu>
     <tu>
