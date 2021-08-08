@@ -12923,8 +12923,8 @@
       <tuv lang="EN-US">
         <seg>Plant Locations- should be central to the location being served</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T031434Z" creationid="LanHK" creationdate="20210717T031434Z">
-        <seg>Plant Locations- should be central to the location being served     /     Vị trí máy - nên ở vị trí trung tâm của các khu vực mà nó phục vụ</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082755Z" creationid="LanHK" creationdate="20210717T031434Z">
+        <seg>Plant Locations- should be central to the location being served     /     Vị trí phòng máy (trạm kĩ thuật) - nên ở vị trí trung tâm của các khu vực mà nó phục vụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16457,8 +16457,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The plant should be located centrally to the areas being served as shown in the following illustration (and not for example all on the roof)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T031309Z" creationid="LanHK" creationdate="20210717T031309Z">
-        <seg>The plant should be located centrally to the areas being served as shown in the following illustration (and not for example all on the roof)     /     Phòng máy nên được bố trí ở vị trí trung tâm của các khu vực mà nó phục vụ như hình minh họa (và không phải tất cả đều bố trí trên mái chẳng hạn)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082723Z" creationid="LanHK" creationdate="20210717T031309Z">
+        <seg>The plant should be located centrally to the areas being served as shown in the following illustration (and not for example all on the roof)     /     Phòng máy/trạm kĩ thuật nên được bố trí ở vị trí trung tâm của các khu vực mà nó phục vụ như hình minh họa (và không phải tất cả đều bố trí trên mái chẳng hạn)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17034,8 +17034,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>These should be used as a guide only for preliminary planning and for checking purposes.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T031225Z" creationid="LanHK" creationdate="20210717T031225Z">
-        <seg>These should be used as a guide only for preliminary planning and for checking purposes.     /     Các thông tin trên chỉ nên được dùng để tham chiếu trong quá trình lên kế hoạch và kiểm tra</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082700Z" creationid="LanHK" creationdate="20210717T031225Z">
+        <seg>These should be used as a guide only for preliminary planning and for checking purposes.     /     Các thông tin trên chỉ nên được dùng để tham khảo trong quá trình lên quy hoạch và kiểm tra</seg>
       </tuv>
     </tu>
     <tu>
@@ -17373,8 +17373,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Total plant space (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T023725Z" creationid="LanHK" creationdate="20210717T023725Z">
-        <seg>Total plant space (m2)     /     Tổng diện tích cho máy  móc</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082528Z" creationid="LanHK" creationdate="20210717T023725Z">
+        <seg>Total plant space (m2)     /     Tổng diện tích cho trạm kĩ thuật </seg>
       </tuv>
     </tu>
     <tu>
