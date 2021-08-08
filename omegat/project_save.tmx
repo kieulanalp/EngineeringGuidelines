@@ -11153,8 +11153,8 @@
       <tuv lang="EN-US">
         <seg>Main Plant Location</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091216Z">
-        <seg>Main Plant Location    /    Vị trí phòng máy chính</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T075529Z" creationid="LanHK" creationdate="20210525T091216Z">
+        <seg>Main Plant Location    /    Vị trí phòng máy chính / trạm kĩ thuật chính</seg>
       </tuv>
     </tu>
     <tu>
@@ -11193,8 +11193,8 @@
       <tuv lang="EN-US">
         <seg>Main mechanical plant locations- remote- not recommended (poor practice)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022234Z" creationid="LanHK" creationdate="20210717T022234Z">
-        <seg>Main mechanical plant locations- remote- not recommended (poor practice)     /     Vị trí máy chính ở xa - không khuyến nghị (thiết kế không tốt)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T075614Z" creationid="LanHK" creationdate="20210717T022234Z">
+        <seg>Main mechanical plant locations- remote- not recommended (poor practice)     /     Vị trí trạm kĩ thuật chính ở xa - không khuyến nghị (thiết kế không tốt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11393,8 +11393,8 @@
       <tuv lang="EN-US">
         <seg>Mechanical Services Plant Remote (Poor Design)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T021134Z" creationid="LanHK" creationdate="20210717T014252Z">
-        <seg>Mechanical Services Plant Remote (Poor Design)     /     Bố trí các máy cơ xa nhau (thiết kế không tốt)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T075453Z" creationid="LanHK" creationdate="20210717T014252Z">
+        <seg>Mechanical Services Plant Remote (Poor Design)     /     Bố trí các trạm kĩ thuật ở vị trí xa nhau (thiết kế không tốt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12947,8 +12947,8 @@
       <tuv lang="EN-US">
         <seg>Plant separated - long distribution at maximum size</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T021151Z" creationid="LanHK" creationdate="20210717T021151Z">
-        <seg>Plant separated - long distribution at maximum size     /     Các máy tách xa nhau - khoảng cách phân phối xa</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T075520Z" creationid="LanHK" creationdate="20210717T021151Z">
+        <seg>Plant separated - long distribution at maximum size     /     Các trạm kĩ thuật tách xa nhau - khoảng cách phân phối xa</seg>
       </tuv>
     </tu>
     <tu>
