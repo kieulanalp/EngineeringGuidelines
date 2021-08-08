@@ -4952,8 +4952,8 @@
       <tuv lang="EN-US">
         <seg>Boilers, AC Plant, HWS and pumps (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T023227Z" creationid="LanHK" creationdate="20210717T023227Z">
-        <seg>Boilers, AC Plant, HWS and pumps (m2)     /     Nồi hơi, máy AC, Cấp nước nóng và Bơm</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082414Z" creationid="LanHK" creationdate="20210717T023227Z">
+        <seg>Boilers, AC Plant, HWS and pumps (m2)     /     Nồi hơi, trạm AC, Cấp nước nóng và Bơm</seg>
       </tuv>
     </tu>
     <tu>
@@ -6718,8 +6718,8 @@
       <tuv lang="EN-US">
         <seg>Electrical transformer and switchgear (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T023607Z" creationid="LanHK" creationdate="20210717T023607Z">
-        <seg>Electrical transformer and switchgear (m2)     /     Máy biến áp và Switchgear</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082433Z" creationid="LanHK" creationdate="20210717T023607Z">
+        <seg>Electrical transformer and switchgear (m2)     /     Máy biến áp và Tủ bảng điện (Switchgear)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8569,8 +8569,8 @@
       <tuv lang="EN-US">
         <seg>Generator (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T023619Z" creationid="LanHK" creationdate="20210717T023619Z">
-        <seg>Generator (m2)     /     Máy phát điện khẩn cấp</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082441Z" creationid="LanHK" creationdate="20210717T023619Z">
+        <seg>Generator (m2)     /     Máy phát điện </seg>
       </tuv>
     </tu>
     <tu>
@@ -8665,8 +8665,8 @@
       <tuv lang="EN-US">
         <seg>Gross area public / BOH (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Gross area public    /    BOH (m2)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082513Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Gross area public    /   Tổng diện tích BOH (m2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13878,8 +13878,8 @@
       <tuv lang="EN-US">
         <seg>Room area (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T023641Z" creationid="LanHK" creationdate="20210717T023641Z">
-        <seg>Room area (m2)     /     Tổng diện tích phòng máy</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082457Z" creationid="LanHK" creationdate="20210717T023641Z">
+        <seg>Room area (m2)     /     Tổng diện tích trạm kĩ thuật</seg>
       </tuv>
     </tu>
     <tu>
@@ -17333,8 +17333,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Total Gross area public space BOH (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T023115Z" creationid="LanHK" creationdate="20210717T023108Z">
-        <seg>Total Gross area public space BOH (m2)     /     Tổng diện tích gross cho không gian công cộng BOH (m2)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082400Z" creationid="LanHK" creationdate="20210717T023108Z">
+        <seg>Total Gross area public space BOH (m2)     /     Tổng diện tích gross cho không gian BOH (m2)</seg>
       </tuv>
     </tu>
     <tu>
