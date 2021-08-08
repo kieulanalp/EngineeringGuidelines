@@ -6677,16 +6677,16 @@
       <tuv lang="EN-US">
         <seg>Electrical Plant Remote (Poor Design)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022554Z" creationid="LanHK" creationdate="20210717T022554Z">
-        <seg>Electrical Plant Remote (Poor Design)     /     Vị trí máy điện ở xa (thiết kế không tốt)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080705Z" creationid="LanHK" creationdate="20210717T022554Z">
+        <seg>Electrical Plant Remote (Poor Design)     /     Vị trí trạm điện ở xa (thiết kế không hiệu quả)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Electrical Plant located correctly (Good Design)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022657Z" creationid="LanHK" creationdate="20210717T022657Z">
-        <seg>Electrical Plant located correctly (Good Design)     /     Các máy điện bố tri đúng (thiết kế tốt)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080746Z" creationid="LanHK" creationdate="20210717T022657Z">
+        <seg>Electrical Plant located correctly (Good Design)     /     Trạm điện bố trí đúng (thiết kế tốt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9771,8 +9771,8 @@
       <tuv lang="EN-US">
         <seg>Increased capital and running costs</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022640Z" creationid="LanHK" creationdate="20210717T022640Z">
-        <seg>Increased capital and running costs     /     tăng chi phí đầu tư và vận hành</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080730Z" creationid="LanHK" creationdate="20210717T022640Z">
+        <seg>Increased capital and running costs     /     Tăng chi phí đầu tư và vận hành</seg>
       </tuv>
     </tu>
     <tu>
@@ -11177,8 +11177,8 @@
       <tuv lang="EN-US">
         <seg>Main electrical loads separated</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022602Z" creationid="LanHK" creationdate="20210717T022602Z">
-        <seg>Main electrical loads separated     /     Phụ tải điện chính bị tách nhau</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080714Z" creationid="LanHK" creationdate="20210717T022602Z">
+        <seg>Main electrical loads separated     /     Tải điện chính bị tách nhau</seg>
       </tuv>
     </tu>
     <tu>
@@ -11393,8 +11393,8 @@
       <tuv lang="EN-US">
         <seg>Mechanical Services Plant Remote (Poor Design)</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T075453Z" creationid="LanHK" creationdate="20210717T014252Z">
-        <seg>Mechanical Services Plant Remote (Poor Design)     /     Bố trí các trạm kĩ thuật ở vị trí xa nhau (thiết kế không tốt)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080626Z" creationid="LanHK" creationdate="20210717T014252Z">
+        <seg>Mechanical Services Plant Remote (Poor Design)     /     Bố trí các trạm kĩ thuật ở vị trí xa nhau (thiết kế không hiêụ quả)</seg>
       </tuv>
     </tu>
     <tu>
