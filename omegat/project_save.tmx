@@ -5803,8 +5803,8 @@
       <tuv lang="EN-US">
         <seg>Cooling Load Estimates</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T101914Z" creationid="LanHK" creationdate="20210525T090907Z">
-        <seg>Cooling Load Estimates    /    Ước tính phụ tải làm mát</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T071546Z" creationid="LanHK" creationdate="20210525T090907Z">
+        <seg>Cooling Load Estimates    /    Ước tính tải làm mát</seg>
       </tuv>
     </tu>
     <tu>
@@ -10127,8 +10127,8 @@
       <tuv lang="EN-US">
         <seg>It is important to estimate the building cooling load accurately and not oversize (which will cause inefficiency and poor control) or undersize, (which will cause poor temperature controls).</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T102009Z" creationid="LanHK" creationdate="20210716T092147Z">
-        <seg>It is important to estimate the building cooling load accurately and not oversize (which will cause inefficiency and poor control) or undersize, (which will cause poor temperature controls).     /     Việc ước tính phụ tải làm mát tòa nhà một cách chính xác và không vượt quá (sẽ gây giảm hiệu suất và kiểm soát kém) hoặc ít hơn (sẽ gây kiểm soát nhiệt độ kém)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T072404Z" creationid="LanHK" creationdate="20210716T092147Z">
+        <seg>It is important to estimate the building cooling load accurately and not oversize (which will cause inefficiency and poor control) or undersize, (which will cause poor temperature controls).     /     Việc ước tính tải làm mát tòa nhà một cách chính xác và không vượt quá là rất quan trọng (sẽ tránh gây giảm hiệu suất và kiểm soát kém) hoặc ít hơn (sẽ gây kiểm soát nhiệt độ kém)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17688,8 +17688,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Understanding the wind strengths and patterns for the site can help in locating intakes &amp; discharges and benefiting from natural ventilation. The following is an illustration of a typical wind path diagram:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210716T092019Z" creationid="LanHK" creationdate="20210716T092019Z">
-        <seg>Understanding the wind strengths and patterns for the site can help in locating intakes &amp; discharges and benefiting from natural ventilation. The following is an illustration of a typical wind path diagram:     /     Hiểu sức gió và các luồng gió tại vị trí dự án có thể giúp xác định hướng thu và thải khí (intakes &amp; discharges) và thu được lợi ích từ thông gió tự nhiên. Hình dưới minh họa một biểu đồ hướng gió điển hình</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T071539Z" creationid="LanHK" creationdate="20210716T092019Z">
+        <seg>Understanding the wind strengths and patterns for the site can help in locating intakes &amp; discharges and benefiting from natural ventilation. The following is an illustration of a typical wind path diagram:     /     Hiểu sức gió và các luồng gió tại vị trí dự án có thể giúp xác định hướng cấp vào và thải khí (intakes &amp; discharges) và thu được lợi ích từ thông gió tự nhiên. Hình dưới minh họa một biểu đồ hướng gió điển hình</seg>
       </tuv>
     </tu>
     <tu>
