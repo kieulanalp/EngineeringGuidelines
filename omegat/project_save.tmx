@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20295,6 +20295,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T023618Z" creationid="LanHK" creationdate="20210715T022706Z">
         <seg>• Designer to provide efficient plant and systems, appropriate zoning, effective control systems, selection of the most cost effective fuels     /     Thiết kế các hệ thống và máy móc hiệu suất cao, chia zone hợp lý, hệ thống kiểm soát hiệu quả, lựa chọn các nhiên liệu hiệu suất tốt nhất trong tầm giá và thu hồi nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Emergency standby power to dedicated supplies:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210808T141311Z" creationid="Kieu Lan" creationdate="20210808T141311Z">
+        <seg>• Emergency standby power to dedicated supplies:     /     </seg>
       </tuv>
     </tu>
     <tu>
