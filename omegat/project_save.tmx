@@ -11377,8 +11377,8 @@
       <tuv lang="EN-US">
         <seg>Mechanical Plant Located Correctly (Good Design)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022247Z" creationid="LanHK" creationdate="20210717T022247Z">
-        <seg>Mechanical Plant Located Correctly (Good Design)     /     Bố trí máy đúng (thiết kế tốt)</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T075652Z" creationid="LanHK" creationdate="20210717T022247Z">
+        <seg>Mechanical Plant Located Correctly (Good Design)     /     Bố trí trạm kĩ thuật đúng vị trí (thiết kế tốt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12939,8 +12939,8 @@
       <tuv lang="EN-US">
         <seg>Plant areas minimised</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022331Z" creationid="LanHK" creationdate="20210717T022331Z">
-        <seg>Plant areas minimised     /     Giảm thiểu diện tích cho máy</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T075731Z" creationid="LanHK" creationdate="20210717T022331Z">
+        <seg>Plant areas minimised     /     Giảm thiểu diện tích cho khu vực kỹ thuật</seg>
       </tuv>
     </tu>
     <tu>
@@ -14398,8 +14398,8 @@
       <tuv lang="EN-US">
         <seg>Simplified maintenance with plant located close together</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022435Z" creationid="LanHK" creationdate="20210717T022435Z">
-        <seg>Simplified maintenance with plant located close together     /     Bảo trì dễ dàng vì máy bố trí gần nhau</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080145Z" creationid="LanHK" creationdate="20210717T022435Z">
+        <seg>Simplified maintenance with plant located close together     /     Bảo trì dễ dàng vì bố trí gần nhau</seg>
       </tuv>
     </tu>
     <tu>
@@ -19869,8 +19869,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>running cost</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022422Z" creationid="LanHK" creationdate="20210717T022422Z">
-        <seg>running cost     /     AHU bố trí ở vị trí trung tâm khu vực nó phục vụ - đường ống thông được chia để giảm thiểu không gian trần, chi phí đầu tư lắp đặt và vận hành</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T075834Z" creationid="LanHK" creationdate="20210717T022422Z">
+        <seg>running cost     /     AHU bố trí ở vị trí trung tâm khu vực cần phục vụ - đường ống được chia để giảm thiểu không gian trần, giảm chi phí đầu tư lắp đặt và vận hành</seg>
       </tuv>
     </tu>
     <tu>
