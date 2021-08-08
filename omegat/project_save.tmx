@@ -6268,8 +6268,8 @@
       <tuv lang="EN-US">
         <seg>Distribution/cable size minimised</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022733Z" creationid="LanHK" creationdate="20210717T022733Z">
-        <seg>Distribution/cable size minimised     /     Giảm thiểu kích cỡ cáp phân phối</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T081029Z" creationid="LanHK" creationdate="20210717T022733Z">
+        <seg>Distribution/cable size minimised     /     Tối thiểu kích cỡ cáp phân phối</seg>
       </tuv>
     </tu>
     <tu>
@@ -8865,8 +8865,8 @@
       <tuv lang="EN-US">
         <seg>Guidelines for Plant space Required</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022859Z" creationid="LanHK" creationdate="20210717T022859Z">
-        <seg>Guidelines for Plant space Required     /     Hướng dẫn về diện tích bố trí máy móc</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T081135Z" creationid="LanHK" creationdate="20210717T022859Z">
+        <seg>Guidelines for Plant space Required     /     Hướng dẫn về diện tích bố trí trạm kĩ thuật </seg>
       </tuv>
     </tu>
     <tu>
@@ -11169,8 +11169,8 @@
       <tuv lang="EN-US">
         <seg>Main electrical load locationscentral - recommended (good practice)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T022830Z" creationid="LanHK" creationdate="20210717T022830Z">
-        <seg>Main electrical load locations central - recommended (good practice)     /     Bố trí phụ tải điện chính ở trung tâm - khuyến nghị (thiết kế tốt</seg>
+      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T081052Z" creationid="LanHK" creationdate="20210717T022830Z">
+        <seg>Main electrical load locations central - recommended (good practice)     /     Bố trí trạm điện chính ở trung tâm - khuyến nghị (thiết kế tốt</seg>
       </tuv>
     </tu>
     <tu>
