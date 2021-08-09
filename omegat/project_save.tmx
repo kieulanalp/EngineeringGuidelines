@@ -2857,6 +2857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.2.4 Typical MV Distribution with Primary Loop</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T094945Z" creationid="Kieu Lan" creationdate="20210809T094945Z">
+        <seg>5.2.4 Typical MV Distribution with Primary Loop     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.3</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093406Z" creationid="Kieu Lan" creationdate="20210806T093406Z">
@@ -8415,6 +8423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuel additives must be used when storing seven (7) day capacity to prevent fuel from going stale.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T094923Z" creationid="Kieu Lan" creationdate="20210809T094854Z">
+        <seg>Fuel additives must be used when storing seven (7) day capacity to prevent fuel from going stale.     /     Cần thêm phụ gia vào nhiên liệu nếu dự trữ cho 7 ngày, tránh nhiên liệu bị hỏng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuel oil storage rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095957Z" creationid="LanHK" creationdate="20210713T095957Z">
@@ -12757,6 +12773,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025944Z" creationid="Kieu Lan" creationdate="20210806T025944Z">
         <seg>Page: 125</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page: 127</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T094924Z" creationid="Kieu Lan" creationdate="20210809T094924Z">
+        <seg>Page: 127</seg>
       </tuv>
     </tu>
     <tu>
