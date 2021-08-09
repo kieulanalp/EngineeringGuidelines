@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp; Foyer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064830Z" creationid="Kieu Lan" creationdate="20210809T064821Z">
+        <seg>&amp; Foyer     /     Phòng họp và sảnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp; of Total area</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T023749Z" creationid="LanHK" creationdate="20210717T023749Z">
@@ -4581,6 +4589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Audio Visual including o/head projection, video presentation, video conference, wall mounted projector.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064943Z" creationid="Kieu Lan" creationdate="20210809T064943Z">
+        <seg>Audio Visual including o/head projection, video presentation, video conference, wall mounted projector.     /     AV bao gồm máy chiếu gắn trần, trình chiếu video, họp trực tuyến, màn chiếu gắn tường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Australia / Asia Pacific</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T103119Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -6214,6 +6230,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025909Z" creationid="Kieu Lan" creationdate="20210806T025909Z">
         <seg>Dichroic Lamps     /     Đèn dichroic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dimming</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064837Z" creationid="Kieu Lan" creationdate="20210809T064837Z">
+        <seg>Dimming     /     Điều chỉnh sáng</seg>
       </tuv>
     </tu>
     <tu>
@@ -9039,10 +9063,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Health club activity areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065053Z" creationid="Kieu Lan" creationdate="20210809T065053Z">
+        <seg>Health club activity areas     /     Khu vực hoạt động trong Health Club</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Health club reception / dry areas</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Health club reception    /    dry areas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health club wet/change</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065023Z" creationid="Kieu Lan" creationdate="20210809T065023Z">
+        <seg>Health club wet/change     /     Health Club khu vực ướt/thay đồ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9487,6 +9527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IP44 or IP65 as needed</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065034Z" creationid="Kieu Lan" creationdate="20210809T065034Z">
+        <seg>IP44 or IP65 as needed     /     Cần IP44 hoặc IP65 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IT IS THE SUPPLY AIR DISTRIBUTION THAT WILL DETERMINE THE EXTENT OF COMFORT ACHIEVED IN THE OCCUPIED SPACE, WHICH IS MEASURED IN:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041623Z" creationid="Kieu Lan" creationdate="20210802T041623Z">
@@ -9805,6 +9853,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T063457Z" creationid="Kieu Lan" creationdate="20210705T063457Z">
         <seg>In the event of the operation of any fire detector, MCP or fire suppression system there is an immediate alarm throughout the whole hotel     /     Trong trường hợp kích hoạt bất cứ đầu báo cháy, nút báo cháy khẩn cấp hoặc hệ thống chữa cháy nào, ngay lập tức sẽ có báo động trên toàn khách sạn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inc. flush floor boxes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064956Z" creationid="Kieu Lan" creationdate="20210809T064956Z">
+        <seg>Inc. flush floor boxes     /     Gồm hộp điện âm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inc. flush floor boxes at desks</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064852Z" creationid="Kieu Lan" creationdate="20210809T064852Z">
+        <seg>Inc. flush floor boxes at desks     /     Gồm hộp điện âm mặt bàn</seg>
       </tuv>
     </tu>
     <tu>
@@ -10265,6 +10329,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064734Z" creationid="Kieu Lan" creationdate="20210809T064718Z">
         <seg>✓ Day/night + 4 Channel Dimming     /     Ngày/đêm + điều chỉnh 4 mức</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JDay/night + Dimming</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065137Z" creationid="Kieu Lan" creationdate="20210809T065116Z">
+        <seg>✓ Day/night + Dimming     /     Ngày/đêm + chỉnh sáng</seg>
       </tuv>
     </tu>
     <tu>
@@ -10769,6 +10841,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025738Z" creationid="Kieu Lan" creationdate="20210806T025738Z">
         <seg>Lighting Systems such as:     /     Thiết bị chiếu sáng như</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lighting also in swimming pool</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065043Z" creationid="Kieu Lan" creationdate="20210809T065043Z">
+        <seg>Lighting also in swimming pool     /     Có chiếu sáng trong hồ bơi</seg>
       </tuv>
     </tu>
     <tu>
@@ -11571,6 +11651,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045013Z" creationid="LanHK" creationdate="20210715T063621Z">
         <seg>Meeting Rooms     /     Phòng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meeting rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064821Z" creationid="Kieu Lan" creationdate="20210809T064821Z">
+        <seg>Meeting rooms</seg>
       </tuv>
     </tu>
     <tu>
@@ -13553,6 +13641,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>RCD’s to power</note>
+      <tuv lang="EN-US">
+        <seg>RCD’s to power</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>REAR OF BUILDING</seg>
       </tuv>
@@ -14432,6 +14526,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095227Z" creationid="Kieu Lan" creationdate="20210728T095227Z">
         <seg>Services generally all accessible in vertical services riser     /     Nhìn chung có thể tiếp cận tất cả các dịch vụ bằng trục ống đứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shops</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065115Z" creationid="Kieu Lan" creationdate="20210809T065111Z">
+        <seg>Shops     /     Cửa hàng</seg>
       </tuv>
     </tu>
     <tu>
