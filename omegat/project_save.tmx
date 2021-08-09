@@ -4485,6 +4485,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a rule of thumb, if the cost of 3kWh is at least 30% more than the cost of one litre of</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105855Z" creationid="Kieu Lan" creationdate="20210809T105855Z">
+        <seg>As a rule of thumb, if the cost of 3kWh is at least 30% more than the cost of one litre of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As an Air Cooled Chiller:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T044932Z" creationid="LanHK" creationdate="20210724T044932Z">
@@ -6951,8 +6959,8 @@
       <tuv lang="EN-US">
         <seg>Emergency Generation or CHP</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105602Z" creationid="Kieu Lan" creationdate="20210809T105602Z">
-        <seg>Emergency Generation or CHP     /     Phát điện khẩn cấp hoặc CHP</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105831Z" creationid="Kieu Lan" creationdate="20210809T105602Z">
+        <seg>Emergency Generation or CHP     /     Phát điện khẩn cấp hoặc CHP (Combined Heat and Power - kết hợp )</seg>
       </tuv>
     </tu>
     <tu>
@@ -7684,6 +7692,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Fault priority (urgent    /    not urgent)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feasibility:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105851Z" creationid="Kieu Lan" creationdate="20210809T105851Z">
+        <seg>Feasibility:     /     Tính khả thi</seg>
       </tuv>
     </tu>
     <tu>
@@ -9612,6 +9628,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093801Z" creationid="LanHK" creationdate="20210713T093801Z">
         <seg>If 2 hour enclosure is provided, only dry type electrical equipment is installed and dedicated room w/o storage.     /     Nếu có tường bao chống cháy 2h, chỉ có thiết bị điện loại khô được lắp đặt và là phòng chuyên dụng không bao gồm kho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If CHP is feasible, consider using CHP to support services in emergency operation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105847Z" creationid="Kieu Lan" creationdate="20210809T105659Z">
+        <seg>If CHP is feasible, consider using CHP to support services in emergency operation.     /     Nếu CHP khả thi, cân nhắc dùng CHP để hỗ trợ trong trường hợp vận hành khẩn cấp</seg>
       </tuv>
     </tu>
     <tu>
