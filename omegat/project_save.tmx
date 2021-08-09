@@ -2874,6 +2874,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.2.6</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105536Z" creationid="Kieu Lan" creationdate="20210809T105536Z">
+        <seg>5.2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.3</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093406Z" creationid="Kieu Lan" creationdate="20210806T093406Z">
@@ -6937,6 +6945,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061429Z" creationid="Kieu Lan" creationdate="20210805T061429Z">
         <seg>Emergency</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency Generation or CHP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105602Z" creationid="Kieu Lan" creationdate="20210809T105602Z">
+        <seg>Emergency Generation or CHP     /     Phát điện khẩn cấp hoặc CHP</seg>
       </tuv>
     </tu>
     <tu>
@@ -12802,6 +12818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 130</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105547Z" creationid="Kieu Lan" creationdate="20210809T105547Z">
+        <seg>Page: 130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 16</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -17944,6 +17968,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025944Z" creationid="Kieu Lan" creationdate="20210806T025909Z">
         <seg>Typical Hotel Power Consumption     /     Các hạng mục tiêu thụ năng lượng điển hình của khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical LV Distribution Schematic</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105546Z" creationid="Kieu Lan" creationdate="20210809T105546Z">
+        <seg>Typical LV Distribution Schematic     /     Sơ đồ phân phối điện nhẹ điển hình</seg>
       </tuv>
     </tu>
     <tu>
