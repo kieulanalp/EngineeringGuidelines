@@ -10423,8 +10423,8 @@
       <tuv lang="EN-US">
         <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T074918Z" creationid="Kieu Lan" creationdate="20210719T023613Z">
-        <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and switch selected circuits (or similar control via guest booking system). Also for use to control fresh air and extract system in conjunction with radiant ceiling option     /      Nếu cung cấp kiểm soát truy cập phòng khách bằng thẻ từ, chỉ reset nhiệt độ phòng khi phòng không có người và ngắt các mạch công tắc đã chọn (hoặc có điều khiển tương tự thông qua hệ thống book phòng khách). Đồng thời cũng dùng để kiểm soát hệ thống cấp khí tươi và hút khí cùng tính năng trần sưởi bức xạ</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T083347Z" creationid="Kieu Lan" creationdate="20210719T023613Z">
+        <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and switch selected circuits (or similar control via guest booking system). Also for use to control fresh air and extract system in conjunction with radiant ceiling option     /      Nếu cung cấp kiểm soát truy cập phòng khách bằng thẻ từ, chỉ reset nhiệt độ phòng khi phòng không có người và ngắt các mạch công tắc đã chọn (hoặc có điều khiển tương tự thông qua hệ thống book phòng khách). Đồng thời cũng dùng để kiểm soát hệ thống cấp khí tươi và hút khí cùng tính năng trần sưởi bức xạ sóng</seg>
       </tuv>
     </tu>
     <tu>
