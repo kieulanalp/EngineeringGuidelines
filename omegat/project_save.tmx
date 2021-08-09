@@ -2856,11 +2856,20 @@
       </tuv>
     </tu>
     <tu>
+      <note>https://testguy.net/content/273-10-Electrical-Distribution-System-Arrangements-Explained#primary_loop</note>
       <tuv lang="EN-US">
         <seg>5.2.4 Typical MV Distribution with Primary Loop</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T104031Z" creationid="Kieu Lan" creationdate="20210809T094945Z">
         <seg>5.2.4 Typical MV Distribution with Primary Loop     /     Phân phối điện trung thế với vòng mạch sơ cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.2.5 Typical MV Distribution with Primary Loop</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T105536Z" creationid="Kieu Lan" creationdate="20210809T104140Z">
+        <seg>5.2.5 Typical MV Distribution with Primary Loop     /     Phân phối điện trung thế với vòng mạch sơ cấp</seg>
       </tuv>
     </tu>
     <tu>
@@ -12785,6 +12794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 128</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T104118Z" creationid="Kieu Lan" creationdate="20210809T104118Z">
+        <seg>Page: 128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 16</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -15747,6 +15764,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T064949Z" creationid="LanHK" creationdate="20210728T064949Z">
         <seg>TYPICAL MOTOR DRIVEN TWO WAY CONTROL VALVE     /     Van kiểm soát hai ngả thông thường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TYPICAL MV DISTRIBUTION WITH PRIMARY LOOP &amp; PORTABLE GENERATOR FOR COMPLETE POWER BACK-UP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T104204Z" creationid="Kieu Lan" creationdate="20210809T104120Z">
+        <seg>TYPICAL MV DISTRIBUTION WITH PRIMARY LOOP &amp; PORTABLE GENERATOR FOR COMPLETE POWER BACK-UP     /     Phân phối điện trung thế với vòng mạch sơ cấp và máy phát di động để phát điện dự phòng</seg>
       </tuv>
     </tu>
     <tu>
