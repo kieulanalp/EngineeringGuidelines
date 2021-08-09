@@ -2882,6 +2882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.2.7</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121308Z" creationid="Kieu Lan" creationdate="20210809T121308Z">
+        <seg>5.2.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.3</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093406Z" creationid="Kieu Lan" creationdate="20210806T093406Z">
@@ -3886,6 +3894,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091658Z">
         <seg>Air Conditioning    /    Điều hòa không khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air Conditioning System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121246Z" creationid="Kieu Lan" creationdate="20210809T121246Z">
+        <seg>Air Conditioning System     /     Hệ điều hòa không khí </seg>
       </tuv>
     </tu>
     <tu>
@@ -8184,6 +8200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food &amp; Beverage outlets</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121254Z" creationid="Kieu Lan" creationdate="20210809T121254Z">
+        <seg>Food &amp; Beverage outlets     /     Cửa hàng F&amp;B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food Safety</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210405T092140Z">
@@ -8500,6 +8524,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045051Z" creationid="LanHK" creationdate="20210405T093037Z">
         <seg>Front Desk     /     Lễ tân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front of House Lighting</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121240Z" creationid="Kieu Lan" creationdate="20210809T121240Z">
+        <seg>Front of House Lighting     /     Chiếu sáng FOH</seg>
       </tuv>
     </tu>
     <tu>
@@ -9276,6 +9308,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071942Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Heating / Cooling Control Options     /     Phương án điều khiển sưởi/làm mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heating System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121243Z" creationid="Kieu Lan" creationdate="20210809T121243Z">
+        <seg>Heating System     /     Hệ sưởi</seg>
       </tuv>
     </tu>
     <tu>
@@ -12906,6 +12946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 131</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121307Z" creationid="Kieu Lan" creationdate="20210809T121307Z">
+        <seg>Page: 131</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 16</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -13334,6 +13382,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154651Z" creationid="Kieu Lan" creationdate="20210405T154651Z">
         <seg>Plumbing and Drainage&lt;t0/&gt; &lt;t1/&gt;Hệ Thống Bơm và Thoát Nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Point of Sale Outlets</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121307Z" creationid="Kieu Lan" creationdate="20210809T121307Z">
+        <seg>Point of Sale Outlets     /     POS của cửa hàng</seg>
       </tuv>
     </tu>
     <tu>
@@ -15476,6 +15532,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061352Z" creationid="Kieu Lan" creationdate="20210805T061352Z">
         <seg>Sub main cable battery system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Substation Relationships</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121310Z" creationid="Kieu Lan" creationdate="20210809T121310Z">
+        <seg>Substation Relationships</seg>
       </tuv>
     </tu>
     <tu>
