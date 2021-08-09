@@ -1920,6 +1920,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 power outlets + 1 clean earth power outlet per computer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T075015Z" creationid="Kieu Lan" creationdate="20210809T075015Z">
+        <seg>3 power outlets + 1 clean earth power outlet per computer     /     3 ổ điện + </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.0</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061400Z" creationid="Kieu Lan" creationdate="20210805T061400Z">
@@ -5066,6 +5074,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061415Z" creationid="Kieu Lan" creationdate="20210805T061415Z">
         <seg>Business Centre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Business centre</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065154Z" creationid="Kieu Lan" creationdate="20210809T065154Z">
+        <seg>Business centre</seg>
       </tuv>
     </tu>
     <tu>
@@ -12272,6 +12288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: Where power failures are historically extended and fuel supplies are unreliable, storage capacity must be increased up to 7 days continuous full load operation. Where reliability of power is 99.98% +, fuel storage capacity can be reduced to 8 hours subject to IHG approval.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T094851Z" creationid="Kieu Lan" creationdate="20210809T094851Z">
+        <seg>Note: Where power failures are historically extended and fuel supplies are unreliable, storage capacity must be increased up to 7 days continuous full load operation. Where reliability of power is 99.98% +, fuel storage capacity can be reduced to 8 hours subject to IHG approval.     /     Lưu ý: Nếu thường xuyên mất điện kéo dài và nguồn cung nhiên liệu không đảm bảo, cần tăng lượng nhiên liệu dự trữ lên 7 ngày vận hành liên tục ở mức tải đỉnh. Nếu nguồn cấp điện đảm bảo 99.98% hoặc hơn, nhiên liệu dự trữ có thể giảm xuống 8h, cần trình IHG phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: fire retardant cabling is not acceptable for use and the cabling must provide a minimum one (1) hour rating at the temperatures specified earlier in this guide. Certification of compliance with this must be provided.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T075320Z" creationid="Kieu Lan" creationdate="20210705T125836Z">
@@ -14474,6 +14498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Separate power meter</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065146Z" creationid="Kieu Lan" creationdate="20210809T065146Z">
+        <seg>Separate power meter     /     Công tơ điện riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Service Corridors</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045043Z" creationid="Kieu Lan" creationdate="20210806T045043Z">
@@ -15187,6 +15219,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T075554Z" creationid="LanHK" creationdate="20210702T075554Z">
         <seg>Standby lighting is provided to enable a prolonged occupation of the building upon failure of the electrical supply. This could be to mitigate against business interruption or to avoid immediate evacuation of the building.     /     Chiếu sáng dự phòng được cung cấp để giúp duy trì hoạt động của tòa nhà khi xảy ra sự cố về nguồn điện. Nguồn chiếu sáng này có thể giúp giảm thiểu ảnh hưởng đến hoạt động kinh doanh hoặc tránh phải tiến hành sơ tán khỏi tòa nhà ngay lập tức</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standby power must be provided after a short break in electrical supply to serve essential, critical</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T075028Z" creationid="Kieu Lan" creationdate="20210809T075028Z">
+        <seg>Standby power must be provided after a short break in electrical supply to serve essential, critical</seg>
       </tuv>
     </tu>
     <tu>
@@ -16440,6 +16480,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T034802Z" creationid="LanHK" creationdate="20210714T030909Z">
         <seg>The gas system should be designed to conform to NFPA standards as a minimum for all gas installations including, ventilated risers, combustion gas emissions combustion air and safety precautions must be observed in the design.     /     Hệ thống gas nên được thiết kế tối thiểu tuân thủ các tiêu chuẩn NFPA  đối với tất cả thiết bị gas lắp đặt, bao gồm: trục ống đứng có thông khí, ống thải khí gas đốt, khí đốt và cần cân nhắc tới các yêu cầu về an toàn trong quá trình thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The generator will be required to operate the loads indicated on the following table 4.3, with</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T081502Z" creationid="Kieu Lan" creationdate="20210809T081502Z">
+        <seg>The generator will be required to operate the loads indicated on the following table 4.3, with</seg>
       </tuv>
     </tu>
     <tu>
@@ -18988,6 +19036,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and other designated loads in the event of mains failure, within 10 seconds.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T081458Z" creationid="Kieu Lan" creationdate="20210809T081458Z">
+        <seg>and other designated loads in the event of mains failure, within 10 seconds.     /     Nguồn điện dự phòng phải cung cấp điện phục vụ các dịch vụ thiết yếu và các phụ tải được định sẵn khác trong trường hợp có sự cố trong vòng 10s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and requirements:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T043605Z" creationid="Kieu Lan" creationdate="20210629T043605Z">
@@ -20201,6 +20257,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>sufficient fuel storage for 48-hours continuous use full load operation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T094625Z" creationid="Kieu Lan" creationdate="20210809T094625Z">
+        <seg>sufficient fuel storage for 48-hours continuous use full load operation.     /     Yêu cầu máy phát hoạt động theo phụ tải trong bảng 4.3, nhiên liệu dự trữ đủ cho 48h vận hành liên tục với tải đỉnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>switch selected circuits (or similar control via guest booking system). Also for use to control fresh air and extract system in conjunction with radiant ceiling option</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T075809Z" creationid="Kieu Lan" creationdate="20210719T023616Z">
@@ -20563,8 +20627,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>• Emergency standby power to dedicated supplies:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210808T141311Z" creationid="Kieu Lan" creationdate="20210808T141311Z">
-        <seg>• Emergency standby power to dedicated supplies:     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T075027Z" creationid="Kieu Lan" creationdate="20210808T141311Z">
+        <seg>• Emergency standby power to dedicated supplies:     /     Nguồn điện khẩn cấp dành riêng cho các hạng mục sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20701,6 +20765,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064740Z" creationid="Kieu Lan" creationdate="20210809T064740Z">
         <seg>✓ + Payphones     /     Điện thoại trả tiền</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>✓ + fax</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065156Z" creationid="Kieu Lan" creationdate="20210809T065156Z">
+        <seg>✓ + fax</seg>
       </tuv>
     </tu>
     <tu>
