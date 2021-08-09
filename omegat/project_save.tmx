@@ -17765,8 +17765,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Two speed ventilation systems (or inverter driven fans) serving the kitchens for economy in “low” periods.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T015855Z" creationid="LanHK" creationdate="20210719T015855Z">
-        <seg>Two speed ventilation systems (or inverter driven fans) serving the kitchens for economy in “low” periods.     /     Các hệ thống thông gió hai tốc độ (hoặc sử dụng quạt inverter) phục vụ cho các bếp để tiết kiệm trong các giai đoạn ít khách</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T050337Z" creationid="LanHK" creationdate="20210719T015855Z">
+        <seg>Two speed ventilation systems (or inverter driven fans) serving the kitchens for economy in “low” periods.     /     Các hệ thống thông gió hai tốc độ (hoặc sử dụng quạt inverter) phục vụ cho các bếp để tiết kiệm trong các giai đoạn thấp điểm</seg>
       </tuv>
     </tu>
     <tu>
@@ -18014,8 +18014,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Use a kitchen exhaust/ Supply air demand control ventilation system such as Intelli-Hood.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T022035Z" creationid="LanHK" creationdate="20210719T022016Z">
-        <seg>Use a kitchen exhaust/ Supply air demand control ventilation system such as Intelli-Hood.     /     Sử dụng hệ thống thông khí hút mùi/kiểm soát nhu cầu cấp khí như Intelli-Hood</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T073610Z" creationid="LanHK" creationdate="20210719T022016Z">
+        <seg>Use a kitchen exhaust/ Supply air demand control ventilation system such as Intelli-Hood.     /     Sử dụng hệ thống thông khí kiểm soát nhu cầu cấp/hút cho bếp như Intelli-Hood</seg>
       </tuv>
     </tu>
     <tu>
@@ -19094,8 +19094,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>available.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T015615Z" creationid="LanHK" creationdate="20210715T034847Z">
-        <seg>available.     /     Chế độ vận hành tiết kiệm trong tất cả các thiết bị AHU để sử dung khí tươi làm mát "miễn phí" khi có thể</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T050218Z" creationid="LanHK" creationdate="20210715T034847Z">
+        <seg>available.     /     Chế độ vận hành tiết kiệm trong tất cả các thiết bị AHU để sử dụng khí tươi làm mát "miễn phí" khi có thể</seg>
       </tuv>
     </tu>
     <tu>
@@ -19434,8 +19434,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>equal and equivalent, to reduce exhaust requirements by approximately 30% from conventional systems, and eliminate grease passing through the system utilising high efficiency cyclone filters and “UV” filtration. For information or Halton&amp; Gaylord equipment</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095148Z" creationid="LanHK" creationdate="20210719T021913Z">
-        <seg>equal and equivalent, to reduce exhaust requirements by approximately 30% from conventional systems, and eliminate grease passing through the system utilising high efficiency cyclone filters and “UV” filtration. For information or Halton&amp; Gaylord equipment     /     Một hệ thống hút mùi bếp chính hãng với vòi phun, vd như “Halton Capture Jet” Gaylord ELX Hood hoặc tương đương để giảm thiểu lượng khí phải hút khoảng 30% so với các hệ thống truyền thống, và loại bỏ dầu mỡ đi qua hệ thống bằng các bộ lọc xoáy và đèn "UV. Xem thêm về thiết bị Halton &amp; Gaylord </seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T065527Z" creationid="LanHK" creationdate="20210719T021913Z">
+        <seg>equal and equivalent, to reduce exhaust requirements by approximately 30% from conventional systems, and eliminate grease passing through the system utilising high efficiency cyclone filters and “UV” filtration. For information or Halton&amp; Gaylord equipment     /     Một hệ thống chụp hút bếp chính hãng với đầu phun, vd như “Halton Capture Jet” Gaylord ELX Hood hoặc tương đương để giảm yêu cầu hút khoảng 30% so với các hệ thống truyền thống, và loại bỏ dầu mỡ đi qua hệ thống bằng các bộ lọc xoáy và lưới lọc "UV". Xem thêm về thiết bị Halton &amp; Gaylord. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20179,8 +20179,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>spaces.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T015715Z" creationid="LanHK" creationdate="20210719T015715Z">
-        <seg>spaces.     /     Có kiểm soát khí CO2 trong nguồn cấp khí tươi tới hệ thống cấp và hút khí đối với tất cả không gian công cộng</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T050303Z" creationid="LanHK" creationdate="20210719T015715Z">
+        <seg>spaces.     /     Kiểm soát CO2 trong nguồn cấp khí tươi tới hệ thống cấp và hút khí đối với tất cả không gian công cộng</seg>
       </tuv>
     </tu>
     <tu>
