@@ -6942,7 +6942,7 @@
       <tuv lang="EN-US">
         <seg>Energy Targets</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210405T153551Z">
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T042116Z" creationid="Kieu Lan" creationdate="20210405T153551Z">
         <seg>Energy Targets    /    Mục tiêu về Năng lượng</seg>
       </tuv>
     </tu>
@@ -15822,8 +15822,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The design of the building and associated systems should be such that the energy consumption does not exceed the following targets:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T031520Z" creationid="LanHK" creationdate="20210717T031520Z">
-        <seg>The design of the building and associated systems should be such that the energy consumption does not exceed the following targets:     /     thiết kế tòa nhà và các hệ thống liên quan cần phải đảm bảo lượng năng lượng tiêu thụ không vượt quá các mcụ tiêu sau</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T042502Z" creationid="LanHK" creationdate="20210717T031520Z">
+        <seg>The design of the building and associated systems should be such that the energy consumption does not exceed the following targets:     /     Thiết kế tòa nhà và các hệ thống liên quan cần phải đảm bảo lượng năng lượng tiêu thụ không vượt quá các mục tiêu sau</seg>
       </tuv>
     </tu>
     <tu>
