@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(3hrs)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044850Z" creationid="Kieu Lan" creationdate="20210810T044841Z">
+        <seg>(3h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Note 12)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061420Z" creationid="Kieu Lan" creationdate="20210805T061420Z">
@@ -4895,6 +4903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BMS (24 hrs.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044813Z" creationid="Kieu Lan" creationdate="20210810T044813Z">
+        <seg>BMS (24 hrs.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BMS MONITORING &amp; CONTROL</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T041935Z">
@@ -7224,8 +7240,8 @@
       <tuv lang="EN-US">
         <seg>Emergency Lighting</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064133Z" creationid="LanHK" creationdate="20210505T084943Z">
-        <seg>Emergency Lighting      /     Chiếu sáng sự cố</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044848Z" creationid="LanHK" creationdate="20210505T084943Z">
+        <seg>Emergency Lighting (3hrs)     /     Chiếu sáng sự cố</seg>
       </tuv>
     </tu>
     <tu>
@@ -8053,6 +8069,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064556Z" creationid="Kieu Lan" creationdate="20210809T064556Z">
         <seg>Fire Alarm &amp; Detection     /     Phát hiện và báo cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Alarm (24 hrs.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044836Z" creationid="Kieu Lan" creationdate="20210810T044836Z">
+        <seg>Fire Alarm (24 hrs.)     /     Báo cháy (24h)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9861,6 +9885,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T072501Z" creationid="LanHK" creationdate="20210716T092244Z">
         <seg>Hotel guest rooms are conditioned 24 hours a day and the peak load only occurs for 1 hour a day so it is important not to overestimate the load.     /     Các phòng khách sạn được điều hòa không khí 24h một ngày và tải đỉnh chỉ kéo dài trong khoảng 1h mỗi ngày, vậy nên việc không tính quá mức tải là rất quan trọng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hotel ‘IT’ Systems (30 minutes)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044804Z" creationid="Kieu Lan" creationdate="20210810T044804Z">
+        <seg>Hotel ‘IT’ Systems (30 minutes)     /     Hệ thống IT khách sạn (30p)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15133,6 +15165,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Security System (24</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044814Z" creationid="Kieu Lan" creationdate="20210810T044814Z">
+        <seg>Security System (24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Security office</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T043240Z" creationid="Kieu Lan" creationdate="20210810T043240Z">
@@ -16609,6 +16649,14 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone System (4 hrs.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044813Z" creationid="Kieu Lan" creationdate="20210810T044813Z">
+        <seg>Telephone System (4 hrs.)     /     Hệ thống điện thoại (4h)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>??</note>
       <tuv lang="EN-US">
         <seg>Telephone switchboard room</seg>
@@ -17740,6 +17788,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T032609Z" creationid="LanHK" creationdate="20210611T032609Z">
         <seg>The system cannot work without these 2 areas working together.    /    Hệ thống không thể vận hành nếu không có hai bộ phận này phối hợp với nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system must be sized to accommodate the electrical load for the equipment supplied plus a minimum of 25% spare capacity. The battery autonomy must be 20 minutes at full load.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T045232Z" creationid="Kieu Lan" creationdate="20210810T045232Z">
+        <seg>The system must be sized to accommodate the electrical load for the equipment supplied plus a minimum of 25% spare capacity. The battery autonomy must be 20 minutes at full load.     /     Hệ thống phải có kích cỡ phù hợp để đảm bảo tải điện cho các thiết bị cộng thêm 25% công suất dự phòng. Ắc quy dự phòng phải đảm bảo 20p chạy đủ tải</seg>
       </tuv>
     </tu>
     <tu>
@@ -20527,6 +20583,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034638Z" creationid="LanHK" creationdate="20210713T093104Z">
         <seg>horizontal runs     /     Hệ thống ống dẫn ngang của hệ chụp hút bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hrs.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044829Z" creationid="Kieu Lan" creationdate="20210810T044829Z">
+        <seg>hrs.)     /     Hệ thống an ninh (24h)</seg>
       </tuv>
     </tu>
     <tu>
