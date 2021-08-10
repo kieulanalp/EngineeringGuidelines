@@ -3651,6 +3651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A master antennae television aerial system with appropriate cable distribution network and amplifiers as necessary must be provided throughout the building, to suit InterContinental Hotels Group requirements and local station availability.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T091511Z" creationid="Kieu Lan" creationdate="20210810T091511Z">
+        <seg>A master antennae television aerial system with appropriate cable distribution network and amplifiers as necessary must be provided throughout the building, to suit InterContinental Hotels Group requirements and local station availability.     /     Hệ thống MATV với mạng lưới cáp và bộ khuếch đại phù hợp cần được bố trí trên khắp khách sạn, tuân thủ yêu cầu của IHG và tùy thuộc vào cáp truyền hình địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum of 60 minutes fire resisting separation must be provided between the following areas:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030133Z" creationid="LanHK" creationdate="20210602T030133Z">
@@ -11956,6 +11964,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T080840Z" creationid="Kieu Lan" creationdate="20210805T065258Z">
         <seg>MATV and cabling. Amplifiers as necessary to suit intercon standards and local station availability     /     MATV và cáp. Cần có bộ khuếch đại đạt tiêu chuẩn của IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MATV System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T091340Z" creationid="Kieu Lan" creationdate="20210810T091340Z">
+        <seg>MATV System     /     Hệ thống MATV</seg>
       </tuv>
     </tu>
     <tu>
