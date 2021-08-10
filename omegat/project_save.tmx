@@ -11319,6 +11319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Laundry (separately metered)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065848Z" creationid="Kieu Lan" creationdate="20210810T065848Z">
+        <seg>Laundry (separately metered)     /     Giặt là (đo riêng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laundry Equipment such as:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025725Z" creationid="Kieu Lan" creationdate="20210806T025725Z">
@@ -11363,6 +11371,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081203Z">
         <seg>Leisure Activity    /    Hoạt động giải trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leisure and fitness (separately metered)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T070124Z" creationid="Kieu Lan" creationdate="20210810T070124Z">
+        <seg>Leisure and fitness (separately metered)     /     Giải trí và fitness (đo riêng)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12309,6 +12325,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045013Z" creationid="LanHK" creationdate="20210715T063621Z">
         <seg>Meeting Rooms     /     Phòng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meeting facilities</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T070134Z" creationid="Kieu Lan" creationdate="20210810T070134Z">
+        <seg>Meeting facilities     /     Cơ sở vật chất phòng họp</seg>
       </tuv>
     </tu>
     <tu>
