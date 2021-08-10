@@ -6300,6 +6300,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of Load</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031936Z" creationid="Kieu Lan" creationdate="20210810T031930Z">
+        <seg>Description of Load     /     Mô tả phụ tải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design Criteria</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082701Z" creationid="Kieu Lan" creationdate="20210405T153659Z">
@@ -7348,6 +7356,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T022453Z" creationid="LanHK" creationdate="20210603T020744Z">
         <seg>Escape stairs must lead directly or via fire protected corridors to the outside of the building, however, in sprinkler protected buildings 50% of stairs may lead into a low risk area of the building from where there is direct access to the final exit and where approved by IHG.        /       Thang bộ thoát hiểm phải dẫn trực tiếp hoặc thông qua hành lang chống cháy ra bên ngoài tòa nhà, tuy nhiên, trong tòa nhà có sprinkler, 50 % số thang bộ có thể dẫn ra khu vực nguy cơ rủi ro thấp trong tòa nhà, nơi có thể trực tiếp tiếp cận cửa thoát cuối cùng, và cần được IHG chấp thuận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Essential Component (%)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031952Z" creationid="Kieu Lan" creationdate="20210810T031931Z">
+        <seg>Essential Component (%)     /     </seg>
       </tuv>
     </tu>
     <tu>
