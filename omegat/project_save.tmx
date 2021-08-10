@@ -7005,6 +7005,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Earthing and Bonding</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T082851Z" creationid="Kieu Lan" creationdate="20210810T082851Z">
+        <seg>Earthing and Bonding     /     Nối đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eastern Europe</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082826Z" creationid="Kieu Lan" creationdate="20210713T082826Z">
