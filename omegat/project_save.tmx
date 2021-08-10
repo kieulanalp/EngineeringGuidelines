@@ -4943,6 +4943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BOH lighting and power</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065815Z" creationid="Kieu Lan" creationdate="20210810T065815Z">
+        <seg>BOH lighting and power     /     Điện và chiếu sáng BOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BRAND SAFETY</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074809Z">
@@ -5011,6 +5019,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061413Z" creationid="Kieu Lan" creationdate="20210805T061413Z">
         <seg>Ballrooms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Banquet facilities</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065842Z" creationid="Kieu Lan" creationdate="20210810T065842Z">
+        <seg>Banquet facilities     /     Cơ sở vật chất làm tiệc</seg>
       </tuv>
     </tu>
     <tu>
@@ -7858,8 +7874,8 @@
       <tuv lang="EN-US">
         <seg>FOH lighting and power</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065326Z" creationid="Kieu Lan" creationdate="20210810T065326Z">
-        <seg>FOH lighting and power</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065808Z" creationid="Kieu Lan" creationdate="20210810T065326Z">
+        <seg>FOH lighting and power     /     Điện và chiếu sáng FOH</seg>
       </tuv>
     </tu>
     <tu>
@@ -11051,6 +11067,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T064415Z" creationid="LanHK" creationdate="20210715T064415Z">
         <seg>Kitchen (Prep/Finish)***Bếp (Sơ chế/Hoàn thiện)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen (separately metered)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065821Z" creationid="Kieu Lan" creationdate="20210810T065821Z">
+        <seg>Kitchen (separately metered)     /     Bếp (đo công tơ riêng)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14775,6 +14799,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094928Z" creationid="LanHK" creationdate="20210713T094928Z">
         <seg>Restaurants     /     nhà hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restaurants/cafeteria</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065827Z" creationid="Kieu Lan" creationdate="20210810T065827Z">
+        <seg>Restaurants/cafeteria     /     Nhà hàng/căng tin</seg>
       </tuv>
     </tu>
     <tu>
