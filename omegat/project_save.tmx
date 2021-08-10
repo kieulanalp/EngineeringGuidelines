@@ -7487,6 +7487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F&amp;LS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T030513Z" creationid="Kieu Lan" creationdate="20210810T030513Z">
+        <seg>FLS     /     với hệ thống PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>F6</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061410Z" creationid="Kieu Lan" creationdate="20210805T061410Z">
