@@ -5319,6 +5319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capital &amp; running cost reduced.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T023515Z" creationid="Kieu Lan" creationdate="20210810T023515Z">
+        <seg>Capital &amp; running cost reduced.     /     Giảm chi phí đầu tư và vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capital Cost</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T082031Z" creationid="LanHK" creationdate="20210729T082031Z">
@@ -6824,6 +6832,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T080139Z" creationid="LanHK" creationdate="20210722T075935Z">
         <seg>Electrical Power     /     Công suất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical Services (Good Practice)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T022007Z" creationid="Kieu Lan" creationdate="20210810T022007Z">
+        <seg>Electrical Services (Good Practice)     /     Các hạng mục điện (phương án tốt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10486,6 +10502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will reduce the cable size.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T022040Z" creationid="Kieu Lan" creationdate="20210810T022040Z">
+        <seg>It will reduce the cable size.     /     Giảm chiều dài cáp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T085455Z" creationid="LanHK" creationdate="20210505T043949Z">
@@ -11451,6 +11475,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T064721Z" creationid="LanHK" creationdate="20210728T064721Z">
         <seg>MOTOR DRIVEN THREE WAY CONTROL VALVE ON FURTHEST AIR HANDLING UNIT TO KEEP PIPE HOT.     /     Van kiểm soát ba ngả trên AHU xa nhất để giữ nóng đường ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MV Panel, Transformer &amp; LV panel should be located together.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T022035Z" creationid="Kieu Lan" creationdate="20210810T022035Z">
+        <seg>MV Panel, Transformer &amp; LV panel should be located together.     /     Tủ điện trung thế, máy biến áp và tủ điện hạ thế nên được bố trí gần nhau</seg>
       </tuv>
     </tu>
     <tu>
@@ -14021,6 +14053,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062945Z" creationid="Kieu Lan" creationdate="20210805T062916Z">
         <seg>Reduce Light Pollution     /     Giảm ô nhiễm ánh sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduce installation time.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T022053Z" creationid="Kieu Lan" creationdate="20210810T022053Z">
+        <seg>Reduce installation time.     /     Giảm thời gian lắp đặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduce the distribution losses.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T022047Z" creationid="Kieu Lan" creationdate="20210810T022047Z">
+        <seg>Reduce the distribution losses.     /     Giảm thất thoát trên đường truyền</seg>
       </tuv>
     </tu>
     <tu>
