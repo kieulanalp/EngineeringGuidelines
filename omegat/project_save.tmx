@@ -11785,6 +11785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Main plant rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T043048Z" creationid="Kieu Lan" creationdate="20210810T043048Z">
+        <seg>Main plant rooms     /     Phòng máy chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064626Z" creationid="Kieu Lan" creationdate="20210809T064626Z">
