@@ -3771,6 +3771,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A structured cabling system and power supplies (only for wireless telephone) must be provided for the hotel telecommunications sections of the Brand Standard. All systems must be provided with a clean earth system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T093128Z" creationid="Kieu Lan" creationdate="20210810T091539Z">
+        <seg>A structured cabling system and power supplies (only for wireless telephone) must be provided for the hotel telecommunications sections of the Brand Standard. All systems must be provided with a clean earth system     /     Một hệ thống cáp và nguồn cấp điện (chỉ cho điện thoại không dây) phải được cung cấp cho khách sạn theo mục về viễn thông của bộ Tiêu chuẩn. Tất cả hệ thống phải có ổ điện tiếp địa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A two stage fire alarm and detection system is one where there is a predetermined delay (180 sec max) to</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061355Z" creationid="Kieu Lan" creationdate="20210805T061355Z">
@@ -16838,6 +16846,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020955Z" creationid="Kieu Lan" creationdate="20210713T020955Z">
         <seg>Technical rooms     /     Phòng kỹ thuật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telecommunications</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T091543Z" creationid="Kieu Lan" creationdate="20210810T091515Z">
+        <seg>Telecommunications     /     Viễn thông</seg>
       </tuv>
     </tu>
     <tu>
