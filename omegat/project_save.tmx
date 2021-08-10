@@ -2890,6 +2890,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.2.8</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T023716Z" creationid="Kieu Lan" creationdate="20210810T023716Z">
+        <seg>5.2.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.3</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093406Z" creationid="Kieu Lan" creationdate="20210806T093406Z">
@@ -13002,6 +13010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 132</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T023713Z" creationid="Kieu Lan" creationdate="20210810T023713Z">
+        <seg>Page: 132</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 16</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -18539,6 +18555,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T021714Z" creationid="LanHK" creationdate="20210525T075106Z">
         <seg>Vertical Means of Escape    /    Thoát hiểm trục dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Power distribution system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T024157Z" creationid="Kieu Lan" creationdate="20210810T024157Z">
+        <seg>Vertical Power distribution system</seg>
       </tuv>
     </tu>
     <tu>
