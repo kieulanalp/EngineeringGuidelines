@@ -137,8 +137,8 @@
       <tuv lang="EN-US">
         <seg>* Quick connection - the facility to connect a portable generator without modifications to the installation being required in a suitable location.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031900Z" creationid="Kieu Lan" creationdate="20210810T031900Z">
-        <seg>* Quick connection - the facility to connect a portable generator without modifications to the installation being required in a suitable location.     /     Kết nối nhanh - khả năng kết nối máy phát điện di động mà không cần sửa đổi </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T041739Z" creationid="Kieu Lan" creationdate="20210810T031900Z">
+        <seg>* Quick connection - the facility to connect a portable generator without modifications to the installation being required in a suitable location.     /     Kết nối nhanh - cơ sở vật chất để kết nối máy phát điện di động mà không cần sửa đổi gì trên máy cần được bố trí ở vị trí thích hợp</seg>
       </tuv>
     </tu>
     <tu>
@@ -18868,6 +18868,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>W_08 Ozone Water Treatment    /    Chemical Reduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walk-in fridges/freezers and cold rooms including refrigeration plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T042004Z" creationid="Kieu Lan" creationdate="20210810T042004Z">
+        <seg>Walk-in fridges/freezers and cold rooms including refrigeration plant     /     Tủ lạnh/tủ đông walk-in và phòng lạnh với máy lạnh</seg>
       </tuv>
     </tu>
     <tu>
