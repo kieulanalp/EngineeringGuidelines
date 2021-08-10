@@ -7856,6 +7856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOH lighting and power</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065326Z" creationid="Kieu Lan" creationdate="20210810T065326Z">
+        <seg>FOH lighting and power</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOR PUBLIC AREAS</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T094442Z" creationid="LanHK" creationdate="20210715T041911Z">
@@ -17792,11 +17800,12 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <note>sub-main switchboards??</note>
       <tuv lang="EN-US">
         <seg>The sub-main switchboards must be provided to serve the following specific load distribution centers:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065203Z" creationid="Kieu Lan" creationdate="20210810T065203Z">
-        <seg>The sub-main switchboards must be provided to serve the following specific load distribution centers:</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065757Z" creationid="Kieu Lan" creationdate="20210810T065203Z">
+        <seg>The sub-main switchboards must be provided to serve the following specific load distribution centers:     /     Tủ điện sub-main switchboards phải được cung cấp phục vụ các trung tâm phân phối điện cho các tải cụ thể sau</seg>
       </tuv>
     </tu>
     <tu>
