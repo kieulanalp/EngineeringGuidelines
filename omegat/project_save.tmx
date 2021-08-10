@@ -133,6 +133,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>????</note>
+      <tuv lang="EN-US">
+        <seg>* Quick connection - the facility to connect a portable generator without modifications to the installation being required in a suitable location.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031900Z" creationid="Kieu Lan" creationdate="20210810T031900Z">
+        <seg>* Quick connection - the facility to connect a portable generator without modifications to the installation being required in a suitable location.     /     Kết nối nhanh - khả năng kết nối máy phát điện di động mà không cần sửa đổi </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>*2</seg>
       </tuv>
@@ -2934,6 +2943,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093406Z" creationid="Kieu Lan" creationdate="20210806T093406Z">
         <seg>5.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.3 - Schedule of Essential/Critical Services Generator Loads</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031930Z" creationid="Kieu Lan" creationdate="20210810T031930Z">
+        <seg>5.3 - Schedule of Essential/Critical Services Generator Loads     /     Mô tả các tải máy phát thiết yếu/trọng yếu</seg>
       </tuv>
     </tu>
     <tu>
