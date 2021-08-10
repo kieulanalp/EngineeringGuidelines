@@ -8264,6 +8264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a large site only MV cable should feed all substations (MV panel, Transformer &amp; LV panel) instead of LV distribution. This will reduce the running as well as operational cost of distribution system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T023711Z" creationid="Kieu Lan" creationdate="20210810T023711Z">
+        <seg>For a large site only MV cable should feed all substations (MV panel, Transformer &amp; LV panel) instead of LV distribution. This will reduce the running as well as operational cost of distribution system.     /     Đối với dự án lớn, chỉ nên đấu nối cáp trung thế cho tất cả các trạm biến áp (tủ điện trung thế, máy biến áp và tủ điện hạ thế) thay vì hạ thế. Việc này sẽ giảm thiểu chi phí chạy cũng như vận hành của hệ thống phân phối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a typical hotel with a 2600 kW Systems, the flow rates are:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074210Z" creationid="Kieu Lan" creationdate="20210804T074210Z">
