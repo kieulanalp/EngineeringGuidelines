@@ -14242,6 +14242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reception</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T043234Z" creationid="Kieu Lan" creationdate="20210810T043234Z">
+        <seg>Reception     /     Lễ tân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reception - General</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063317Z" creationid="LanHK" creationdate="20210715T063317Z">
