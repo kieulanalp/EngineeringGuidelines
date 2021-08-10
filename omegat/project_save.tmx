@@ -5720,6 +5720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cold Water Pressure Pumps</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T020034Z" creationid="Kieu Lan" creationdate="20210810T020034Z">
+        <seg>Cold Water Pressure Pumps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Columns</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023119Z" creationid="LanHK" creationdate="20210602T023119Z">
@@ -15538,8 +15546,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Substation Relationships</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121310Z" creationid="Kieu Lan" creationdate="20210809T121310Z">
-        <seg>Substation Relationships</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T021957Z" creationid="Kieu Lan" creationdate="20210809T121310Z">
+        <seg>Substation Relationships     /     Đấu nối trạm biến áp</seg>
       </tuv>
     </tu>
     <tu>
