@@ -3643,6 +3643,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A lightning protection system must be provided for protection of the occupants, structure and its contents in the event of a lightning strike. This must be in accordance with British, European, International or Australian/NZ standards, where there is no conflict with local requirements.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083251Z" creationid="Kieu Lan" creationdate="20210810T083251Z">
+        <seg>A lightning protection system must be provided for protection of the occupants, structure and its contents in the event of a lightning strike. This must be in accordance with British, European, International or Australian/NZ standards, where there is no conflict with local requirements.     /     Cần có hệ thống chống sét để bảo vệ người, kết cấu tòa nhà và mọi thứ trong tòa nhà trong trường hợp sét đánh. Việc này phải tuân thủ các tiêu chuẩn của Anh, châu Âu, quốc tế hoặc Úc/New Zealand ở các mục không có mâu thuẫn với yêu cầu địa phương.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum of 60 minutes fire resisting separation must be provided between the following areas:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030133Z" creationid="LanHK" creationdate="20210602T030133Z">
@@ -7009,6 +7017,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T082851Z" creationid="Kieu Lan" creationdate="20210810T082851Z">
         <seg>Earthing and Bonding     /     Nối đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Earthing and bonding must be provided throughout to ensure safe disconnection of the electrical supplies under earth fault condition. This must be in accordance with British, European or International standards, where there is no conflict with local requirements. A clean earth must be provided to the computer room.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083132Z" creationid="Kieu Lan" creationdate="20210810T083132Z">
+        <seg>Earthing and bonding must be provided throughout to ensure safe disconnection of the electrical supplies under earth fault condition. This must be in accordance with British, European or International standards, where there is no conflict with local requirements. A clean earth must be provided to the computer room.     /     Cần thực hiện nối đất đầy đủ để đảm bảo an toàn trong trường hợp rò điện. Việc này phải tuân thủ các tiêu chuẩn của Anh, châu Âu hoặc quốc tế ở các mục không có mâu thuẫn với yêu cầu địa phương. Cần cung cấp ổ cắm tiếp địa trong phòng máy tính</seg>
       </tuv>
     </tu>
     <tu>
@@ -11545,8 +11561,8 @@
       <tuv lang="EN-US">
         <seg>Lightning Protection</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153800Z" creationid="Kieu Lan" creationdate="20210405T153800Z">
-        <seg>Lightning Protection Chống sét</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083135Z" creationid="Kieu Lan" creationdate="20210405T153800Z">
+        <seg>Lightning Protection     /     Chống sét</seg>
       </tuv>
     </tu>
     <tu>
