@@ -3731,6 +3731,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A security system comprising access controls, intruder alarms, hold up alarms, automatic guard tour, guest room control and CCTV systems must be provided in accordance with InterContinental Hotels Group requirements.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T091242Z" creationid="Kieu Lan" creationdate="20210810T091242Z">
+        <seg>A security system comprising access controls, intruder alarms, hold up alarms, automatic guard tour, guest room control and CCTV systems must be provided in accordance with InterContinental Hotels Group requirements.     /     Hệ thống an ninh bao gồm kiểm soát truy cập, báo động đột nhập, hệ thống tự động ghi dữ liệu tuần tra bảo vệ, điều khiển phòng khách và hệ thống CCTV phải được bố trí tuân thủ theo yêu cầu của IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A self-closing mechanism</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T075942Z" creationid="LanHK" creationdate="20210609T075942Z">
@@ -15309,6 +15317,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Security System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083359Z" creationid="Kieu Lan" creationdate="20210810T083359Z">
+        <seg> Security System     /     Hệ thống an ninh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Security System (24</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044814Z" creationid="Kieu Lan" creationdate="20210810T044814Z">
@@ -16462,6 +16478,22 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T061322Z" creationid="LanHK" creationdate="20210729T061322Z">
         <seg>Supply temperature for heating no more than 8 deg. C above room temperature     /     Nhiệt độ đầu vào cho sưởi không cao hơn 8 độ C so với nhiệt độ phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surge Protection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083257Z" creationid="Kieu Lan" creationdate="20210810T083257Z">
+        <seg>Surge Protection     /     Bảo vệ chống quá tải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surge protection devices shall be provided in order to protect equipment from voltage spikes.it helps in reducing downtime of equipment. Also helps in reduction of maintenance cost.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083356Z" creationid="Kieu Lan" creationdate="20210810T083356Z">
+        <seg>Surge protection devices shall be provided in order to protect equipment from voltage spikes.it helps in reducing downtime of equipment. Also helps in reduction of maintenance cost.     /     Thiết bị bảo vệ chống quá tải cần được cung cấp để bảo vệ thiết bị trong trường hợp điện áp tăng đột ngột. Việc này giúp giảm thời gian thiết bị không hoạt động và giảm chi phí bảo trì</seg>
       </tuv>
     </tu>
     <tu>
