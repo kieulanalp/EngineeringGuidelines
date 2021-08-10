@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>+UPS</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T030550Z" creationid="Kieu Lan" creationdate="20210810T030550Z">
-        <seg>+UPS     /     Kèm nguồn điện không ngắt quãng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031523Z" creationid="Kieu Lan" creationdate="20210810T030550Z">
+        <seg>+UPS     /     Kèm bộ lưu điện</seg>
       </tuv>
     </tu>
     <tu>
@@ -2729,6 +2729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>48 hours</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031558Z" creationid="Kieu Lan" creationdate="20210810T031558Z">
+        <seg>48 hours     /     48 giờ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4800 kPa to 20933 kPa</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061257Z" creationid="Kieu Lan" creationdate="20210805T061257Z">
@@ -3486,6 +3494,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034926Z" creationid="LanHK" creationdate="20210713T093721Z">
         <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.     /     &lt;5m2, nếu tường và trần không bắt lửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;50%</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031559Z" creationid="Kieu Lan" creationdate="20210810T031559Z">
+        <seg>&lt;50%</seg>
       </tuv>
     </tu>
     <tu>
@@ -10824,8 +10840,8 @@
       <tuv lang="EN-US">
         <seg>L UPS (REFER DETAILS)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T083839Z" creationid="Kieu Lan" creationdate="20210805T081456Z">
-        <seg>UPS (refer details)     /     UPS (tham khảo chi tiết)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031536Z" creationid="Kieu Lan" creationdate="20210805T081456Z">
+        <seg>UPS (refer details)     /     Bộ lưu điện (tham khảo chi tiết)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19296,6 +19312,22 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T030538Z" creationid="LanHK" creationdate="20210505T043951Z">
         <seg>Yes     /     Có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes - Recommended</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031555Z" creationid="Kieu Lan" creationdate="20210810T031555Z">
+        <seg>Yes - Recommended     /     Có - Khuyến nghị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes - continuous run</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031603Z" creationid="Kieu Lan" creationdate="20210810T031603Z">
+        <seg>Yes - continuous run     /     Có - chạy liên tục</seg>
       </tuv>
     </tu>
     <tu>
