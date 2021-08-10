@@ -17793,6 +17793,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sub-main switchboards must be provided to serve the following specific load distribution centers:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065203Z" creationid="Kieu Lan" creationdate="20210810T065203Z">
+        <seg>The sub-main switchboards must be provided to serve the following specific load distribution centers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The supply diffuser type and size must be selected to achieve the required air flow to distribute throughout the room without causing noise or drafts.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T042444Z" creationid="Kieu Lan" creationdate="20210802T042444Z">
@@ -20934,8 +20942,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>or section within the system. This will be accomplished by the correct installation of adequate protection to achieve discrimination, together with segregation of equipment and cables as appropriate.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065201Z" creationid="Kieu Lan" creationdate="20210810T065201Z">
-        <seg>or section within the system. This will be accomplished by the correct installation of adequate protection to achieve discrimination, together with segregation of equipment and cables as appropriate.     /     Mạch phân phối điện phụ phải được bố trí để tránh sự cố đối với bất cứ một thiết bị nào hoặc đoạn nào trong hệ thống. Việc này được thực hiện bằng cách lắp đặt thiết bị bảo vệ hợp lý để ngắt mạch, và </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T065301Z" creationid="Kieu Lan" creationdate="20210810T065201Z">
+        <seg>or section within the system. This will be accomplished by the correct installation of adequate protection to achieve discrimination, together with segregation of equipment and cables as appropriate.     /     Mạch phân phối điện phụ phải được bố trí để tránh sự cố đối với bất cứ một thiết bị nào hoặc đoạn nào trong hệ thống. Việc này được thực hiện bằng cách lắp đặt thiết bị bảo vệ hợp lý để ngắt mạch, đồng thời lắp đặt tách biệt thiết bị và dây cáp sao cho phù hợp</seg>
       </tuv>
     </tu>
     <tu>
