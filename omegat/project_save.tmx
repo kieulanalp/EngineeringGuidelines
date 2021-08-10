@@ -5248,6 +5248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032432Z" creationid="Kieu Lan" creationdate="20210810T032432Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAPITAL COSTS etc.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095228Z" creationid="Kieu Lan" creationdate="20210728T095228Z">
@@ -6637,6 +6645,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032413Z" creationid="Kieu Lan" creationdate="20210810T032413Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E-02</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061401Z" creationid="Kieu Lan" creationdate="20210805T061401Z">
@@ -7362,8 +7378,8 @@
       <tuv lang="EN-US">
         <seg>Essential Component (%)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031952Z" creationid="Kieu Lan" creationdate="20210810T031931Z">
-        <seg>Essential Component (%)     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032355Z" creationid="Kieu Lan" creationdate="20210810T031931Z">
+        <seg>Essential Component (%)     /     % thiết yếu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8953,6 +8969,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generator room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032417Z" creationid="Kieu Lan" creationdate="20210810T032417Z">
+        <seg>Generator room     /     Phòng máy phát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generator running / fault (only during alarm)</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T031344Z" creationid="Kieu Lan" creationdate="20210713T081306Z">
@@ -9149,6 +9173,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T090917Z">
         <seg>Guest room load estimation    /    Ước tính tải phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest room vestibule light</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032431Z" creationid="Kieu Lan" creationdate="20210810T032431Z">
+        <seg>Guest room vestibule light     /     Đèn tiền sảnh phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -11161,8 +11193,8 @@
       <tuv lang="EN-US">
         <seg>Lighting</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154539Z" creationid="Kieu Lan" creationdate="20210405T154539Z">
-        <seg>Lighting Chiếu sáng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032404Z" creationid="Kieu Lan" creationdate="20210405T154539Z">
+        <seg>Lighting     /     Chiếu sáng</seg>
       </tuv>
     </tu>
     <tu>
@@ -11244,6 +11276,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T070849Z" creationid="PHUONG.DTM" creationdate="20210728T070849Z">
         <seg>Live feed from normal supply     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load Classification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032359Z" creationid="Kieu Lan" creationdate="20210810T032359Z">
+        <seg>Load Classification     /     Phân loại tải</seg>
       </tuv>
     </tu>
     <tu>
@@ -15569,6 +15609,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stair and exit signs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032411Z" creationid="Kieu Lan" creationdate="20210810T032411Z">
+        <seg>Stair and exit signs     /     Cầu thang và biển báo thoát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stair construction</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T023256Z" creationid="LanHK" creationdate="20210603T023256Z">
@@ -15909,6 +15957,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T061322Z" creationid="LanHK" creationdate="20210729T061322Z">
         <seg>Supply temperature for heating no more than 8 deg. C above room temperature     /     Nhiệt độ đầu vào cho sưởi không cao hơn 8 độ C so với nhiệt độ phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switchgear rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032443Z" creationid="Kieu Lan" creationdate="20210810T032443Z">
+        <seg>Switchgear rooms     /     Phòng</seg>
       </tuv>
     </tu>
     <tu>
