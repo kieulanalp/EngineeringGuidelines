@@ -13105,6 +13105,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>có phải public adress??</note>
+      <tuv lang="EN-US">
+        <seg>PA System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044425Z" creationid="Kieu Lan" creationdate="20210810T044346Z">
+        <seg>PA System     /     Hệ thống PA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>PA, Music &amp; Speech with Local on/off/ auto control</seg>
       </tuv>
