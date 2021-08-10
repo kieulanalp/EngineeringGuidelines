@@ -529,6 +529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 only</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044447Z" creationid="Kieu Lan" creationdate="20210810T044444Z">
+        <seg>1 only     /     chỉ 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1,300kW*</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061446Z" creationid="Kieu Lan" creationdate="20210805T061446Z">
@@ -2957,8 +2965,8 @@
       <tuv lang="EN-US">
         <seg>5.3 - Schedule of Essential/Critical Services Generator Loads</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031930Z" creationid="Kieu Lan" creationdate="20210810T031930Z">
-        <seg>5.3 - Schedule of Essential/Critical Services Generator Loads     /     Mô tả các tải máy phát thiết yếu/trọng yếu</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044627Z" creationid="Kieu Lan" creationdate="20210810T031930Z">
+        <seg>5.3 - Schedule of Essential/Critical Services Generator Loads     /     Mô tả các tải máy phát trọng yếu / thiết yếu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4401,6 +4409,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T094947Z" creationid="LanHK" creationdate="20210602T041328Z">
         <seg>An option to fire dampers in a bathroom or rest room exhaust duct, which requires no maintenance, is a subduct.        /       Một lựa chọn thay thế van chặn lửa ống hút khí trong phòng tắm hoặc phòng vệ sinh mà không yêu cầu bảo trì là một ống phụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An uninterruptible supply system must be provided to ensure no break in electrical supply must occur to the following services:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044750Z" creationid="Kieu Lan" creationdate="20210810T044641Z">
+        <seg>An uninterruptible supply system must be provided to ensure no break in electrical supply must occur to the following services:     /     Phải có hệ thống lưu điện để đảm bảo không có ngắt quãng trong việc cấp điện đến các hạng mục sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5905,6 +5921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Component (%)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044518Z" creationid="Kieu Lan" creationdate="20210810T044503Z">
+        <seg>Component (%)     /     % thiết yếu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compressor</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T041949Z" creationid="LanHK" creationdate="20210724T041949Z">
@@ -6320,6 +6344,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075532Z">
         <seg>Definitions    /    Định nghĩa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Definitions:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044533Z" creationid="Kieu Lan" creationdate="20210810T044529Z">
+        <seg>Definitions:     /     Định nghĩa</seg>
       </tuv>
     </tu>
     <tu>
@@ -7460,6 +7492,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T022453Z" creationid="LanHK" creationdate="20210603T020744Z">
         <seg>Escape stairs must lead directly or via fire protected corridors to the outside of the building, however, in sprinkler protected buildings 50% of stairs may lead into a low risk area of the building from where there is direct access to the final exit and where approved by IHG.        /       Thang bộ thoát hiểm phải dẫn trực tiếp hoặc thông qua hành lang chống cháy ra bên ngoài tòa nhà, tuy nhiên, trong tòa nhà có sprinkler, 50 % số thang bộ có thể dẫn ra khu vực nguy cơ rủi ro thấp trong tòa nhà, nơi có thể trực tiếp tiếp cận cửa thoát cuối cùng, và cần được IHG chấp thuận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Essential</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044502Z" creationid="Kieu Lan" creationdate="20210810T044502Z">
+        <seg>Essential</seg>
       </tuv>
     </tu>
     <tu>
@@ -9069,6 +9109,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082441Z" creationid="LanHK" creationdate="20210717T023619Z">
         <seg>Generator (m2)     /     Máy phát điện </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generator fuel pumps</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044457Z" creationid="Kieu Lan" creationdate="20210810T044457Z">
+        <seg>Generator fuel pumps     /     Bơm nhiên liệu máy phát</seg>
       </tuv>
     </tu>
     <tu>
@@ -10955,6 +11003,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T064415Z" creationid="LanHK" creationdate="20210715T064415Z">
         <seg>Kitchen (Prep/Finish)***Bếp (Sơ chế/Hoàn thiện)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen Equipment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044501Z" creationid="Kieu Lan" creationdate="20210810T044501Z">
+        <seg>Kitchen Equipment     /     Thiết bị bếp</seg>
       </tuv>
     </tu>
     <tu>
@@ -14539,6 +14595,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refrigeration Cold Rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044527Z" creationid="Kieu Lan" creationdate="20210810T044527Z">
+        <seg>Refrigeration Cold Rooms     /     Phòng lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refuges - these are places of relative safety where disabled people can await assistance from hotel staff to</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104440Z">
@@ -15097,6 +15161,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T043820Z" creationid="LanHK" creationdate="20210715T043820Z">
         <seg>Select the design maximum &amp; minimum external design temperatures based on weather data for the area and the following:-     /     Lựa chọn nhiệt độ bên ngoài tối đa và tối thiểu cho thiết kế dựa trên dữ liệu thời tiết của khu vực và các cơ sở sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected elevator for Fire Fighting were provided</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044444Z" creationid="Kieu Lan" creationdate="20210810T044444Z">
+        <seg>Selected elevator for Fire Fighting were provided     /     Thang máy cho cứu hỏa</seg>
       </tuv>
     </tu>
     <tu>
@@ -16543,6 +16615,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093212Z" creationid="Kieu Lan" creationdate="20210806T093212Z">
         <seg>Telephone switchboard room     /     Phòng tủ điện điện thoại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044451Z" creationid="Kieu Lan" creationdate="20210810T044451Z">
+        <seg>Telephone system     /     Hệ thống điện thoại</seg>
       </tuv>
     </tu>
     <tu>
@@ -21352,6 +21432,22 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210723T063645Z" creationid="LanHK" creationdate="20210602T012608Z">
         <seg>‘Passive’ meaning fire resisting walls, floors, doors and ‘active’ meaning fire alarm and detection, sprinkler, smoke control systems.        /       "Bị động" là tường, sàn, cửa ngăn cháy và "chủ động" là hệ thống phát hiện và báo cháy, sprinkler, các hệ thống kiểm soát khói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Critical” -Essential Hotel operations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044706Z" creationid="Kieu Lan" creationdate="20210810T044629Z">
+        <seg>“Critical” -Essential Hotel operations     /     "Thiết yếu" - các hạng mục vận hành thiết yếu của Khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Essential”- Life safety purposes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044653Z" creationid="Kieu Lan" creationdate="20210810T044530Z">
+        <seg>“Essential”- Life safety purposes     /     "Trọng yếu" - phục vụ mục đích an toàn sinh mạng</seg>
       </tuv>
     </tu>
     <tu>
