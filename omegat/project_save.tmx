@@ -2987,6 +2987,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.4.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T033204Z" creationid="Kieu Lan" creationdate="20210811T033204Z">
+        <seg>5.4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.4.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T033450Z" creationid="Kieu Lan" creationdate="20210811T033450Z">
+        <seg>5.4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -3643,10 +3659,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A lightning protection system is always to be provided to ensure the safe conveyance and dissipation of the lightning energy into the Ground.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T033313Z" creationid="Kieu Lan" creationdate="20210811T033313Z">
+        <seg>A lightning protection system is always to be provided to ensure the safe conveyance and dissipation of the lightning energy into the Ground.     /     Luôn phải có hệ thống chống sét để đảm bảo việc truyền và giải tỏa năng lượng của sét xuống đất diễn ra an toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A lightning protection system must be provided for protection of the occupants, structure and its contents in the event of a lightning strike. This must be in accordance with British, European, International or Australian/NZ standards, where there is no conflict with local requirements.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083251Z" creationid="Kieu Lan" creationdate="20210810T083251Z">
         <seg>A lightning protection system must be provided for protection of the occupants, structure and its contents in the event of a lightning strike. This must be in accordance with British, European, International or Australian/NZ standards, where there is no conflict with local requirements.     /     Cần có hệ thống chống sét để bảo vệ người, kết cấu tòa nhà và mọi thứ trong tòa nhà trong trường hợp sét đánh. Việc này phải tuân thủ các tiêu chuẩn của Anh, châu Âu, quốc tế hoặc Úc/New Zealand ở các mục không có mâu thuẫn với yêu cầu địa phương.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A lightning rod or lightning conductor is a metal rod or metallic object mounted on top of a building, electrically bonded using an electrical conductor to interface with ground or "earth" through an electrode, to protect the building in the event of lightning strike. If lightning targets the building it will preferentially strike the rod and be conducted to ground through the wire, instead of passing through the building, where it could start a fire or cause electrocution.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T033348Z" creationid="Kieu Lan" creationdate="20210811T033348Z">
+        <seg>A lightning rod or lightning conductor is a metal rod or metallic object mounted on top of a building, electrically bonded using an electrical conductor to interface with ground or "earth" through an electrode, to protect the building in the event of lightning strike. If lightning targets the building it will preferentially strike the rod and be conducted to ground through the wire, instead of passing through the building, where it could start a fire or cause electrocution.     /     Cột thu lôi là một cột kim loại hoặc một vật kim loại lắp đặt trên nóc tòa nhà, </seg>
       </tuv>
     </tu>
     <tu>
