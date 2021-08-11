@@ -4341,6 +4341,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All low voltage distribution systems must be suitably segregated from mains distribution systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T032732Z" creationid="Kieu Lan" creationdate="20210811T032732Z">
+        <seg>All low voltage distribution systems must be suitably segregated from mains distribution systems.     /     Tất cả hệ thống phân phối điện nhẹ phải được lắp đặt tách biệt khỏi hệ thống phân phối chính cho phù hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All systems shall operate on refrigerants with zero ODP and low GWP (less than 100) such as R123, R410A,</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061442Z" creationid="Kieu Lan" creationdate="20210805T061442Z">
@@ -7177,6 +7185,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093726Z" creationid="LanHK" creationdate="20210713T093726Z">
         <seg>Electrical equipment rooms     /     Phòng thiết bị điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical systems must be designed in accordance with the appropriate National Electrical standards or InterContinental Hotels Group standards, where they exceed national standards. BS7671 is defined as the minimum acceptable standard for electrical low voltage and extra low voltage systems. The design consultant will be expected to design all electrical systems in conjunction with the architect/interior designer, to assure full functionality of the proposed systems and fully coordinated with all other disciplines.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T032830Z" creationid="Kieu Lan" creationdate="20210811T032830Z">
+        <seg>Electrical systems must be designed in accordance with the appropriate National Electrical standards or InterContinental Hotels Group standards, where they exceed national standards. BS7671 is defined as the minimum acceptable standard for electrical low voltage and extra low voltage systems. The design consultant will be expected to design all electrical systems in conjunction with the architect/interior designer, to assure full functionality of the proposed systems and fully coordinated with all other disciplines.     /     Hệ thống điện phải được thiết kế tuân thủ các tiêu chuẩn Điện Quốc gia hoặc tiêu chuẩn IHG trong trường hợp tiêu chuẩn IHG khắt khe hơn. BS7671 là tiêu chuẩn tối thiểu được chấp nhận cho </seg>
       </tuv>
     </tu>
     <tu>
@@ -13060,8 +13076,8 @@
       <tuv lang="EN-US">
         <seg>Note: The Audio/visual system must be interlinked with fire alarm system to cutoff local/background music convey evacuation message through same backbone in case of fire.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T125800Z" creationid="Kieu Lan" creationdate="20210810T125800Z">
-        <seg>Note: The Audio/visual system must be interlinked with fire alarm system to cutoff local/background music convey evacuation message through same backbone in case of fire.     /     Lưu ý: hệ thống AV phải được </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T032647Z" creationid="Kieu Lan" creationdate="20210810T125800Z">
+        <seg>Note: The Audio/visual system must be interlinked with fire alarm system to cutoff local/background music convey evacuation message through same backbone in case of fire.     /     Lưu ý: hệ thống AV phải được liên kết với hệ báo động cháy để ngắt nhạc nền, thay vào đó là truyền thông báo sơ tán qua hệ thống AV trong trường hợp có cháy</seg>
       </tuv>
     </tu>
     <tu>
