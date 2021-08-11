@@ -3811,6 +3811,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A surge protector (or surge suppressor) is an appliance designed to protect electrical devices from voltage spikes. A surge protector attempts to limit the voltage supplied to an electric device by either blocking or by shorting to ground any unwanted voltages above a safe threshold. There are following advantages of surge protected system:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T041601Z" creationid="Kieu Lan" creationdate="20210811T041601Z">
+        <seg>A surge protector (or surge suppressor) is an appliance designed to protect electrical devices from voltage spikes. A surge protector attempts to limit the voltage supplied to an electric device by either blocking or by shorting to ground any unwanted voltages above a safe threshold. There are following advantages of surge protected system:     /     Bộ ngắt mạch là thiết bị được thiết kế để bảo vệ thiết bị điện khỏi điện áp tăng đột biến. Một bộ ngắt mạch  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A two stage fire alarm and detection system is one where there is a predetermined delay (180 sec max) to</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061355Z" creationid="Kieu Lan" creationdate="20210805T061355Z">
