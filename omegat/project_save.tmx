@@ -5737,6 +5737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CC</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135941Z" creationid="Kieu Lan" creationdate="20210814T135941Z">
+        <seg>CC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CCT V</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064443Z" creationid="Kieu Lan" creationdate="20210809T064443Z">
@@ -5749,6 +5757,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T035110Z" creationid="LanHK" creationdate="20210715T035110Z">
         <seg>Central chilled water and —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CF</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135922Z" creationid="Kieu Lan" creationdate="20210814T135922Z">
+        <seg>CF</seg>
       </tuv>
     </tu>
     <tu>
@@ -6363,6 +6379,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cold Cathode</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135952Z" creationid="Kieu Lan" creationdate="20210814T135952Z">
+        <seg>Cold Cathode     /     Đèn Cathode lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cold Water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154657Z" creationid="Kieu Lan" creationdate="20210405T154657Z">
@@ -6423,6 +6447,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T110936Z">
         <seg>Communication with continuously staffed position     /     Kết nối tới vị trí luôn có nhân viên trực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compact Fluorescent</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135930Z" creationid="Kieu Lan" creationdate="20210814T135930Z">
+        <seg>Compact Fluorescent     /     Đèn huỳnh quang compact</seg>
       </tuv>
     </tu>
     <tu>
@@ -6778,6 +6810,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T095538Z" creationid="LanHK" creationdate="20210714T022503Z">
         <seg>DISTRICT COOLING OR HEATING     /    Phân chia làm mát/gia nhiệt theo khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DLE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140030Z" creationid="Kieu Lan" creationdate="20210814T140030Z">
+        <seg>DLE</seg>
       </tuv>
     </tu>
     <tu>
@@ -9196,6 +9236,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fluorescent</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135933Z" creationid="Kieu Lan" creationdate="20210814T135921Z">
+        <seg>Fluorescent     /     Đèn huỳnh quang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foam system</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095946Z" creationid="LanHK" creationdate="20210713T095946Z">
@@ -10494,8 +10542,8 @@
       <tuv lang="EN-US">
         <seg>High Intensity Discharge (High pressure sodium, metal halide, etc.)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T133234Z" creationid="Kieu Lan" creationdate="20210814T133234Z">
-        <seg>High Intensity Discharge (High pressure sodium, metal halide, etc.)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135940Z" creationid="Kieu Lan" creationdate="20210814T133234Z">
+        <seg>High Intensity Discharge (High pressure sodium, metal halide, etc.)     /     Đèn phóng điện cường độ cao (natri cao áp, halogen kim loại, v.v.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11280,8 +11328,8 @@
       <tuv lang="EN-US">
         <seg>Includes chandeliers, wall brackets, etc, decorative effect lighting.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135619Z" creationid="Kieu Lan" creationdate="20210814T135544Z">
-        <seg>Includes chandeliers, wall brackets, etc, decorative effect lighting.     /     Bao gồm đèn trần</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135810Z" creationid="Kieu Lan" creationdate="20210814T135544Z">
+        <seg>Includes chandeliers, wall brackets, etc, decorative effect lighting.     /     Bao gồm đèn trần, đèn gắn tường, chiếu sáng trang trí v.v</seg>
       </tuv>
     </tu>
     <tu>
@@ -12092,6 +12140,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LED</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135952Z" creationid="Kieu Lan" creationdate="20210814T135952Z">
+        <seg>LED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIFE CYCLE AND OPERATING COSTS</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T023414Z" creationid="LanHK" creationdate="20210715T023414Z">
@@ -12388,6 +12444,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Emitting Diode</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135953Z" creationid="Kieu Lan" creationdate="20210814T135953Z">
+        <seg>Light Emitting Diode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Switching *1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064656Z" creationid="Kieu Lan" creationdate="20210809T064127Z">
@@ -12625,6 +12689,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T092111Z" creationid="LanHK" creationdate="20210715T092111Z">
         <seg>Low Cooling Demand     /     Nhu cầu làm mát thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low Energy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140030Z" creationid="Kieu Lan" creationdate="20210814T140030Z">
+        <seg>Low Energy     /     Đèn tiết kiệm điện</seg>
       </tuv>
     </tu>
     <tu>
@@ -12881,6 +12953,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043610Z" creationid="Kieu Lan" creationdate="20210802T043610Z">
         <seg>MEDIUM     /     Trung bình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135954Z" creationid="Kieu Lan" creationdate="20210814T135954Z">
+        <seg>MH</seg>
       </tuv>
     </tu>
     <tu>
@@ -13354,6 +13434,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095404Z" creationid="Kieu Lan" creationdate="20210728T095404Z">
         <seg>Meetng rooms on different facades served from different systems     /     Phòng họp tại các mặt dựng khác nhau được phục vụ bởi hệ thống khác nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Metal Halide</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140023Z" creationid="Kieu Lan" creationdate="20210814T140023Z">
+        <seg>Metal Halide     /     Đèn halogen kim loại</seg>
       </tuv>
     </tu>
     <tu>
@@ -17475,6 +17563,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T063443Z" creationid="Kieu Lan" creationdate="20210810T063443Z">
         <seg>Sub-main electrical distribution must be arranged to limit the failure of any single item of equipment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subject to special lighting effects/local decorative lighting.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135918Z" creationid="Kieu Lan" creationdate="20210814T135756Z">
+        <seg>Subject to special lighting effects/local decorative lighting.     /     Phụ thuộc và hiệu ứng chiếu sáng đặc biệt/ chiếu sáng trang trí cục bộ</seg>
       </tuv>
     </tu>
     <tu>
