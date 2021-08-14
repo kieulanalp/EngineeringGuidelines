@@ -13631,6 +13631,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Movement sensors must be provided in sufficient number to achieve adequate control of the lighting circuits to all common areas.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T142746Z" creationid="Kieu Lan" creationdate="20210814T142746Z">
+        <seg>Movement sensors must be provided in sufficient number to achieve adequate control of the lighting circuits to all common areas.     /     Cảm biến chuyển động phải có đủ số lượng để đảm bảo việc điều khiển các mạch điện chiếu sáng tới tất cả các khu vực chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi-Function Chiller - Total Heat Recovery</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T041408Z" creationid="LanHK" creationdate="20210724T041408Z">
@@ -16614,6 +16622,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044444Z" creationid="Kieu Lan" creationdate="20210810T044444Z">
         <seg>Selected elevator for Fire Fighting were provided     /     Thang máy cho cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected lighting circuits to the car park, entrance hall, common area, corridors, staircases, circulation areas and external areas must, in addition to the time clock and/or solar control facility, be provided with a movement sensor which must override the astronomical time clock. Control will revert back to the time clock after a user-adjustable time period, initial set at 10 minutes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T142602Z" creationid="Kieu Lan" creationdate="20210814T142602Z">
+        <seg>Selected lighting circuits to the car park, entrance hall, common area, corridors, staircases, circulation areas and external areas must, in addition to the time clock and/or solar control facility, be provided with a movement sensor which must override the astronomical time clock. Control will revert back to the time clock after a user-adjustable time period, initial set at 10 minutes.     /     Các mạch điện chiếu sáng được chọn dẫn đến bãi đỗ xe, sảnh đến, khu vực chung, hành lang, thang bộ, khu vực lưu thông và không gian ngoài trời phải được bố trí đồng hồ tính giờ và/hoặc thiết bị điều khiển năng lượng mặt trời, và cảm biến chuyển động có thể ghi đè đồng hồ tính giờ. Quyền điều khiển sẽ chuyển lại cho đồng hồ sau một khoảng thời gian do người dùng xác định, ban đầu là 10 phút</seg>
       </tuv>
     </tu>
     <tu>
