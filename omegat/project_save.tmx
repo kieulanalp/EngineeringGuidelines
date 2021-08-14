@@ -141,6 +141,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>*</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135542Z" creationid="Kieu Lan" creationdate="20210814T135542Z">
+        <seg>*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>????</note>
       <tuv lang="EN-US">
         <seg>* Quick connection - the facility to connect a portable generator without modifications to the installation being required in a suitable location.</seg>
@@ -11262,6 +11270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Includes chandeliers, wall brackets, etc, decorative effect lighting.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135544Z" creationid="Kieu Lan" creationdate="20210814T135544Z">
+        <seg>Includes chandeliers, wall brackets, etc, decorative effect lighting.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increased capital and running costs</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080730Z" creationid="LanHK" creationdate="20210717T022640Z">
@@ -12861,6 +12877,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MH/HID</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135542Z" creationid="Kieu Lan" creationdate="20210814T135542Z">
+        <seg>MH/HID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOTOR DRIVEN THREE WAY CONTROL VALVE ON FURTHEST AIR HANDLING UNIT TO KEEP PIPE HOT.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T064721Z" creationid="LanHK" creationdate="20210728T064721Z">
@@ -14227,6 +14251,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095941Z">
         <seg>Other relevant documentation is provided below:-    /    Các tài liệu có liên quan được liệt kê dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outdoor Pools</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135540Z" creationid="Kieu Lan" creationdate="20210814T135540Z">
+        <seg>Outdoor Pools     /     Bể bơi ngoài trời</seg>
       </tuv>
     </tu>
     <tu>
