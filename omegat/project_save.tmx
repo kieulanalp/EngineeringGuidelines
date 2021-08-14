@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135738Z" creationid="Kieu Lan" creationdate="20210814T135738Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp; Foyer</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064830Z" creationid="Kieu Lan" creationdate="20210809T064821Z">
