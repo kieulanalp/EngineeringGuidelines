@@ -4485,6 +4485,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All IT equipment must be powered off a dedicated branch circuit that conforms to the following statements:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T172106Z" creationid="Kieu Lan" creationdate="20210814T172106Z">
+        <seg>All IT equipment must be powered off a dedicated branch circuit that conforms to the following statements:     /     Tất cả thiết bị IT này cần được cấp điện từ một mạch nhánh riêng tuân thủ các yêu cầu sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All air Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T021513Z" creationid="LanHK" creationdate="20210525T091721Z">
@@ -16132,6 +16140,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T073041Z" creationid="LanHK" creationdate="20210716T092742Z">
         <seg>Refer to an illustration of the expected cooling loads for a hotel guest room - this also provides guidance on wall/window ratios and targets for wall/glass cooling loads     /     Tham khảo hình minh họa tải làm mát dự kiến cho một phòng khách sạn - ảnh cũng cung cấp hướng dẫn về tỉ lệ tường/cửa sổ và mục tiêu tải làm mát cho tường/vách kính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to illustration of this manual for ‘typical requirements which will be confirmed by IHG Global Technology.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T171929Z" creationid="Kieu Lan" creationdate="20210814T171929Z">
+        <seg>Refer to illustration of this manual for ‘typical requirements which will be confirmed by IHG Global Technology.     /     Tham khảo trong hướng dẫn này về các yêu cầu điển hình, và sẽ được xác nhận bởi IHG Global Technology.</seg>
       </tuv>
     </tu>
     <tu>
