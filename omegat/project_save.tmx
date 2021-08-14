@@ -609,6 +609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1. THIS IS AN INDICATIVE LAYOUT TO ILLUSTRATE HOW THE IHG REÛUIRED LIGHTING LEVELS FROM TABLE 4.3 OF THE HEP STANDARDS CAN BE ACHIEVED, IN THIS CASE WITH AN EFFICIENCY OF APPROXIMATELY 70Lm/W. DESIGNERS CAN PROPOSE ALTERNATIVE LAYOUTS PROVIDING THE LIGHTING LEVELS ARE ACHIEVED AT AN AVERAGE EFFICIENCY OF GREATER THAN SQLm/W.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T155632Z" creationid="Kieu Lan" creationdate="20210814T155632Z">
+        <seg>1. This is an indicative layout to illustrate how the ihg required lighting levels from table 4.3 of the mep standards can be achieved, in this case with an efficiency of approximately 70Lm/w. designers can propose alternative layouts providing the lighting levels are achieved at an average efficiency of greater than 50Lm/w.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.0 l/s/m2</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061410Z" creationid="Kieu Lan" creationdate="20210805T061410Z">
@@ -1229,6 +1237,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T030154Z" creationid="Kieu Lan" creationdate="20210814T030154Z">
         <seg>2 Loose remote - loose table/floor lamps and display cabinets to have remotely switched nonstandard outlets     /     Điều khiển rời - đèn rời để bàn/để sàn và các tủ trưng bày phải có ổ cắm không tiêu chuẩn, bật tắt từ xa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2. ALL WIRING AND EQUIPMENT INSTALLATION STANDARDS MUST BE IN ACCORDANCE WITH THE LOCAL REGULATIONS FOR THE COUNTRY THE HOTEL IS BEING CONSTRUCTED IN.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T155641Z" creationid="Kieu Lan" creationdate="20210814T155641Z">
+        <seg>2. All wiring and equipment installation standards must be in accordance with the local regulations for the country the hotel is being constructed in.</seg>
       </tuv>
     </tu>
     <tu>
