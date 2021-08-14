@@ -6920,8 +6920,8 @@
       <tuv lang="EN-US">
         <seg>Decorative and flood lighting</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143653Z" creationid="Kieu Lan" creationdate="20210814T143653Z">
-        <seg>Decorative and flood lighting     /     Chiếu sáng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143710Z" creationid="Kieu Lan" creationdate="20210814T143653Z">
+        <seg>Decorative and flood lighting     /     Đèn trang trí và đèn pha</seg>
       </tuv>
     </tu>
     <tu>
@@ -8405,8 +8405,8 @@
       <tuv lang="EN-US">
         <seg>External lighting should be provided for all pedestrian and vehicular access routes to the building, service and car parking areas. Road lighting should be in accordance with relevant standards and local codes of practice. A security risk assessment shall be prepared to identify the external lighting category design criteria. This shall be discussed with InterContinental Hotels Group and agreed prior to progression of external lighting design. Decorative lighting and/or flood lighting should be provided to the major elevations of the building and to landscaped areas and signage. All external lighting should be time switch and photocell controlled, with manual override switches being provided in the security office. Separate controls should be provided for the following:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143611Z" creationid="Kieu Lan" creationdate="20210814T143351Z">
-        <seg>External lighting should be provided for all pedestrian and vehicular access routes to the building, service and car parking areas. Road lighting should be in accordance with relevant standards and local codes of practice. A security risk assessment shall be prepared to identify the external lighting category design criteria. This shall be discussed with InterContinental Hotels Group and agreed prior to progression of external lighting design. Decorative lighting and/or flood lighting should be provided to the major elevations of the building and to landscaped areas and signage. All external lighting should be time switch and photocell controlled, with manual override switches being provided in the security office. Separate controls should be provided for the following:     /     Chiếu sáng bên ngoài cần được bố trí cho tất cả các tuyến đường dành cho người đi bộ và xe cộ đến các khu vực tòa nhà, dịch vụ và bãi đậu xe. Đèn đường phải đáp ứng các tiêu chuẩn và các quy định địa phương liên quan. Phải thực hiện đánh giá rủi ro an ninh để xác định các tiêu chí thiết kế cho hạng mục chiếu sáng bên ngoài. Điều này sẽ được thảo luận với IHG và thống nhất trước khi tiến hành thiết kế chiếu sáng bên ngoài. Hệ thống chiếu sáng trang trí và / hoặc chiếu sáng flood light nên được cung cấp cho các mặt dựng chính của tòa nhà và các khu vực cảnh quan và biển bảng. Tất cả ánh sáng bên ngoài phải có công tắc tính giờ và được điều khiển bằng điện trở quang, với công tắc ghi đè thủ công bố trí trong phòng an ninh. Các điều khiển riêng nên được cung cấp cho những hạng mục sau:</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143701Z" creationid="Kieu Lan" creationdate="20210814T143351Z">
+        <seg>External lighting should be provided for all pedestrian and vehicular access routes to the building, service and car parking areas. Road lighting should be in accordance with relevant standards and local codes of practice. A security risk assessment shall be prepared to identify the external lighting category design criteria. This shall be discussed with InterContinental Hotels Group and agreed prior to progression of external lighting design. Decorative lighting and/or flood lighting should be provided to the major elevations of the building and to landscaped areas and signage. All external lighting should be time switch and photocell controlled, with manual override switches being provided in the security office. Separate controls should be provided for the following:     /     Chiếu sáng bên ngoài cần được bố trí cho tất cả các tuyến đường dành cho người đi bộ và xe cộ đến các khu vực tòa nhà, dịch vụ và bãi đậu xe. Đèn đường phải đáp ứng các tiêu chuẩn và các quy định địa phương liên quan. Phải thực hiện đánh giá rủi ro an ninh để xác định các tiêu chí thiết kế cho hạng mục chiếu sáng bên ngoài. Điều này sẽ được thảo luận với IHG và thống nhất trước khi tiến hành thiết kế chiếu sáng bên ngoài. Hệ thống chiếu sáng trang trí và / hoặc chiếu sáng đèn pha nên được cung cấp cho các mặt dựng chính của tòa nhà và các khu vực cảnh quan và biển bảng. Tất cả ánh sáng bên ngoài phải có công tắc tính giờ và được điều khiển bằng điện trở quang, với công tắc ghi đè thủ công bố trí trong phòng an ninh. Các điều khiển riêng nên được cung cấp cho những hạng mục sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11108,6 +11108,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Illuminated signs and displays</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143727Z" creationid="Kieu Lan" creationdate="20210814T143727Z">
+        <seg>Illuminated signs and displays     /     Biển bảng và các trưng bày được chiếu sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediate alarm in room/area</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081347Z" creationid="Kieu Lan" creationdate="20210713T081347Z">
@@ -12488,6 +12496,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032404Z" creationid="Kieu Lan" creationdate="20210405T154539Z">
         <seg>Lighting     /     Chiếu sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lighting -using wall &amp; ceiling lights</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143831Z" creationid="Kieu Lan" creationdate="20210814T143753Z">
+        <seg>Lighting -using wall &amp; ceiling lights     /     Chiếu sáng - dùng đèn gắn tường và đèn trần</seg>
       </tuv>
     </tu>
     <tu>
@@ -15266,6 +15282,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power and communications</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143836Z" creationid="Kieu Lan" creationdate="20210814T143836Z">
+        <seg>Power and communications     /     Điện và liên lạc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power demand for different area may vary according to case.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093430Z" creationid="Kieu Lan" creationdate="20210806T093404Z">
@@ -16254,6 +16278,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143623Z" creationid="Kieu Lan" creationdate="20210814T143623Z">
         <seg>Road, car parking and delivery area lighting.     /     Chiếu sáng đường, bãi đỗ xe và khu vực giao hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roof and external plant areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143752Z" creationid="Kieu Lan" creationdate="20210814T143752Z">
+        <seg>Roof and external plant areas     /     Mái và các khu vực máy bên ngoài</seg>
       </tuv>
     </tu>
     <tu>
@@ -18772,6 +18804,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following drawings illustrate the principles for</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143818Z" creationid="Kieu Lan" creationdate="20210814T143752Z">
+        <seg>The following drawings illustrate the principles for     /     Các hình sau minh họa các nguyên tắc về</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following highlights good zoning for an air conditioning system, with the correct zoning indicated by the different colors.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095408Z" creationid="Kieu Lan" creationdate="20210728T095408Z">
@@ -20421,6 +20461,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typical guest room wiring diagrams</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143848Z" creationid="Kieu Lan" creationdate="20210814T143848Z">
+        <seg>Typical guest room wiring diagrams     /     Sơ đồ đi dây phòng khách điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Typical guestroom 4-pipe active chilled beam option</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T071753Z" creationid="Kieu Lan" creationdate="20210802T071753Z">
@@ -20967,6 +21015,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100348Z" creationid="LanHK" creationdate="20210713T100348Z">
         <seg>Water deluge system     /     Hệ thống sử dụng đầu phun mở</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water features/artwork/sculpture</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143738Z" creationid="Kieu Lan" creationdate="20210814T143738Z">
+        <seg>Water features/artwork/sculpture     /     Các yếu tố nước/tranh ảnh/tượng</seg>
       </tuv>
     </tu>
     <tu>
