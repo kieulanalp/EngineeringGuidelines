@@ -16642,6 +16642,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety- All LED’s operate at low voltages and use direct current. LED’s are solid state devices and have low toxicity by virtue of their construction.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T170312Z" creationid="Kieu Lan" creationdate="20210814T170312Z">
+        <seg>Safety- All LED’s operate at low voltages and use direct current. LED’s are solid state devices and have low toxicity by virtue of their construction.     /     An toàn - Tất cả đèn LED vận hành ở điện áp thấp và dùng điện một chiều. LED là thiết bị bán dẫn  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Same system can provide heating and cooling in adjacent rooms simultaneously</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T062202Z" creationid="LanHK" creationdate="20210729T062202Z">
