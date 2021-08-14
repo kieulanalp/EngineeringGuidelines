@@ -18857,6 +18857,14 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The distribution panel insulated ground point must have a grounding wire connecting to either a service ground or a suitable building ground.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T182955Z" creationid="Kieu Lan" creationdate="20210814T182955Z">
+        <seg>The distribution panel insulated ground point must have a grounding wire connecting to either a service ground or a suitable building ground     /     Điểm nối đất cách điện của bảng phân phối phải có dây nối đất nối với đất dịch vụ hoặc đất xây dựng phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note> trucking distribution system</note>
       <tuv lang="EN-US">
         <seg>The distribution system must comprise main and sub-main distribution panels, trucking distribution systems, LV distribution cables, voltage regulators and power factor correction equipment. Panels should not be located in public spaces.</seg>
