@@ -13767,6 +13767,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTES</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T155348Z" creationid="Kieu Lan" creationdate="20210814T155348Z">
+        <seg>NOTES     /     Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NR Rating</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094438Z" creationid="LanHK" creationdate="20210715T062746Z">
@@ -14701,6 +14709,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T144500Z" creationid="Kieu Lan" creationdate="20210814T144500Z">
         <seg>Page: 147</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page: 148</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T155334Z" creationid="Kieu Lan" creationdate="20210814T155332Z">
+        <seg>Page: 148</seg>
       </tuv>
     </tu>
     <tu>
@@ -18095,6 +18111,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TYPICAL GUEST ROOM LIGHTING LAYOUT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T155346Z" creationid="Kieu Lan" creationdate="20210814T155346Z">
+        <seg>TYPICAL GUEST ROOM LIGHTING LAYOUT     /     Layout chiếu sáng phòng khách điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TYPICAL GUESTROOM A-PIPE RADIANT CEILING OPTION</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T044609Z" creationid="Kieu Lan" creationdate="20210802T044609Z">
@@ -20431,8 +20455,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Typical Guestroom Power &amp; Communication Layout</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T144526Z" creationid="Kieu Lan" creationdate="20210814T144526Z">
-        <seg>Typical Guestroom Power &amp; Communication Layout</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T155331Z" creationid="Kieu Lan" creationdate="20210814T144526Z">
+        <seg>Typical Guestroom Power &amp; Communication Layout     /     Layout điện và liên lạc phòng khách điển hình</seg>
       </tuv>
     </tu>
     <tu>
