@@ -14697,6 +14697,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 147</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T144500Z" creationid="Kieu Lan" creationdate="20210814T144500Z">
+        <seg>Page: 147</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 16</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -19832,6 +19840,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These must be followed in principle and not changed without approval from IHG.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T144459Z" creationid="Kieu Lan" creationdate="20210814T144459Z">
+        <seg>These must be followed in principle and not changed without approval from IHG.     /     Các nguyên tắc này phải được tuân thủ và không được thay đổi nếu không có phê duyệt từ IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These options also provide reduced spatial requirements, but are subject to development with the architecture.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061313Z" creationid="Kieu Lan" creationdate="20210805T061313Z">
@@ -20409,6 +20425,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T064005Z" creationid="LanHK" creationdate="20210610T065919Z">
         <seg>Typical guest Floor Fire Protection System    /    Hệ thống chữa cháy điển hình tại tầng phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Guestroom Power &amp; Communication Layout</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T144526Z" creationid="Kieu Lan" creationdate="20210814T144526Z">
+        <seg>Typical Guestroom Power &amp; Communication Layout</seg>
       </tuv>
     </tu>
     <tu>
