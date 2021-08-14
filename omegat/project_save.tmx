@@ -8065,6 +8065,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Energy and the environment- reduced power consumption when compared to other lamp sources i.e. a 7 watt LED has the same light output as a 50 watt dichroic down light. LED’s are also easier to control, 60% of the light emitted from a fluorescent tube is wasted.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T163435Z" creationid="Kieu Lan" creationdate="20210814T163435Z">
+        <seg>Energy and the environment- reduced power consumption when compared to other lamp sources i.e. a 7 watt LED has the same light output as a 50 watt dichroic down light. LED’s are also easier to control, 60% of the light emitted from a fluorescent tube is wasted.     /     Năng lượng và môi trường - Giảm điện năng tiêu thụ so với các loại đèn khác, vd một đèn LED 7 Watt có cường độ sáng </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Energy cost comparison per year</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T095922Z" creationid="Kieu Lan" creationdate="20210729T095922Z">
@@ -16186,8 +16194,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Reliability / Lifespan - LED’s last longer than any other form of artificial lighting. The average lifespan on a 12V halogen lamp is 4000 hours compared with the 50,000 hours of an LED.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Reliability    /    Lifespan - LED’s last longer than any other form of artificial lighting. The average lifespan on a 12V halogen lamp is 4000 hours compared with the 50,000 hours of an LED.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T163440Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Reliability / Lifespan - LED’s last longer than any other form of artificial lighting. The average lifespan on a 12V halogen lamp is 4000 hours compared with the 50,000 hours of an LED.     /     Tính đảm bảo / Tuổi đời - đèn LED có tuổi thọ cao hơn bất kể loại nguồn sáng nhân tạo nào khác. Tuổi đời trung bình của một đèn halogen 12V vào khoảng 4000h so với tuổi đời 50000h của đèn LED</seg>
       </tuv>
     </tu>
     <tu>
@@ -19834,8 +19842,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>There has been massive growth in LED lighting both internally &amp; externally (façade &amp; landscape). Since being launched into commercial market there has been impressive development into the output and capabilities of LED lighting with significant reduction in cost.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T163034Z" creationid="Kieu Lan" creationdate="20210814T162707Z">
-        <seg>There has been massive growth in LED lighting both internally &amp; externally (façade &amp; landscape). Since being launched into commercial market there has been impressive development into the output and capabilities of LED lighting with significant reduction in cost.     /     Chiếu sáng LED đã có những bước tiến lớn, cả đối với đèn LED trong nhà và ngoài trời (mặt dựng và cảnh quan). Kể từ khi được đưa ra thị trường thương mại, chiếu sáng LED đã có những phát triển đáng nể về sản lượng sản xuất và khả năng của đèn cùng giá giảm đáng kể</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T163446Z" creationid="Kieu Lan" creationdate="20210814T162707Z">
+        <seg>There has been massive growth in LED lighting both internally &amp; externally (façade &amp; landscape). Since being launched into commercial market there has been impressive development into the output and capabilities of LED lighting with significant reduction in cost.     /     Chiếu sáng LED đã có những bước tiến lớn, cả đối với đèn LED trong nhà và ngoài trời (mặt dựng và cảnh quan). Kể từ khi được đưa ra thị trường thương mại, chiếu sáng LED đã có những phát triển đáng nể về cường độ sáng và khả năng của đèn cùng giá giảm đáng kể</seg>
       </tuv>
     </tu>
     <tu>
