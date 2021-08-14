@@ -8067,8 +8067,8 @@
       <tuv lang="EN-US">
         <seg>Energy and the environment- reduced power consumption when compared to other lamp sources i.e. a 7 watt LED has the same light output as a 50 watt dichroic down light. LED’s are also easier to control, 60% of the light emitted from a fluorescent tube is wasted.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T163435Z" creationid="Kieu Lan" creationdate="20210814T163435Z">
-        <seg>Energy and the environment- reduced power consumption when compared to other lamp sources i.e. a 7 watt LED has the same light output as a 50 watt dichroic down light. LED’s are also easier to control, 60% of the light emitted from a fluorescent tube is wasted.     /     Năng lượng và môi trường - Giảm điện năng tiêu thụ so với các loại đèn khác, vd một đèn LED 7 Watt có cường độ sáng </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T164751Z" creationid="Kieu Lan" creationdate="20210814T163435Z">
+        <seg>Energy and the environment- reduced power consumption when compared to other lamp sources i.e. a 7 watt LED has the same light output as a 50 watt dichroic down light. LED’s are also easier to control, 60% of the light emitted from a fluorescent tube is wasted.     /     Năng lượng và môi trường - Giảm điện năng tiêu thụ so với các loại đèn khác, vd một đèn LED 7 Watt có cường độ sáng tương đương một đèn downlight sợi đốt 50watt. Đèn LED cũng dễ điều chỉnh hơn, 60% ánh sáng phát từ đèn ống huỳnh quang bị lãng phí</seg>
       </tuv>
     </tu>
     <tu>
@@ -15996,6 +15996,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061306Z" creationid="Kieu Lan" creationdate="20210805T061306Z">
         <seg>Reduced</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduced Heat- LED’s produce much less heat than the equivalent lamps making it easy to incorporate them in enclosed spaces.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T164831Z" creationid="Kieu Lan" creationdate="20210814T164831Z">
+        <seg>Reduced Heat- LED’s produce much less heat than the equivalent lamps making it easy to incorporate them in enclosed spaces.     /     Giảm nhiệt độ - Đèn LED sinh ra ít nhiệt hơn các loại đèn tương đương, do đó dễ dàng lắp đặt trong các không gian ksin</seg>
       </tuv>
     </tu>
     <tu>
