@@ -6453,8 +6453,8 @@
       <tuv lang="EN-US">
         <seg>Compact Fluorescent</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140102Z" creationid="Kieu Lan" creationdate="20210814T135930Z">
-        <seg>Compact Fluorescent     /     Đèn compact huỳnh quang </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140445Z" creationid="Kieu Lan" creationdate="20210814T135930Z">
+        <seg>Compact Fluorescent     /     Đèn huỳnh quang compact</seg>
       </tuv>
     </tu>
     <tu>
@@ -6912,8 +6912,8 @@
       <tuv lang="EN-US">
         <seg>Decorative Low Energy (LED or CF)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140056Z" creationid="Kieu Lan" creationdate="20210814T140056Z">
-        <seg>Decorative Low Energy (LED or CF)     /     Đèn chiếu sáng tiết kiệm điện (LED hoặc compact huỳnh quang)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140506Z" creationid="Kieu Lan" creationdate="20210814T140056Z">
+        <seg>Decorative Low Energy (LED or CF)     /     Đèn chiếu sáng tiết kiệm điện (LED hoặc huỳnh quang compact)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15093,6 +15093,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064533Z" creationid="Kieu Lan" creationdate="20210705T064533Z">
         <seg>Please leave the hotel at once by the nearest exit."     /     "Chú ý, chú ý. Có một sự cố khẩn cấp. Đề nghị rời khỏi khách sạn ngay lập tức thông qua lối thoát gần nhất"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please note that all compact fluorescent (CF) and Fluorescent (F) should becolour temperature 3000 K and a color rendition (Ra) of equal to or greater than 85.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140434Z" creationid="Kieu Lan" creationdate="20210814T140434Z">
+        <seg>Please note that all compact fluorescent (CF) and Fluorescent (F) should becolour temperature 3000 K and a color rendition (Ra) of equal to or greater than 85.     /     Lưu ý: tất cả đèn huỳnh quang compact (CF) và huỳnh quang (F) phải có nhiệt độ màu là 3000 K và độ hiển thị màu (Ra) bằng hoặc lớn hơn 85.</seg>
       </tuv>
     </tu>
     <tu>
