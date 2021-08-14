@@ -5007,6 +5007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As for most modern operations, the IT systems are critical to the efficient functioning of the Hotel so reliability and redundancy are essential.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T171428Z" creationid="Kieu Lan" creationdate="20210814T171428Z">
+        <seg>As for most modern operations, the IT systems are critical to the efficient functioning of the Hotel so reliability and redundancy are essential.     /     Cũng như với các cơ sở hiện đại khác, hệ thống IT là thiết yếu trong việc vận hành hiệu quả khách sạn, vậy nên cần đảm bảo tính đáng tin cậy của hệ thống cũng như có phương án dự phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As mentioned previously, the air conditioning will make up a large proportion of the power consumption for a hotel building, and the fresh air will form a significant proportion of this, which can be illustrated as follows for different locations:-</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T073236Z" creationid="LanHK" creationdate="20210716T102923Z">
