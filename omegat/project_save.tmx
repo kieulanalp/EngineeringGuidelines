@@ -5087,6 +5087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At least 60 Amperes capacity should be provided to the IT Room with a 32 Amp fuse.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T183234Z" creationid="Kieu Lan" creationdate="20210814T183234Z">
+        <seg>At least 60 Amperes capacity should be provided to the IT Room with a 32 Amp fuse.     /     Tối thiểu công suất 60 ampe phải được cung cấp cho phòng IT, với cầu chì 32 Amp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of the delay period and if the alarm has not been silenced because there is no evidence of a fire,</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061355Z" creationid="Kieu Lan" creationdate="20210805T061355Z">
