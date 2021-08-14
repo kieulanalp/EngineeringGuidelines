@@ -11,3 +11,4 @@ hotel	khách sạn
 cooling load	phụ tải làm mát
 Fresh Air Load	phụ tải khí tươi
 peak load	phụ tải đỉnh
+chandelier	đèn trần
