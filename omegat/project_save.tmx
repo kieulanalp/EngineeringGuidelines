@@ -577,6 +577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1,000</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T182420Z" creationid="Kieu Lan" creationdate="20210814T182420Z">
+        <seg>1,000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1,300kW*</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061446Z" creationid="Kieu Lan" creationdate="20210805T061446Z">
