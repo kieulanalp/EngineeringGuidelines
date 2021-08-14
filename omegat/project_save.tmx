@@ -3181,8 +3181,8 @@
       <tuv lang="EN-US">
         <seg>50-200 max at corners/ noncirculation space</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T133245Z" creationid="Kieu Lan" creationdate="20210814T133245Z">
-        <seg>50-200 max at corners/ noncirculation space     /     50-200</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T133417Z" creationid="Kieu Lan" creationdate="20210814T133245Z">
+        <seg>50-200 max at corners/ noncirculation space     /     50-200 tối đa ở các góc/không gian không tròn</seg>
       </tuv>
     </tu>
     <tu>
@@ -9980,6 +9980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ground Level</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T133420Z" creationid="Kieu Lan" creationdate="20210814T133420Z">
+        <seg>Ground Level     /     Mức mặt đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095535Z" creationid="Kieu Lan" creationdate="20210728T095504Z">
@@ -10232,6 +10240,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045457Z" creationid="Kieu Lan" creationdate="20210805T045457Z">
         <seg>HDPE (High density Polyethylene) has outstanding flexibility &amp; high Imapct Resistance.     /     HDPE có độ dẻo và chống va đập tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HID</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T133504Z" creationid="Kieu Lan" creationdate="20210814T133504Z">
+        <seg>HID</seg>
       </tuv>
     </tu>
     <tu>
