@@ -6453,8 +6453,8 @@
       <tuv lang="EN-US">
         <seg>Compact Fluorescent</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135930Z" creationid="Kieu Lan" creationdate="20210814T135930Z">
-        <seg>Compact Fluorescent     /     Đèn huỳnh quang compact</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140102Z" creationid="Kieu Lan" creationdate="20210814T135930Z">
+        <seg>Compact Fluorescent     /     Đèn compact huỳnh quang </seg>
       </tuv>
     </tu>
     <tu>
@@ -6906,6 +6906,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T044813Z" creationid="LanHK" creationdate="20210505T044813Z">
         <seg>Date: Ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decorative Low Energy (LED or CF)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140056Z" creationid="Kieu Lan" creationdate="20210814T140056Z">
+        <seg>Decorative Low Energy (LED or CF)     /     Đèn chiếu sáng tiết kiệm điện (LED hoặc compact huỳnh quang)</seg>
       </tuv>
     </tu>
     <tu>
