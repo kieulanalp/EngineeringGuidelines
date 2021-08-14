@@ -18656,6 +18656,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The branch circuit grounding wire must be tied to a single insulated ground point at the distribution panel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T182731Z" creationid="Kieu Lan" creationdate="20210814T182731Z">
+        <seg>The branch circuit grounding wire must be tied to a single insulated ground point at the distribution panel.     /     Dây nối đất của mạch nhánh phải được nối vào một điểm nối đất cách điện duy nhất tại bảng phân phối.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cables that transmit the alternative power supply must be separate from those of the primary supply</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T025912Z">
@@ -18700,6 +18708,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T020350Z" creationid="LanHK" creationdate="20210729T020350Z">
         <seg>The choice of HVAC system to serve the various Hotel areas shall depend on a number of factors including Hotel configuration, ceiling void depths, Plant room space, external space, utility charges and the extent of the work involved. A full evaluation of options shall be undertaken to ensure the optimum system is selected for each particular project, with typical examples for selection criteria provided in this design guides for:     /     Việc lựa chọn hệ thống HVAC để phục vụ nhiều khu vực khách sạn sẽ phụ thuộc một số yếu tố, gồm có bố trí phòng khách sạn, chiều cao không gian áp mái, diện tích phòng máy, không gian bên ngoài, chi phí điện nước.. và quy mô của việc lắp đặt. Cần đánh giá đầy đủ các phương án để đảm bảo lựa chọn được hệ thống tối ưu cho mỗi dự án cụ thể, với ví dụ tiêu biểu cho các tiêu chí chọn lựa đối với các khu vực:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The circuit must have an insulated wire conductor, equal to the size of the phase conductor, for grounding the equipment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T182702Z" creationid="Kieu Lan" creationdate="20210814T182702Z">
+        <seg>The circuit must have an insulated wire conductor, equal to the size of the phase conductor, for grounding the equipment.     /     Mạch điện phải có dây dẫn cách điện, bằng cỡ dây dẫn pha để nối đất cho thiết bị.</seg>
       </tuv>
     </tu>
     <tu>
