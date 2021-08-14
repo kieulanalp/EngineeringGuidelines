@@ -3203,6 +3203,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.6</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T170545Z" creationid="Kieu Lan" creationdate="20210814T170545Z">
+        <seg>5.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -11036,6 +11044,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IT Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T170547Z" creationid="Kieu Lan" creationdate="20210814T170547Z">
+        <seg>IT Systems     /     Hệ thống IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IT rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100537Z" creationid="LanHK" creationdate="20210713T100537Z">
@@ -16088,6 +16104,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to Volume 3 of this manual for an example of LED light in a hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T170544Z" creationid="Kieu Lan" creationdate="20210814T170544Z">
+        <seg>Refer to Volume 3 of this manual for an example of LED light in a hotel.     /     Tham khảo Volume 3 trong hướng dẫn này về ví dụ ứng dụng đèn LED trong khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to an illustration of the expected cooling loads for a hotel guest room - this also provides guidance on wall/window ratios and targets for wall/glass cooling loads</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T073041Z" creationid="LanHK" creationdate="20210716T092742Z">
@@ -16644,8 +16668,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Safety- All LED’s operate at low voltages and use direct current. LED’s are solid state devices and have low toxicity by virtue of their construction.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T170312Z" creationid="Kieu Lan" creationdate="20210814T170312Z">
-        <seg>Safety- All LED’s operate at low voltages and use direct current. LED’s are solid state devices and have low toxicity by virtue of their construction.     /     An toàn - Tất cả đèn LED vận hành ở điện áp thấp và dùng điện một chiều. LED là thiết bị bán dẫn  </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T170520Z" creationid="Kieu Lan" creationdate="20210814T170312Z">
+        <seg>Safety- All LED’s operate at low voltages and use direct current. LED’s are solid state devices and have low toxicity by virtue of their construction.     /     An toàn - Tất cả đèn LED vận hành ở điện áp thấp và dùng điện một chiều. LED là thiết bị bán dẫn  và có độc tính thấp nhờ cấu tạo của nó</seg>
       </tuv>
     </tu>
     <tu>
@@ -18686,6 +18710,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061357Z" creationid="Kieu Lan" creationdate="20210805T061357Z">
         <seg>The design and sizing of this system shall be done in conjunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The design and specification of the Hotel IT systems will be provided by IHG Global Technology.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T170607Z" creationid="Kieu Lan" creationdate="20210814T170607Z">
+        <seg>The design and specification of the Hotel IT systems will be provided by IHG Global Technology.     /     Thiết kế và thông số hệ thống IT sẽ được cung cấp bởi IHG Global Technology</seg>
       </tuv>
     </tu>
     <tu>
