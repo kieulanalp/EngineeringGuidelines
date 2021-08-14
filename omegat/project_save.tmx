@@ -3179,6 +3179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50-200 max at corners/ noncirculation space</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T133245Z" creationid="Kieu Lan" creationdate="20210814T133245Z">
+        <seg>50-200 max at corners/ noncirculation space     /     50-200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50-400</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T085244Z" creationid="Kieu Lan" creationdate="20210814T085244Z">
@@ -10440,6 +10448,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100008Z" creationid="Kieu Lan" creationdate="20210729T100008Z">
         <seg>High     /     Cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High Intensity Discharge (High pressure sodium, metal halide, etc.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T133234Z" creationid="Kieu Lan" creationdate="20210814T133234Z">
+        <seg>High Intensity Discharge (High pressure sodium, metal halide, etc.)</seg>
       </tuv>
     </tu>
     <tu>
