@@ -3235,6 +3235,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.7.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110151Z" creationid="Kieu Lan" creationdate="20210815T110151Z">
+        <seg>5.7.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -7700,6 +7708,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091820Z" creationid="Kieu Lan" creationdate="20210815T091820Z">
         <seg>Each kitchen POS printer location     /     Vị trí máy in POS của mỗi bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each of the above systems must be supplied installed, tested and commissioned by specialist system suppliers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110151Z" creationid="Kieu Lan" creationdate="20210815T110151Z">
+        <seg>Each of the above systems must be supplied, installed, tested and commissioned by specialist system suppliers.     /     Mỗi hệ thống đều phải được cung cấp, lắp đặt, kiểm tra và vận hành thử bằng nhà cung cấp chuyên môn</seg>
       </tuv>
     </tu>
     <tu>
@@ -15041,6 +15057,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 154</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110116Z" creationid="Kieu Lan" creationdate="20210815T110116Z">
+        <seg>Page: 154</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 16</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -18322,6 +18346,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System Concept</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110200Z" creationid="Kieu Lan" creationdate="20210815T110200Z">
+        <seg>System Concept     /     Concept hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System Description</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100202Z" creationid="Kieu Lan" creationdate="20210729T100202Z">
@@ -19873,6 +19905,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The security should be based on the Cerberus LMS modular system. The system should be complete with subsystems as described. Interface ports should be available to communicate with other systems as described. It should consist of a three-layer security concept.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110303Z" creationid="Kieu Lan" creationdate="20210815T110303Z">
+        <seg>The security should be based on the Cerberus LMS modular system. The system should be complete with subsystems as described. Interface ports should be available to communicate with other systems as described. It should consist of a three-layer security concept.     /     An ninh nên dựa trên hệ thống modul Cerberus LMS. Hệ thống nên được hoàn thiện với các hệ thống phụ như miêu tả. Các cổng liên kết phải có để giao tiếp với các hệ thống khác như miêu tả. Cũng nên bao gồm concept an ninh 3 lớp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The selection of the most suitable chiller plants will depend upon the size of chillers required, the Hotel location and serviceability. The following illustrates different chiller types and their respective efficiencies for the conditions indicated.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T074242Z" creationid="LanHK" creationdate="20210722T030830Z">
@@ -20536,6 +20576,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T083040Z" creationid="Kieu Lan" creationdate="20210802T083040Z">
         <seg>This includes foyers, restaurants, bars, meeting rooms, ballrooms, lounges etc.     /     Bao gồm các khu tiền sảnh, nhà hàng, bar, phòng họp, lounge, v.v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section covers the provision of access control, intruder alarms, hold-up alarms, guard tour, guest room control, and closed circuit surveillance television (CCTV) systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110115Z" creationid="Kieu Lan" creationdate="20210815T110115Z">
+        <seg>This section covers the provision of access control, intruder alarms, hold-up alarms, guard tour, guest room control, and closed circuit surveillance television (CCTV) systems.     /     Mục này bao gồm các hạng mục kiểm soát truy cập,báo động  đột nhập, báo động cướp, hệ thống ghi dữ liệu tuần tra bảo vệ, điều khiển phòng khách và hệ thống CCTV</seg>
       </tuv>
     </tu>
     <tu>
