@@ -20120,6 +20120,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hot and cold water distribution systems shall be sized using ‘demand units’ based on CIBSE, ASHRAE or the International Building/Plumbing Code.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T123950Z" creationid="Kieu Lan" creationdate="20210815T123950Z">
+        <seg>The hot and cold water distribution systems shall be sized using ‘demand units’ based on CIBSE, ASHRAE or the International Building/Plumbing Code.     /     Hệ thống phân phối nước nóng và nước lạnh sẽ được thiết kế kích thước phù hợp dùng "khối nhu cầu", dựa trên cơ sở CIBSE, ASHRAE hoặc Quy chuẩn quốc tế về Bơm nước tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The hotel must prepare a written emergency and evacuation plan in response to an alarm sounding. The plan must contain details of a named person(s) who is/are trained and qualified to respond to the activation of one or more alarms. A programme must be in place to monitor the carbon monoxide detectors and alarms and replace batteries in battery powered carbon monoxide detectors and alarms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T045302Z" creationid="Kieu Lan" creationdate="20210629T045302Z">
