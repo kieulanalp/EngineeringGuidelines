@@ -3243,6 +3243,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.7.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T112919Z" creationid="Kieu Lan" creationdate="20210815T112919Z">
+        <seg>5.7.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -3847,6 +3855,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T061955Z" creationid="LanHK" creationdate="20210729T061955Z">
         <seg>A 3pipe system should be zoned differently to a 2 pipe system as illustrated below:-     /     Một hệ thống ba ống nên được chia khu khác với hệ thống 2 ống, như được minh họa dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A CCTV system will be provided for constant surveillance of the following areas:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113036Z" creationid="Kieu Lan" creationdate="20210815T113036Z">
+        <seg>A CCTV system will be provided for constant surveillance of the following areas:     /     Một hệ thống CCTV sẽ được bố trí để liên tục giám sát các khu vực sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6483,6 +6499,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Closed Circuit Television System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113021Z" creationid="Kieu Lan" creationdate="20210815T112927Z">
+        <seg>Closed Circuit Television System     /     Hệ thống CCTV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Club Lounge</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061419Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
@@ -8269,6 +8293,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094353Z" creationid="LanHK" creationdate="20210715T063218Z">
         <seg>Entrance Lobby - Seating Areas     /     Sảnh đến - Khu vực ngồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entry point to the property (vehicular) and final exits</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113102Z" creationid="Kieu Lan" creationdate="20210815T113102Z">
+        <seg>Entry point to the property (vehicular) and final exits     /     Điểm truy cập khuôn viên khách sạn cho xe cộ và lối ra cuối cùng</seg>
       </tuv>
     </tu>
     <tu>
@@ -10988,6 +11020,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hotel front desk</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113120Z" creationid="Kieu Lan" creationdate="20210815T113120Z">
+        <seg>Hotel front desk     /     Lễ tân khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hotel guest rooms are conditioned 24 hours a day and the peak load only occurs for 1 hour a day so it is important not to overestimate the load.</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T072501Z" creationid="LanHK" creationdate="20210716T092244Z">
@@ -11930,8 +11970,8 @@
       <tuv lang="EN-US">
         <seg>Interpret and translate the various communication protocols from the different subsystems.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T112717Z" creationid="Kieu Lan" creationdate="20210815T112717Z">
-        <seg>Interpret and translate the various communication protocols from the different subsystems.     /     Thông dịch các giao thức liên lạc khác từ các hệ thống phụ khác nhau</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113000Z" creationid="Kieu Lan" creationdate="20210815T112717Z">
+        <seg>Interpret and translate the various communication protocols from the different subsystems.     /     Thông dịch các giao thức liên lạc khác từ các hệ thống con khác nhau</seg>
       </tuv>
     </tu>
     <tu>
@@ -12901,6 +12941,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading dock</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113111Z" creationid="Kieu Lan" creationdate="20210815T113111Z">
+        <seg>Loading dock     /     Khu dỡ hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading docks, covered platforms, exterior canopies &gt;1.2 width</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034415Z" creationid="LanHK" creationdate="20210713T092303Z">
@@ -13434,6 +13482,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T084928Z" creationid="Kieu Lan" creationdate="20210814T084928Z">
         <seg>Maintained Illuminance (LUX)     /     Mức độ sáng cần duy trì (LUX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage the interactions between subsystems. The event-by-control functions, which are initiated in one subsystem and actuated in another, are linked in this layer.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113011Z" creationid="Kieu Lan" creationdate="20210815T112918Z">
+        <seg>Manage the interactions between subsystems. The event-by-control functions, which are initiated in one subsystem and actuated in another, are linked in this layer.     /     Quản lý tương tác giữa các hệ thống con. Các chức năng điều khiển theo sự kiện được khởi tạo trong một hệ thống con và kích hoạt trong một hệ thống con khác sẽ được liên kết trong tầng này</seg>
       </tuv>
     </tu>
     <tu>
@@ -15389,6 +15445,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100500Z" creationid="LanHK" creationdate="20210713T100500Z">
         <seg>Parking garages liable to     /     Garage đậu xe có khả năng đóng băng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parking levels</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113106Z" creationid="Kieu Lan" creationdate="20210815T113106Z">
+        <seg>Parking levels     /     Các tầng đỗ xe</seg>
       </tuv>
     </tu>
     <tu>
@@ -18164,8 +18228,16 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Subsystem layer: The subsystem layer should include all the local control units PC’s, sensors and actuators as described. The subsystems should have complete autonomy within the security concept, so that field operations and satisfactory level of security can be guaranteed even in case of failure in the higher levels above.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110532Z" creationid="Kieu Lan" creationdate="20210815T110510Z">
-        <seg>Subsystem layer: The subsystem layer should include all the local control units PC’s, sensors and actuators as described. The subsystems should have complete autonomy within the security concept, so that field operations and satisfactory level of security can be guaranteed even in case of failure in the higher levels above.     /     Tầng  hệ thống phụ: Lớp hệ thống phụ nên bao gồm tất cả đơn vị điều khiển cục bộ PC, cảm biến và thiết bị truyền động như miêu tả. Các hệ thống phụ phải có quyền tự chủ hoàn toàn trong concept an ninh, để đảm bảo vận hành thực tiễn và mức độ an ninh tốt được đảm bảo trong trường hợp có sự cố ở các tầng cao hơn</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T112952Z" creationid="Kieu Lan" creationdate="20210815T110510Z">
+        <seg>Subsystem layer: The subsystem layer should include all the local control units PC’s, sensors and actuators as described. The subsystems should have complete autonomy within the security concept, so that field operations and satisfactory level of security can be guaranteed even in case of failure in the higher levels above.     /     Tầng  hệ thống con: Lớp hệ thống con nên bao gồm tất cả đơn vị điều khiển cục bộ PC, cảm biến và thiết bị truyền động như miêu tả. Các hệ thống con phải có quyền tự chủ hoàn toàn trong concept an ninh, để đảm bảo vận hành thực tiễn và mức độ an ninh tốt được đảm bảo trong trường hợp có sự cố ở các tầng cao hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subsystems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113013Z" creationid="Kieu Lan" creationdate="20210815T112926Z">
+        <seg>Subsystems     /     Hệ thống con</seg>
       </tuv>
     </tu>
     <tu>
