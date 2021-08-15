@@ -6201,6 +6201,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Card access system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113904Z" creationid="Kieu Lan" creationdate="20210815T113904Z">
+        <seg>Card access system     /     Hệ thống kiểm soát truy cập bằng thẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Card authorisation terminal</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091712Z" creationid="Kieu Lan" creationdate="20210815T091712Z">
