@@ -2393,6 +2393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>33% of cold water storage (60°C) for guest rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T140213Z" creationid="Kieu Lan" creationdate="20210815T140213Z">
+        <seg>33% of cold water storage (60°C) for guest rooms     /     33% dự trữ nước lạnh (60°C) đối với phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3300</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061427Z" creationid="Kieu Lan" creationdate="20210805T061427Z">
@@ -13132,6 +13140,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kitchen &amp; Laundry: Base on equipment at higher</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T140423Z" creationid="Kieu Lan" creationdate="20210815T140423Z">
+        <seg>Kitchen &amp; Laundry: Base on equipment at higher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kitchen (General)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094659Z" creationid="LanHK" creationdate="20210715T064351Z">
@@ -17703,6 +17719,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064751Z" creationid="LanHK" creationdate="20210715T063418Z">
         <seg>Restaurant     /     Nhà hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restaurant: 14 liters/cover</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T140300Z" creationid="Kieu Lan" creationdate="20210815T140300Z">
+        <seg>Restaurant: 14 liters/cover     /     Nhà hàng: 14 lít/chỗ ngồi</seg>
       </tuv>
     </tu>
     <tu>
