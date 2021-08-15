@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>(ppm).For drinking water.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131504Z" creationid="Kieu Lan" creationdate="20210815T131504Z">
-        <seg>(ppm).For drinking water.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131521Z" creationid="Kieu Lan" creationdate="20210815T131504Z">
+        <seg>(ppm).For drinking water.     /     Bảng - Giới hạn vật lý-hóa học và nồng độ tối đa cho phép (phần triệu) đối với nước uống</seg>
       </tuv>
     </tu>
     <tu>
@@ -725,6 +725,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094502Z" creationid="Kieu Lan" creationdate="20210805T061411Z">
         <seg>10% Negative, max 15 pa     /     10% âm, tối đa 15pa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10-15</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131621Z" creationid="Kieu Lan" creationdate="20210815T131621Z">
+        <seg>10-15</seg>
       </tuv>
     </tu>
     <tu>
@@ -3435,6 +3443,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.5-8.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131622Z" creationid="Kieu Lan" creationdate="20210815T131622Z">
+        <seg>6.5-8.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5-9.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131622Z" creationid="Kieu Lan" creationdate="20210815T131622Z">
+        <seg>6.5-9.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -3527,6 +3551,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061421Z" creationid="Kieu Lan" creationdate="20210805T061421Z">
         <seg>6AC/HR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7-8</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131622Z" creationid="Kieu Lan" creationdate="20210815T131622Z">
+        <seg>7-8</seg>
       </tuv>
     </tu>
     <tu>
@@ -3847,6 +3879,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034926Z" creationid="LanHK" creationdate="20210713T093721Z">
         <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.     /     &lt;5m2, nếu tường và trần không bắt lửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;25</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131621Z" creationid="Kieu Lan" creationdate="20210815T131621Z">
+        <seg>&lt;25</seg>
       </tuv>
     </tu>
     <tu>
@@ -7752,6 +7792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EU Standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131614Z" creationid="Kieu Lan" creationdate="20210815T131614Z">
+        <seg>EU Standards     /     Tiêu chuẩn EU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXCELLENT</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044238Z" creationid="Kieu Lan" creationdate="20210805T044238Z">
@@ -11528,6 +11576,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101155Z" creationid="LanHK" creationdate="20210601T100802Z">
         <seg>IHG Brand Safety Standards     /    Tiêu chuẩn An toàn thương hiệu IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IHG Desirable Levels</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131610Z" creationid="Kieu Lan" creationdate="20210815T131610Z">
+        <seg>IHG Desirable Levels     /     Mức mong muốn của IHG</seg>
       </tuv>
     </tu>
     <tu>
@@ -15825,6 +15881,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameter</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131527Z" creationid="Kieu Lan" creationdate="20210815T131525Z">
+        <seg>Parameter     /     Tiêu chí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parking garages liable to</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100500Z" creationid="LanHK" creationdate="20210713T100500Z">
@@ -15899,8 +15963,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Physical-chemical limits and maximum permissible concentrations in parts per million</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131500Z" creationid="Kieu Lan" creationdate="20210815T131500Z">
-        <seg>Physical-chemical limits and maximum permissible concentrations in parts per million     /     Bảng - Giới hạn vật lý-hóa học và nồng độ tối đa cho phép (phần triệu)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131511Z" creationid="Kieu Lan" creationdate="20210815T131500Z">
+        <seg>Physical-chemical limits and maximum permissible concentrations in parts per million</seg>
       </tuv>
     </tu>
     <tu>
@@ -19347,6 +19411,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature (°C)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131620Z" creationid="Kieu Lan" creationdate="20210815T131620Z">
+        <seg>Temperature (°C)     /     Nhiệt độ (°C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature control/comfort</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100031Z" creationid="Kieu Lan" creationdate="20210729T100031Z">
@@ -22163,6 +22235,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WHO Standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131604Z" creationid="Kieu Lan" creationdate="20210815T131525Z">
+        <seg>WHO Standards     /     Tiêu chuẩn WHO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WZ. w</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084315Z" creationid="Kieu Lan" creationdate="20210804T084315Z">
@@ -24081,6 +24161,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091401Z" creationid="Kieu Lan" creationdate="20210815T084853Z">
         <seg>PC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131621Z" creationid="Kieu Lan" creationdate="20210815T131621Z">
+        <seg>pH</seg>
       </tuv>
     </tu>
     <tu>
