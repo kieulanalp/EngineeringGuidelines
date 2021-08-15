@@ -3004,8 +3004,8 @@
       <tuv lang="EN-US">
         <seg>410 liters/guest / day w/o laundry</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>410 liters/guest    /    day w/o laundry</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135408Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>410 liters/guest/day w/o laundry     /     410 lít/khách/ngày không gồm nước giặt</seg>
       </tuv>
     </tu>
     <tu>
@@ -3515,6 +3515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>560 liters/ Guest /day with laundry</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135328Z" creationid="Kieu Lan" creationdate="20210815T135328Z">
+        <seg>560 liters/guest/day w/o laundry     /     560 lít/khách/ngày không gồm nước giặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5670</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061430Z" creationid="Kieu Lan" creationdate="20210805T061430Z">
@@ -3935,6 +3943,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061428Z" creationid="Kieu Lan" creationdate="20210805T061428Z">
         <seg>900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>900 liters/guest /day with all facilities</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135430Z" creationid="Kieu Lan" creationdate="20210815T135430Z">
+        <seg>900 liters/guest /day with all facilities     /     900 lít/khách/ngày với tất cả tiện ích</seg>
       </tuv>
     </tu>
     <tu>
@@ -7013,8 +7029,8 @@
       <tuv lang="EN-US">
         <seg>Cold Water</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154657Z" creationid="Kieu Lan" creationdate="20210405T154657Z">
-        <seg>Cold Water Nước lạnh</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135252Z" creationid="Kieu Lan" creationdate="20210405T154657Z">
+        <seg>Cold Water     /     Nước lạnh</seg>
       </tuv>
     </tu>
     <tu>
@@ -14286,6 +14302,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maintain below 20°C to prevent Legionella 23°C in</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135440Z" creationid="Kieu Lan" creationdate="20210815T135440Z">
+        <seg>Maintain below 20°C to prevent Legionella 23°C in     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maintained Illuminance (LUX)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T084928Z" creationid="Kieu Lan" creationdate="20210814T084928Z">
@@ -16781,6 +16805,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure Range</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135249Z" creationid="Kieu Lan" creationdate="20210815T135249Z">
+        <seg>Pressure Range     /     Dải áp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure range</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020615Z" creationid="Kieu Lan" creationdate="20210805T020509Z">
@@ -17659,6 +17691,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restaurant: 35 liters/cover</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135438Z" creationid="Kieu Lan" creationdate="20210815T135438Z">
+        <seg>Restaurant: 35 liters/cover     /     Nhà hàng: 35 lít/bàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restaurants</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094928Z" creationid="LanHK" creationdate="20210713T094928Z">
@@ -18418,6 +18458,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095226Z" creationid="Kieu Lan" creationdate="20210728T095226Z">
         <seg>Shorter services runs - generally approximately half the lengths required for horizontal distribution (actual projects have provided reduction in pipe runs alone from 1km-4km)     /     Đường đi ống ngắn hơn - nhìn chung khoảng nửa so với chiều dài cần thiết cho đường ống phân phối theo chiều ngang (Các dự án đã thực hiện cho thấy có thể giảm từ 1km-4km chiều dài đường ống)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shower Flow Rate</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135245Z" creationid="Kieu Lan" creationdate="20210815T135239Z">
+        <seg>Shower Flow Rate     /     Lưu lượng nước tắm</seg>
       </tuv>
     </tu>
     <tu>
