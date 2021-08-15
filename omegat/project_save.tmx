@@ -4517,6 +4517,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alcohol and beverage store</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113216Z" creationid="Kieu Lan" creationdate="20210815T113216Z">
+        <seg>Alcohol and beverage store     /     Kho rượu và đồ có cồn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Algeria Egypt Libya Morocco / Western Sahara Tunisia</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061355Z" creationid="Kieu Lan" creationdate="20210805T061355Z">
@@ -6209,6 +6217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Card reader controlled doors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113349Z" creationid="Kieu Lan" creationdate="20210815T113349Z">
+        <seg>Card reader controlled doors     /     Cửa có kiểm soát thẻ khóa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Care should be taken to match boiler loads as closely as possible to the demand. Modular boiler arrangements allow greater flexibility if controls are flexible enough to responding to the changing demand. Ideally condensing boilers should be used.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T063915Z" creationid="LanHK" creationdate="20210728T063915Z">
@@ -6221,6 +6237,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T064632Z" creationid="LanHK" creationdate="20210715T092048Z">
         <seg>Careful orientation of the Hotel can have a significant effect on the energy consumption of the Hotel and although it is accepted this is not always possible, there are many occasions when it can be influenced. For example, the guestrooms are most used early in the morning and evening so guestrooms facing E-W are likely to have a larger cooling demand due to difficulties in providing shading on these orientations due to the low sun angle.     /     Việc bố trí hướng tòa nhà cẩn thận có thể tạo ảnh hưởng đáng kể đến độ tiêu thụ năng lượng của Khách sạn và mặc dù việc này không phải lúc nào cũng khả thi, tuy nhiên vẫn có nhiều trường hợp hướng tòa nhà cũng có thể gây ảnh hưởng. Vd, phòng khách thường được sử dụng nhiều nhất vào buổi sáng và buổi tối, vậy nên phòng khách hướng đông-tây có  có nhu cầu làm mát lớn hơn do khó khăn trong việc che chắn nắng ở các hướng này vì góc chiếu của mặt trời thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cashiers room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113210Z" creationid="Kieu Lan" creationdate="20210815T113210Z">
+        <seg>Cashiers room     /     Phòng thủ quỹ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8153,6 +8177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Employee entrance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113144Z" creationid="Kieu Lan" creationdate="20210815T113144Z">
+        <seg>Employee entrance     /     Lối vào nhân viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Employees Lockers</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T092122Z" creationid="Kieu Lan" creationdate="20210806T092116Z">
@@ -8511,6 +8543,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044858Z" creationid="Kieu Lan" creationdate="20210806T044858Z">
         <seg>Exhibition     /     Trưng bày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit halls and doors from stairwells</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113402Z" creationid="Kieu Lan" creationdate="20210815T113402Z">
+        <seg>Exit halls and doors from stairwells     /     Hành lang và cửa thoát từ giếng thang bộ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit stairs with motion detectors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113207Z" creationid="Kieu Lan" creationdate="20210815T113207Z">
+        <seg>Exit stairs with motion detectors     /     Cầu thang thoát có cảm biến chuyển động</seg>
       </tuv>
     </tu>
     <tu>
@@ -10164,6 +10212,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General monitoring locations shall be as follows:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113228Z" creationid="Kieu Lan" creationdate="20210815T113228Z">
+        <seg>General monitoring locations shall be as follows:     /     Giám sát chung các khu vực sẽ như sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generator</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T025943Z" creationid="Kieu Lan" creationdate="20210810T025823Z">
@@ -10908,6 +10964,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold-up alarm at front desk</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113410Z" creationid="Kieu Lan" creationdate="20210815T113410Z">
+        <seg>Hold-up alarm at front desk     /     Nút báo động tại lễ tân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold-up alarm at head cashiers desk</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113418Z" creationid="Kieu Lan" creationdate="20210815T113418Z">
+        <seg>Hold-up alarm at head cashiers desk     /     Nút báo động tại bàn thủ quỹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold-up alarm at restaurants</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113425Z" creationid="Kieu Lan" creationdate="20210815T113425Z">
+        <seg>Hold-up alarm at restaurants     /     Nút báo động tại nhà hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Holiday Inn</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061430Z" creationid="Kieu Lan" creationdate="20210805T061430Z">
@@ -11024,6 +11104,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113120Z" creationid="Kieu Lan" creationdate="20210815T113120Z">
         <seg>Hotel front desk     /     Lễ tân khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hotel guest elevator lobby and guest room corridors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113139Z" creationid="Kieu Lan" creationdate="20210815T113139Z">
+        <seg>Hotel guest elevator lobby and guest room corridors     /     Sảnh thang máy cho khách và hành lang phòng khách sạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -11980,6 +12068,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095403Z" creationid="Kieu Lan" creationdate="20210728T095403Z">
         <seg>Internal zones on separate systems - or common system with each area of usage capable of being shut down     /     Các không gian bên trong có hệ thống riêng - hoặc hệ thống chung nhưng mỗi khu vực sử dụng có thể tắt được</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intruder Detection System (IDS)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113254Z" creationid="Kieu Lan" creationdate="20210815T113254Z">
+        <seg>Intruder Detection System (IDS)     /     Hệ thống phát hiện đột nhập</seg>
       </tuv>
     </tu>
     <tu>
@@ -17373,6 +17469,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shopping level corridors (where applicable)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113156Z" creationid="Kieu Lan" creationdate="20210815T113156Z">
+        <seg>Shopping level corridors (where applicable)     /     Hành lang tầng mua sắm (nếu có)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shops</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065115Z" creationid="Kieu Lan" creationdate="20210809T065111Z">
@@ -18939,6 +19043,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The IDS system should allow detection of unauthorized persons. This shall include installing of alarm devices at the following locations:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113337Z" creationid="Kieu Lan" creationdate="20210815T113337Z">
+        <seg>The IDS system should allow detection of unauthorized persons. This shall include installing of alarm devices at the following locations:     /     Hệ thống phát hiện đột nhập sẽ cho phép phát hiện những người không có quyền truy cập. Hệ thống này bao gồm việc lắp đặt thiết bị báo động tại các địa điểm sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The MEP designer shall provide calculations to illustrate that these targets are being achieved.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T033601Z" creationid="LanHK" creationdate="20210717T033601Z">
@@ -19780,6 +19892,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T034641Z" creationid="LanHK" creationdate="20210715T034641Z">
         <seg>The main mechanical services that are included within the designer’s responsibility:-     /     Các máy móc chính bao gồm trong trách nhiệm của thiết kế:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main security office of the Hotel will monitor all cameras in the Hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113246Z" creationid="Kieu Lan" creationdate="20210815T113246Z">
+        <seg>The main security office of the Hotel will monitor all cameras in the Hotel.     /     Văn phòng an ninh chính của khách sạn sẽ theo dõi tất cả các máy quay trong khách sạn</seg>
       </tuv>
     </tu>
     <tu>
