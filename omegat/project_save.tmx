@@ -3219,6 +3219,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.7</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092731Z" creationid="Kieu Lan" creationdate="20210815T092731Z">
+        <seg>5.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.7.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092732Z" creationid="Kieu Lan" creationdate="20210815T092732Z">
+        <seg>5.7.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -10540,6 +10556,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOTEL INTEGRATED COMMUNICATIONS SCHEMATIC - TYPICAL PROVISION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092705Z" creationid="Kieu Lan" creationdate="20210815T092705Z">
+        <seg>HOTEL INTEGRATED COMMUNICATIONS SCHEMATIC - TYPICAL PROVISION     /     sơ đồ hệ thống liên lạc tích hợp của khách sạn - bố trí điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HVAC System Selection</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091709Z">
@@ -10924,6 +10948,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hotel Integrated Schematic - Typical IT Provisions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092725Z" creationid="Kieu Lan" creationdate="20210815T092725Z">
+        <seg>Hotel Integrated Schematic - Typical IT Provisions     /     Sơ đồ khách sạn tích hợp - Bố trí IT điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hotel guest rooms are conditioned 24 hours a day and the peak load only occurs for 1 hour a day so it is important not to overestimate the load.</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T072501Z" creationid="LanHK" creationdate="20210716T092244Z">
@@ -11072,6 +11104,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103721Z" creationid="LanHK" creationdate="20210602T103721Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I.T Room Typical Layout</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092731Z" creationid="Kieu Lan" creationdate="20210815T092731Z">
+        <seg>I.T Room Typical Layout     /     Layout điển hình phòng IT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14993,6 +15033,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 153</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092600Z" creationid="Kieu Lan" creationdate="20210815T092600Z">
+        <seg>Page: 153</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 16</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -16363,6 +16411,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to your regional IHG Global Technology function for further information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092600Z" creationid="Kieu Lan" creationdate="20210815T092600Z">
+        <seg>Refer to your regional IHG Global Technology function for further information.     /     Liên hệ IHG Global Technology ở khu vực của bạn để biết thêm thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refrigerant Management</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T031356Z" creationid="LanHK" creationdate="20210715T031356Z">
@@ -17001,6 +17057,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044814Z" creationid="Kieu Lan" creationdate="20210810T044814Z">
         <seg>Security System (24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092735Z" creationid="Kieu Lan" creationdate="20210815T092731Z">
+        <seg>Security Systems     /     Hệ thống an ninh</seg>
       </tuv>
     </tu>
     <tu>
