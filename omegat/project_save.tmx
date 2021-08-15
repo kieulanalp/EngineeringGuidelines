@@ -15280,11 +15280,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
     </tu>
     <tu>
+      <note>Dedicated Ground (-DG) is where the ground conductor and the housing ground are bonded together. The connection is applied on the plug-in units ig the ground wire from the paddle to the enclosure ground stud and the receptacle ground to the enclosure ground stud. Similarly, the electrical installer should wire the end feeds in the anner. The isolated ground bar should be tied to the enclosure.
+
+https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf</note>
       <tuv lang="EN-US">
         <seg>Please Note: ‘Ground’ means dedicated ground, not neutral. The conduit or the utility box must not be used as the only grounding means.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T183518Z" creationid="Kieu Lan" creationdate="20210814T183518Z">
-        <seg>Please Note: ‘Ground’ means dedicated ground, not neutral. The conduit or the utility box must not be used as the only grounding means.     /     Chú ý</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T090502Z" creationid="Kieu Lan" creationdate="20210814T183518Z">
+        <seg>Please Note: ‘Ground’ means dedicated ground, not neutral. The conduit or the utility box must not be used as the only grounding means.     /     Chú ý: </seg>
       </tuv>
     </tu>
     <tu>
