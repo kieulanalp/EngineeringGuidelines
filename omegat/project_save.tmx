@@ -353,6 +353,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132501Z" creationid="Kieu Lan" creationdate="20210815T132501Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.000,1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132541Z" creationid="Kieu Lan" creationdate="20210815T132541Z">
+        <seg>0.000,1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.000,2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132506Z" creationid="Kieu Lan" creationdate="20210815T132506Z">
+        <seg>0.000,2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.001</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132505Z" creationid="Kieu Lan" creationdate="20210815T132505Z">
+        <seg>0.001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.005</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132558Z" creationid="Kieu Lan" creationdate="20210815T132558Z">
+        <seg>0.005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.01</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132558Z" creationid="Kieu Lan" creationdate="20210815T132558Z">
+        <seg>0.01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0.013</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061302Z" creationid="Kieu Lan" creationdate="20210805T061302Z">
@@ -369,10 +417,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0.025</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132518Z" creationid="Kieu Lan" creationdate="20210815T132518Z">
+        <seg>0.025</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0.036</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061256Z" creationid="Kieu Lan" creationdate="20210805T061256Z">
         <seg>0.036</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.04</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132557Z" creationid="Kieu Lan" creationdate="20210815T132557Z">
+        <seg>0.04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.05</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132547Z" creationid="Kieu Lan" creationdate="20210815T132547Z">
+        <seg>0.05</seg>
       </tuv>
     </tu>
     <tu>
@@ -457,6 +529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132546Z" creationid="Kieu Lan" creationdate="20210815T132546Z">
+        <seg>0.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0.35m3/guest night maximum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210717T032205Z">
@@ -485,6 +565,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210717T032220Z">
         <seg>0.45 m3/guest night maximum;;;tối đa 0.45m3/khách/đêm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132504Z" creationid="Kieu Lan" creationdate="20210815T132504Z">
+        <seg>0.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,6 +697,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1,500</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132500Z" creationid="Kieu Lan" creationdate="20210815T132500Z">
+        <seg>1,500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1. ALL DEVICES (DETECTORS. SPRINKLER FLOW SWITCHES. MANUAL CALL POINTS ETC.) SHALL HAVE INDIVIDUAL DEVICE ADDRESSES.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T074900Z" creationid="Kieu Lan" creationdate="20210705T045402Z">
@@ -661,6 +757,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T092126Z" creationid="Kieu Lan" creationdate="20210806T092126Z">
         <seg>1.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132607Z" creationid="Kieu Lan" creationdate="20210815T132607Z">
+        <seg>1.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -3042,6 +3146,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.0</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132552Z" creationid="Kieu Lan" creationdate="20210815T132552Z">
+        <seg>5.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.0 ELECTRICAL - SERVICES</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061514Z" creationid="Kieu Lan" creationdate="20210805T061255Z">
@@ -3899,10 +4011,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;0.05</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132547Z" creationid="Kieu Lan" creationdate="20210815T132547Z">
+        <seg>&lt;0.05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;0.07</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132607Z" creationid="Kieu Lan" creationdate="20210815T132607Z">
+        <seg>&lt;0.07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;0.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132555Z" creationid="Kieu Lan" creationdate="20210815T132555Z">
+        <seg>&lt;0.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;0.2</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131943Z" creationid="Kieu Lan" creationdate="20210815T131943Z">
         <seg>&lt;0.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;0.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132503Z" creationid="Kieu Lan" creationdate="20210815T132503Z">
+        <seg>&lt;0.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -3951,6 +4095,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031559Z" creationid="Kieu Lan" creationdate="20210810T031559Z">
         <seg>&lt;50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;500</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132450Z" creationid="Kieu Lan" creationdate="20210815T132450Z">
+        <seg>&lt;500</seg>
       </tuv>
     </tu>
     <tu>
@@ -4879,7 +5031,7 @@
       <tuv lang="EN-US">
         <seg>Aluminium</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131943Z" creationid="Kieu Lan" creationdate="20210815T131943Z">
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132453Z" creationid="Kieu Lan" creationdate="20210815T131943Z">
         <seg>Aluminium</seg>
       </tuv>
     </tu>
@@ -4889,6 +5041,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T024004Z" creationid="LanHK" creationdate="20210602T024004Z">
         <seg>Americas        /       châu Mỹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ammoniu7m</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132504Z" creationid="Kieu Lan" creationdate="20210815T132502Z">
+        <seg>Ammonium</seg>
       </tuv>
     </tu>
     <tu>
@@ -5170,6 +5330,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T061536Z" creationid="LanHK" creationdate="20210729T045253Z">
         <seg>Areas with low latent cooling demand     /     Khu vực ít có nhu cầu khử ẩm (hạ nhiệt ẩn?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arsenic</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132604Z" creationid="Kieu Lan" creationdate="20210815T132604Z">
+        <seg>Arsenic</seg>
       </tuv>
     </tu>
     <tu>
@@ -6273,6 +6441,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cadmium</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132558Z" creationid="Kieu Lan" creationdate="20210815T132558Z">
+        <seg>Cadmium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculations and / or smoke modeling of the system must be provided to IHG for approval.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210625T081142Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -6697,6 +6873,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Chromium</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132559Z" creationid="Kieu Lan" creationdate="20210815T132559Z">
+        <seg>Chromium</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>circulation là chô nào.???	</note>
       <tuv lang="EN-US">
         <seg>Circulation</seg>
@@ -7085,6 +7269,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copper</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132551Z" creationid="Kieu Lan" creationdate="20210815T132547Z">
+        <seg>Copper     /     Đồng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copper Content less than</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061448Z" creationid="Kieu Lan" creationdate="20210805T061448Z">
@@ -7138,6 +7330,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T074516Z" creationid="LanHK" creationdate="20210715T074516Z">
         <seg>Cross talk attenuators and any services penetrations to/from meeting rooms and guest bedrooms to provide 50dB sound reduction through the wall, floor or roof.     /     Thiết bị tiêu âm đường ống thông gió (cho phép giảm truyền âm qua đường ống thông gió mà vẫn cho phép không khí lưu chuyển) và bất kỳ đường ống xuyên tường nào từ/đến phòng họp và phòng ngủ của khách phải đạt tiêu âm 50dB qua tường, sàn hoặc mái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyanides</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132605Z" creationid="Kieu Lan" creationdate="20210815T132605Z">
+        <seg>Cyanides</seg>
       </tuv>
     </tu>
     <tu>
@@ -9852,6 +10052,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fluoride</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132607Z" creationid="Kieu Lan" creationdate="20210815T132607Z">
+        <seg>Fluoride</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foam system</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095946Z" creationid="LanHK" creationdate="20210713T095946Z">
@@ -12480,6 +12688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iron</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132546Z" creationid="Kieu Lan" creationdate="20210815T132546Z">
+        <seg>Iron     /     Sắt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Iron Bacteria: Maximum 0 organism/ml</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095225Z" creationid="Kieu Lan" creationdate="20210728T095225Z">
@@ -13176,6 +13392,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045102Z" creationid="Kieu Lan" creationdate="20210806T045102Z">
         <seg>Laundry Work Area     /     Khu giặt là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lead</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132557Z" creationid="Kieu Lan" creationdate="20210815T132557Z">
+        <seg>Lead     /     Chì</seg>
       </tuv>
     </tu>
     <tu>
@@ -14006,6 +14230,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manganese</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132547Z" creationid="Kieu Lan" creationdate="20210815T132547Z">
+        <seg>Manganese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064626Z" creationid="Kieu Lan" creationdate="20210809T064626Z">
@@ -14342,6 +14574,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mercury</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132604Z" creationid="Kieu Lan" creationdate="20210815T132604Z">
+        <seg>Mercury     /     thủy ngân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metal Halide</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140023Z" creationid="Kieu Lan" creationdate="20210814T140023Z">
@@ -14663,6 +14903,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>National Regulations/ InterContinental</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132643Z" creationid="Kieu Lan" creationdate="20210815T132643Z">
+        <seg>National Regulations/ InterContinental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Natural Ventilation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T031139Z" creationid="LanHK" creationdate="20210715T031139Z">
@@ -14683,6 +14931,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094542Z" creationid="LanHK" creationdate="20210715T063635Z">
         <seg>Neutral     /     cân bằng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nickel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132606Z" creationid="Kieu Lan" creationdate="20210815T132606Z">
+        <seg>Nickel</seg>
       </tuv>
     </tu>
     <tu>
@@ -14723,6 +14979,22 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095224Z" creationid="Kieu Lan" creationdate="20210728T095224Z">
         <seg>Nitrate reducers: Maximum 100 organisms/ml     /     Vi khuẩn nitrate hóa: max 100 vi sinh/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nitrates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132500Z" creationid="Kieu Lan" creationdate="20210815T132500Z">
+        <seg>Nitrates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nitrites</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132501Z" creationid="Kieu Lan" creationdate="20210815T132501Z">
+        <seg>Nitrites</seg>
       </tuv>
     </tu>
     <tu>
@@ -15267,6 +15539,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041107Z" creationid="Kieu Lan" creationdate="20210802T041107Z">
         <seg>Options 1 - 4 provide more opportunity for heat recovery from a central plant.     /     Phương án 1-4 tạo điều kiện thu hồi nhiệt từ trạm máy trung tâm dễ dàng hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organic Chlorine Compounds</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132517Z" creationid="Kieu Lan" creationdate="20210815T132517Z">
+        <seg>Organic Chlorine Compounds     /     Hợp chất chlorine hữu cơ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16049,10 +16329,26 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pesticides</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132540Z" creationid="Kieu Lan" creationdate="20210815T132540Z">
+        <seg>Pesticides     /     Chất diệt sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phased evacuation (that is where a limited number of floors are evacuated in phases with guests remaining on other floors) is not permitted and stairs must be of sufficient size to allow the simultaneous evacuation of the occupants of the whole hotel.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T020235Z" creationid="LanHK" creationdate="20210603T020208Z">
         <seg>Phased evacuation (that is where a limited number of floors are evacuated in phases with guests remaining on other floors) is not permitted and stairs must be of sufficient size to allow the simultaneous evacuation of the occupants of the whole hotel.        /       Thoát hiểm theo giai đoạn (một số tầng được thoát hiểm theo giai đoạn với khách vẫn ở trên các tầng khác) không được phép và các thang bộ phải đủ lớn để cho phép tất cả khách trong khách sạn thoát hiểm đồng thời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phenols</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132505Z" creationid="Kieu Lan" creationdate="20210815T132505Z">
+        <seg>Phenols</seg>
       </tuv>
     </tu>
     <tu>
@@ -18057,6 +18353,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064539Z" creationid="Kieu Lan" creationdate="20210705T064539Z">
         <seg>Silence     /     Im lặng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Silver</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132611Z" creationid="Kieu Lan" creationdate="20210815T132611Z">
+        <seg>Silver     /     Bạc</seg>
       </tuv>
     </tu>
     <tu>
@@ -21483,6 +21787,14 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To achieve these requirements, the system must be designed in accordance with:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132626Z" creationid="Kieu Lan" creationdate="20210815T132626Z">
+        <seg>To achieve these requirements, the system must be designed in accordance with:     /     Để đạt được các yêu cầu trên, hệ thống phải được thiết kế tuân thủ theo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>n</note>
       <tuv lang="EN-US">
         <seg>To determine the diversified simultaneous cooling load, the grand total calculated cooling load can be reduced by:-</seg>
@@ -21584,8 +21896,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Total Dissolved Solids (TDS)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131944Z" creationid="Kieu Lan" creationdate="20210815T131944Z">
-        <seg>Total Dissolved Solids (TDS)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132500Z" creationid="Kieu Lan" creationdate="20210815T131944Z">
+        <seg>Total Dissolved Solids (TDS)     /     Tổng chất rắn hòa tan</seg>
       </tuv>
     </tu>
     <tu>
@@ -22371,6 +22683,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WHO recommendations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132631Z" creationid="Kieu Lan" creationdate="20210815T132631Z">
+        <seg>WHO recommendations     /     Khuyến nghị của WHO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WZ. w</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084315Z" creationid="Kieu Lan" creationdate="20210804T084315Z">
@@ -23124,6 +23444,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T041852Z" creationid="LanHK" creationdate="20210715T041852Z">
         <seg>zoned supply and extract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zinc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132554Z" creationid="Kieu Lan" creationdate="20210815T132552Z">
+        <seg>Zinc     /     Kẽm</seg>
       </tuv>
     </tu>
     <tu>
