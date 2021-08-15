@@ -489,6 +489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0.15 to 0.22 l/s</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135808Z" creationid="Kieu Lan" creationdate="20210815T135808Z">
+        <seg>0.15 to 0.22 l/s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0.17</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061255Z" creationid="Kieu Lan" creationdate="20210805T061255Z">
@@ -14304,8 +14312,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Maintain below 20°C to prevent Legionella 23°C in</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135440Z" creationid="Kieu Lan" creationdate="20210815T135440Z">
-        <seg>Maintain below 20°C to prevent Legionella 23°C in     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135728Z" creationid="Kieu Lan" creationdate="20210815T135440Z">
+        <seg>Maintain below 20°C to prevent Legionella 23°C in</seg>
       </tuv>
     </tu>
     <tu>
@@ -17693,8 +17701,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Restaurant: 35 liters/cover</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135438Z" creationid="Kieu Lan" creationdate="20210815T135438Z">
-        <seg>Restaurant: 35 liters/cover     /     Nhà hàng: 35 lít/bàn</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135617Z" creationid="Kieu Lan" creationdate="20210815T135438Z">
+        <seg>Restaurant: 35 liters/cover     /     Nhà hàng: 35 lít/chỗ ngồi</seg>
       </tuv>
     </tu>
     <tu>
@@ -25195,6 +25203,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T022750Z" creationid="LanHK" creationdate="20210701T022750Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tanks for UAE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135808Z" creationid="Kieu Lan" creationdate="20210815T135808Z">
+        <seg>tanks for UAE     /     Duy trì dưới 20°C để tránh khuẩn Legionella, 23°C trong bể nước đối với UAE</seg>
       </tuv>
     </tu>
     <tu>
