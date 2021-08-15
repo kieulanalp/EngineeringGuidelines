@@ -1401,6 +1401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Hours recovery minimum (Refer to schematic )</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T140542Z" creationid="Kieu Lan" creationdate="20210815T140542Z">
+        <seg>2 Hours recovery minimum (Refer to schematic )     /     2h phục hồi tối thiểu (xem sơ đồ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Loose remote - loose table/floor lamps and display cabinets to have remotely switched nonstandard outlets</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T030154Z" creationid="Kieu Lan" creationdate="20210814T030154Z">
@@ -25251,6 +25259,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135808Z" creationid="Kieu Lan" creationdate="20210815T135808Z">
         <seg>tanks for UAE     /     Duy trì dưới 20°C để tránh khuẩn Legionella, 23°C trong bể nước đối với UAE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>temperature (60-70°C) with 2 Hours minimum recovery.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T140530Z" creationid="Kieu Lan" creationdate="20210815T140530Z">
+        <seg>temperature (60-70°C) with 2 Hours minimum recovery.     /     Bếp và giặt là: dựa trên thiết bị nhiệt độ cao (60-70°C) với 2h phục hồi tối thiểu</seg>
       </tuv>
     </tu>
     <tu>
