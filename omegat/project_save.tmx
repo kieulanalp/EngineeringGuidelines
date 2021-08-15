@@ -10748,6 +10748,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High Speed Internet Access</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092321Z" creationid="Kieu Lan" creationdate="20210815T092321Z">
+        <seg>High Speed Internet Access     /     Tủy cập mạng tốc độ cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High temperature/ pressure hot water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095221Z" creationid="Kieu Lan" creationdate="20210728T095221Z">
@@ -11312,6 +11320,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T023832Z" creationid="Kieu Lan" creationdate="20210814T022001Z">
         <seg>Improve maintenance scheduling, prolonging equipment life and avoiding premature failures.     /     Cải thiện lịch trình bảo trì, kéo dài tuổi thọ thiết bị và tránh các hỏng hóc sớm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Room Entertainment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092314Z" creationid="Kieu Lan" creationdate="20210815T092314Z">
+        <seg>In Room Entertainment     /     Giải trí trong phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -13638,6 +13654,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meeting Room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092332Z" creationid="Kieu Lan" creationdate="20210815T092332Z">
+        <seg>Meeting Room     /     Phòng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meeting Rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045013Z" creationid="LanHK" creationdate="20210715T063621Z">
@@ -13754,6 +13778,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T090315Z" creationid="Kieu Lan" creationdate="20210814T090300Z">
         <seg>Min night 100     /     đêm, min 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minibar (could share with In Room Entertainment)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092329Z" creationid="Kieu Lan" creationdate="20210815T092329Z">
+        <seg>Minibar (could share with In Room Entertainment)     /     Có thể chung với hệ thống giải trí trong phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -17551,6 +17583,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spare (printer, second telephone etc.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092407Z" creationid="Kieu Lan" creationdate="20210815T092407Z">
+        <seg>Spare (printer, second telephone etc.)     /     Dự phòng (máy in, đt thứ 2...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Finishes for Switch Plates &amp; Outlets</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064304Z" creationid="Kieu Lan" creationdate="20210809T064304Z">
@@ -18623,6 +18663,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091922Z" creationid="Kieu Lan" creationdate="20210815T091922Z">
         <seg>Telephones (can share 1 connection if analogue or 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Television</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092346Z" creationid="Kieu Lan" creationdate="20210815T092346Z">
+        <seg>Television     /     TV</seg>
       </tuv>
     </tu>
     <tu>
@@ -23386,6 +23434,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T075502Z" creationid="LanHK" creationdate="20210611T045652Z">
         <seg>The atrium must be separated from adjacent spaces by at least 60 minute fire resisting construction with self-closing, fire resisting doors.     /     giếng trời phải được tách biệt với các không gian liền kề bởi kết cấu chống cháy tối thiểu 60p với cửa chống cháy, cơ chế tự đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>separate if Digital or IP)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092308Z" creationid="Kieu Lan" creationdate="20210815T092308Z">
+        <seg>separate if Digital or IP)     /     Điện thoại bàn (có thể chung 1 kết nối nếu là đt analogue hoặc 2 nếu là đt kỹ thuật số hoặc IP)</seg>
       </tuv>
     </tu>
     <tu>
