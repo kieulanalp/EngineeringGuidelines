@@ -21051,16 +21051,16 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The permitted limit for grey water reuse for Toilet flushing&amp; Cooling Tower.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133246Z" creationid="Kieu Lan" creationdate="20210815T133246Z">
-        <seg>The permitted limit for grey water reuse for Toilet flushing&amp; Cooling Tower.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T134441Z" creationid="Kieu Lan" creationdate="20210815T133246Z">
+        <seg>The permitted limit for grey water reuse for Toilet flushing &amp; Cooling Tower.     /     Bảng B - Giới hạn cho phép đối với nước xám tái sử dụng cho dội toilet và tháp giải nhiệt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The permitted limits for grey water reuse irrigation</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133552Z" creationid="Kieu Lan" creationdate="20210815T133552Z">
-        <seg>The permitted limits for grey water reuse irrigation     /     Bảng-C Giới hạn đối với nước xám tái sử dụng trong tưới tiêu</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T134513Z" creationid="Kieu Lan" creationdate="20210815T133552Z">
+        <seg>The permitted limits for grey water reuse irrigation     /     Bảng C - Giới hạn đối với nước xám tái sử dụng trong tưới tiêu</seg>
       </tuv>
     </tu>
     <tu>
@@ -22204,6 +22204,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T021115Z" creationid="LanHK" creationdate="20210602T112128Z">
         <seg>Two 30 minute self-closing fire resisting floors        /       2 cửa chống cháy 30p tự đóng </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two Sample/week</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T134533Z" creationid="Kieu Lan" creationdate="20210815T134518Z">
+        <seg>Two Sample/week     /     Hai mẫu thử/tuần</seg>
       </tuv>
     </tu>
     <tu>
