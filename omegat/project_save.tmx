@@ -6153,6 +6153,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Card authorisation terminal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091712Z" creationid="Kieu Lan" creationdate="20210815T091712Z">
+        <seg>Card authorisation terminal     /     Đầu đọc thẻ thanh toán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card authorization terminal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091757Z" creationid="Kieu Lan" creationdate="20210815T091757Z">
+        <seg>Card authorisation terminal     /     Đầu đọc thẻ thanh toán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Care should be taken to match boiler loads as closely as possible to the demand. Modular boiler arrangements allow greater flexibility if controls are flexible enough to responding to the changing demand. Ideally condensing boilers should be used.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T063915Z" creationid="LanHK" creationdate="20210728T063915Z">
@@ -7660,6 +7676,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T070836Z" creationid="LanHK" creationdate="20210729T064718Z">
         <seg>Each guestroom will be provided with its own self-controlled system to enable guests to control their own room temperature within pre-set limits, typically 3°C either side of the set point, with a 2.2°C dead band, to prevent cycling of the system.     /     Mỗi phòng khách sẽ có hệ thống tự điều khiển riêng để khách có thể điều chỉnh nhiệt độ phòng mình trong giới hạn cho phép, thường là trên/dưới 3°C so với nhiệt độ định sẵn cho hệ thống (set point), với dead band 2.2°C, để tránh liên tục tự động khởi động/tắt hệ thống để duy trì nhiệt độ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each kitchen POS printer location</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091820Z" creationid="Kieu Lan" creationdate="20210815T091820Z">
+        <seg>Each kitchen POS printer location     /     Vị trí máy in POS của mỗi bếp</seg>
       </tuv>
     </tu>
     <tu>
@@ -9752,6 +9776,46 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121141Z" creationid="Kieu Lan" creationdate="20210809T121141Z">
         <seg>Front of House Lighting Heating System</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front of house PMS location</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091806Z" creationid="Kieu Lan" creationdate="20210815T091806Z">
+        <seg>Front of house PMS location     /     Vị trí PMS FOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front of house POS location</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091744Z" creationid="Kieu Lan" creationdate="20210815T091744Z">
+        <seg>Front of house POS location     /     Vị trí POS FOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front of house printer location</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091735Z" creationid="Kieu Lan" creationdate="20210815T091735Z">
+        <seg>Front of house printer location     /     Vị trí máy in FOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front of house telephone location</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091722Z" creationid="Kieu Lan" creationdate="20210815T091722Z">
+        <seg>Front of house telephone location     /     Vị trí điện thoại bàn FOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front of house television location</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091727Z" creationid="Kieu Lan" creationdate="20210815T091727Z">
+        <seg>Front of house television location     /     Vị trí TV FOH</seg>
       </tuv>
     </tu>
     <tu>
@@ -14648,6 +14712,22 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POS printer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091754Z" creationid="Kieu Lan" creationdate="20210815T091745Z">
+        <seg>POS printer     /     Máy in POS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POS terminal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091749Z" creationid="Kieu Lan" creationdate="20210815T091744Z">
+        <seg>POS terminal     /     Máy POS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PP-R(Polypropylene) Schedule 40,80</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -18539,6 +18619,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Telephones (can share 1 connection if analogue or 2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091922Z" creationid="Kieu Lan" creationdate="20210815T091922Z">
+        <seg>Telephones (can share 1 connection if analogue or 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature control/comfort</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100031Z" creationid="Kieu Lan" creationdate="20210729T100031Z">
@@ -21755,6 +21843,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094441Z" creationid="LanHK" creationdate="20210715T062957Z">
         <seg>Winter     /     Mùa đông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wireless access point location (WiFi or DECT)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091834Z" creationid="Kieu Lan" creationdate="20210815T091834Z">
+        <seg>Wireless access point location (WiFi or DECT)     /     điểm truy cập mạng không dây (WiFi hoặc DECT)</seg>
       </tuv>
     </tu>
     <tu>
