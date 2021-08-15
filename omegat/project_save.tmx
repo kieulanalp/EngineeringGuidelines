@@ -14399,6 +14399,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must comply with the following requirements as a minimum.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T130826Z" creationid="Kieu Lan" creationdate="20210815T130758Z">
+        <seg>Must comply with the following requirements as a minimum.     /     Tối thiểu phải tuân thủ các yêu cầu sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>N/A</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T030542Z" creationid="LanHK" creationdate="20210407T034923Z">
@@ -19234,6 +19242,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T130837Z" creationid="Kieu Lan" creationdate="20210815T130837Z">
+        <seg>Table-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Targets to be as required by National Standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024339Z" creationid="LanHK" creationdate="20210715T024339Z">
@@ -21198,8 +21214,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>This number of fittings shall be used for commissioning purposes to demonstrate adequate flows/temperatures are available.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T124544Z" creationid="Kieu Lan" creationdate="20210815T124544Z">
-        <seg>This number of fittings shall be used for commissioning purposes to demonstrate adequate flows/temperatures are available.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T130757Z" creationid="Kieu Lan" creationdate="20210815T124544Z">
+        <seg>This number of fittings shall be used for commissioning purposes to demonstrate adequate flows/temperatures are available.     /     Số lượng thiết bị sẽ được sử dụng vào mục đích vận hành thử để chứng minh lưu lượng/nhiệt độ đã được đảm bảo</seg>
       </tuv>
     </tu>
     <tu>
@@ -22285,8 +22301,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Water Quality</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T124544Z" creationid="Kieu Lan" creationdate="20210815T124544Z">
-        <seg>Water Quality</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T130801Z" creationid="Kieu Lan" creationdate="20210815T124544Z">
+        <seg>Water Quality     /     Chất lượng nước </seg>
       </tuv>
     </tu>
     <tu>
