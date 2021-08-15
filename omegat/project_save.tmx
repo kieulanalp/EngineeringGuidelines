@@ -15150,6 +15150,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Ozone Water Treatment / Chemical Reduction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T123029Z" creationid="Kieu Lan" creationdate="20210815T123029Z">
+        <seg>Ozone Water Treatment / Chemical Reduction     /     Xử lý nước </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>có phải public adress??</note>
       <tuv lang="EN-US">
         <seg>PA System</seg>
