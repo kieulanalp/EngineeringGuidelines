@@ -6731,6 +6731,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Computer room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T114640Z" creationid="Kieu Lan" creationdate="20210815T114640Z">
+        <seg>Computer room     /     Phòng máy tính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concentrate the data flow between the upper and lower layers.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T112735Z" creationid="Kieu Lan" creationdate="20210815T112735Z">
@@ -8341,6 +8349,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113102Z" creationid="Kieu Lan" creationdate="20210815T113102Z">
         <seg>Entry point to the property (vehicular) and final exits     /     Điểm truy cập khuôn viên khách sạn cho xe cộ và lối ra cuối cùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entry to accounts department</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T114629Z" creationid="Kieu Lan" creationdate="20210815T114629Z">
+        <seg>Entry to accounts department     /     Lối vào bộ phận kế toán</seg>
       </tuv>
     </tu>
     <tu>
@@ -10216,6 +10232,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T015311Z" creationid="LanHK" creationdate="20210603T015311Z">
         <seg>General Requirements        /       Yêu cầu chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General cashier</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T114643Z" creationid="Kieu Lan" creationdate="20210815T114643Z">
+        <seg>General cashier     /     Thu ngân</seg>
       </tuv>
     </tu>
     <tu>
@@ -17173,6 +17197,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safe deposit room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T114636Z" creationid="Kieu Lan" creationdate="20210815T114636Z">
+        <seg>Safe deposit room     /     Phòng két an toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safety- All LED’s operate at low voltages and use direct current. LED’s are solid state devices and have low toxicity by virtue of their construction.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T170520Z" creationid="Kieu Lan" creationdate="20210814T170312Z">
@@ -19223,6 +19255,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T085433Z" creationid="Kieu Lan" creationdate="20210628T062131Z">
         <seg>The carbon monoxide detectors and alarms may be located on the wall, ceiling or other location as specified in the manufacturer’s installation instructions.     /     Đầu báo khí CO và báo động có thể được bố trí trên tường, trên trần hoặc các vị trí khác được nêu rõ trong hướng dẫn lắp đặt của nhà sản xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The card access system should provide access into the back of the house staff entry. It should also serve as a time and attendance record keeping system for hotel employees. In general, card readers should be located as follows:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T114620Z" creationid="Kieu Lan" creationdate="20210815T114620Z">
+        <seg>The card access system should provide access into the back of the house staff entry. It should also serve as a time and attendance record keeping system for hotel employees. In general, card readers should be located as follows:     /     Hệ thống kiểm soát truy cập bằng thẻ sẽ cho phép truy cập BOH qua lối vào nhân viên. Hệ thống cũng phục vụ mục đích theo dõi chấm công cho nhân viên khách sạn. Nhìn chung, hệ thống này cần phải định vị được các điểm sau</seg>
       </tuv>
     </tu>
     <tu>
