@@ -22123,6 +22123,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>W_08</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122725Z" creationid="Kieu Lan" creationdate="20210815T122725Z">
+        <seg>W_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>W_08 Ozone Water Treatment / Chemical Reduction</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -22159,6 +22167,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081754Z" creationid="Kieu Lan" creationdate="20210804T081738Z">
         <seg>Water Services Pipes and Valves     /     Đường ống và van nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Collection Treatment and re-use system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122725Z" creationid="Kieu Lan" creationdate="20210815T122725Z">
+        <seg>Water Collection Treatment and re-use system     /     Hệ thống thu gom, xử lý và tái sử dụng nước</seg>
       </tuv>
     </tu>
     <tu>
