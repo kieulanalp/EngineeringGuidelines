@@ -8563,6 +8563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every other floor level in the stairways</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T115104Z" creationid="Kieu Lan" creationdate="20210815T115104Z">
+        <seg>Every other floor level in the stairways     /     Giếng thang, cách mỗi tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example Kitchen Ventilation Drawing</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T043944Z" creationid="Kieu Lan" creationdate="20210804T043944Z">
@@ -10520,6 +10528,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093710Z" creationid="LanHK" creationdate="20210713T093710Z">
         <seg>Guest bathrooms     /     Phòng tắm trong phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest floor corridors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T115207Z" creationid="Kieu Lan" creationdate="20210815T115207Z">
+        <seg>Guest floor corridors     /     Hành lang phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -15798,8 +15814,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Plumbing and Drainage</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154651Z" creationid="Kieu Lan" creationdate="20210405T154651Z">
-        <seg>Plumbing and Drainage&lt;t0/&gt; &lt;t1/&gt;Hệ Thống Bơm và Thoát Nước</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T115217Z" creationid="Kieu Lan" creationdate="20210405T154651Z">
+        <seg>Plumbing and Drainage     /     Hệ Thống Bơm và Thoát Nước</seg>
       </tuv>
     </tu>
     <tu>
