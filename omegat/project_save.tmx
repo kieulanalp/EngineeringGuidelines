@@ -6571,6 +6571,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Communication and integration layer: This layer consists of the communication networks and the communication controllers called gateways. The gateways fulfil three principal tasks:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T111513Z" creationid="Kieu Lan" creationdate="20210815T111513Z">
+        <seg>Communication and integration layer: This layer consists of the communication networks and the communication controllers called gateways. The gateways fulfil three principal tasks:     /     Tầng liên lạc và tích hợp: tầng này bao gồm các mạng lưới liên lạc và các điểm kiểm soát liên lạc (gateway). Gateway thực hiện ba chức năng chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Communication with continuously staffed position</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T110936Z">
