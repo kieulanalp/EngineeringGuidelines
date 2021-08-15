@@ -1225,6 +1225,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>150 to 200 mg/l</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133051Z" creationid="Kieu Lan" creationdate="20210815T133051Z">
+        <seg>150 to 200 mg/l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>150-200</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T091438Z" creationid="Kieu Lan" creationdate="20210814T091438Z">
@@ -6333,6 +6341,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061409Z" creationid="Kieu Lan" creationdate="20210805T061409Z">
         <seg>CIBSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CIBSE/ASHRAE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133106Z" creationid="Kieu Lan" creationdate="20210815T133106Z">
+        <seg>CIBSE/ASHRAE</seg>
       </tuv>
     </tu>
     <tu>
@@ -12656,6 +12672,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>International Plumbing Codes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133123Z" creationid="Kieu Lan" creationdate="20210815T133123Z">
+        <seg>International Plumbing Codes     /     Tiêu chuẩn hệ thống bơm quốc tế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interpret and translate the various communication protocols from the different subsystems.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113000Z" creationid="Kieu Lan" creationdate="20210815T112717Z">
@@ -13408,6 +13432,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065322Z" creationid="LanHK" creationdate="20210610T065322Z">
         <seg>Leaks in the system could cause problems    /    Rò rỉ nước trong hệ thống có thể gây sự cố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legionella Codes (H&amp;S Executive L8 UK, EWGLC European)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133239Z" creationid="Kieu Lan" creationdate="20210815T133239Z">
+        <seg>Legionella Codes (H&amp;S Executive L8 UK, EWGLC European)     /     Quy chế về Legionella (H&amp;S Executive L8 UK, EWGLC European)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14907,6 +14939,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132643Z" creationid="Kieu Lan" creationdate="20210815T132643Z">
         <seg>National Regulations/ InterContinental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>National Regulations/ InterContinental Hotels Group Standards</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133103Z" creationid="Kieu Lan" creationdate="20210815T133103Z">
+        <seg>National Regulations/ InterContinental Hotels Group Standards     /     Quy định địa phương/Tiêu chuẩn IHG</seg>
       </tuv>
     </tu>
     <tu>
@@ -19754,6 +19794,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table-B</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133316Z" creationid="Kieu Lan" creationdate="20210815T133245Z">
+        <seg>Table-B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Targets to be as required by National Standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024339Z" creationid="LanHK" creationdate="20210715T024339Z">
@@ -20925,6 +20973,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061355Z" creationid="Kieu Lan" creationdate="20210805T061355Z">
         <seg>The period of the delay (180 sec maximum) should be based upon the time it takes to reach the furthest part</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The permitted limit for grey water reuse for Toilet flushing&amp; Cooling Tower.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133246Z" creationid="Kieu Lan" creationdate="20210815T133246Z">
+        <seg>The permitted limit for grey water reuse for Toilet flushing&amp; Cooling Tower.</seg>
       </tuv>
     </tu>
     <tu>
