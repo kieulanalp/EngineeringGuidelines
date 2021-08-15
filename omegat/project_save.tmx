@@ -339,8 +339,8 @@
       <tuv lang="EN-US">
         <seg>.PPROPRIATE FOR</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061644Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>Appropriate for</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121703Z" creationid="Kieu Lan" creationdate="20210815T121703Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -4165,8 +4165,8 @@
       <tuv lang="EN-US">
         <seg>ADAPABILITY</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061640Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>Adapability     /     Dễ thích ứng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121658Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
+        <seg>Dễ thích ứng</seg>
       </tuv>
     </tu>
     <tu>
@@ -4197,16 +4197,16 @@
       <tuv lang="EN-US">
         <seg>APPROPRIATE ACOUSTICALLY</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121531Z" creationid="Kieu Lan" creationdate="20210815T121531Z">
-        <seg>Appropriate acoustically     /     Cách âm phù hợp</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121740Z" creationid="Kieu Lan" creationdate="20210815T121531Z">
+        <seg>Cách âm phù hợp</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>APPROPRIATE FOR THE STAR RATING OF THE hotel</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121408Z" creationid="Kieu Lan" creationdate="20210815T121408Z">
-        <seg>Appropriate for the star rating of the hotel     /     Phù hợp với hạng sao của khách sạn</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121732Z" creationid="Kieu Lan" creationdate="20210815T121408Z">
+        <seg>Phù hợp với hạng sao của khách sạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -6067,8 +6067,16 @@
       <tuv lang="EN-US">
         <seg>COMPATIBLE WITH ARCHITECTURE AND INTERIOR DESIGN</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061727Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>Compatible with architecture and interior design     /     Phù hợp với thiết kế kiến trúc và nội thất</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121707Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
+        <seg>Phù hợp với thiết kế kiến trúc và nội thất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPATIBLE WITH ARCHITECTURE AND INTERIOR DESIGN /</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121847Z" creationid="Kieu Lan" creationdate="20210815T121847Z">
+        <seg>Phù hợp với thiết kế kiến trúc và nội thất</seg>
       </tuv>
     </tu>
     <tu>
@@ -6115,8 +6123,8 @@
       <tuv lang="EN-US">
         <seg>COST EFFECTIVE</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061557Z" creationid="Kieu Lan" creationdate="20210805T061253Z">
-        <seg>Cost effective     /     Tối ưu chi phí</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121651Z" creationid="Kieu Lan" creationdate="20210805T061253Z">
+        <seg>Tối ưu chi phí</seg>
       </tuv>
     </tu>
     <tu>
@@ -7688,6 +7696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ENERGY EFFICIENT MINIMISE CARBON EMISSIONS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121743Z" creationid="Kieu Lan" creationdate="20210815T121620Z">
+        <seg>Tối ưu năng lượng - giảm thiểu carbon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXCELLENT</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044238Z" creationid="Kieu Lan" creationdate="20210805T044238Z">
@@ -8915,10 +8931,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FLEXIBILE AND ADAPTABLE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121754Z" creationid="Kieu Lan" creationdate="20210815T121754Z">
+        <seg>Linh hoạt và dễ thích ứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FLEXIBILITY</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061623Z" creationid="Kieu Lan" creationdate="20210805T061254Z">
-        <seg>Flexibility     /     Linh hoạt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121657Z" creationid="Kieu Lan" creationdate="20210805T061254Z">
+        <seg>Linh hoạt</seg>
       </tuv>
     </tu>
     <tu>
@@ -10134,8 +10158,8 @@
       <tuv lang="EN-US">
         <seg>GENERAL PRINCIPLES</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061545Z" creationid="Kieu Lan" creationdate="20210805T061255Z">
-        <seg>General principles     /     Nguyên tắc chung</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121644Z" creationid="Kieu Lan" creationdate="20210805T061255Z">
+        <seg>Nguyên tắc chung</seg>
       </tuv>
     </tu>
     <tu>
@@ -10166,8 +10190,8 @@
       <tuv lang="EN-US">
         <seg>GOOD VISUAL COMFORT</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061716Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>Good visual comfort     /     Đảm bảo chiếu sáng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121705Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
+        <seg>Đảm bảo chiếu sáng</seg>
       </tuv>
     </tu>
     <tu>
@@ -12720,6 +12744,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T162712Z" creationid="Kieu Lan" creationdate="20210814T162707Z">
         <seg>LED Lights     /     Đèn LED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEGIONELLA FREE HEALTHY AND ODOUR FREE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121813Z" creationid="Kieu Lan" creationdate="20210815T121813Z">
+        <seg>Không nhiễm legionella và không mùi</seg>
       </tuv>
     </tu>
     <tu>
@@ -15361,6 +15393,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 157</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121814Z" creationid="Kieu Lan" creationdate="20210815T121814Z">
+        <seg>Page: 157</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 16</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -16437,16 +16477,16 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>RELIABLE COMMUNICATIOI</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061750Z" creationid="Kieu Lan" creationdate="20210805T061503Z">
-        <seg>Reliable communication systems     /     Hệ thống liên lạc đảm bảo</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121709Z" creationid="Kieu Lan" creationdate="20210805T061503Z">
+        <seg>Hệ thống liên lạc đảm bảo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>RELIABLE POWER SUPPLY</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061801Z" creationid="Kieu Lan" creationdate="20210805T061801Z">
-        <seg>Reliable power supply     /     Nguồn điện đảm bảo</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121713Z" creationid="Kieu Lan" creationdate="20210805T061801Z">
+        <seg>Nguồn điện đảm bảo</seg>
       </tuv>
     </tu>
     <tu>
@@ -17079,16 +17119,16 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>SAFE AND RELIABLE</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121417Z" creationid="Kieu Lan" creationdate="20210815T121417Z">
-        <seg>Safe and reliable     /     An toàn và đáng tin</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121734Z" creationid="Kieu Lan" creationdate="20210815T121417Z">
+        <seg>An toàn và đáng tin</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>SAFE AND SECU</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061617Z" creationid="Kieu Lan" creationdate="20210805T061254Z">
-        <seg>Safe and secure     /     An toàn và bảo đảm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121656Z" creationid="Kieu Lan" creationdate="20210805T061254Z">
+        <seg>An toàn và bảo đảm</seg>
       </tuv>
     </tu>
     <tu>
@@ -17279,8 +17319,16 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>SUITABLE FLOW AND PRESSURES</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121517Z" creationid="Kieu Lan" creationdate="20210815T121517Z">
-        <seg>Suitable flow and pressures     /     Lưu lượng và áp lực phù hợp</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121736Z" creationid="Kieu Lan" creationdate="20210815T121517Z">
+        <seg>Lưu lượng và áp lực phù hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUITABLE TEMPERATURES FOR HOT AND COLD WITHOUT WAIT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121745Z" creationid="Kieu Lan" creationdate="20210815T121637Z">
+        <seg>Cung cấp nhiệt độ nước nóng/lạnh phù hợp mà không phải đợi</seg>
       </tuv>
     </tu>
     <tu>
@@ -22610,8 +22658,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>\ DEVELOPMENT OF THIS NATURE</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061702Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
-        <seg>a development of this nature     /     Phù hợp với dự án</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121702Z" creationid="Kieu Lan" creationdate="20210805T061455Z">
+        <seg>Phù hợp với dự án</seg>
       </tuv>
     </tu>
     <tu>
