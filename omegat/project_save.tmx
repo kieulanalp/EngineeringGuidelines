@@ -3395,6 +3395,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.1.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121950Z" creationid="Kieu Lan" creationdate="20210815T121950Z">
+        <seg>6.1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.5</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045045Z" creationid="Kieu Lan" creationdate="20210806T045045Z">
@@ -5793,6 +5801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Building Management Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122010Z" creationid="Kieu Lan" creationdate="20210815T122010Z">
+        <seg>Building Management Systems     /     Hệ thống Quản lý tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Building Orientation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083333Z">
@@ -7584,6 +7600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drinking Water Quality</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122131Z" creationid="Kieu Lan" creationdate="20210815T122131Z">
+        <seg>Drinking Water Quality     /     Chất lượng nước uống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dry deluge or glycol system</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T100419Z" creationid="LanHK" creationdate="20210713T100419Z">
@@ -7752,10 +7776,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E_05</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122004Z" creationid="Kieu Lan" creationdate="20210815T122004Z">
+        <seg>E_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E_06</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062207Z" creationid="Kieu Lan" creationdate="20210805T062207Z">
         <seg>E_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E_07</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122010Z" creationid="Kieu Lan" creationdate="20210815T122010Z">
+        <seg>E_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E_08</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122019Z" creationid="Kieu Lan" creationdate="20210815T122019Z">
+        <seg>E_08</seg>
       </tuv>
     </tu>
     <tu>
@@ -8297,10 +8345,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Energy Efficient Appliances</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122018Z" creationid="Kieu Lan" creationdate="20210815T122018Z">
+        <seg>Energy Efficient Appliances     /     Thiết bị tiết kiệm năng lượng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Energy Efficient Lighting</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062225Z" creationid="Kieu Lan" creationdate="20210805T062225Z">
         <seg>Energy Efficient Lighting     /     Chiếu sáng tiết kiệm điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Energy Metering</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122003Z" creationid="Kieu Lan" creationdate="20210815T122003Z">
+        <seg>Energy Metering     /     Đo năng lượng</seg>
       </tuv>
     </tu>
     <tu>
@@ -11180,6 +11244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hot Water Contribution to Energy Reduction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122117Z" creationid="Kieu Lan" creationdate="20210815T122117Z">
+        <seg>Hot Water Contribution to Energy Reduction     /     Nước nóng góp phần giảm thiểu năng lượng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hot water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061311Z" creationid="Kieu Lan" creationdate="20210805T061311Z">
@@ -13327,8 +13399,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Low Energy Systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T072658Z" creationid="LanHK" creationdate="20210715T030925Z">
-        <seg>Low Energy Systems     /     Các hệ thống tiêu thụ năng lượng thấp</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122124Z" creationid="LanHK" creationdate="20210715T030925Z">
+        <seg>Low Energy Systems     /     Các hệ thống tiết kiệm năng lượng</seg>
       </tuv>
     </tu>
     <tu>
@@ -20120,6 +20192,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The main services those are included within the designer’s responsibility.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121949Z" creationid="Kieu Lan" creationdate="20210815T121949Z">
+        <seg>The main services those are included within the designer’s responsibility.     /     Các dịch vụ chính thuộc trách nhiệm của thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum distance to reach an emergency exit on a guestroom floor must be no more than 30m or 60m in a sprinkler protected building.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T021622Z" creationid="LanHK" creationdate="20210603T015028Z">
@@ -21971,6 +22051,38 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>W_01</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122124Z" creationid="Kieu Lan" creationdate="20210815T122124Z">
+        <seg>W_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W_02</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122133Z" creationid="Kieu Lan" creationdate="20210815T122133Z">
+        <seg>W_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W_03</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122155Z" creationid="Kieu Lan" creationdate="20210815T122155Z">
+        <seg>W_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W_04</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122203Z" creationid="Kieu Lan" creationdate="20210815T122203Z">
+        <seg>W_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>W_08 Ozone Water Treatment / Chemical Reduction</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -22015,6 +22127,30 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T085639Z" creationid="LanHK" creationdate="20210715T031157Z">
         <seg>Water Cooled Chillers     /     Chiller giải nhiệt nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Efficient Appliances and Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122204Z" creationid="Kieu Lan" creationdate="20210815T122204Z">
+        <seg>Water Efficient Appliances and Systems     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Efficient Fixtures</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122202Z" creationid="Kieu Lan" creationdate="20210815T122202Z">
+        <seg>Water Efficient Fixtures     /     Thiết bị tiết kiệm nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Metering and Sub-metering</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122155Z" creationid="Kieu Lan" creationdate="20210815T122155Z">
+        <seg>Water Metering and Sub-metering     /     Đồng hồ nước và đồng hồ phụ</seg>
       </tuv>
     </tu>
     <tu>
