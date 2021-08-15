@@ -19127,6 +19127,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following table indicates the cabling considerations for the number of RJ45 ports that should be provided at various locations in the hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T090657Z" creationid="Kieu Lan" creationdate="20210815T090657Z">
+        <seg>The following table indicates the cabling considerations for the number of RJ45 ports that should be provided at various locations in the hotel.     /     Bảng sau cho thấy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following table provides a simple comparison of systems suitable for BOH spaces. This should be prepared for each project taking into account local conditions to determine the most appropriate:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T064910Z" creationid="Kieu Lan" creationdate="20210804T064910Z">
