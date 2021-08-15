@@ -1625,6 +1625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.5-5.5 Bar *</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135846Z" creationid="Kieu Lan" creationdate="20210815T135843Z">
+        <seg>2.5-5.5 Bar *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.5.1 System Types</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T075602Z" creationid="LanHK" creationdate="20210702T075602Z">
@@ -11686,8 +11694,8 @@
       <tuv lang="EN-US">
         <seg>Hot Water</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154708Z" creationid="Kieu Lan" creationdate="20210405T154706Z">
-        <seg>Hot Water Nước nóng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T140123Z" creationid="Kieu Lan" creationdate="20210405T154706Z">
+        <seg>Hot Water      /     Nước nóng</seg>
       </tuv>
     </tu>
     <tu>
@@ -21025,6 +21033,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum fixture pressure shall be limited to 5.5 bars.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T140117Z" creationid="Kieu Lan" creationdate="20210815T140100Z">
+        <seg>The maximum fixture pressure shall be limited to 5.5 bars.     /     Áp suất tại vòi được giới hạn tới 5.5 bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum power demand and energy consumption will depend on a number of issues, including location, size, equipment types, availability of gas or other alternative fuels etc.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T032203Z" creationid="Kieu Lan" creationdate="20210806T030043Z">
@@ -25579,6 +25595,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T045245Z" creationid="Kieu Lan" creationdate="20210810T045232Z">
         <seg>• Local Distribution/Protection     /     Phân phối/Bảo vệ cục bộ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Pressure requirements typically based on shower requirements. All rooms and all services to have same/balanced pressure.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T140106Z" creationid="Kieu Lan" creationdate="20210815T135845Z">
+        <seg>• Pressure requirements typically based on shower requirements. All rooms and all services to have same balanced pressure.     /     Yêu cầu về áp lực thường dựa trên yêu cầu đối với vòi tắm sen. Tất cả phòng và tất cả dịch vụ phải có mức áp suất giống nhau</seg>
       </tuv>
     </tu>
     <tu>
