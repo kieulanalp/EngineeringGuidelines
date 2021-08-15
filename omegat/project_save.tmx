@@ -11676,6 +11676,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hot and Cold Water Design Criteria.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135128Z" creationid="Kieu Lan" creationdate="20210815T135128Z">
+        <seg>Hot and Cold Water Design Criteria.     /     Bảng D - Tiêu chí thiết kế nước nóng và nước lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hot water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061311Z" creationid="Kieu Lan" creationdate="20210805T061311Z">
@@ -17595,6 +17603,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report on the WHO/AFSED regional consultation to review national priorities and action plans for waste water reuse and management (WHO-EM/CEH/106/E)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135115Z" creationid="Kieu Lan" creationdate="20210815T134956Z">
+        <seg>Report on the WHO/AFSED regional consultation to review national priorities and action plans for waste water reuse and management (WHO-EM/CEH/106/E)     /     Báo cáo về cuộc tham vấn khu vực của WHO/AFSED để xem xét các ưu tiên và kế hoạch hành động quốc gia về tái sử dụng và quản lý nước thải (WHO-EM/CEH/ 106/E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reports property-centric events such as domestic hot water and utility company demand events.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T023430Z" creationid="Kieu Lan" creationdate="20210814T023430Z">
@@ -18273,6 +18289,15 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065146Z" creationid="Kieu Lan" creationdate="20210809T065146Z">
         <seg>Separate power meter     /     Công tơ điện riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Các thể loại điện nước được gọi chung là service, tiếng việt là gì nhỉ?</note>
+      <tuv lang="EN-US">
+        <seg>Service</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135155Z" creationid="Kieu Lan" creationdate="20210815T135155Z">
+        <seg>Service</seg>
       </tuv>
     </tu>
     <tu>
@@ -19870,6 +19895,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133449Z" creationid="Kieu Lan" creationdate="20210815T133449Z">
         <seg>Table-C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table-D</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135051Z" creationid="Kieu Lan" creationdate="20210815T135051Z">
+        <seg>Table-D</seg>
       </tuv>
     </tu>
     <tu>
@@ -21637,8 +21670,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Thermo tolerant (cfu/100ml)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133442Z" creationid="Kieu Lan" creationdate="20210815T133442Z">
-        <seg>Thermo tolerant (cfu/100ml)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135033Z" creationid="Kieu Lan" creationdate="20210815T133442Z">
+        <seg>Thermo tolerant (cfu/100ml)     /     Vi sinh vật chịu nhiệt (cfu/100ml)</seg>
       </tuv>
     </tu>
     <tu>
