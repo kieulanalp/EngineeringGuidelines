@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>(ppm).For drinking water.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131521Z" creationid="Kieu Lan" creationdate="20210815T131504Z">
-        <seg>(ppm).For drinking water.     /     Bảng - Giới hạn vật lý-hóa học và nồng độ tối đa cho phép (phần triệu) đối với nước uống</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133347Z" creationid="Kieu Lan" creationdate="20210815T131504Z">
+        <seg>(ppm).For drinking water.     /     Bảng A - Giới hạn vật lý-hóa học và nồng độ tối đa cho phép (phần triệu) đối với nước uống</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,6 +4059,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;10</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133431Z" creationid="Kieu Lan" creationdate="20210815T133431Z">
+        <seg>&lt;10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;100</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131941Z" creationid="Kieu Lan" creationdate="20210815T131941Z">
@@ -4067,10 +4075,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;1000</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133443Z" creationid="Kieu Lan" creationdate="20210815T133443Z">
+        <seg>&lt;1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;12</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131942Z" creationid="Kieu Lan" creationdate="20210815T131942Z">
         <seg>&lt;12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;140</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133601Z" creationid="Kieu Lan" creationdate="20210815T133601Z">
+        <seg>&lt;140</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;240</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133600Z" creationid="Kieu Lan" creationdate="20210815T133600Z">
+        <seg>&lt;240</seg>
       </tuv>
     </tu>
     <tu>
@@ -5699,6 +5731,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T072851Z" creationid="Kieu Lan" creationdate="20210705T042134Z">
         <seg>BMS link for alarm alert and fault condition     /     Liên kết BMS để phục vụ báo động và báo lỗi sự cố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BOD5(mg/L)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133430Z" creationid="Kieu Lan" creationdate="20210815T133430Z">
+        <seg>BOD5(mg/L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18021,6 +18061,22 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sample Number</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133436Z" creationid="Kieu Lan" creationdate="20210815T133431Z">
+        <seg>Sample Number     /     Số mẫu thử</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample/week</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133440Z" creationid="Kieu Lan" creationdate="20210815T133432Z">
+        <seg>Sample/week     /     Mẫu thử/Tuần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sauna/Jacuzzi</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061417Z" creationid="Kieu Lan" creationdate="20210805T061417Z">
@@ -19594,6 +19650,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TSS(mg/L)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133440Z" creationid="Kieu Lan" creationdate="20210815T133440Z">
+        <seg>TSS(mg/L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TV Power &amp; Aerial</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064443Z" creationid="Kieu Lan" creationdate="20210809T064400Z">
@@ -19788,8 +19852,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Table-</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T130837Z" creationid="Kieu Lan" creationdate="20210815T130837Z">
-        <seg>Table-</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133342Z" creationid="Kieu Lan" creationdate="20210815T130837Z">
+        <seg>Table A -</seg>
       </tuv>
     </tu>
     <tu>
@@ -19798,6 +19862,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133316Z" creationid="Kieu Lan" creationdate="20210815T133245Z">
         <seg>Table-B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table-C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133449Z" creationid="Kieu Lan" creationdate="20210815T133449Z">
+        <seg>Table-C</seg>
       </tuv>
     </tu>
     <tu>
@@ -20985,6 +21057,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The permitted limits for grey water reuse irrigation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133552Z" creationid="Kieu Lan" creationdate="20210815T133552Z">
+        <seg>The permitted limits for grey water reuse irrigation     /     Bảng-C Giới hạn đối với nước xám tái sử dụng trong tưới tiêu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The plant should be located centrally to the areas being served as shown in the following illustration (and not for example all on the roof)</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082723Z" creationid="LanHK" creationdate="20210717T031309Z">
@@ -21551,6 +21631,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044222Z" creationid="Kieu Lan" creationdate="20210805T044222Z">
         <seg>Thermal expansion mm/m°k     /     Giãn nở nhiệt mm/m°k</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thermo tolerant (cfu/100ml)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133442Z" creationid="Kieu Lan" creationdate="20210815T133442Z">
+        <seg>Thermo tolerant (cfu/100ml)</seg>
       </tuv>
     </tu>
     <tu>
