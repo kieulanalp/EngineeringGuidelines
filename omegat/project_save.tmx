@@ -19114,8 +19114,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Spray coil humidifiers (if used)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011916Z" creationid="Kieu Lan" creationdate="20210816T011916Z">
-        <seg>Spray coil humidifiers (if used)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T012055Z" creationid="Kieu Lan" creationdate="20210816T011916Z">
+        <seg>Spray coil humidifiers (if used)     /     Máy phun sương tạo ẩm (nếu sử dụng)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19407,6 +19407,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025318Z" creationid="Kieu Lan" creationdate="20210713T044154Z">
         <seg>Start appropriate smoke extract fans, smoke vents&amp; stair pressurisation     /     Khởi động quạt hút khói, ống hút khói và tăng áp cầu thang phù hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steam Boiler (Laundry)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T012103Z" creationid="Kieu Lan" creationdate="20210816T012100Z">
+        <seg>Steam Boiler (Laundry)     /     Nồi hơi (giặt là)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23555,6 +23563,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T093730Z" creationid="LanHK" creationdate="20210611T093730Z">
         <seg>Where escape routes pass through the atrium at upper levels a smoke and heat control system must be provided that will keep escape routes clear for sufficient time to allow the occupants to escape.     /     Nếu có đường thoát hiểm dẫn qua các tầng trên của giếng trời,  cần có hệ thống kiểm soát khói và nhiệt giúp giữ các lối thoát hiểm thông thoáng đủ lâu để người trong tòa nhà thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where evaporative condensers or coolers are used, particular attention must be given to the prevention of Legionnaires Disease. Twin biocide dosing and a continued programme of water monitoring must be adopted.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T012101Z" creationid="Kieu Lan" creationdate="20210816T012101Z">
+        <seg>Where evaporative condensers or coolers are used, particular attention must be given to the prevention of Legionnaires Disease. Twin biocide dosing and a continued programme of water monitoring must be adopted.</seg>
       </tuv>
     </tu>
     <tu>
