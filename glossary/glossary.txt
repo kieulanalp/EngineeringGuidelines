@@ -14,3 +14,4 @@ peak load	phụ tải đỉnh
 chandelier	đèn trần
 guestroom	phòng khách
 recommend	khuyến nghị
+system	hệ thống
