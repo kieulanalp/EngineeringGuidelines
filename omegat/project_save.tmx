@@ -14558,6 +14558,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Materials that encourage the proliferation of Legionella (e.g. EPDM “rubber” flexible connections) shall not be used.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T012821Z" creationid="Kieu Lan" creationdate="20210816T012821Z">
+        <seg>Materials that encourage the proliferation of Legionella (e.g. EPDM “rubber” flexible connections) shall not be used.     /     Vật liệu khuyến khích sự phát triển của Legionella (</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max 30</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061419Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
@@ -17647,6 +17655,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040723Z" creationid="Kieu Lan" creationdate="20210802T040723Z">
         <seg>Redundancy     /     Dự phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer also to IHG ‘Standards and Guidelines for the Operation and Maintenance of Building Water Systems including The Control of Legionellosis’.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T012756Z" creationid="Kieu Lan" creationdate="20210816T012756Z">
+        <seg>Refer also to IHG ‘Standards and Guidelines for the Operation and Maintenance of Building Water Systems including The Control of Legionellosis’.     /     Tham khảo hướng dẫn IHG "Tiêu chuẩn và hướng dẫn Vận hành và Bảo trì Hệ thống nước tòa nhà, bao gồm kiểm soát Legionnaires."</seg>
       </tuv>
     </tu>
     <tu>
@@ -22453,6 +22469,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T042016Z" creationid="LanHK" creationdate="20210722T101218Z">
         <seg>Trapped condensate drains by gravity shall be installed below any cooling coil irrespective of the degree of latent removal or chilled water temperatures.     /     Thoát nước ngưng bằng trọng lực sẽ được bố trí dưới tất cả các dàn ống làm mát, bất kể mức độ thải ẩn nhiệt hoặc nhiệt độ nước lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treatment for Legionnaires Disease in all systems must be in accordance with HSE (UK) Legal Series L8 document - “Legionnaires Disease - The Control of Legionella Bacteria in Water Systems. ACOP and guidance.” or either similar International Standard.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T012723Z" creationid="Kieu Lan" creationdate="20210816T012723Z">
+        <seg>Treatment for Legionnaires Disease in all systems must be in accordance with HSE (UK) Legal Series L8 document - “Legionnaires Disease - The Control of Legionella Bacteria in Water Systems. ACOP and guidance.” or either similar International Standard.     /     Việc xử lý khuẩn Legionnaires trong tất cả các hệ thống phải tuân thủ HSE (UK) Legal Series L8 - "Bệnh Legionnaires - Việc kiểm soát khuẩn Legionnaires trong các hệ thống nước. ACOP và hướng dẫn." hoặc các tiêu chuẩn quốc tế tương đương</seg>
       </tuv>
     </tu>
     <tu>
