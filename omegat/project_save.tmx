@@ -3621,8 +3621,16 @@
       <tuv lang="EN-US">
         <seg>6.1.3.1 Schematic of Soft Water Plant</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T014108Z" creationid="Kieu Lan" creationdate="20210816T014108Z">
-        <seg>6.1.3.1 Schematic of Soft Water Plant</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024524Z" creationid="Kieu Lan" creationdate="20210816T014108Z">
+        <seg>6.1.3.1 Schematic of Soft Water Plant     /     Sơ đồ máy nước mềm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024524Z" creationid="Kieu Lan" creationdate="20210816T024524Z">
+        <seg>6.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -14568,8 +14576,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Materials that encourage the proliferation of Legionella (e.g. EPDM “rubber” flexible connections) shall not be used.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T012821Z" creationid="Kieu Lan" creationdate="20210816T012821Z">
-        <seg>Materials that encourage the proliferation of Legionella (e.g. EPDM “rubber” flexible connections) shall not be used.     /     Vật liệu khuyến khích sự phát triển của Legionella (</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024514Z" creationid="Kieu Lan" creationdate="20210816T012821Z">
+        <seg>Materials that encourage the proliferation of Legionella (e.g. EPDM “rubber” flexible connections) shall not be used.     /     Vật liệu khuyến khích sự phát triển của Legionella (Vd. ống nối mềm "cao su" EPDM) không được sử dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -19827,6 +19835,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System Selection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024528Z" creationid="Kieu Lan" creationdate="20210816T024528Z">
+        <seg>System Selection     /     Lựa chọn hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System Sequence     /</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061354Z" creationid="Kieu Lan" creationdate="20210805T061354Z">
@@ -21317,6 +21333,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023813Z" creationid="LanHK" creationdate="20210609T081443Z">
         <seg>The number of exits must meet the following minimum requirements:         /       Số lượng lối thoát hiểm phải đáp ứng tối thiểu như sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The objective as with all new building design is to ensure that all systems inclusive of the Plumbing and Drainage are efficient, effective and safe.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024601Z" creationid="Kieu Lan" creationdate="20210816T024601Z">
+        <seg>The objective as with all new building design is to ensure that all systems inclusive of the Plumbing and Drainage are efficient, effective and safe.     /     Mục tiêu đối với tất cả các thiết kế tòa nhà mới là đảm bảo tất cả các hệ thống thuộc hạng mục Bơm và Thoát nước vận hành hiệu quả và an toàn</seg>
       </tuv>
     </tu>
     <tu>
