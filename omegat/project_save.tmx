@@ -5775,6 +5775,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Available city water quality.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033617Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
+        <seg>Available city water quality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available water supply flow and pressure - are 2 separate independent supplies available to avoid storage?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033617Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
+        <seg>Available water supply flow and pressure - are 2 separate independent supplies available to avoid storage?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T022752Z" creationid="LanHK" creationdate="20210701T022752Z">
@@ -14096,8 +14112,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Local Authority Investigation</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033316Z" creationid="Kieu Lan" creationdate="20210816T033316Z">
-        <seg>Local Authority Investigation     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033634Z" creationid="Kieu Lan" creationdate="20210816T033316Z">
+        <seg>Local Authority Investigation     /     Kiểm soát của chính quyền địa phương</seg>
       </tuv>
     </tu>
     <tu>
@@ -14122,6 +14138,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064109Z" creationid="LanHK" creationdate="20210715T062502Z">
         <seg>Location     /     Vị trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location of the available incoming service.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033616Z" creationid="Kieu Lan" creationdate="20210816T033616Z">
+        <seg>Location of the available incoming service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17226,6 +17250,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091520Z" creationid="Kieu Lan" creationdate="20210815T091520Z">
         <seg>Printer     /     Máy in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prior to the start of the design for the project it is imperative that several key parameters are obtained from the local supply authority. These key parameters include the following items:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033617Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
+        <seg>Prior to the start of the design for the project it is imperative that several key parameters are obtained from the local supply authority. These key parameters include the following items:</seg>
       </tuv>
     </tu>
     <tu>
