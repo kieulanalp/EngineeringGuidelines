@@ -3643,6 +3643,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.2.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033035Z" creationid="Kieu Lan" creationdate="20210816T033035Z">
+        <seg>6.2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.5</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045045Z" creationid="Kieu Lan" creationdate="20210806T045045Z">
@@ -14086,6 +14094,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local Authority Investigation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033316Z" creationid="Kieu Lan" creationdate="20210816T033316Z">
+        <seg>Local Authority Investigation     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local emergency distribution board</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091734Z" creationid="LanHK" creationdate="20210702T091734Z">
@@ -24453,8 +24469,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>bacteria and turbidity filters to control suspended solids. This will eliminate the need to costly chemicals.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T032856Z" creationid="Kieu Lan" creationdate="20210816T032856Z">
-        <seg>bacteria and turbidity filters to control suspended solids. This will eliminate the need to costly chemicals.     /     Xử lý nước khi cần thiết. Ban đầu sử dụng ozone hoặc tia cực tím để kiểm soát vi khuẩn và lọc cặn rắn</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033033Z" creationid="Kieu Lan" creationdate="20210816T032856Z">
+        <seg>bacteria and turbidity filters to control suspended solids. This will eliminate the need to costly chemicals.     /     Xử lý nước khi cần thiết. Ban đầu sử dụng ozone hoặc tia cực tím để kiểm soát vi khuẩn và bộ lọc cặn để kiểm soát chất rắn trong nước</seg>
       </tuv>
     </tu>
     <tu>
