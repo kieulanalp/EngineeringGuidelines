@@ -12252,6 +12252,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a laundry system is to be installed in the hotel, can the steam system be used to generate hot water and provide heat for makeup air systems?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T025246Z" creationid="Kieu Lan" creationdate="20210816T025246Z">
+        <seg>If a laundry system is to be installed in the hotel, can the steam system be used to generate hot water and provide heat for makeup air systems?     /     Nếu khách sạn lắp đặt hệ thống giặt là, hệ thống là hơi có thể được sử dụng để tạo nước nóng và cung cấp nhiệt cho hệ thống bù khí?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a second device of any kind operates at any time during the delay period the alarm must sound</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061355Z" creationid="Kieu Lan" creationdate="20210805T061355Z">
@@ -15859,6 +15867,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081231Z" creationid="Kieu Lan" creationdate="20210713T081231Z">
         <seg>Các điều kiện sau xảy ra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimise the pumping arrangement with respect to the distribution pressures.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T025201Z" creationid="Kieu Lan" creationdate="20210816T025201Z">
+        <seg>Optimise the pumping arrangement with respect to the distribution pressures.     /     Tối ưu hóa bố trí hệ bơm dựa trên cơ sở áp suất phân phối</seg>
       </tuv>
     </tu>
     <tu>
@@ -23003,6 +23019,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VFD pumping versus constant volume pumping?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T025138Z" creationid="Kieu Lan" creationdate="20210816T025138Z">
+        <seg>VFD pumping versus constant volume pumping?     /     Bơm biến tần hay bơm lưu lượng cố định?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VRF</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061445Z" creationid="Kieu Lan" creationdate="20210805T061445Z">
@@ -23555,6 +23579,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T063456Z" creationid="LanHK" creationdate="20210702T071852Z">
         <seg>Wet/Dry risers - InterContinental Hotels Group/Code     /     Trục ướt/khô</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What type of distribution arrangement best suits the development? Usually vertical distribution is best as it allows the floor to floor height to be reduced to a minimum, and reduced pipe lengths as illustrated earlier.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T025122Z" creationid="Kieu Lan" creationdate="20210816T025122Z">
+        <seg>What type of distribution arrangement best suits the development? Usually vertical distribution is best as it allows the floor to floor height to be reduced to a minimum, and reduced pipe lengths as illustrated earlier.     /     Loại hình bố trí phân phối nào phù hợp nhất với dự án? Nhìn chung, phân phối theo chiều dọc là tốt nhất do nó giúp giảm đến tối thiểu chiều cao giữa các tấm sàn, và giảm chiều dài ống như đã minh họa phía trên</seg>
       </tuv>
     </tu>
     <tu>
