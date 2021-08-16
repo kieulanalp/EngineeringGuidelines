@@ -12655,6 +12655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In most cases it may not be possible to feed directly from the local authority supply for the following reasons:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T042203Z" creationid="Kieu Lan" creationdate="20210816T042203Z">
+        <seg>In most cases it may not be possible to feed directly from the local authority supply for the following reasons:     /     Nhìn chung, thường sẽ không thể cấp nước từ đường ống trực tiếp của chính quyền địa phương vì các lý do sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In newly constructed buildings storerooms must not open directly into escape stairs. In existing buildings storerooms that do open directly into escape stairs must be provided with:</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023047Z" creationid="LanHK" creationdate="20210609T075018Z">
