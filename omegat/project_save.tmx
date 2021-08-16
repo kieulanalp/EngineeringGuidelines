@@ -9033,6 +9033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensuring that the minimum water pressure at each fixture is 2.5 bars.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T032422Z" creationid="Kieu Lan" creationdate="20210816T032422Z">
+        <seg>Ensuring that the minimum water pressure at each fixture is 2.5 bars.     /     Đảm bảo áp suất nước tối thiểu tại mỗi vòi là 2.5bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Entrance Lobby - Seating Areas</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094353Z" creationid="LanHK" creationdate="20210715T063218Z">
@@ -12425,6 +12433,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T080047Z">
         <seg>Impaired hearing provisions    /    Phương án dành cho người khiếm thính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implement water treatment as necessary. In the first instance utilise ozone or ultraviolet light to control</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T032443Z" creationid="Kieu Lan" creationdate="20210816T032437Z">
+        <seg>Implement water treatment as necessary. In the first instance utilise ozone or ultraviolet light to control</seg>
       </tuv>
     </tu>
     <tu>
