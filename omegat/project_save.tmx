@@ -5777,16 +5777,16 @@
       <tuv lang="EN-US">
         <seg>Available city water quality.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033617Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
-        <seg>Available city water quality.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T040431Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
+        <seg>Available city water quality.     /     Chất lượng nước</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Available water supply flow and pressure - are 2 separate independent supplies available to avoid storage?</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033617Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
-        <seg>Available water supply flow and pressure - are 2 separate independent supplies available to avoid storage?</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T040426Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
+        <seg>Available water supply flow and pressure - are 2 separate independent supplies available to avoid storage?     /     Lưu lượng của nguồn cấp nước và áp lực - Có 2 nhà cung cấp độc lập để tránh phải dự trữ nước</seg>
       </tuv>
     </tu>
     <tu>
@@ -14144,8 +14144,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Location of the available incoming service.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033616Z" creationid="Kieu Lan" creationdate="20210816T033616Z">
-        <seg>Location of the available incoming service.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T040438Z" creationid="Kieu Lan" creationdate="20210816T033616Z">
+        <seg>Location of the available incoming service.     /     Vị trí của đầu cấp nước vào</seg>
       </tuv>
     </tu>
     <tu>
