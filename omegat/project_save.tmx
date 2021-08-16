@@ -6922,6 +6922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chilled water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011845Z" creationid="Kieu Lan" creationdate="20210816T011845Z">
+        <seg>Chilled water     /     Nước mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chilled water Plant Solutions</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091331Z">
@@ -7308,6 +7316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Condenser water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011849Z" creationid="Kieu Lan" creationdate="20210816T011849Z">
+        <seg>Condenser water     /     Nước ngưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conductivity (mS/m|3)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131933Z" creationid="Kieu Lan" creationdate="20210815T131933Z">
@@ -7425,6 +7441,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094329Z" creationid="Kieu Lan" creationdate="20210713T020623Z">
         <seg>Corridors     /     Hành lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Corrosion due to soft water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011817Z" creationid="Kieu Lan" creationdate="20210816T011817Z">
+        <seg>Corrosion due to soft water     /     Ăn mòn do nước mềm</seg>
       </tuv>
     </tu>
     <tu>
@@ -7927,6 +7951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discoloration</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011734Z" creationid="Kieu Lan" creationdate="20210816T011734Z">
+        <seg>Discoloration     /     Biến màu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnect the power</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T012912Z" creationid="LanHK" creationdate="20210611T012912Z">
@@ -8012,6 +8044,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070122Z">
         <seg>Document Title:    /    Tên tài liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domestic hot</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011849Z" creationid="Kieu Lan" creationdate="20210816T011849Z">
+        <seg>Domestic hot</seg>
       </tuv>
     </tu>
     <tu>
@@ -9183,6 +9223,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T070628Z" creationid="Kieu Lan" creationdate="20210802T070628Z">
         <seg>Excellent use of low grade water for free cooling if available     /     Dễ dàng sử dụng nước chất lượng thấp để làm mát miễn phú nếu có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excessive organic growths</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011801Z" creationid="Kieu Lan" creationdate="20210816T011736Z">
+        <seg>Excessive organic growths     /     Sinh vật trong nước phát triển quá mức</seg>
       </tuv>
     </tu>
     <tu>
@@ -11614,8 +11662,8 @@
       <tuv lang="EN-US">
         <seg>High bacteriological count</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011636Z" creationid="Kieu Lan" creationdate="20210816T011631Z">
-        <seg>High bacteriological count     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011741Z" creationid="Kieu Lan" creationdate="20210816T011631Z">
+        <seg>High bacteriological count     /     Số lượng vi khuẩn cao</seg>
       </tuv>
     </tu>
     <tu>
@@ -13320,6 +13368,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T092537Z" creationid="Kieu Lan" creationdate="20210814T092537Z">
         <seg>Kitchen prep/finish     /     Bếp sơ chế/hoàn thiện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen wash</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011915Z" creationid="Kieu Lan" creationdate="20210816T011915Z">
+        <seg>Kitchen wash</seg>
       </tuv>
     </tu>
     <tu>
@@ -16193,6 +16249,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 161</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011910Z" creationid="Kieu Lan" creationdate="20210816T011910Z">
+        <seg>Page: 161</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 17</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -16501,6 +16565,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113106Z" creationid="Kieu Lan" creationdate="20210815T113106Z">
         <seg>Parking levels     /     Các tầng đỗ xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Particular consideration shall be given to the following systems:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011842Z" creationid="Kieu Lan" creationdate="20210816T011842Z">
+        <seg>Particular consideration shall be given to the following systems:     /     Cần đặc biệt chú ý các hệ thống sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -19036,6 +19108,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T091348Z" creationid="LanHK" creationdate="20210722T091348Z">
         <seg>Split systems     /     Hệ thống hai khối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spray coil humidifiers (if used)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011916Z" creationid="Kieu Lan" creationdate="20210816T011916Z">
+        <seg>Spray coil humidifiers (if used)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21732,6 +21812,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The water supply shall be neither scale forming nor corrosive.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011835Z" creationid="Kieu Lan" creationdate="20210816T011835Z">
+        <seg>The water supply shall be neither scale forming nor corrosive.     /     Nguồn cấp nước không được dóng cặn hoặc gây ăn mòn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The water treatment system shall be deigned to achieve 7 or better cycles of concentration at acceptable water quality.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T041516Z" creationid="LanHK" creationdate="20210728T041516Z">
@@ -23930,6 +24018,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011850Z" creationid="Kieu Lan" creationdate="20210816T011850Z">
+        <seg>and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and designs appropriate to the building location.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T045815Z" creationid="LanHK" creationdate="20210715T045815Z">
@@ -24250,6 +24346,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061350Z" creationid="Kieu Lan" creationdate="20210805T061350Z">
         <seg>clear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cold</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011850Z" creationid="Kieu Lan" creationdate="20210816T011850Z">
+        <seg>cold</seg>
       </tuv>
     </tu>
     <tu>
@@ -24730,6 +24834,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042011Z" creationid="Kieu Lan" creationdate="20210629T042011Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>laundry equipment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T012009Z" creationid="Kieu Lan" creationdate="20210816T011916Z">
+        <seg>laundry equipment     /     Vệ sinh bếp và thiết bị giặt là</seg>
       </tuv>
     </tu>
     <tu>
@@ -25487,6 +25599,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>up and</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011915Z" creationid="Kieu Lan" creationdate="20210816T011915Z">
+        <seg>up and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>up to 1000mm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045805Z" creationid="Kieu Lan" creationdate="20210805T045805Z">
@@ -25563,6 +25683,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061346Z" creationid="Kieu Lan" creationdate="20210805T061346Z">
         <seg>w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011910Z" creationid="Kieu Lan" creationdate="20210816T011910Z">
+        <seg>water     /     Nước nóng và nước lạnh sinh hoạt</seg>
       </tuv>
     </tu>
     <tu>
