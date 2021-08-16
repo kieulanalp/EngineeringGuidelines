@@ -3651,6 +3651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.2.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T041933Z" creationid="Kieu Lan" creationdate="20210816T041933Z">
+        <seg>6.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.5</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045045Z" creationid="Kieu Lan" creationdate="20210806T045045Z">
@@ -6020,6 +6028,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T062929Z" creationid="LanHK" creationdate="20210715T045612Z">
         <seg>Base external heat rejection equipment selections on external ambient design temperature for the location +5°C     /     Lựa chọn thiết bị thải nhiệt bên ngoài dựa trên nhiệt độ thiết kế bên ngoài của vị trí dự án +5°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on the information obtained from the local supply authority, the following decision can be made:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T042003Z" creationid="Kieu Lan" creationdate="20210816T042003Z">
+        <seg>Based on the information obtained from the local supply authority, the following decision can be made:     /     Dựa trên các thông tin nhận được từ chính quyền địa phương, các quyét định sau có thể được đưa ra:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13381,6 +13397,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key Design Issues</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T041944Z" creationid="Kieu Lan" creationdate="20210816T041944Z">
+        <seg>Key Design Issues     /     Các vấn đề thiết kế chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T083347Z" creationid="Kieu Lan" creationdate="20210719T023613Z">
@@ -18048,6 +18072,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T025940Z" creationid="Kieu Lan" creationdate="20210810T025823Z">
         <seg>Reliability of Power     /     Độ đảm bảo của nguồn điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reliability of supply - investigate the availability of dual water supplies to consider the deletion of storage. This option is preferred if reliable in order to reduce the Legionella risk.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T041933Z" creationid="Kieu Lan" creationdate="20210816T041933Z">
+        <seg>Reliability of supply - investigate the availability of dual water supplies to consider the deletion of storage. This option is preferred if reliable in order to reduce the Legionella risk.     /     Tính đảm bảo của nguồn cung - Nghiên cứu phương án có hai nguồn cấp nước để bỏ bể trữ nước. Phương án này được ưu tiên nếu có thể đảm bảo, nhờ giúp giảm nguy cơ nhiễm khuẩn Legionella</seg>
       </tuv>
     </tu>
     <tu>
@@ -24005,6 +24037,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T064234Z" creationid="LanHK" creationdate="20210602T064234Z">
         <seg>Where vision panels are provided the glazing must have the same fire resistance as the door.        /      Nếu cửa có kính, kính phải có mức chống cháy tương đương với cánh cửa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether or not a water supply requires boosting and storage within the building or whether it can be fed directly from the local authority supply.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T042134Z" creationid="Kieu Lan" creationdate="20210816T042134Z">
+        <seg>Whether or not a water supply requires boosting and storage within the building or whether it can be fed directly from the local authority supply.     /     Liệu nguồn nước có cẩn bổ sung và bể chứa bên trong tòa nhà hoặc liệu có thể được cấp trực tiếp từ công ty nước địa phưogn</seg>
       </tuv>
     </tu>
     <tu>
