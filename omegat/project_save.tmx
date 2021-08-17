@@ -13997,6 +13997,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legionella Prevention - Auto-Flushing Shower (“Hot Start” showers)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T071400Z" creationid="Kieu Lan" creationdate="20210817T071330Z">
+        <seg>Legionella Prevention - Auto-Flushing Shower (“Hot Start” showers)     /     Phòng chống Legionella - Tự động xả vòi nước tắm </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legionella Risk</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040841Z" creationid="Kieu Lan" creationdate="20210802T040841Z">
@@ -21963,6 +21971,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The single largest source of Legionnaires Disease is Conventional Showers which occurs when they are not in regular use.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T071431Z" creationid="Kieu Lan" creationdate="20210817T071330Z">
+        <seg>The single largest source of Legionnaires Disease is Conventional Showers which occurs when they are not in regular use.     /     Nguồn gây bệnh Legionnaires lớn nhất là đường ống nước tắm không được sử dụng thường xuyên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The standards to be adopted will vary according to the location of the hotels, and consequently there may be conflicting requirements between brand requirements, local codes, international standards and energy saving criteria. In all cases IHG shall be informed in the event of any contradictory requirements as summarized below:</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210723T062923Z" creationid="LanHK" creationdate="20210525T093039Z">
@@ -23142,6 +23158,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T155331Z" creationid="Kieu Lan" creationdate="20210814T144526Z">
         <seg>Typical Guestroom Power &amp; Communication Layout     /     Layout điện và liên lạc phòng khách điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Hotel Hot Water use Pattern</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T071329Z" creationid="Kieu Lan" creationdate="20210817T071329Z">
+        <seg>Typical Hotel Hot Water use Pattern     /     Xu hướng sử dụng nước nóng trong ngày</seg>
       </tuv>
     </tu>
     <tu>
