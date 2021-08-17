@@ -15255,6 +15255,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metering of water - indicative requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075430Z" creationid="Kieu Lan" creationdate="20210817T075430Z">
+        <seg>Metering of water - indicative requirements     /     Đo nước - các tiêu chí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Microbiological limits</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095214Z" creationid="Kieu Lan" creationdate="20210728T095214Z">
@@ -15572,6 +15580,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T155348Z" creationid="Kieu Lan" creationdate="20210814T155348Z">
         <seg>NOTES     /     Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTES:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075457Z" creationid="Kieu Lan" creationdate="20210817T075457Z">
+        <seg>NOTES:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16718,6 +16734,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T073655Z" creationid="Kieu Lan" creationdate="20210817T073655Z">
         <seg>Page: 171</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page: 174</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075419Z" creationid="Kieu Lan" creationdate="20210817T075419Z">
+        <seg>Page: 174</seg>
       </tuv>
     </tu>
     <tu>
@@ -23350,6 +23374,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T071748Z" creationid="Kieu Lan" creationdate="20210802T071748Z">
         <seg>Typical guestroom 4-pipe radiant ceiling option     /     Phương án trần bức xạ 4 ống phòng khách điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical piping layout within a hotel guest bathroom</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075418Z" creationid="Kieu Lan" creationdate="20210817T075418Z">
+        <seg>Typical piping layout within a hotel guest bathroom     /     Layout đường ống điển hình trong phòng tắm cho khách</seg>
       </tuv>
     </tu>
     <tu>
