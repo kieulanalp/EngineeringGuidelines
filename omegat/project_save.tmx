@@ -8232,6 +8232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Domestic Hot Distribution High Rise- Preferred Option</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T073655Z" creationid="Kieu Lan" creationdate="20210817T073655Z">
+        <seg>Domestic Hot Distribution High Rise- Preferred Option     /     phân phối nước nóng sinh hoạt cho nhà cao tầng, phương án ưu tiên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Domestic Hot Water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065141Z" creationid="Kieu Lan" creationdate="20210817T065141Z">
@@ -16706,6 +16714,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 171</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T073655Z" creationid="Kieu Lan" creationdate="20210817T073655Z">
+        <seg>Page: 171</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 18</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061347Z" creationid="Kieu Lan" creationdate="20210805T061347Z">
@@ -23238,6 +23254,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T155331Z" creationid="Kieu Lan" creationdate="20210814T144526Z">
         <seg>Typical Guestroom Power &amp; Communication Layout     /     Layout điện và liên lạc phòng khách điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Hotel Domestic Hot Water Distribution High Rise - Alternative Option</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T073707Z" creationid="Kieu Lan" creationdate="20210817T073707Z">
+        <seg>Typical Hotel Domestic Hot Water Distribution High Rise - Alternative Option     /      phân phối nước nóng sinh hoạt cho nhà cao tầng, phương án khác</seg>
       </tuv>
     </tu>
     <tu>
