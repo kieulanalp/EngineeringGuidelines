@@ -3675,6 +3675,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.3.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065106Z" creationid="Kieu Lan" creationdate="20210817T065106Z">
+        <seg>6.3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.3.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065123Z" creationid="Kieu Lan" creationdate="20210817T065123Z">
+        <seg>6.3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.5</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045045Z" creationid="Kieu Lan" creationdate="20210806T045045Z">
@@ -5422,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any sustainable accreditation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065257Z" creationid="Kieu Lan" creationdate="20210817T065257Z">
+        <seg>Any sustainable accreditation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any ventilation controls for use by firefighters must be adjacent to the fire control panel; however, smoke extraction controls for stairs may be located within the stair at fire brigade access level.</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T022106Z" creationid="Kieu Lan" creationdate="20210713T021632Z">
@@ -5795,6 +5819,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T091545Z" creationid="LanHK" creationdate="20210611T091545Z">
         <seg>Automatic sprinklers are not required on the atrium side of the glass wall when there is no walkway or other floor area on the atrium side above the main floor level.     /     Không yêu cầu sprinkler tự động ở mặt kính phía giếng trời nếu không có lối đi hoặc tầng khác ở phía giếng trời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Availability of fuel sources</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065243Z" creationid="Kieu Lan" creationdate="20210817T065243Z">
+        <seg>Availability of fuel sources     /     Nguồn cung nhiên liệu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7557,6 +7589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cost of various fuel sources</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065236Z" creationid="Kieu Lan" creationdate="20210817T065236Z">
+        <seg>Cost of various fuel sources     /     Giá nhiên liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coverage of the whole of the occupied area must be achieved by careful consideration, in particular of the supply.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095253Z" creationid="Kieu Lan" creationdate="20210802T072225Z">
@@ -8160,10 +8200,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Domestic Cold Water 2 - Zone Distribution Schematic</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065105Z" creationid="Kieu Lan" creationdate="20210817T065105Z">
+        <seg>Domestic Cold Water 2 - Zone Distribution Schematic     /     Nước sinh hoạt 2 - Sơ đồ phân phối theo zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domestic Hot Water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065141Z" creationid="Kieu Lan" creationdate="20210817T065141Z">
+        <seg>Domestic Hot Water     /     Nước nóng sinh hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Domestic hot</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011849Z" creationid="Kieu Lan" creationdate="20210816T011849Z">
         <seg>Domestic hot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domestic water schematic, high-rise-Alternative Options</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065136Z" creationid="Kieu Lan" creationdate="20210817T065136Z">
+        <seg>Domestic water schematic, high-rise-Alternative Options     /     Sơ đồ nước sinh hoạt, phương án khác cho nhà cao tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domestic water schematic, high-rise-Preferred option</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065123Z" creationid="Kieu Lan" creationdate="20210817T065123Z">
+        <seg>Domestic water schematic, high-rise-Preferred option     /     Sơ đồ nước sinh hoạt, phương án ưu tiên cho nhà cao tầng</seg>
       </tuv>
     </tu>
     <tu>
@@ -9173,6 +9245,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T023630Z" creationid="LanHK" creationdate="20210717T023630Z">
         <seg>Equipment (m2)     /       Thiết bị điện thoại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment available</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065246Z" creationid="Kieu Lan" creationdate="20210817T065246Z">
+        <seg>Equipment available     /     Thiết bị có</seg>
       </tuv>
     </tu>
     <tu>
@@ -20532,6 +20612,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technical expertise available</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065256Z" creationid="Kieu Lan" creationdate="20210817T065256Z">
+        <seg>Technical expertise available</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020955Z" creationid="Kieu Lan" creationdate="20210713T020955Z">
@@ -22201,6 +22289,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T041516Z" creationid="LanHK" creationdate="20210728T041516Z">
         <seg>The water treatment system shall be deigned to achieve 7 or better cycles of concentration at acceptable water quality.     /     Hệ thống xử lý nước sẽ được thiết kế để đảm bảo tỉ lệ chất rắn trong nước dàn ngưng so với chất rắn trong nước cấp vào đạt 7 hoặc tốt hơn (cycles of concentration - C.O.C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are a range of different systems available, and the most appropriate solution will be determined from a number of factors including:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065231Z" creationid="Kieu Lan" creationdate="20210817T065231Z">
+        <seg>There are a range of different systems available, and the most appropriate solution will be determined from a number of factors including:-     /     Có một số các hệ thống khác nhau trên thị trường, và phương án phù hợp nhất sẽ được lựa chọn dựa trên một số yếu tố, bao gồm</seg>
       </tuv>
     </tu>
     <tu>
@@ -24847,6 +24943,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>country</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065315Z" creationid="Kieu Lan" creationdate="20210817T065256Z">
+        <seg>country     /     Đơn vị kỹ thuật chuyên môn trong nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>designed for</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044457Z" creationid="LanHK" creationdate="20210715T044457Z">
@@ -25179,6 +25283,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061349Z" creationid="Kieu Lan" creationdate="20210805T061349Z">
         <seg>if the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065256Z" creationid="Kieu Lan" creationdate="20210817T065256Z">
+        <seg>in</seg>
       </tuv>
     </tu>
     <tu>
