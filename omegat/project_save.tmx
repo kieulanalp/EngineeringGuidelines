@@ -547,8 +547,8 @@
       <tuv lang="EN-US">
         <seg>0.35m3/guest night maximum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210717T032205Z">
-        <seg>0.35 m3/guest night maximum;;;tối đa 0.35m3/khách/đêm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075848Z" creationid="LanHK" creationdate="20210717T032205Z">
+        <seg>0.35 m³/guest night maximum;;;tối đa 0.35m³/khách/đêm</seg>
       </tuv>
     </tu>
     <tu>
@@ -571,8 +571,8 @@
       <tuv lang="EN-US">
         <seg>0.45m3/guest night maximum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210717T032220Z">
-        <seg>0.45 m3/guest night maximum;;;tối đa 0.45m3/khách/đêm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075848Z" creationid="LanHK" creationdate="20210717T032220Z">
+        <seg>0.45 m³/guest night maximum;;;tối đa 0.45m³/khách/đêm</seg>
       </tuv>
     </tu>
     <tu>
@@ -595,8 +595,8 @@
       <tuv lang="EN-US">
         <seg>0.70m3/guest night maximum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013033Z" creationid="LanHK" creationdate="20210717T032223Z">
-        <seg>0.70 m3/guest night maximum;;;tối đa 0.70m3/khách/đêm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075848Z" creationid="LanHK" creationdate="20210717T032223Z">
+        <seg>0.70 m³/guest night maximum;;;tối đa 0.70m³/khách/đêm</seg>
       </tuv>
     </tu>
     <tu>
