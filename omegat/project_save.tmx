@@ -3683,6 +3683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.3.2.1 Domestic Hot Water Plant Arrangement Including Heat Recovery</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065559Z" creationid="Kieu Lan" creationdate="20210817T065441Z">
+        <seg>6.3.2.1 Domestic Hot Water Plant Arrangement Including Heat Recovery     /     Bố trí máy nước nóng sinh hoạt bao gồm thu hồi nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.3.3</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065123Z" creationid="Kieu Lan" creationdate="20210817T065123Z">
@@ -24761,6 +24769,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T015452Z" creationid="LanHK" creationdate="20210719T015452Z">
         <seg>before handover.     /     Chạy thử tất cả các hệ thống sử dụng thiết bị được chứng nhận trước khi bàn giao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>being targeted</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065406Z" creationid="Kieu Lan" creationdate="20210817T065406Z">
+        <seg>being targeted     /     Bất cứ hệ thống chứng nhận bền vững nào đang được nhắm tới</seg>
       </tuv>
     </tu>
     <tu>
