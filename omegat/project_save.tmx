@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>(m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T023719Z" creationid="LanHK" creationdate="20210717T023719Z">
-        <seg>(m2)     /      Diện tích gross khách sạn</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023719Z">
+        <seg>(m²)     /      Diện tích gross khách sạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -603,8 +603,8 @@
       <tuv lang="EN-US">
         <seg>0.8l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061415Z" creationid="Kieu Lan" creationdate="20210805T061415Z">
-        <seg>0.8l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061415Z">
+        <seg>0.8l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -659,8 +659,8 @@
       <tuv lang="EN-US">
         <seg>1 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061419Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
-        <seg>1 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
+        <seg>1 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -721,6 +721,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1. ALL HOTEL COST CENTRES SHALL BE SEPARATELY METERED.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075516Z" creationid="Kieu Lan" creationdate="20210817T075516Z">
+        <seg>1. All hotel cost centres shall be separately metered.     /     tất cả các khu vực tiêu tốn chi phí chính của khách sạn sẽ được đo riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1. IN SOME LOCATIONS AIR COOLED CHILLER OPTION IS PREFERRED - REFER IHG.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T090339Z" creationid="Kieu Lan" creationdate="20210720T043613Z">
@@ -755,8 +763,8 @@
       <tuv lang="EN-US">
         <seg>1.0 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061410Z" creationid="Kieu Lan" creationdate="20210805T061410Z">
-        <seg>1.0 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061410Z">
+        <seg>1.0 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -779,16 +787,16 @@
       <tuv lang="EN-US">
         <seg>1.6 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061412Z" creationid="Kieu Lan" creationdate="20210805T061412Z">
-        <seg>1.6 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061412Z">
+        <seg>1.6 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>1.6 l/s/m2 (Note 14)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061420Z" creationid="Kieu Lan" creationdate="20210805T061420Z">
-        <seg>1.6 l/s/m2 (Note 14)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061420Z">
+        <seg>1.6 l/s/m² (Note 14)</seg>
       </tuv>
     </tu>
     <tu>
@@ -827,8 +835,8 @@
       <tuv lang="EN-US">
         <seg>10 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061419Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
-        <seg>10 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
+        <seg>10 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -971,8 +979,8 @@
       <tuv lang="EN-US">
         <seg>11.0 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061413Z" creationid="Kieu Lan" creationdate="20210805T061413Z">
-        <seg>11.0 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061413Z">
+        <seg>11.0 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -1171,8 +1179,8 @@
       <tuv lang="EN-US">
         <seg>148kg/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061438Z" creationid="Kieu Lan" creationdate="20210805T061438Z">
-        <seg>148kg/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061438Z">
+        <seg>148kg/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -1187,16 +1195,16 @@
       <tuv lang="EN-US">
         <seg>15 l/s per m2 of wet area</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094624Z" creationid="LanHK" creationdate="20210715T063919Z">
-        <seg>15 l/s per m2 of wet area     /     15 l/s per m2 trong khu ướt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210715T063919Z">
+        <seg>15 l/s per m² of wet area     /     15 l/s per m² trong khu ướt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>15 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061413Z" creationid="Kieu Lan" creationdate="20210805T061413Z">
-        <seg>15 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061413Z">
+        <seg>15 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -1259,8 +1267,8 @@
       <tuv lang="EN-US">
         <seg>154kg/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061439Z" creationid="Kieu Lan" creationdate="20210805T061439Z">
-        <seg>154kg/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061439Z">
+        <seg>154kg/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -1315,8 +1323,8 @@
       <tuv lang="EN-US">
         <seg>160kg/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061432Z" creationid="Kieu Lan" creationdate="20210805T061432Z">
-        <seg>160kg/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061432Z">
+        <seg>160kg/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -1429,6 +1437,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210720T043743Z" creationid="Kieu Lan" creationdate="20210720T043637Z">
         <seg>2. PROVIDE SPARE PUMP OR MOTOR IMPELLER IN THE PLANT ROOM IN THE EVENT OF A BREAK DOWN.     /     Bố trí bơm dự phòng hoặc bộ cánh bơm trong phòng máy đề phòng trường hợp hỏng hóc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2. RETAIL TENANTS TO BE PROVIDED WITH COLD WATER SUPPLY ONLY IF SPACE IS GREATER THAN 10 m2.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075629Z">
+        <seg>2. Retail tenants to be provided with cold water supply only if space is greater than 10 m².     /     Khu retail chỉ được cấp đường nước lạnh nếu không gian lớn hơn 10m</seg>
       </tuv>
     </tu>
     <tu>
@@ -1835,8 +1851,8 @@
       <tuv lang="EN-US">
         <seg>2.7.9 Other Fire Suppression Systems (e.g. Integrin, FM200)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T095725Z" creationid="LanHK" creationdate="20210610T095725Z">
-        <seg>2.7.9 Other Fire Suppression Systems (e.g. Integrin, FM200)    /    Các hệ thống chữa cháy khác (vd. Integrin, FM200)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210610T095725Z">
+        <seg>2.7.9 Other Fire Suppression Systems (e.g. Integrin, Fm²00)    /    Các hệ thống chữa cháy khác (vd. Integrin, Fm²00)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1899,8 +1915,8 @@
       <tuv lang="EN-US">
         <seg>20 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061414Z" creationid="Kieu Lan" creationdate="20210805T061414Z">
-        <seg>20 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061414Z">
+        <seg>20 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -2147,8 +2163,8 @@
       <tuv lang="EN-US">
         <seg>250kWh/m|2/annum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210717T032117Z">
-        <seg>250kWh/m2/annum;;;250kWh/m2/năm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T032117Z">
+        <seg>250kWh/m²/annum;;;250kWh/m²/năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2171,8 +2187,8 @@
       <tuv lang="EN-US">
         <seg>260kWh/m|2/annum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210717T032126Z">
-        <seg>260kWh/m2/annum;;;260kWh/m2/năm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T032126Z">
+        <seg>260kWh/m²/annum;;;260kWh/m²/năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2203,8 +2219,8 @@
       <tuv lang="EN-US">
         <seg>270kWh/m|2/annum</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210717T032107Z">
-        <seg>270kWh/m2/annum;;;270kWh/m2/năm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T032107Z">
+        <seg>270kWh/m²/annum;;;270kWh/m²/năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2836,8 +2852,8 @@
       <tuv lang="EN-US">
         <seg>4.2 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061415Z" creationid="Kieu Lan" creationdate="20210805T061415Z">
-        <seg>4.2 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061415Z">
+        <seg>4.2 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -3717,8 +3733,8 @@
       <tuv lang="EN-US">
         <seg>6.5 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061419Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
-        <seg>6.5 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
+        <seg>6.5 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -3949,8 +3965,8 @@
       <tuv lang="EN-US">
         <seg>8.5 l/s/m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061412Z" creationid="Kieu Lan" creationdate="20210805T061412Z">
-        <seg>8.5 l/s/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061412Z">
+        <seg>8.5 l/s/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -4157,16 +4173,16 @@
       <tuv lang="EN-US">
         <seg>&lt; 2.2 sqm. if walls and ceilings are non-combustible. length of closet must not exceed 0.9m.</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034918Z" creationid="LanHK" creationdate="20210713T093659Z">
-        <seg>&lt; 2.2 sqm. if walls and ceilings are non-combustible. length of closet must not exceed 0.9m.     /     &lt;2.2m2, nếu tường và trần không bắt lửa, chiều dài tủ không vượt quá 0.9m</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210713T093659Z">
+        <seg>&lt; 2.2 sqm. if walls and ceilings are non-combustible. length of closet must not exceed 0.9m.     /     &lt;2.2m², nếu tường và trần không bắt lửa, chiều dài tủ không vượt quá 0.9m</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034926Z" creationid="LanHK" creationdate="20210713T093721Z">
-        <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.     /     &lt;5m2, nếu tường và trần không bắt lửa</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210713T093721Z">
+        <seg>&lt; 5.0 sqm. if walls and ceilings are non-combustible.     /     &lt;5m², nếu tường và trần không bắt lửa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4951,8 +4967,8 @@
       <tuv lang="EN-US">
         <seg>Air handling Plant (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T023243Z" creationid="LanHK" creationdate="20210717T023243Z">
-        <seg>Air handling Plant (m2)     /     AHU (m2)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023243Z">
+        <seg>Air handling Plant (m²)     /     AHU (m²)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5279,8 +5295,8 @@
       <tuv lang="EN-US">
         <seg>An atrium is a large vertical opening that spans two or more floors. As a general rule an atrium has a relatively large plan area and to be considered an atrium the opening must have a minimum horizontal dimension of 6.1 m and a minimum area of 95 sqm. A monumental stair may or may not be considered as an atrium space.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T075231Z" creationid="LanHK" creationdate="20210611T033920Z">
-        <seg>An atrium is a large vertical opening that spans two or more floors. As a general rule an atrium has a relatively large plan area and to be considered an atrium the opening must have a minimum horizontal dimension of 6.1 m and a minimum area of 95 sqm. A monumental stair may or may not be considered as an atrium space.    /    Giếng trời là một không gian mở lớn theo chiều dọc, từ hai tầng trở lên. Nhìn chung, một giếng trời thường có diện tích mặt sàn khá lớn và để được coi là một giếng trời, khoảng mở phải có kích thước chiều ngang tối thiểu 6.1m và diện tích tối thiểu 95m2. Cầu thang monumental có thể được hoặc không được coi là giếng trời</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210611T033920Z">
+        <seg>An atrium is a large vertical opening that spans two or more floors. As a general rule an atrium has a relatively large plan area and to be considered an atrium the opening must have a minimum horizontal dimension of 6.1 m and a minimum area of 95 sqm. A monumental stair may or may not be considered as an atrium space.    /    Giếng trời là một không gian mở lớn theo chiều dọc, từ hai tầng trở lên. Nhìn chung, một giếng trời thường có diện tích mặt sàn khá lớn và để được coi là một giếng trời, khoảng mở phải có kích thước chiều ngang tối thiểu 6.1m và diện tích tối thiểu 95m². Cầu thang monumental có thể được hoặc không được coi là giếng trời</seg>
       </tuv>
     </tu>
     <tu>
@@ -5295,8 +5311,8 @@
       <tuv lang="EN-US">
         <seg>An electrical load analysis must be carried out to detail the predicted loads for the hotel, by service and department area, based in VA/m2 floor loadings. This load analysis must include allowances for increase in electrical demand, and typical maximum values are indicated in the table following:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041714Z" creationid="Kieu Lan" creationdate="20210806T041121Z">
-        <seg>An electrical load analysis must be carried out to detail the predicted loads for the hotel, by service and department area, based in VA/m2 floor loadings. This load analysis must include allowances for increase in electrical demand, and typical maximum values are indicated in the table following:     /     Phải tiến hành phân tích phụ tải điện để có chi tiết các phụ tải dự tính trong khách sạn, tính theo dịch vụ và bộ phận, dựa trên cơ sở phụ tải tầng VA/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210806T041121Z">
+        <seg>An electrical load analysis must be carried out to detail the predicted loads for the hotel, by service and department area, based in VA/m² floor loadings. This load analysis must include allowances for increase in electrical demand, and typical maximum values are indicated in the table following:     /     Phải tiến hành phân tích phụ tải điện để có chi tiết các phụ tải dự tính trong khách sạn, tính theo dịch vụ và bộ phận, dựa trên cơ sở phụ tải tầng VA/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -6323,8 +6339,8 @@
       <tuv lang="EN-US">
         <seg>Boilers, AC Plant, HWS and pumps (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082414Z" creationid="LanHK" creationdate="20210717T023227Z">
-        <seg>Boilers, AC Plant, HWS and pumps (m2)     /     Nồi hơi, trạm AC, Cấp nước nóng và Bơm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023227Z">
+        <seg>Boilers, AC Plant, HWS and pumps (m²)     /     Nồi hơi, trạm AC, Cấp nước nóng và Bơm</seg>
       </tuv>
     </tu>
     <tu>
@@ -7187,6 +7203,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class 3M2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>Class 3m²</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070113Z">
@@ -7537,6 +7561,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075454Z">
         <seg>Control requirements    /    Yêu cầu về điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooling Load (W/ m2)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>Cooling Load (W/ m²)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8025,8 +8057,8 @@
       <tuv lang="EN-US">
         <seg>Detector spacing must be in accordance with local standards and manufacturer’s recommendations but must be a minimum of one smoke detector per 85m2 or one heat detector per 50m2 and not more than 15m spacing along corridors.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="Kieu Lan" creationdate="20210713T030103Z">
-        <seg>Detector spacing must be in accordance with local standards and manufacturer’s recommendations but must be a minimum of one smoke detector per 85m2 or one heat detector per 50m2 and not more than 15m spacing along corridors.     /     Khoảng cách giữa các đầu báo khói phải tuân thủ tiêu chuẩn địa phương và khuyến nghị của nhà sản xuất, nhưng phải đảm bảo tối thiểu một đầu báo khói trên mỗi 85m2 hoặc một đầu báo nhiệt trên mỗi 50m2 và không cách nhau quá 15m dọc theo hành lang</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210713T030103Z">
+        <seg>Detector spacing must be in accordance with local standards and manufacturer’s recommendations but must be a minimum of one smoke detector per 85m² or one heat detector per 50m² and not more than 15m spacing along corridors.     /     Khoảng cách giữa các đầu báo khói phải tuân thủ tiêu chuẩn địa phương và khuyến nghị của nhà sản xuất, nhưng phải đảm bảo tối thiểu một đầu báo khói trên mỗi 85m² hoặc một đầu báo nhiệt trên mỗi 50m² và không cách nhau quá 15m dọc theo hành lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -8851,8 +8883,8 @@
       <tuv lang="EN-US">
         <seg>Electrical transformer and switchgear (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082433Z" creationid="LanHK" creationdate="20210717T023607Z">
-        <seg>Electrical transformer and switchgear (m2)     /     Máy biến áp và Tủ bảng điện (Switchgear)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023607Z">
+        <seg>Electrical transformer and switchgear (m²)     /     Máy biến áp và Tủ bảng điện (Switchgear)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9275,8 +9307,8 @@
       <tuv lang="EN-US">
         <seg>Equipment (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210717T023630Z" creationid="LanHK" creationdate="20210717T023630Z">
-        <seg>Equipment (m2)     /       Thiết bị điện thoại</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023630Z">
+        <seg>Equipment (m²)     /       Thiết bị điện thoại</seg>
       </tuv>
     </tu>
     <tu>
@@ -9453,8 +9485,8 @@
       <tuv lang="EN-US">
         <seg>Example of a function room with an area of 400m2:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210610T033525Z" creationid="LanHK" creationdate="20210610T033525Z">
-        <seg>Example of a function room with an area of 400m2:     /    Ví dụ về một phòng chức năng với diện tích 400m2:</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210610T033525Z">
+        <seg>Example of a function room with an area of 400m²:     /    Ví dụ về một phòng chức năng với diện tích 400m²:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,8 +11246,8 @@
       <tuv lang="EN-US">
         <seg>Generator (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082441Z" creationid="LanHK" creationdate="20210717T023619Z">
-        <seg>Generator (m2)     /     Máy phát điện </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023619Z">
+        <seg>Generator (m²)     /     Máy phát điện </seg>
       </tuv>
     </tu>
     <tu>
@@ -11340,10 +11372,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gross Floor Area (m2)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>Gross Floor Area (m²)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gross area public / BOH (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082513Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Gross area public    /   Tổng diện tích BOH (m2)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Gross area public    /   Tổng diện tích BOH (m²)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11880,6 +11920,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071942Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Heating / Cooling Control Options     /     Phương án điều khiển sưởi/làm mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heating Load (W/ m2)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>Heating Load (W/ m²)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12760,8 +12808,8 @@
       <tuv lang="EN-US">
         <seg>In general the occupancy of an assembly room should be based upon a figure of 1m2 / person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T024423Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>In general the occupancy of an assembly room should be based upon a figure of 1m2/person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.         /       Nhìn chung sức chứa của phòng hội họp nên được tính toán dựa trên cơ sở 1m2/người trừ khi số ghế ngồi là cố định, ví dụ như trong nhà hàng, trong trường hợp này, sức chứa cần được  tính toán dựa trên số ghế. Trong trường hợp này, cần cẩn trọng khi thay đổi bố trí phòng để đảm bảo sức chứa không vượt quá công suất lối thoát</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>In general the occupancy of an assembly room should be based upon a figure of 1m²/person unless permanent fixed seating, such as in a restaurant, is provided in which case the occupancy must be based upon the number of seats. In this case great care must be taken when altering the room to ensure that the occupancy does not exceed the capacity of exits.         /       Nhìn chung sức chứa của phòng hội họp nên được tính toán dựa trên cơ sở 1m²/người trừ khi số ghế ngồi là cố định, ví dụ như trong nhà hàng, trong trường hợp này, sức chứa cần được  tính toán dựa trên số ghế. Trong trường hợp này, cần cẩn trọng khi thay đổi bố trí phòng để đảm bảo sức chứa không vượt quá công suất lối thoát</seg>
       </tuv>
     </tu>
     <tu>
@@ -13292,8 +13340,8 @@
       <tuv lang="EN-US">
         <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210731T024824Z" creationid="Kieu Lan" creationdate="20210713T034949Z">
-        <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m2 of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.     /     Modul dao cách ly phải được bố trí tại lối vào và/hoặc lối thoát khỏi mỗi khu vực riêng biệt trong một zone. Tối thiểu, phải có modul dao cách ly, để đảm bảo khu vực không quá 2000m2 không được bảo vệ nếu xảy ra cháy chập dây điện nào. Phải cung cấp loop isolator chuyên dụng để giám sát tình trạng zone</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210713T034949Z">
+        <seg>Isolation modules must be provided at the entry and/or exit from each separate area of a designated fire zone. As a minimum, isolation modules must be provided, to ensure that no more than 2000m² of covered area becomes unprotected in the event of any single cable fault. Designated loop isolators must also be provided for monitoring the zone states.     /     Modul dao cách ly phải được bố trí tại lối vào và/hoặc lối thoát khỏi mỗi khu vực riêng biệt trong một zone. Tối thiểu, phải có modul dao cách ly, để đảm bảo khu vực không quá 2000m² không được bảo vệ nếu xảy ra cháy chập dây điện nào. Phải cung cấp loop isolator chuyên dụng để giám sát tình trạng zone</seg>
       </tuv>
     </tu>
     <tu>
@@ -13887,8 +13935,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>LPD(w/m2) (Ashrae 90.1)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T043717Z" creationid="Kieu Lan" creationdate="20210806T043717Z">
-        <seg>LPD(w/m2) (Ashrae 90.1)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210806T043717Z">
+        <seg>LPD(w/m²) (Ashrae 90.1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16154,8 +16202,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Occupancy of the function room equals 400 people (1m2 / person)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Occupancy of the function room equals 400 people (1m2/person)    /    Sức chứa phòng 400 người (1m2/người)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Occupancy of the function room equals 400 people (1m²/person)    /    Sức chứa phòng 400 người (1m²/người)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17376,8 +17424,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Power (w/m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044822Z" creationid="Kieu Lan" creationdate="20210806T044822Z">
-        <seg>Power (w/m2)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210806T044822Z">
+        <seg>Power (w/m²)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18584,8 +18632,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Room area (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082457Z" creationid="LanHK" creationdate="20210717T023641Z">
-        <seg>Room area (m2)     /     Tổng diện tích trạm kĩ thuật</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023641Z">
+        <seg>Room area (m²)     /     Tổng diện tích trạm kĩ thuật</seg>
       </tuv>
     </tu>
     <tu>
@@ -18686,6 +18734,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SMOKE DETECTOR - 1 PER 80m2 .</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>SMOKE DETECTOR - 1 PER 80m² .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SMOKE DETECTORS IN OPERATION</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065414Z" creationid="LanHK" creationdate="20210610T065414Z">
@@ -18720,8 +18776,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>SPRINKLER HEAD</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T065955Z" creationid="LanHK" creationdate="20210610T071838Z">
-        <seg>SPRINKLER SPACING NOT TO EXCEED 11.1m2 PER SPRINKLER HEAD     /    Khoảng cách giữa các sprinkler không vượt quá 11.1m2 mỗi đầu sprinkler</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210610T071838Z">
+        <seg>SPRINKLER SPACING NOT TO EXCEED 11.1m² PER SPRINKLER HEAD     /    Khoảng cách giữa các sprinkler không vượt quá 11.1m² mỗi đầu sprinkler</seg>
       </tuv>
     </tu>
     <tu>
@@ -22254,8 +22310,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The target for carbon dioxide emissions should be as required by National Standards, or if they do not exist, then should not exceed 160kg/m2 floor area per annum. In the UK, the energy targets will be set by Building Regulations Part L compliance.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T042704Z" creationid="LanHK" creationdate="20210717T033319Z">
-        <seg>The target for carbon dioxide emissions should be as required by National Standards, or if they do not exist, then should not exceed 160kg/m2 floor area per annum. In the UK, the energy targets will be set by Building Regulations Part L compliance.     /     Mục tiêu phát thải CO2 nên tuân theo Tiêu chuẩn Quốc gia, hoặc nếu tiêu chuẩn quốc gia không quy định, mục tiêu không được vượt quá 160kg/m2 sàn một năm. Tại UK, mục tiêu năng lượng được đặt ra trong tài liệu Building Regulations, mục L</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T033319Z">
+        <seg>The target for carbon dioxide emissions should be as required by National Standards, or if they do not exist, then should not exceed 160kg/m² floor area per annum. In the UK, the energy targets will be set by Building Regulations Part L compliance.     /     Mục tiêu phát thải CO2 nên tuân theo Tiêu chuẩn Quốc gia, hoặc nếu tiêu chuẩn quốc gia không quy định, mục tiêu không được vượt quá 160kg/m² sàn một năm. Tại UK, mục tiêu năng lượng được đặt ra trong tài liệu Building Regulations, mục L</seg>
       </tuv>
     </tu>
     <tu>
@@ -22978,8 +23034,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Total Gross area public space BOH (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082400Z" creationid="LanHK" creationdate="20210717T023108Z">
-        <seg>Total Gross area public space BOH (m2)     /     Tổng diện tích gross cho không gian BOH (m2)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023108Z">
+        <seg>Total Gross area public space BOH (m²)     /     Tổng diện tích gross cho không gian BOH (m²)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23018,8 +23074,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Total plant space (m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210808T082528Z" creationid="LanHK" creationdate="20210717T023725Z">
-        <seg>Total plant space (m2)     /     Tổng diện tích cho trạm kĩ thuật </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023725Z">
+        <seg>Total plant space (m²)     /     Tổng diện tích cho trạm kĩ thuật </seg>
       </tuv>
     </tu>
     <tu>
@@ -23461,8 +23517,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Unoccupied attics or roof spaces must be subdivided into areas no greater than 330m2 by fire and smoke resisting separation. Each area must be provided with smoke detection and in sprinkler protected buildings over four floors in height each area must have sprinklers.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T064334Z" creationid="LanHK" creationdate="20210602T045145Z">
-        <seg>Unoccupied attics or roof spaces must be subdivided into areas no greater than 330m2 by fire and smoke resisting separation. Each area must be provided with smoke detection and in sprinkler protected buildings over four floors in height each area must have sprinklers.        /       Các không gian gác mái hoặc mái không sử dụng phải được chia thành các khoang nhỏ không quá 330m2 bằng các vách chống cháy và ngăn khói. Mỗi khoang phải có đầu báo khói và trong các tòa nhà được bảo vệ bằng sprinkler cao hơn 4 tầng, mỗi khoang phải có sprinkler</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210602T045145Z">
+        <seg>Unoccupied attics or roof spaces must be subdivided into areas no greater than 330m² by fire and smoke resisting separation. Each area must be provided with smoke detection and in sprinkler protected buildings over four floors in height each area must have sprinklers.        /       Các không gian gác mái hoặc mái không sử dụng phải được chia thành các khoang nhỏ không quá 330m² bằng các vách chống cháy và ngăn khói. Mỗi khoang phải có đầu báo khói và trong các tòa nhà được bảo vệ bằng sprinkler cao hơn 4 tầng, mỗi khoang phải có sprinkler</seg>
       </tuv>
     </tu>
     <tu>
@@ -23536,6 +23592,22 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T025131Z" creationid="LanHK" creationdate="20210610T025131Z">
         <seg>VA- Voice Alarm Speaker     /    Hệ thống âm thanh thông báo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VA/im2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>VA/im²</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VA/m2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075706Z">
+        <seg>VA/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -23767,8 +23839,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>W/m2 (max)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T044824Z" creationid="Kieu Lan" creationdate="20210806T044824Z">
-        <seg>W/m2 (max)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210806T044824Z">
+        <seg>W/m² (max)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24330,8 +24402,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Where standards do not exist 160kg/m2 must not be exceeded</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T024410Z" creationid="LanHK" creationdate="20210715T024410Z">
-        <seg>Where standards do not exist 160kg/m2 must not be exceeded     /     Tại các vùng không có tiêu chuẩn, không được vượt mức 160kg/m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210715T024410Z">
+        <seg>Where standards do not exist 160kg/m² must not be exceeded     /     Tại các vùng không có tiêu chuẩn, không được vượt mức 160kg/m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -25417,8 +25489,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>greater than 14m2</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210719T013020Z" creationid="Kieu Lan" creationdate="20210713T020903Z">
-        <seg>greater than 14m2     /     Kho chứa đồ lớn hơn 14m2</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210713T020903Z">
+        <seg>greater than 14m²     /     Kho chứa đồ lớn hơn 14m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -25579,6 +25651,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042011Z" creationid="Kieu Lan" creationdate="20210629T042011Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>l/s/lm2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>l/s/lm²</seg>
       </tuv>
     </tu>
     <tu>
