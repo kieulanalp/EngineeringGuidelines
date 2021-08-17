@@ -12445,6 +12445,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the building is high rise or if the municipal supplies are not adequate then the Intercontinental daily allowances must be utilised in order to determine the water storage tank size. The distribution side of the water tank can then be determined by use of the International Plumbing code or other equivalent internationally recognised standards.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T064706Z" creationid="Kieu Lan" creationdate="20210817T064650Z">
+        <seg>If the building is high rise or if the municipal supplies are not adequate then the Intercontinental daily allowances must be utilised in order to determine the water storage tank size. The distribution side of the water tank can then be determined by use of the International Plumbing code or other equivalent internationally recognised standards.     /     Nếu khách sạn là nhà cao tầng hoặc nếu nguồn cấp nước địa phương không đủ, vậy cần áp dụng định mức nước hàng ngày của IHG để xác định cỡ bể chứa. Sau đó có thể xác định phía bể phân phối nhờ Tiêu chuẩn hệ thống bơm quốc tế hoặc tiêu chuẩn quốc tế tương đương khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If these systems are incorrectly designed, then not only will guests not be provided with comfortable conditions, but the energy costs will be higher than they should be.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095407Z" creationid="Kieu Lan" creationdate="20210728T095407Z">
@@ -16510,6 +16518,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011910Z" creationid="Kieu Lan" creationdate="20210816T011910Z">
         <seg>Page: 161</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page: 164</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T064706Z" creationid="Kieu Lan" creationdate="20210817T064706Z">
+        <seg>Page: 164</seg>
       </tuv>
     </tu>
     <tu>
