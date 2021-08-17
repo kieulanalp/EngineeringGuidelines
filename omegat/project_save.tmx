@@ -23976,6 +23976,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weekly flushing required minimising risk (twice weekly with high risk occupants, e.g. elderly).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T072027Z" creationid="Kieu Lan" creationdate="20210817T072027Z">
+        <seg>Weekly flushing required minimising risk (twice weekly with high risk occupants, e.g. elderly).     /     Hàng tuần phải xả nước (2 lần/tuần với khách nguy cơ cao, vd. người cao tuổi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Western Europe</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082820Z" creationid="Kieu Lan" creationdate="20210713T082820Z">
@@ -24020,6 +24028,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T024511Z" creationid="LanHK" creationdate="20210609T083240Z">
         <seg>When determining the width of exits and exit routes a minimum of 5mm should be allowed for each person occupying the room.         /       Khi xác định chiều rộng cửa thoát hiểm và lối thoát hiểm, cần tính tối thiểu 5mm cho mỗi người trong phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When outlets are not in regular use (e.g. Hotel Guestroom)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T071945Z" creationid="Kieu Lan" creationdate="20210817T071945Z">
+        <seg>When outlets are not in regular use (e.g. Hotel Guestroom)     /     Khi vòi nước không được sử dụng thường xuyên (vd. phòng khách)</seg>
       </tuv>
     </tu>
     <tu>
