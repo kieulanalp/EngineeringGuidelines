@@ -3907,6 +3907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.5.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143014Z" creationid="Kieu Lan" creationdate="20210820T143014Z">
+        <seg>6.5.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -17761,6 +17769,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045105Z" creationid="Kieu Lan" creationdate="20210805T045105Z">
         <seg>Pipe material comparison for Condenser water pipes     /     So sánh vật liệu cho ống nước ngưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pipework comparison tables for the Plumbing services are provided as follows:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143013Z" creationid="Kieu Lan" creationdate="20210820T143013Z">
+        <seg>Pipework comparison tables for the Plumbing services are provided as follows:     /     Bảng so sánh các loại ống nước</seg>
       </tuv>
     </tu>
     <tu>
