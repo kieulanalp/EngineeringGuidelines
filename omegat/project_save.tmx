@@ -905,6 +905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>100 bar</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143512Z" creationid="Kieu Lan" creationdate="20210820T143512Z">
+        <seg>100 bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>100%</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061356Z" creationid="Kieu Lan" creationdate="20210805T061356Z">
@@ -1273,6 +1281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>150 bar</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143512Z" creationid="Kieu Lan" creationdate="20210820T143512Z">
+        <seg>150 bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>150 to 200 mg/l</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133051Z" creationid="Kieu Lan" creationdate="20210815T133051Z">
@@ -1301,6 +1317,38 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061439Z">
         <seg>154kg/m²</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>15mm - 108mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143509Z" creationid="Kieu Lan" creationdate="20210820T143509Z">
+        <seg>15mm - 108mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>15mm - 150mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143510Z" creationid="Kieu Lan" creationdate="20210820T143510Z">
+        <seg>15mm - 150mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>15mm - 300mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143509Z" creationid="Kieu Lan" creationdate="20210820T143509Z">
+        <seg>15mm - 300mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>15mm - 50mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143509Z" creationid="Kieu Lan" creationdate="20210820T143509Z">
+        <seg>15mm - 50mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -1833,6 +1881,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.7 bar - 26.9 bar</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143511Z" creationid="Kieu Lan" creationdate="20210820T143511Z">
+        <seg>2.7 bar - 26.9 bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.7.1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061358Z" creationid="Kieu Lan" creationdate="20210805T061358Z">
@@ -2085,6 +2141,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061300Z" creationid="Kieu Lan" creationdate="20210805T061300Z">
         <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>23°C to 82°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143513Z" creationid="Kieu Lan" creationdate="20210820T143513Z">
+        <seg>23°C to 82°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>23°C to 90°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143513Z" creationid="Kieu Lan" creationdate="20210820T143513Z">
+        <seg>23°C to 90°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -3587,6 +3659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50 bar</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143512Z" creationid="Kieu Lan" creationdate="20210820T143512Z">
+        <seg>50 bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50 to 500 people - a minimum of two exits</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023823Z" creationid="LanHK" creationdate="20210609T081458Z">
@@ -3911,6 +3991,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143014Z" creationid="Kieu Lan" creationdate="20210820T143014Z">
         <seg>6.5.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.9 bar - 27.6 bar</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143511Z" creationid="Kieu Lan" creationdate="20210820T143511Z">
+        <seg>6.9 bar - 27.6 bar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4263,6 +4351,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061428Z" creationid="Kieu Lan" creationdate="20210805T061428Z">
         <seg>900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>900 C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143513Z" creationid="Kieu Lan" creationdate="20210820T143513Z">
+        <seg>900 C</seg>
       </tuv>
     </tu>
     <tu>
@@ -7468,6 +7564,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chlorinated polyvinyl chloride (CPVC)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143434Z" creationid="Kieu Lan" creationdate="20210820T143434Z">
+        <seg>Chlorinated polyvinyl chloride (CPVC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chromium</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132559Z" creationid="Kieu Lan" creationdate="20210815T132559Z">
@@ -7899,6 +8003,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061448Z" creationid="Kieu Lan" creationdate="20210805T061448Z">
         <seg>Copper Content less than</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Pipe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143438Z" creationid="Kieu Lan" creationdate="20210820T143438Z">
+        <seg>Copper Pipe     /     ống đồng</seg>
       </tuv>
     </tu>
     <tu>
@@ -10790,6 +10902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flexible</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143605Z" creationid="Kieu Lan" creationdate="20210820T143605Z">
+        <seg>Flexible     /     Dẻo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Floor Level</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T085126Z" creationid="Kieu Lan" creationdate="20210814T085117Z">
@@ -11451,6 +11571,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T042215Z" creationid="Kieu Lan" creationdate="20210802T041611Z">
         <seg>Guest room air distribution &amp; heating     /     Phân bố không khí &amp; sưởi trong phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Galvanized Iron Pipe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143508Z" creationid="Kieu Lan" creationdate="20210820T143508Z">
+        <seg>Galvanized Iron Pipe     /     ống sắt mạ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13992,6 +14120,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jointing method</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143611Z" creationid="Kieu Lan" creationdate="20210820T143611Z">
+        <seg>Jointing method     /     Phương pháp nối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Joints</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T092505Z" creationid="Kieu Lan" creationdate="20210804T092505Z">
@@ -15486,6 +15622,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T091350Z" creationid="Kieu Lan" creationdate="20210814T091350Z">
         <seg>Massage/Solarium/Sauna/Jacuzzi     /     Massage/Tắm nắng/Sauna/Jacuzzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Material</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143424Z" creationid="Kieu Lan" creationdate="20210820T143413Z">
+        <seg>Material</seg>
       </tuv>
     </tu>
     <tu>
@@ -19265,6 +19409,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Rigid &amp; Strong</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143602Z" creationid="Kieu Lan" creationdate="20210820T143602Z">
+        <seg>Rigid &amp; Strong     /     Cứng &amp; bền</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ring-Seal socket</note>
       <tuv lang="EN-US">
         <seg>Ring-Seal socket/ Solvent Fittings</seg>
@@ -20519,6 +20671,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143433Z" creationid="Kieu Lan" creationdate="20210820T143420Z">
+        <seg>Specification     /     Thông số vật liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spiral staircases should not be used for means of escape.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T080038Z" creationid="LanHK" creationdate="20210609T080038Z">
@@ -20714,6 +20874,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stainless Steel Pipe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143444Z" creationid="Kieu Lan" creationdate="20210820T143444Z">
+        <seg>Stainless Steel Pipe     /     ống thép không gỉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stair Pressurization System</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T014533Z" creationid="LanHK" creationdate="20210525T080556Z">
@@ -20902,6 +21070,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081646Z" creationid="Kieu Lan" creationdate="20210804T081646Z">
         <seg>Strength and rigidity     /     Độ bền và độ cứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strong</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143607Z" creationid="Kieu Lan" creationdate="20210820T143607Z">
+        <seg>Strong     /     Bền</seg>
       </tuv>
     </tu>
     <tu>
@@ -23451,6 +23627,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thermoplastic characteristics</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143556Z" creationid="Kieu Lan" creationdate="20210820T143556Z">
+        <seg>Thermoplastic characteristics     /     Tính chất nhiệt học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These Engineering and Brand Safety Design Standards have been prepared to enable designers and specifiers of the mechanical, electrical and public health (MEP) services to understand the priorities and requirements of the IHG brand. The standards are not intended to provide inflexible prescriptive requirements but rather form a strategic framework of value, good practice, innovation energy efficiency and longevity from which the designers and specifiers can work. In summary the Brand Standards have been prepared in order to:</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210723T062646Z" creationid="LanHK" creationdate="20210525T092532Z">
@@ -24421,6 +24605,22 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020517Z" creationid="Kieu Lan" creationdate="20210805T020517Z">
         <seg>Upto 1600 kPa     /     Lên đến 1600 kPa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upto 2000 C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143543Z" creationid="Kieu Lan" creationdate="20210820T143527Z">
+        <seg>Upto 2000°C     /     Lên đến 2000°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upto 3000 C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143536Z" creationid="Kieu Lan" creationdate="20210820T143519Z">
+        <seg>Upto 3000°C     /     Lên đến 3000°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -26413,6 +26613,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>heat fusion or with mechanical fittings</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143642Z" creationid="Kieu Lan" creationdate="20210820T143628Z">
+        <seg>heat fusion or with mechanical fittings     /     Hàn nhiệt hoặc với phụ kiện cơ học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>height</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061351Z" creationid="Kieu Lan" creationdate="20210805T061351Z">
@@ -27090,6 +27298,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T100628Z" creationid="LanHK" creationdate="20210702T093104Z">
         <seg>smoke detectors) with time delay facility at the main panel where allowed, as noted above.     /     Đầu báo khói, đầu báo khói với đế âm thanh (phòng khách) và đầu báo nhiệt định địa chỉ (dùng đầu báo khói quang) với cơ chế hoãn báo động tại tủ tổng tại nơi cho phép, như được lưu ý ở trên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>solvent cement</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143619Z" creationid="Kieu Lan" creationdate="20210820T143619Z">
+        <seg>Solvent Cement     /     Nối dung môi</seg>
       </tuv>
     </tu>
     <tu>
