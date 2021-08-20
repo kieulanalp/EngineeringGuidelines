@@ -11109,6 +11109,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GARAGE GULLIES IN CAR PARKS AND SERVICE YARDS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T120606Z" creationid="Kieu Lan" creationdate="20210820T120528Z">
+        <seg>Garage gullies in car parks and service yards     /     Ga thoát trong bãi đỗ xe và sân bảo trì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GAS</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061400Z" creationid="Kieu Lan" creationdate="20210805T061400Z">
@@ -13747,6 +13755,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T042949Z" creationid="Kieu Lan" creationdate="20210820T042941Z">
         <seg>Kitchen     /     Giặt là / Bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KITCHEN GREASE TRAP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T120632Z" creationid="Kieu Lan" creationdate="20210820T120632Z">
+        <seg>Kitchen grease trap     /     Bẫy mỡ bếp</seg>
       </tuv>
     </tu>
     <tu>
@@ -16663,6 +16679,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T065357Z" creationid="LanHK" creationdate="20210610T070537Z">
         <seg>PENDANT SPRINKLER HEAD    /    Sprinkler hướng xuống dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PETROL/GẮSOLINE INTERCEPTOR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T120619Z" creationid="Kieu Lan" creationdate="20210820T120553Z">
+        <seg>Petrol/Gasoline interceptor     /     Bẫy xăng/gas</seg>
       </tuv>
     </tu>
     <tu>
@@ -27118,6 +27142,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T044539Z" creationid="LanHK" creationdate="20210525T094137Z">
         <seg>•Used to verify conformance with IHG Requirements    /    Nhằm xác nhận mức độ tuân thủ các Tiêu chuẩn IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>■TRAPPED CONNECTION TAKING SURFACE WATER DISCHARGES</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T120706Z" creationid="Kieu Lan" creationdate="20210820T120706Z">
+        <seg>TRAPPED CONNECTION TAKING SURFACE WATER DISCHARGES</seg>
       </tuv>
     </tu>
     <tu>
