@@ -6641,11 +6641,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Ring-Seal socket ?</note>
       <tuv lang="EN-US">
         <seg>Butt welding &amp; Ring-Seal socket</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T135144Z" creationid="Kieu Lan" creationdate="20210820T135144Z">
-        <seg>Butt welding &amp; Ring-Seal socket     /     Hàn đối đầu &amp;</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T140042Z" creationid="Kieu Lan" creationdate="20210820T135144Z">
+        <seg>Butt welding &amp; Ring-Seal socket     /     Hàn nối đầu &amp; khớp nối tròn có gioăng</seg>
       </tuv>
     </tu>
     <tu>
