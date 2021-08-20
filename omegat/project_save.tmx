@@ -20782,6 +20782,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TRAPPED PLANTROOM- GULLY CONNECTS TO BELOW SLAB DRAINAGE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T114827Z" creationid="Kieu Lan" creationdate="20210820T114827Z">
+        <seg>Trapped plantroom gully connects to below slab drainage     /     Ga thoát chống trào ngược trong phòng máy nối vào đường thoát nước dưới sàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TSS(mg/L)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T133440Z" creationid="Kieu Lan" creationdate="20210815T133440Z">
