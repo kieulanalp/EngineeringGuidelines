@@ -8368,6 +8368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double seal covers shall be provided on all internal sump pits and lifting stations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T032904Z" creationid="Kieu Lan" creationdate="20210820T032904Z">
+        <seg>Double seal covers shall be provided on all internal sump pits and lifting stations     /     Nắp hai lớp được cung cấp tại tất cả các hố nước thải trong nhà và trạm bơm nước thải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drainage</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T030815Z" creationid="Kieu Lan" creationdate="20210405T154714Z">
@@ -13317,6 +13325,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T044056Z" creationid="LanHK" creationdate="20210715T044056Z">
         <seg>Internal cooling design conditions should be achieved at external conditions which are not exceeded by the maximum historical weather data for the location for more than 2% of the year     /     Điều kiện thiết kế làm mát trong nhà được quyết định dựa trên điều kiện bên ngoài - chúng không vượt quá dữ liệu thời tiết tối đa cho khu vực này trong hơn 2% thời gian năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Investigate whether PH correction for laundry drainage is necessary</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T033021Z" creationid="Kieu Lan" creationdate="20210820T033021Z">
+        <seg>Investigate whether pH correction for laundry drainage is necessary     /     Cần xác định liệu có cần bố trí thiết bị điều chỉnh độ pH cho thoát nước giặt</seg>
       </tuv>
     </tu>
     <tu>
