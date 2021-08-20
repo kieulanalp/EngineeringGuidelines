@@ -265,6 +265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-40°C to 60°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134902Z" creationid="Kieu Lan" creationdate="20210820T134902Z">
+        <seg>-40°C to 60°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-40°C to 60°C (max)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061257Z" creationid="Kieu Lan" creationdate="20210805T061257Z">
@@ -1569,6 +1577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.3 bar - 16.0 bar</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134900Z" creationid="Kieu Lan" creationdate="20210820T134900Z">
+        <seg>2.3 bar - 16.0 bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.3.1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061348Z" creationid="Kieu Lan" creationdate="20210805T061348Z">
@@ -2345,6 +2361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.0 bar - 5.0 bar</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134900Z" creationid="Kieu Lan" creationdate="20210820T134900Z">
+        <seg>3.0 bar - 5.0 bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.18.2 LOCATION OF EXHAUST IN GUEST BATHROOMS</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T095234Z" creationid="Kieu Lan" creationdate="20210802T041143Z">
@@ -2461,6 +2485,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T125545Z" creationid="Kieu Lan" creationdate="20210820T125545Z">
         <seg>32i PIPE FROM WB GRATING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>32mm - 160mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134859Z" creationid="Kieu Lan" creationdate="20210820T134859Z">
+        <seg>32mm - 160mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -3106,6 +3138,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>40mm - 160mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134859Z" creationid="Kieu Lan" creationdate="20210820T134859Z">
+        <seg>40mm - 160mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>40mm - 315mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134859Z" creationid="Kieu Lan" creationdate="20210820T134859Z">
+        <seg>40mm - 315mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>410 liters/guest / day w/o laundry</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135408Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -3571,6 +3619,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50mm - 200mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134859Z" creationid="Kieu Lan" creationdate="20210820T134859Z">
+        <seg>50mm - 200mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>510</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061431Z" creationid="Kieu Lan" creationdate="20210805T061431Z">
@@ -3663,6 +3719,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061421Z" creationid="Kieu Lan" creationdate="20210805T061421Z">
         <seg>6 AC/Hr (Note 15)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.0 bar - 12.0 bar</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134900Z" creationid="Kieu Lan" creationdate="20210820T134900Z">
+        <seg>6.0 bar - 12.0 bar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3855,6 +3919,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061428Z" creationid="Kieu Lan" creationdate="20210805T061428Z">
         <seg>6000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>60°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134908Z" creationid="Kieu Lan" creationdate="20210820T134908Z">
+        <seg>60°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -4191,6 +4263,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061429Z" creationid="Kieu Lan" creationdate="20210805T061429Z">
         <seg>925</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>95°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134909Z" creationid="Kieu Lan" creationdate="20210820T134909Z">
+        <seg>95°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -7076,8 +7156,8 @@
       <tuv lang="EN-US">
         <seg>Cast Iron (CI)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T125548Z" creationid="Kieu Lan" creationdate="20210820T125548Z">
-        <seg>Cast Iron (CI)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134853Z" creationid="Kieu Lan" creationdate="20210820T125548Z">
+        <seg>Cast Iron (CI)     /     Gang</seg>
       </tuv>
     </tu>
     <tu>
@@ -7782,6 +7862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corrosion Resistance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134926Z" creationid="Kieu Lan" creationdate="20210820T134926Z">
+        <seg>Corrosion Resistance     /     Chống ăn mòn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corrosion due to soft water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011817Z" creationid="Kieu Lan" creationdate="20210816T011817Z">
@@ -7794,6 +7882,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081850Z" creationid="Kieu Lan" creationdate="20210804T081850Z">
         <seg>Corrosion on Steel Pipework     /     Gỉ sét trên đường ống thép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Corrosion resistant coatings available</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134949Z" creationid="Kieu Lan" creationdate="20210820T134949Z">
+        <seg>Corrosion resistant coatings available     /     Có sơn phủ chống ăn mòn</seg>
       </tuv>
     </tu>
     <tu>
@@ -12150,6 +12246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heavy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134923Z" creationid="Kieu Lan" creationdate="20210820T134923Z">
+        <seg>Heavy     /     Nặng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100008Z" creationid="Kieu Lan" creationdate="20210729T100008Z">
@@ -14495,6 +14599,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134919Z" creationid="Kieu Lan" creationdate="20210820T134919Z">
+        <seg>Light     /     Nhẹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Emitting Diode</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135953Z" creationid="Kieu Lan" creationdate="20210814T135953Z">
@@ -16166,6 +16278,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T091556Z" creationid="LanHK" creationdate="20210713T091556Z">
         <seg>Non-combustible stairs     /     Thang bộ chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-corrosive</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134937Z" creationid="Kieu Lan" creationdate="20210820T134934Z">
+        <seg>Non-corrosive     /     Không ăn mòn</seg>
       </tuv>
     </tu>
     <tu>
@@ -19881,6 +20001,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sizes Available</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134859Z" creationid="Kieu Lan" creationdate="20210820T134859Z">
+        <seg>Sizes Available     /     Kích thước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sizes available</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084521Z" creationid="Kieu Lan" creationdate="20210804T084521Z">
@@ -21395,6 +21523,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131620Z" creationid="Kieu Lan" creationdate="20210815T131620Z">
         <seg>Temperature (°C)     /     Nhiệt độ (°C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature Range</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134908Z" creationid="Kieu Lan" creationdate="20210820T134901Z">
+        <seg>Temperature Range     /     Dải nhiệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -24047,8 +24183,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Unplasticized polyvinyl chloride (uPvc)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T125548Z" creationid="Kieu Lan" creationdate="20210820T125548Z">
-        <seg>Unplasticized polyvinyl chloride (uPvc)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134817Z" creationid="Kieu Lan" creationdate="20210820T125548Z">
+        <seg>Unplasticized polyvinyl chloride (uPVC)     /     Polyvinyl clorua không hóa dẻo (UPVC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24702,6 +24838,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T072027Z" creationid="Kieu Lan" creationdate="20210817T072027Z">
         <seg>Weekly flushing required minimising risk (twice weekly with high risk occupants, e.g. elderly).     /     Hàng tuần phải xả nước (2 lần/tuần với khách nguy cơ cao, vd. người cao tuổi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134913Z" creationid="Kieu Lan" creationdate="20210820T134913Z">
+        <seg>Weight     /     Trọng lượng</seg>
       </tuv>
     </tu>
     <tu>
