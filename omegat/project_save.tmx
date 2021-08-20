@@ -4323,6 +4323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T040704Z" creationid="Kieu Lan" creationdate="20210820T040704Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt;80%</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031443Z" creationid="Kieu Lan" creationdate="20210810T031443Z">
