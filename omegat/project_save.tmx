@@ -12951,6 +12951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incorrect flow rates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T030426Z" creationid="Kieu Lan" creationdate="20210820T030426Z">
+        <seg>Incorrect flow rates     /     Sai lưu lượng dòng chảy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increased capital and running costs</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080730Z" creationid="LanHK" creationdate="20210717T022640Z">
