@@ -4690,11 +4690,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>fully vented drainage system</note>
       <tuv lang="EN-US">
         <seg>ALL SOIL ỈÍ WASTE SYSTEMS DISCHARGE TO LOCAL SEWER WHERE AVAILABLE. FULLY VENTED SYSTEMS WITH NO PROVISION FOR RECYCLING OF WASTE WATER DISCHARGES.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T045452Z" creationid="Kieu Lan" creationdate="20210820T045228Z">
-        <seg>All soil &amp; waste systems discharge to local sewer where available. Fully vented systems with no provision for recycling of waste water discharges.     /     Tất cả nước thải từ hệ thống tới đường ống cống thành phố nếu có thể. Hệ </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T114507Z" creationid="Kieu Lan" creationdate="20210820T045228Z">
+        <seg>All soil &amp; waste systems discharge to local sewer where available. Fully vented systems with no provision for recycling of waste water discharges.     /     Tất cả nước thải từ hệ thống tới đường ống cống thành phố nếu có thể. Hệ thống thông gió hoàn toàn, không có cơ sở vật chất tái sử dụng nước thải</seg>
       </tuv>
     </tu>
     <tu>
