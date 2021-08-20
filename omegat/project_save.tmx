@@ -8370,8 +8370,8 @@
       <tuv lang="EN-US">
         <seg>Drainage</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154714Z" creationid="Kieu Lan" creationdate="20210405T154714Z">
-        <seg>Drainage Thoát nước</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T030815Z" creationid="Kieu Lan" creationdate="20210405T154714Z">
+        <seg>Drainage     /     Thoát nước</seg>
       </tuv>
     </tu>
     <tu>
@@ -16248,6 +16248,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One means of overcoming this is the ‘Jemflow ‘pressure balancing system, which operates as follows.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T030810Z" creationid="Kieu Lan" creationdate="20210820T030810Z">
+        <seg>One means of overcoming this is the ‘Jemflow ‘pressure balancing system, which operates as follows.     /     Một phương án giải quyết vấn đề này là lắp đặt hệ thống cân bằng áp suất "Jemflow", vận hành như sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One plastic pipework system incorporates a three layer composite polypropylene pipe. Typically the three layers are designed with the following criteria:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081505Z" creationid="Kieu Lan" creationdate="20210804T081505Z">
@@ -17562,6 +17570,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T024858Z" creationid="Kieu Lan" creationdate="20210820T024858Z">
         <seg>Pressure balancing between Hot and cold Water systems in guest rooms.     /     Cân bằng áp suất giữa hệ thống nước nóng và nước lạnh trong phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressure difference to great between hot &amp; cold uncomfortable Dangerous shower</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T030730Z" creationid="Kieu Lan" creationdate="20210820T030730Z">
+        <seg>Pressure difference too great between hot &amp; cold uncomfortable Dangerous shower     /     Áp suất chênh lệch quá lớn giũa nước nóng và nước lạnh khiến khiến nước tắm không thoải mái và có thể nguy hiểm</seg>
       </tuv>
     </tu>
     <tu>
