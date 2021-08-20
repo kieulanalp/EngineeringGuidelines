@@ -11132,6 +11132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GROUND FLOOR FITTINGS CONNECT TO SUSPENDED DRAINAGE VIA STUB PIPES</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T043315Z" creationid="Kieu Lan" creationdate="20210820T043315Z">
+        <seg>Ground floor fittings connect to suspended drainage via stub pipes     /     Thiết bị tầng trệt kết nối tới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GROUND SOURCE (SUBJECT TO IHG APPROVAL)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042051Z" creationid="LanHK" creationdate="20210715T042015Z">
