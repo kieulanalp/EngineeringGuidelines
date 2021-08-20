@@ -6642,6 +6642,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Butt welding &amp; Ring-Seal socket</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T135144Z" creationid="Kieu Lan" creationdate="20210820T135144Z">
+        <seg>Butt welding &amp; Ring-Seal socket     /     Hàn đối đầu &amp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bypass</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061306Z" creationid="Kieu Lan" creationdate="20210805T061306Z">
@@ -13915,6 +13923,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084546Z" creationid="Kieu Lan" creationdate="20210804T084546Z">
         <seg>Joining method     /     Phương pháp nối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jointing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T135011Z" creationid="Kieu Lan" creationdate="20210820T135011Z">
+        <seg>Jointing     /     Mối nối</seg>
       </tuv>
     </tu>
     <tu>
@@ -24144,6 +24160,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T092943Z" creationid="LanHK" creationdate="20210525T081231Z">
         <seg>UTILITY SERVICES     /     DỊCH VỤ ĐIỆN NƯỚC  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UV Resistance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134958Z" creationid="Kieu Lan" creationdate="20210820T134958Z">
+        <seg>UV Resistance     /     Chống UV</seg>
       </tuv>
     </tu>
     <tu>
