@@ -5984,6 +5984,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BATH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T120144Z" creationid="Kieu Lan" creationdate="20210820T120144Z">
+        <seg>Bath     /     Phòng tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BMS (24 hrs.)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044813Z" creationid="Kieu Lan" creationdate="20210810T044813Z">
@@ -6678,6 +6686,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T071653Z" creationid="LanHK" creationdate="20210610T024920Z">
         <seg>CIE - Control and Indicating Equipment    /    CIE - Thiết bị hiển thị và kiểm soát cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CLEANING EYE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T120041Z" creationid="Kieu Lan" creationdate="20210820T120041Z">
+        <seg>Cleaning eye     /     Lỗ vệ sinh đường ống</seg>
       </tuv>
     </tu>
     <tu>
@@ -12455,6 +12471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T115907Z" creationid="Kieu Lan" creationdate="20210820T115907Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I esisting tlooi s</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T100753Z" creationid="LanHK" creationdate="20210602T100753Z">
@@ -15236,6 +15260,14 @@ file gốc bị nhảy dòng</note>
         <seg>Md-H</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T042649Z" creationid="Kieu Lan" creationdate="20210820T042649Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MdI I</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T120120Z" creationid="Kieu Lan" creationdate="20210820T120120Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -23874,6 +23906,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042113Z" creationid="LanHK" creationdate="20210715T042057Z">
         <seg>ventilation     /     Thông gió bãi đỗ xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VENT PIPE OPEN TO ATMOSPHERE WITH CAGE TYPE COWL TO PREVENT INGRESS NESTING BIRDS TO THE PIPEWORK</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T120117Z" creationid="Kieu Lan" creationdate="20210820T120117Z">
+        <seg>Vent pipe open to atmosphere with cage type cowl to prevent ingress nesting birds to the pipework     /     Ống thông hơi mở ra bầu khí quyển với nắp đậy để ngăn chim làm tổ xâm nhập vào đường ống</seg>
       </tuv>
     </tu>
     <tu>
