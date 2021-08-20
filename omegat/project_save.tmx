@@ -1409,6 +1409,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>18-27 db</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142639Z" creationid="Kieu Lan" creationdate="20210820T142639Z">
+        <seg>18-27 db</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>18.3</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T092423Z" creationid="Kieu Lan" creationdate="20210806T092423Z">
@@ -2249,6 +2257,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>27-34 db</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142639Z" creationid="Kieu Lan" creationdate="20210820T142639Z">
+        <seg>27-34 db</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2700</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061427Z" creationid="Kieu Lan" creationdate="20210805T061427Z">
@@ -2413,6 +2429,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061420Z" creationid="Kieu Lan" creationdate="20210805T061420Z">
         <seg>30 max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>30-40 db</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142639Z" creationid="Kieu Lan" creationdate="20210820T142639Z">
+        <seg>30-40 db</seg>
       </tuv>
     </tu>
     <tu>
@@ -10774,6 +10798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flow</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142643Z" creationid="Kieu Lan" creationdate="20210820T142639Z">
+        <seg>Flow     /     Dòng chảy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fluorescent</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135933Z" creationid="Kieu Lan" creationdate="20210814T135921Z">
@@ -16291,6 +16323,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noise reduction</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142638Z" creationid="Kieu Lan" creationdate="20210820T142638Z">
+        <seg>Noise reduction     /     Tiêu âm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-combustible stairs</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T091556Z" creationid="LanHK" creationdate="20210713T091556Z">
@@ -16335,6 +16375,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082939Z" creationid="Kieu Lan" creationdate="20210713T082939Z">
         <seg>North Africa     /     Bắc Phi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not Possible</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142633Z" creationid="Kieu Lan" creationdate="20210820T142633Z">
+        <seg>Not Possible     /     không thể</seg>
       </tuv>
     </tu>
     <tu>
@@ -17685,6 +17733,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pipe Material Comparision For Drainage Pipes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142721Z" creationid="Kieu Lan" creationdate="20210820T142718Z">
+        <seg>Pipe Material Comparision For Drainage Pipes     /     So sánh vật liệu cho ống thoát nước thải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pipe distribution Zones should tie up with domestic water service zones for future phased refurbishments and maintenance.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T033358Z" creationid="LanHK" creationdate="20210724T033358Z">
@@ -17922,8 +17978,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Possible off the site</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T141934Z" creationid="Kieu Lan" creationdate="20210820T141934Z">
-        <seg>Possible off the site</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142629Z" creationid="Kieu Lan" creationdate="20210820T141934Z">
+        <seg>Possible off the site     /     Có thể, không tại công trường</seg>
       </tuv>
     </tu>
     <tu>
@@ -19219,6 +19275,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rough inner surface</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142706Z" creationid="Kieu Lan" creationdate="20210820T142706Z">
+        <seg>Rough inner surface     /     Bề mặt bên trong không nhẵn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Russia Armenia Azerbaijan Belarus Estonia Georgia Kazakhstan Kyrgyzstan Latvia Lithuania Moldova Tajikistan Turkmenistan Ukraine Uzbekistan Albania Bosnia- Herzegovina Bulgaria Croatia</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T083409Z" creationid="Kieu Lan" creationdate="20210713T083409Z">
@@ -20201,6 +20265,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T105432Z" creationid="LanHK" creationdate="20210602T105432Z">
         <seg>Smoke &amp; CO extraction        /       Hút khói và khí CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smoother inner surface</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142653Z" creationid="Kieu Lan" creationdate="20210820T142640Z">
+        <seg>Smoother inner surface     /     Bề mặt bên trong nhẵn</seg>
       </tuv>
     </tu>
     <tu>
