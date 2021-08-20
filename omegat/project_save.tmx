@@ -12543,6 +12543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INTERCEPTOR VENTS TO ATMOSPHERE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T115833Z" creationid="Kieu Lan" creationdate="20210820T115816Z">
+        <seg>Interceptor vent rises to discharge to atmosphere     /     Thông gió bể chứa nước thải xả ra ngoài không khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INTERNAL DESIGN CONDITIONS</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T062124Z" creationid="Kieu Lan" creationdate="20210714T093959Z">
@@ -14027,6 +14035,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T040435Z" creationid="Kieu Lan" creationdate="20210820T040435Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOCAL AUTHORITY SEWER WHERE AVAILABLE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T115853Z" creationid="Kieu Lan" creationdate="20210820T115853Z">
+        <seg>Local authority sewer where available     /     Đường nước thải thành phố</seg>
       </tuv>
     </tu>
     <tu>
