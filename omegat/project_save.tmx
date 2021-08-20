@@ -3539,6 +3539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>53.4.5 TYPICAL DOUBLE GUEST BATHROOM DRAINAGE PLAN</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T124727Z" creationid="Kieu Lan" creationdate="20210820T124727Z">
+        <seg>53.4.5 TYPICAL DOUBLE GUEST BATHROOM DRAINAGE PLAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>535</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061429Z" creationid="Kieu Lan" creationdate="20210805T061429Z">
@@ -23630,16 +23638,16 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Typical Double Guest bath room drainage system (Option -2 floor trap in shafts area)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T124448Z" creationid="Kieu Lan" creationdate="20210820T124448Z">
-        <seg>Typical Double Guest bath room drainage system (Option -2 floor trap in shafts area)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T124551Z" creationid="Kieu Lan" creationdate="20210820T124448Z">
+        <seg>Typical Double Guest bath room drainage system (Option -2 floor trap in shafts area)     /      Hệ thống thoát nước phòng tắm cho phòng Double. Phương án 2 - </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Typical Double Guest bath room drainage system Option - 1 - Floor trap in bath room area</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T124450Z" creationid="Kieu Lan" creationdate="20210820T124448Z">
-        <seg>Typical Double Guest bathroom drainage system Option - 1 - Floor trap in bath room area     /     Hệ thống thoát nước phòng tắm cho phòng Double. Phương án 1 - ga thoát sàn</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T124736Z" creationid="Kieu Lan" creationdate="20210820T124448Z">
+        <seg>Typical Double Guest bathroom drainage system Option - 1 - Floor trap in bath room area     /     Hệ thống thoát nước phòng tắm cho phòng Double. Phương án 1 - bẫy sàn trong buồng tắm</seg>
       </tuv>
     </tu>
     <tu>
