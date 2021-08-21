@@ -3963,6 +3963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.4.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120116Z" creationid="Kieu Lan" creationdate="20210821T120116Z">
+        <seg>6.4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.5</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045045Z" creationid="Kieu Lan" creationdate="20210806T045045Z">
@@ -7753,6 +7761,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140445Z" creationid="Kieu Lan" creationdate="20210814T135930Z">
         <seg>Compact Fluorescent     /     Đèn huỳnh quang compact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comparison of different STP Technologies</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120131Z" creationid="Kieu Lan" creationdate="20210821T120131Z">
+        <seg>Comparison of different STP Technologies     /     So sánh các công nghệ xử lý nước thải</seg>
       </tuv>
     </tu>
     <tu>
@@ -15370,6 +15386,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MBR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120146Z" creationid="Kieu Lan" creationdate="20210821T120146Z">
+        <seg>MBR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MCP - Manual Call Point - (also known as Break Glass Alarm)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T054021Z">
@@ -19534,6 +19558,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S.N</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120145Z" creationid="Kieu Lan" creationdate="20210821T120145Z">
+        <seg>S.N     /     STT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAFE AND RELIABLE</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121734Z" creationid="Kieu Lan" creationdate="20210815T121417Z">
@@ -22684,8 +22716,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The following table provides a summary comparison of the type of plants available with the final selection being based on a specific in country comparison.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120010Z" creationid="Kieu Lan" creationdate="20210821T120010Z">
-        <seg>The following table provides a summary comparison of the type of plants available with the final selection being based on a specific in country comparison.     /     Bảng sau so sánh các loại máy trên thị trường, chọn lựa máy cuối cùng dựa trên hiện trạng quốc gia</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120115Z" creationid="Kieu Lan" creationdate="20210821T120010Z">
+        <seg>The following table provides a summary comparison of the type of plants available with the final selection being based on a specific in country comparison.     /     Bảng sau so sánh các loại máy trên thị trường, chọn lựa máy cuối cùng dựa trên hiện trạng quốc gia cụ thể</seg>
       </tuv>
     </tu>
     <tu>
