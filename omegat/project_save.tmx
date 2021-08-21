@@ -7918,6 +7918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connectors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T042549Z" creationid="Kieu Lan" creationdate="20210821T042549Z">
+        <seg>Connectors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consistent air temperature</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041538Z" creationid="Kieu Lan" creationdate="20210802T041538Z">
@@ -11851,6 +11859,15 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025717Z" creationid="Kieu Lan" creationdate="20210806T025717Z">
         <seg>Grills     /     Vỉ nướng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A0n-solder-b%E1%BA%A5m-press-fit-v%C3%A0-%E1%BA%A5n-push-fit/3960825117292244/</note>
+      <tuv lang="EN-US">
+        <seg>Grooved, Press fittings joints</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T042547Z" creationid="Kieu Lan" creationdate="20210821T042517Z">
+        <seg>Grooved, Press fittings joints     /     Khớp nối rãnh, bấm</seg>
       </tuv>
     </tu>
     <tu>
@@ -18688,12 +18705,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
     </tu>
     <tu>
-      <note>https://www.screwfix.com/c/heating-plumbing/pipe-fittings/cat831504?pipefittingsystem=push_fit</note>
+      <note>https://www.screwfix.com/c/heating-plumbing/pipe-fittings/cat831504?pipefittingsystem=push_fit
+
+https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A0n-solder-b%E1%BA%A5m-press-fit-v%C3%A0-%E1%BA%A5n-push-fit/3960825117292244/</note>
       <tuv lang="EN-US">
         <seg>Pushfit couplings</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T141910Z" creationid="Kieu Lan" creationdate="20210820T141910Z">
-        <seg>Pushfit couplings</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T042532Z" creationid="Kieu Lan" creationdate="20210820T141910Z">
+        <seg>Pushfit couplings     /     Khớp nối ấn</seg>
       </tuv>
     </tu>
     <tu>
@@ -19863,6 +19882,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T122106Z" creationid="Kieu Lan" creationdate="20210820T122106Z">
         <seg>Schematic of Soil and Waste Vent Pipe System - High Rise     /     Sơ đồ hệ thống ống thoát chất thải - nhà cao tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screw joints</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T042538Z" creationid="Kieu Lan" creationdate="20210821T042538Z">
+        <seg>Screw joints</seg>
       </tuv>
     </tu>
     <tu>
