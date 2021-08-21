@@ -7920,8 +7920,8 @@
       <tuv lang="EN-US">
         <seg>Connectors</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T042549Z" creationid="Kieu Lan" creationdate="20210821T042549Z">
-        <seg>Connectors</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T043549Z" creationid="Kieu Lan" creationdate="20210821T042549Z">
+        <seg>Connectors     /     Phụ kiện nối</seg>
       </tuv>
     </tu>
     <tu>
@@ -26284,6 +26284,30 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T041721Z" creationid="Kieu Lan" creationdate="20210719T041721Z">
         <seg>conditioning and mechanical ventilation energy use for formulating energy efficient strategies.     /     Hệ thống kiểm soát DDC (Direct Digital Control) thông qua BMS để tối ưu hóa chiến lượng kiểm soát hệ thống. Sub meter và data log tất cả dữ liệu sử dụng năng lượng  cho điều hòa không khí và thông gió cơ học để đưa ra các chiến lược năng lượng hiệu quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>connectors can be Stainless steel or brass</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T043804Z" creationid="Kieu Lan" creationdate="20210821T043648Z">
+        <seg>connectors can be Stainless steel or brass     /     có thể là thép không gỉ hoặc đồng thau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>connectors can be copper or brass</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T043755Z" creationid="Kieu Lan" creationdate="20210821T043643Z">
+        <seg>connectors can be copper or brass     /     Có thể là đồng hoặc đồng thau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>connectors can be copper, brass, or plastic</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T043642Z" creationid="Kieu Lan" creationdate="20210821T043642Z">
+        <seg>connectors can be copper, brass, or plastic     /     Có thể là đồng, đồng thau hoặc nhựa</seg>
       </tuv>
     </tu>
     <tu>
