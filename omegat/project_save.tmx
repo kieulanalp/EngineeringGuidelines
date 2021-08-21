@@ -10052,6 +10052,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>??</note>
+      <tuv lang="EN-US">
+        <seg>Extended Aeration</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120740Z" creationid="Kieu Lan" creationdate="20210821T120740Z">
+        <seg>Extended Aeration     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>External</seg>
       </tuv>
@@ -10185,6 +10194,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061413Z" creationid="Kieu Lan" creationdate="20210805T061413Z">
         <seg>F8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FAB</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120740Z" creationid="Kieu Lan" creationdate="20210821T120740Z">
+        <seg>FAB</seg>
       </tuv>
     </tu>
     <tu>
@@ -19582,6 +19599,22 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SAFF</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120740Z" creationid="Kieu Lan" creationdate="20210821T120740Z">
+        <seg>SAFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SBR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120740Z" creationid="Kieu Lan" creationdate="20210821T120740Z">
+        <seg>SBR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SECTION AA</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T125544Z" creationid="Kieu Lan" creationdate="20210820T125544Z">
@@ -24359,6 +24392,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043255Z" creationid="Kieu Lan" creationdate="20210802T043255Z">
         <seg>Type     /     Loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of Process</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120748Z" creationid="Kieu Lan" creationdate="20210821T120748Z">
+        <seg>Type of Process     /     Loại quy trình</seg>
       </tuv>
     </tu>
     <tu>
