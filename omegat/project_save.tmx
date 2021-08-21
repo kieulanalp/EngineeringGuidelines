@@ -3677,8 +3677,8 @@
       <tuv lang="EN-US">
         <seg>50 years</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044200Z" creationid="Kieu Lan" creationdate="20210805T020750Z">
-        <seg>50 năm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T043842Z" creationid="Kieu Lan" creationdate="20210805T020750Z">
+        <seg>50 years     /     50 năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -3991,6 +3991,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143014Z" creationid="Kieu Lan" creationdate="20210820T143014Z">
         <seg>6.5.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T044154Z" creationid="Kieu Lan" creationdate="20210821T044154Z">
+        <seg>6.5.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -20087,6 +20095,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Service Life</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T043835Z" creationid="Kieu Lan" creationdate="20210821T043830Z">
+        <seg>Service Life     /     Vòng đời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Service area</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032542Z" creationid="Kieu Lan" creationdate="20210810T032542Z">
@@ -26284,6 +26300,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T041721Z" creationid="Kieu Lan" creationdate="20210719T041721Z">
         <seg>conditioning and mechanical ventilation energy use for formulating energy efficient strategies.     /     Hệ thống kiểm soát DDC (Direct Digital Control) thông qua BMS để tối ưu hóa chiến lượng kiểm soát hệ thống. Sub meter và data log tất cả dữ liệu sử dụng năng lượng  cho điều hòa không khí và thông gió cơ học để đưa ra các chiến lược năng lượng hiệu quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>connectors can be GI or brass</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T043830Z" creationid="Kieu Lan" creationdate="20210821T043830Z">
+        <seg>connectors can be GI or brass     /     có thể là sắt mạ hoặc đồng thau</seg>
       </tuv>
     </tu>
     <tu>
