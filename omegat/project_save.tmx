@@ -4131,6 +4131,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170345Z" creationid="Kieu Lan" creationdate="20210822T170345Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7-8</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131622Z" creationid="Kieu Lan" creationdate="20210815T131622Z">
@@ -12619,6 +12627,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High due to larger detention time.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170429Z" creationid="Kieu Lan" creationdate="20210822T170429Z">
+        <seg>High due to larger detention time.     /     Cao hơn, do thời gian lưu nước lâu hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High temperature/ pressure hot water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095221Z" creationid="Kieu Lan" creationdate="20210728T095221Z">
@@ -15365,6 +15381,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lowest, due to high MLSS and not needing a secondary clarification tank (app. 50 % lower than other systems)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170421Z" creationid="Kieu Lan" creationdate="20210822T170354Z">
+        <seg>Lowest, due to high MLSS and not needing a secondary clarification tank (app. 50 % lower than other systems)     /     Thấp nhất, do nồng độ MLSS cao và không cần bể lắng thứ cấp (ít hơn khoảng 50% so với các hệ thống khác)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Luminaires</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091653Z" creationid="LanHK" creationdate="20210702T091653Z">
@@ -16572,6 +16596,22 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170147Z" creationid="Kieu Lan" creationdate="20210822T170028Z">
         <seg>Nitrification     /     Nitơ hóa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nitrification and de-nitrification generally do not take place. But if the detention time provided in the secondary settling tank is higher than the normal, then the processes may take place.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170333Z" creationid="Kieu Lan" creationdate="20210822T170333Z">
+        <seg>Nitrification and de-nitrification generally do not take place. But if the detention time provided in the secondary settling tank is higher than the normal, then the processes may take place.     /     Quá trình nitơ hóa và khử nitơ thường không diễn ra. Nhưng nếu thời gian lưu nước trong bể lắng thứ cấp dài hơn bình thường, các quá trình này có thể diễn ra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nitrification is achieved.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170343Z" creationid="Kieu Lan" creationdate="20210822T170343Z">
+        <seg>Nitrification is achieved.     /     Luôn đạt được nitơ hóa</seg>
       </tuv>
     </tu>
     <tu>
@@ -20890,6 +20930,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T084620Z" creationid="Kieu Lan" creationdate="20210713T084620Z">
         <seg>Southern Africa     /     Nam Phi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Space Requirement</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170359Z" creationid="Kieu Lan" creationdate="20210822T170353Z">
+        <seg>Space Requirement     /     Diện tích cần thiết</seg>
       </tuv>
     </tu>
     <tu>
