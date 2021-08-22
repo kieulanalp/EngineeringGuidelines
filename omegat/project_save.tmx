@@ -11930,6 +11930,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good operator skill required.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180738Z" creationid="Kieu Lan" creationdate="20210822T180738Z">
+        <seg>Good operator skill required.     /     Cần người vận hành có kỹ năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gravity water supplies where possible. Roof mounted storage tanks with gravity feeds offer the greatest reliability.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T025543Z" creationid="Kieu Lan" creationdate="20210816T025413Z">
@@ -18510,6 +18518,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power Failure</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180743Z" creationid="Kieu Lan" creationdate="20210822T180743Z">
+        <seg>Power Failure     /     Sự cố điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power Requirement</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180347Z" creationid="Kieu Lan" creationdate="20210822T180347Z">
@@ -18546,6 +18562,30 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061441Z" creationid="Kieu Lan" creationdate="20210805T061441Z">
         <seg>Power factor correction equipment will be provided to the main electrical distribution control boards to automatically</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power failure disrupts the process and purification may occur. The sludge tends to settle down.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180823Z" creationid="Kieu Lan" creationdate="20210822T180823Z">
+        <seg>Power failure disrupts the process and purification may occur. The sludge tends to settle down.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power failure disrupts the process to some extent but due to the presence of the media the aerobic process continues. The stabilization of the process takes faster than FAB process.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180824Z" creationid="Kieu Lan" creationdate="20210822T180824Z">
+        <seg>Power failure disrupts the process to some extent but due to the presence of the media the aerobic process continues. The stabilization of the process takes faster than FAB process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power failure interrupts system-operation. After power supply is re-established, system-operation starts again without problems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180817Z" creationid="Kieu Lan" creationdate="20210822T180817Z">
+        <seg>Power failure interrupts system-operation. After power supply is re-established, system-operation starts again without problems.     /     Gây ảnh hưởng đến vận hành. Sau khi có điện trở lại, hệ thống có thể tái khởi động không có vấn đề gì</seg>
       </tuv>
     </tu>
     <tu>
@@ -19625,8 +19665,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Required as the FAB media needs an expert care and understanding.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180705Z" creationid="Kieu Lan" creationdate="20210822T180705Z">
-        <seg>Required as the FAB media needs an expert care and understanding.     /     Cần thiết, bởi giá thể FAB cần được </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180732Z" creationid="Kieu Lan" creationdate="20210822T180705Z">
+        <seg>Required as the FAB media needs an expert care and understanding.     /     Cần thiết, bởi giá thể FAB cần được bảo trì bởi chuyên gia với kiến thức chuyên môn</seg>
       </tuv>
     </tu>
     <tu>
