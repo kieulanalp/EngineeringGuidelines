@@ -15444,11 +15444,12 @@ file gốc bị nhảy dòng</note>
       </tuv>
     </tu>
     <tu>
+      <note>dimensioned????</note>
       <tuv lang="EN-US">
         <seg>MBR consists of a biological process with relatively low F/M-ratios (typically &lt; 0,1 kgBOD/kgDSd), dimensioned with or without denitrification and high MLSS concentration (up to 15 g/l, typically 8 - 12 g/l), followed by submerged ultrafiltration membranes which physically separate the active biomass from the cleansed water (instead of secondary clarification via gravity).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T122839Z" creationid="Kieu Lan" creationdate="20210822T121734Z">
-        <seg>MBR consists of a biological process with relatively low F/M-ratios (typically &lt; 0,1 kgBOD/kgDS), dimensioned with or without denitrification and high MLSS concentration (up to 15 g/l, typically 8 - 12 g/l), followed by submerged ultrafiltration membranes which physically separate the active biomass from the cleansed water (instead of secondary clarification via gravity).     /     MBR là một quá trình sinh học với tỉ lệ F/M khá thấp (thường là &lt; 0,1 kgBOD/kgDS)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T125512Z" creationid="Kieu Lan" creationdate="20210822T121734Z">
+        <seg>MBR consists of a biological process with relatively low F/M-ratios (typically &lt; 0,1 kgBOD/kgDS), dimensioned with or without denitrification and high MLSS concentration (up to 15 g/l, typically 8 - 12 g/l), followed by submerged ultrafiltration membranes which physically separate the active biomass from the cleansed water (instead of secondary clarification via gravity).     /     MBR là một quá trình sinh học với tỉ lệ F/M khá thấp (thường là &lt; 0,1 kgBOD/kgDS), dimensioned</seg>
       </tuv>
     </tu>
     <tu>
@@ -24099,6 +24100,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is typically an attached growth process where the biomass is allowed to grow on plastic type media. The process generally consists to two successive aeration tanks where the media is completely submerged in the waste water. Both up flow and down flow processes take place. The raw waste water goes in an up flow pattern in the first aeration tank and subsequently in a down flow pattern in the next tank. The organic material present in the waste water is degraded by a population of microorganisms attached to the media. Organic material from the liquid is adsorbed on to the biological film or slime layer. In the outer portions of the slime layer, the organic material is degraded by aerobic microorganisms. As the microorganisms grow, the thickness of the slime layer increases, and the diffused oxygen is consumed before it can penetrate the full depth of the slime layer. Thus an anaerobic environment is established near the surface of the media.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T125536Z" creationid="Kieu Lan" creationdate="20210822T125536Z">
+        <seg>This is typically an attached growth process where the biomass is allowed to grow on plastic type media. The process generally consists to two successive aeration tanks where the media is completely submerged in the waste water. Both up flow and down flow processes take place. The raw waste water goes in an up flow pattern in the first aeration tank and subsequently in a down flow pattern in the next tank. The organic material present in the waste water is degraded by a population of microorganisms attached to the media. Organic material from the liquid is adsorbed on to the biological film or slime layer. In the outer portions of the slime layer, the organic material is degraded by aerobic microorganisms. As the microorganisms grow, the thickness of the slime layer increases, and the diffused oxygen is consumed before it can penetrate the full depth of the slime layer. Thus an anaerobic environment is established near the surface of the media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This number of fittings shall be used for commissioning purposes to demonstrate adequate flows/temperatures are available.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T130757Z" creationid="Kieu Lan" creationdate="20210815T124544Z">
@@ -25124,8 +25133,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Very important as the floating media is more prone to choke and backwash frequency will largely depends on the pre treatment done.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T121109Z" creationid="Kieu Lan" creationdate="20210822T111737Z">
-        <seg>Very important as the floating media is more prone to choke and backwash frequency will largely depends on the pre treatment done.     /     Rất quan trọng, do giá thể nổi dễ bị tắc hơn và tần suất phải vệ sinh giá thể sẽ rất phụ thuộc vào chất lượng quy trình xử lý trước</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T125535Z" creationid="Kieu Lan" creationdate="20210822T111737Z">
+        <seg>Very important as the floating media is more prone to choke and backwash frequency will largely depends on the pre treatment done.     /     Rất quan trọng, do giá thể nổi dễ bị tắc hơn và tần suất rửa ngược giá thể sẽ rất phụ thuộc vào chất lượng quy trình xử lý trước</seg>
       </tuv>
     </tu>
     <tu>
