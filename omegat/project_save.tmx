@@ -5614,6 +5614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although the MLSS is normally maintained higher due to the attached growth thus doesn’t requires any sludge recycling but normal practice is to give a back-up sludge recycling line so that if there is too low BOD loading, the sludge can be recycled.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T165957Z" creationid="Kieu Lan" creationdate="20210822T165957Z">
+        <seg>Although the MLSS is normally maintained higher due to the attached growth thus doesn’t requires any sludge recycling but normal practice is to give a back-up sludge recycling line so that if there is too low BOD loading, the sludge can be recycled.     /     Mặc dù nồng độ MLSS thường được duy trì ở mức cao do quá trình tăng trưởng vi sinh bám dính, do đó không cần phải tái chế bùn, nhưng quy trình thông thường là có một đường tái chế bùn dự phòng để nếu mức BOD quá thấp, bùn có thể được tái chế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aluminium</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132453Z" creationid="Kieu Lan" creationdate="20210815T131943Z">
@@ -16560,6 +16568,22 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nitrification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170147Z" creationid="Kieu Lan" creationdate="20210822T170028Z">
+        <seg>Nitrification     /     Nitơ hóa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nitrification is always achieved, de-nitrification if required!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170204Z" creationid="Kieu Lan" creationdate="20210822T170133Z">
+        <seg>Nitrification is always achieved, de-nitrification if required!     /     Luôn đạt được nitơ hóa, khử nitơ nếu cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nitrites</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132501Z" creationid="Kieu Lan" creationdate="20210815T132501Z">
@@ -22271,6 +22295,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T043718Z" creationid="PHUONG.DTM" creationdate="20210603T113001Z">
         <seg>The above requirements apply to exit doors that are also staff entrances and which are secured by fastenings operated by key-cards, key pads and by similar devices.      /       Các yêu cầu ở trên áp dụng cho toàn bộ các cửa thoát hiểm mà đồng thời là lối vào nhân viên và được bảo đảm an ninh bằng khóa mở thẻ từ, mật mã số hoặc các thiết bị tương tự. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The activated sludge is returned for maintaining a high MLSS concentration</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170023Z" creationid="Kieu Lan" creationdate="20210822T170023Z">
+        <seg>The activated sludge is returned for maintaining a high MLSS concentration.     /     Bùn hoạt tính được hồi lại để duy trì nồng độ MLSS cao</seg>
       </tuv>
     </tu>
     <tu>
