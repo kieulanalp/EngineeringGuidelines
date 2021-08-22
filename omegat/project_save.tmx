@@ -24133,6 +24133,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This system is very identical to the SAFF system, except that the floating media offers surface area for the biomass to get digested and has higher BOD removal per cubic meter. Thus requires lesser footprint for the aeration reactor.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T161303Z" creationid="Kieu Lan" creationdate="20210822T161303Z">
+        <seg>This system is very identical to the SAFF system, except that the floating media offers surface area for the biomass to get digested and has higher BOD removal per cubic meter. Thus requires lesser footprint for the aeration reactor.     /     Hệ thống này rất giống với hệ thống SAFF, ngoại trừ các giá thể nổi tự do tạo ra diện tích lớn hơn cho việc </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This system not suitable in hot/humid climates with openable windows, or if guest corridor is not air conditioned:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043755Z" creationid="Kieu Lan" creationdate="20210802T043755Z">
