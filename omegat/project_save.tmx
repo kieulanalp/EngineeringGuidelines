@@ -5060,6 +5060,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absolutely mandatory to protect the ultra-filtration membranes. Typically 3mm screening will be used in front of the biological process and grease must be removed via a grease trap or DAF.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T080341Z" creationid="Kieu Lan" creationdate="20210822T080341Z">
+        <seg>Absolutely mandatory to protect the ultra-filtration membranes. Typically 3mm screening will be used in front of the biological process and grease must be removed via a grease trap or DAF.     /     Cần phải bảo vệ các màng tinh lọc. Thông thường một màn chắn 3mm sẽ được sử dụng trước pha sinh học và </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011557Z" creationid="LanHK" creationdate="20210406T011549Z">
