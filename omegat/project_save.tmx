@@ -15445,6 +15445,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MBR consists of a biological process with relatively low F/M-ratios (typically &lt; 0,1 kgBOD/kgDSd), dimensioned with or without denitrification and high MLSS concentration (up to 15 g/l, typically 8 - 12 g/l), followed by submerged ultrafiltration membranes which physically separate the active biomass from the cleansed water (instead of secondary clarification via gravity).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T121734Z" creationid="Kieu Lan" creationdate="20210822T121734Z">
+        <seg>MBR consists of a biological process with relatively low F/M-ratios (typically &lt; 0,1 kgBOD/kg¬DS), dimensioned with or without denitrification and high MLSS concentration (up to 15 g/l, typically 8 - 12 g/l), followed by submerged ultrafiltration membranes which physically separate the active biomass from the cleansed water (instead of secondary clarification via gravity).     /     MBR là một quá trình sinh học với tỉ lệ F/M khá thấp (</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MCP - Manual Call Point - (also known as Break Glass Alarm)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="Kieu Lan" creationdate="20210531T054021Z">
