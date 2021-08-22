@@ -15325,10 +15325,34 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low power requirement</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180420Z" creationid="Kieu Lan" creationdate="20210822T180420Z">
+        <seg>Low power requirement     /     Nhu cầu điện năng thấp hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low power requirement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180421Z" creationid="Kieu Lan" creationdate="20210822T180421Z">
+        <seg>Low power requirement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low temperature/pressure hot water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095212Z" creationid="Kieu Lan" creationdate="20210728T095212Z">
         <seg>Low temperature/pressure hot water     /     Nước nóng nhiệt độ/áp suất thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low, but the system needs to be carefully designed since the media are prone to clog/ choke.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180540Z" creationid="Kieu Lan" creationdate="20210822T180540Z">
+        <seg>Low, but the system needs to be carefully designed since the media are prone to clog/ choke.     /     Ít, nhưng hệ thống cần được thiết kế cẩn trọng do các giá thể dễ bị tắc</seg>
       </tuv>
     </tu>
     <tu>
@@ -15723,6 +15747,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T084928Z" creationid="Kieu Lan" creationdate="20210814T084928Z">
         <seg>Maintained Illuminance (LUX)     /     Mức độ sáng cần duy trì (LUX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maintenance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180424Z" creationid="Kieu Lan" creationdate="20210822T180424Z">
+        <seg>Maintenance     /     Bảo trì</seg>
       </tuv>
     </tu>
     <tu>
@@ -16139,6 +16171,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T062457Z" creationid="Kieu Lan" creationdate="20210822T060152Z">
         <seg>Membrane Bio Reactor is an extension of the activated sludge process incorporating submerged ultrafiltration membranes, high MLSS concentration and excellent effluent quality     /     Công nghệ màng lọc sinh học (MBR) mở rộng từ công nghệ bùn hoạt tính kết hợp màng tinh lọc, nồng độ MLSS cao và nước thải sau xử lý đạt chất lượng cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Membranes require cleaning approximately every 4-8 months (required frequency is very site specific).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180508Z" creationid="Kieu Lan" creationdate="20210822T180508Z">
+        <seg>Membranes require cleaning approximately every 4-8 months (required frequency is very site specific).     /     Màng cần phải được vệ sinh mỗi 4-8 tháng (tần suất cần thiết đối với mỗi địa điểm là khác nhau)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16800,6 +16840,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not required</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180629Z" creationid="Kieu Lan" creationdate="20210822T180629Z">
+        <seg>Not required     /     không cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note 1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061419Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
@@ -17228,6 +17276,22 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T072707Z" creationid="LanHK" creationdate="20210715T030933Z">
         <seg>Optimize façade design     /     Tối ưu hóa thiết kế mặt dựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180511Z" creationid="Kieu Lan" creationdate="20210822T180511Z">
+        <seg>Optimum     /     Tối ưu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimum.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180547Z" creationid="Kieu Lan" creationdate="20210822T180547Z">
+        <seg>Optimum     /     Tối ưu</seg>
       </tuv>
     </tu>
     <tu>
@@ -18979,8 +19043,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Quite high, due to additional air scouring for ultra-filtration membranes</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180341Z" creationid="Kieu Lan" creationdate="20210822T180341Z">
-        <seg>Quite high, due to additional air scouring for ultra-filtration membranes</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180407Z" creationid="Kieu Lan" creationdate="20210822T180341Z">
+        <seg>Quite high, due to additional air scouring for ultra-filtration membranes     /     Khá cao, do cần sục khí bổ sung cho màng tinh lọc</seg>
       </tuv>
     </tu>
     <tu>
@@ -19547,6 +19611,30 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T044454Z" creationid="LanHK" creationdate="20210713T093203Z">
         <seg>Required along the horizontal section of ductwork and top of risers.     /     Yêu cầu bố trí dọc theo các đoạn ống ngang và trên đỉnh trục ống đứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required and the tubes need frequent cleaning.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180639Z" creationid="Kieu Lan" creationdate="20210822T180639Z">
+        <seg>Required and the tubes need frequent cleaning.     /     Cần thiết, và các ống cần vệ sinh thường xuyên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required as the FAB media needs an expert care and understanding.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180705Z" creationid="Kieu Lan" creationdate="20210822T180705Z">
+        <seg>Required as the FAB media needs an expert care and understanding.     /     Cần thiết, bởi giá thể FAB cần được </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required, for cleaning of membranes and general systems maintenance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180626Z" creationid="Kieu Lan" creationdate="20210822T180601Z">
+        <seg>Required, for cleaning of membranes and general systems maintenance     /     Cần thiết để vệ sinh các màng và bảo trì chung cho hệ thống</seg>
       </tuv>
     </tu>
     <tu>
@@ -20687,6 +20775,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084521Z" creationid="Kieu Lan" creationdate="20210804T084521Z">
         <seg>Sizes available     /     Kích cỡ có trên thị trường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skilled Labor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180606Z" creationid="Kieu Lan" creationdate="20210822T180557Z">
+        <seg>Skilled Labor     /     Lao động chuyên môn</seg>
       </tuv>
     </tu>
     <tu>
@@ -25320,6 +25416,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095230Z" creationid="Kieu Lan" creationdate="20210728T095230Z">
         <seg>Vertical distribution - example of pipe distribution (efficient and economic)     /     Phân phối theo chiều dọc -  ví dụ về phân phối đường ống (hiệu quả và kinh tế)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very high due to higher oxygen requirement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T180414Z" creationid="Kieu Lan" creationdate="20210822T180414Z">
+        <seg>Very high due to higher oxygen requirement.     /     Rất cao do nhu cầu oxy cao hơn</seg>
       </tuv>
     </tu>
     <tu>
