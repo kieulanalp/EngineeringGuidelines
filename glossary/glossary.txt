@@ -15,3 +15,4 @@ chandelier	đèn trần
 guestroom	phòng khách
 recommend	khuyến nghị
 system	hệ thống
+attached growth process	quy trình tăng trưởng vi sinh bám dính
