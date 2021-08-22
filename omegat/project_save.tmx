@@ -18896,6 +18896,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>RAS (Return Activated Sludge) System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T163941Z" creationid="Kieu Lan" creationdate="20210822T163941Z">
+        <seg>RAS (Return Activated Sludge) System     /     Hệ thống hồi bùn hoạt tính</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>RCD’s to power</note>
       <tuv lang="EN-US">
         <seg>RCD’s to power</seg>
@@ -23789,8 +23797,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>There are five steps as follows: fill, react, settle, draw &amp; ideal.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T163652Z" creationid="Kieu Lan" creationdate="20210822T163652Z">
-        <seg>There are five steps as follows: fill, react, settle, draw &amp; ideal.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T163918Z" creationid="Kieu Lan" creationdate="20210822T163652Z">
+        <seg>There are five steps as follows: fill, react, settle, draw &amp; ideal.     /     Có năm pha: làm đầy, phản ứng/sục khí, lắng, rút nước, và ngưng</seg>
       </tuv>
     </tu>
     <tu>
