@@ -15447,8 +15447,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>MBR consists of a biological process with relatively low F/M-ratios (typically &lt; 0,1 kgBOD/kgDSd), dimensioned with or without denitrification and high MLSS concentration (up to 15 g/l, typically 8 - 12 g/l), followed by submerged ultrafiltration membranes which physically separate the active biomass from the cleansed water (instead of secondary clarification via gravity).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T121734Z" creationid="Kieu Lan" creationdate="20210822T121734Z">
-        <seg>MBR consists of a biological process with relatively low F/M-ratios (typically &lt; 0,1 kgBOD/kg¬DS), dimensioned with or without denitrification and high MLSS concentration (up to 15 g/l, typically 8 - 12 g/l), followed by submerged ultrafiltration membranes which physically separate the active biomass from the cleansed water (instead of secondary clarification via gravity).     /     MBR là một quá trình sinh học với tỉ lệ F/M khá thấp (</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T122839Z" creationid="Kieu Lan" creationdate="20210822T121734Z">
+        <seg>MBR consists of a biological process with relatively low F/M-ratios (typically &lt; 0,1 kgBOD/kgDS), dimensioned with or without denitrification and high MLSS concentration (up to 15 g/l, typically 8 - 12 g/l), followed by submerged ultrafiltration membranes which physically separate the active biomass from the cleansed water (instead of secondary clarification via gravity).     /     MBR là một quá trình sinh học với tỉ lệ F/M khá thấp (thường là &lt; 0,1 kgBOD/kgDS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23268,6 +23268,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035309Z" creationid="Kieu Lan" creationdate="20210721T035309Z">
         <seg>The primary heating demand associated with the domestic hot water peak demand     /     Nhu cầu sưởi cùng tải đỉnh của nhu cầu nước nóng sinh hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The process involves proper mixing of the sewage or effluent with aeration by diffusers or surface aerators and thus maintaining a high MLSS concentration and the retention time is very high. The sludge retention time is very high.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T122842Z" creationid="Kieu Lan" creationdate="20210822T122842Z">
+        <seg>The process involves proper mixing of the sewage or effluent with aeration by diffusers or surface aerators and thus maintaining a high MLSS concentration and the retention time is very high. The sludge retention time is very high.</seg>
       </tuv>
     </tu>
     <tu>
