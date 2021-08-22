@@ -10062,6 +10062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extended Aeration is a modification of activated sludge process where the retention time is as high up to 24 hours and high MLSS concentration and high sludge age.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T062610Z" creationid="Kieu Lan" creationdate="20210822T062451Z">
+        <seg>Extended Aeration is a modification of activated sludge process where the retention time is as high up to 24 hours and high MLSS concentration and high sludge age.     /     Công nghệ hiếu khí kéo dài được sửa đổi từ công nghệ bùn hoạt tính, với thời gian xử lý có thể lên tới 24h và nồng độ MLSS cao, tuổi thọ bùn hoạt tính cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T025947Z" creationid="Kieu Lan" creationdate="20210814T025947Z">
@@ -16022,8 +16030,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Membrane Bio Reactor is an extension of the activated sludge process incorporating submerged ultrafiltration membranes, high MLSS concentration and excellent effluent quality</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T060152Z" creationid="Kieu Lan" creationdate="20210822T060152Z">
-        <seg>Membrane Bio Reactor is an extension of the activated sludge process incorporating submerged ultrafiltration membranes, high MLSS concentration and excellent effluent quality     /     Công nghệ màng lọc sinh học (MBR) mở rộng từ quá trình bùn hoạt tính kết hợp màng tinh lọc, nồng độ MLSS cao và nước thải sau xử lý đạt chất lượng cao</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T062457Z" creationid="Kieu Lan" creationdate="20210822T060152Z">
+        <seg>Membrane Bio Reactor is an extension of the activated sludge process incorporating submerged ultrafiltration membranes, high MLSS concentration and excellent effluent quality     /     Công nghệ màng lọc sinh học (MBR) mở rộng từ công nghệ bùn hoạt tính kết hợp màng tinh lọc, nồng độ MLSS cao và nước thải sau xử lý đạt chất lượng cao</seg>
       </tuv>
     </tu>
     <tu>
