@@ -5070,8 +5070,8 @@
       <tuv lang="EN-US">
         <seg>Absolutely mandatory to protect the ultra-filtration membranes. Typically 3mm screening will be used in front of the biological process and grease must be removed via a grease trap or DAF.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T082815Z" creationid="Kieu Lan" creationdate="20210822T080341Z">
-        <seg>Absolutely mandatory to protect the ultra-filtration membranes. Typically 3mm screening will be used in front of the biological process and grease must be removed via a grease trap or DAF.     /     Bắt buộc có để bảo vệ các màng tinh lọc. Thông thường một màn chắn 3mm sẽ được sử dụng trước pha vi sinh và dầu mỡ/chất nhờn cần phải được loại bỏ qua bẫy mỡ hoặc DAF</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T121004Z" creationid="Kieu Lan" creationdate="20210822T080341Z">
+        <seg>Absolutely mandatory to protect the ultra-filtration membranes. Typically 3mm screening will be used in front of the biological process and grease must be removed via a grease trap or DAF.     /     Bắt buộc có để bảo vệ các màng tinh lọc. Thông thường một màn lọc 3mm sẽ được sử dụng trước pha vi sinh và dầu mỡ/chất nhờn cần phải được loại bỏ qua bẫy mỡ hoặc DAF</seg>
       </tuv>
     </tu>
     <tu>
@@ -18549,6 +18549,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Process Involved</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T121118Z" creationid="Kieu Lan" creationdate="20210822T121118Z">
+        <seg>Process Involved     /     Quy trình liên quan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Produces standards for equipment that can be used by employers to demonstrate compliance.</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T050227Z" creationid="LanHK" creationdate="20210602T021836Z">
@@ -25100,8 +25108,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Very important as the floating media is more prone to choke and backwash frequency will largely depends on the pre treatment done.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T120655Z" creationid="Kieu Lan" creationdate="20210822T111737Z">
-        <seg>Very important as the floating media is more prone to choke and backwash frequency will largely depends on the pre treatment done.     /     Rất quan trọng, do giá thể nổi dễ bị tắc hơn và </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T121109Z" creationid="Kieu Lan" creationdate="20210822T111737Z">
+        <seg>Very important as the floating media is more prone to choke and backwash frequency will largely depends on the pre treatment done.     /     Rất quan trọng, do giá thể nổi dễ bị tắc hơn và tần suất phải vệ sinh giá thể sẽ rất phụ thuộc vào chất lượng quy trình xử lý trước</seg>
       </tuv>
     </tu>
     <tu>
