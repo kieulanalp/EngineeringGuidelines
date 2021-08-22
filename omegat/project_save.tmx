@@ -5060,10 +5060,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absolutely mandatory since if the pretreatment is not properly designed the media will choke thereby affecting the effluent quality.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T082803Z" creationid="Kieu Lan" creationdate="20210822T082803Z">
+        <seg>Absolutely mandatory since if the pretreatment is not properly designed the media will choke thereby affecting the effluent quality.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Absolutely mandatory to protect the ultra-filtration membranes. Typically 3mm screening will be used in front of the biological process and grease must be removed via a grease trap or DAF.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T080341Z" creationid="Kieu Lan" creationdate="20210822T080341Z">
-        <seg>Absolutely mandatory to protect the ultra-filtration membranes. Typically 3mm screening will be used in front of the biological process and grease must be removed via a grease trap or DAF.     /     Cần phải bảo vệ các màng tinh lọc. Thông thường một màn chắn 3mm sẽ được sử dụng trước pha sinh học và </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T082751Z" creationid="Kieu Lan" creationdate="20210822T080341Z">
+        <seg>Absolutely mandatory to protect the ultra-filtration membranes. Typically 3mm screening will be used in front of the biological process and grease must be removed via a grease trap or DAF.     /     Cần phải bảo vệ các màng tinh lọc. Thông thường một màn chắn 3mm sẽ được sử dụng trước pha vi sinh và dầu mỡ/chất nhờn cần phải được loại bỏ qua bẫy mỡ hoặc DAF</seg>
       </tuv>
     </tu>
     <tu>
@@ -16570,6 +16578,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T070700Z" creationid="Kieu Lan" creationdate="20210802T070700Z">
         <seg>No in room maintenance as there is no fan or filter     /     Không cần bảo dưỡng trong phòng do không có quạt hay lưới lọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No pre-treatment is required.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T082800Z" creationid="Kieu Lan" creationdate="20210822T082800Z">
+        <seg>No pre-treatment is required.     /     Không cần xử lý trước</seg>
       </tuv>
     </tu>
     <tu>
