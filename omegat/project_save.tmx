@@ -3761,12 +3761,28 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>5.2.4</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083645Z" creationid="Kieu Lan" creationdate="20210824T083645Z">
+        <seg>5.2.4</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://testguy.net/content/273-10-Electrical-Distribution-System-Arrangements-Explained#primary_loop</note>
       <tuv lang="EN-US">
         <seg>5.2.4 Typical MV Distribution with Primary Loop</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T104031Z" creationid="Kieu Lan" creationdate="20210809T094945Z">
         <seg>5.2.4 Typical MV Distribution with Primary Loop     /     Phân phối điện trung thế với vòng mạch sơ cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.2.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083651Z" creationid="Kieu Lan" creationdate="20210824T083651Z">
+        <seg>5.2.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -3803,10 +3819,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.2.8.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083718Z" creationid="Kieu Lan" creationdate="20210824T083718Z">
+        <seg>5.2.8.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.2.8.1 Inefficient and Uneconomical Vertical power distribution system</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T025837Z" creationid="Kieu Lan" creationdate="20210810T025837Z">
         <seg>5.2.8.1 Inefficient and Uneconomical Vertical power distribution system     /     Hệ thống phân phối theo chiều dọc không hiệu quả và không kinh tế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.2.8.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083722Z" creationid="Kieu Lan" creationdate="20210824T083722Z">
+        <seg>5.2.8.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -3871,6 +3903,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T022320Z" creationid="Kieu Lan" creationdate="20210814T022320Z">
         <seg>5.4.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083833Z" creationid="Kieu Lan" creationdate="20210824T083833Z">
+        <seg>5.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -4115,10 +4155,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.0</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083837Z" creationid="Kieu Lan" creationdate="20210824T083837Z">
+        <seg>6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.0 bar - 12.0 bar</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134900Z" creationid="Kieu Lan" creationdate="20210820T134900Z">
         <seg>6.0 bar - 12.0 bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083850Z" creationid="Kieu Lan" creationdate="20210824T083850Z">
+        <seg>6.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -4159,6 +4215,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024524Z" creationid="Kieu Lan" creationdate="20210816T014108Z">
         <seg>6.1.3.1 Schematic of Soft Water Plant     /     Sơ đồ máy nước mềm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.1.4</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083859Z" creationid="Kieu Lan" creationdate="20210824T083859Z">
+        <seg>6.1.4</seg>
       </tuv>
     </tu>
     <tu>
@@ -4319,6 +4383,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070437Z" creationid="Kieu Lan" creationdate="20210824T070437Z">
         <seg>6.6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.6.5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083617Z" creationid="Kieu Lan" creationdate="20210824T083615Z">
+        <seg>6.6.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -5781,11 +5853,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>sectionalised?</note>
       <tuv lang="EN-US">
         <seg>All compartments should be sectionalised and equipment furnished in duplicate, or two complete plats shall be installed, each size for 50% of the load, to facilitate maintenance and repairs.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T081133Z" creationid="Kieu Lan" creationdate="20210824T080938Z">
-        <seg>All compartments should be sectionalised and equipment furnished in duplicate, or two complete plats shall be installed, each size for 50% of the load, to facilitate maintenance and repairs.     /     Tất cả các bộ phận đều có thể </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083611Z" creationid="Kieu Lan" creationdate="20210824T080938Z">
+        <seg>All compartments should be sectionalised and equipment furnished in duplicate, or two complete plats shall be installed, each size for 50% of the load, to facilitate maintenance and repairs.     /     Tất cả các bộ phận đều có thể được sectionalised, hoặc lắp đặt hai trạm máy hoàn chỉnh ,mỗi trạm phụ trách 50% tải, để tạo điều kiện cho bảo dưỡng và sửa chữa</seg>
       </tuv>
     </tu>
     <tu>
@@ -9081,6 +9154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discharge of treated water to soak-a-ways or water courses should be monitors on a regular basis to ensure out fall content is not hazardous to the local environment. Assess suitability of site with regard to reed-bed filtration for the treatment of grey/waste water for the development.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083631Z" creationid="Kieu Lan" creationdate="20210824T083631Z">
+        <seg>Discharge of treated water to soak-a-ways or water courses should be monitors on a regular basis to ensure out fall content is not hazardous to the local environment. Assess suitability of site with regard to reed-bed filtration for the treatment of grey/waste water for the development.     /     Do </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discoloration</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011734Z" creationid="Kieu Lan" creationdate="20210816T011734Z">
@@ -9642,6 +9723,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Earthing &amp; Earth Leakage Protection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083830Z" creationid="Kieu Lan" creationdate="20210824T083802Z">
+        <seg>Earthing&amp; Earth Leakage Protection     /     Nối đất và bảo vệ chống rò điện đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Earthing and Bonding</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T082851Z" creationid="Kieu Lan" creationdate="20210810T082851Z">
@@ -9668,8 +9757,8 @@
       <tuv lang="EN-US">
         <seg>Earthing&amp; Earth Leakage Protection</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T022132Z" creationid="Kieu Lan" creationdate="20210814T022132Z">
-        <seg>Earthing&amp; Earth Leakage Protection     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083827Z" creationid="Kieu Lan" creationdate="20210814T022132Z">
+        <seg>Earthing&amp; Earth Leakage Protection     /     Nối đất và bảo vệ chống rò điện đất</seg>
       </tuv>
     </tu>
     <tu>
@@ -9742,6 +9831,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210720T013558Z" creationid="LanHK" creationdate="20210720T013558Z">
         <seg>Efficient Chilled Water Distribution shall be provided to include:     /     Hệ thống phân phối nước mát hiệu quả cần phải được cung cấp các tính năn sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Efficient and economical Vertical Power distribution system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083726Z" creationid="Kieu Lan" creationdate="20210824T083726Z">
+        <seg>Efficient and economical Vertical power distribution system     /     Hệ thống phân phối theo chiều dọc hiệu quả và kinh tế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Efficient power distribution system of Guest Room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083832Z" creationid="Kieu Lan" creationdate="20210824T083832Z">
+        <seg>Efficient power distribution system of Guest room     /     Hệ thống phân phối điện hiệu quả cho phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -10231,6 +10336,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T114700Z" creationid="Kieu Lan" creationdate="20210815T114700Z">
         <seg>Entry to front office     /     Lối vào văn phòng lễ tân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Environment and energy conservation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083628Z" creationid="Kieu Lan" creationdate="20210824T083616Z">
+        <seg>Environment and energy conservation     /     Bảo vệ môi trường và tiết kiệm năng lượng</seg>
       </tuv>
     </tu>
     <tu>
@@ -14166,6 +14279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inefficient and Uneconomical Vertical power distribution system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083722Z" creationid="Kieu Lan" creationdate="20210824T083722Z">
+        <seg>Inefficient and Uneconomical Vertical power distribution system     /     Hệ thống phân phối theo chiều dọc không hiệu quả và không kinh tế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Infiltration heat loss and gain</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035403Z" creationid="Kieu Lan" creationdate="20210721T034943Z">
@@ -14860,6 +14981,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key Design issues</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083948Z" creationid="Kieu Lan" creationdate="20210824T083948Z">
+        <seg>Key Design Issues     /     Các vấn đề thiết kế chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key card control in guestrooms, if provided, shall only reset room temperature set points when unoccupied, and</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210809T083347Z" creationid="Kieu Lan" creationdate="20210719T023613Z">
@@ -15524,6 +15653,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighting Protection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083757Z" creationid="Kieu Lan" creationdate="20210824T083748Z">
+        <seg>Lightning Protection     /     Chống sét</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighting Systems Controls</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T062249Z" creationid="Kieu Lan" creationdate="20210805T062249Z">
@@ -16088,8 +16225,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>MECHANICAL SERVICES</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T081315Z">
-        <seg>MECHANICAL SERVICES    /    Các máy móc</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T084134Z" creationid="LanHK" creationdate="20210525T081315Z">
+        <seg>MECHANICAL SERVICES    /    Các hệ thống cơ học</seg>
       </tuv>
     </tu>
     <tu>
@@ -16569,8 +16706,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Mechanical Services such as:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025513Z" creationid="Kieu Lan" creationdate="20210806T025513Z">
-        <seg>Mechanical Services such as:     /     Các máy móc cơ như</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T084122Z" creationid="Kieu Lan" creationdate="20210806T025513Z">
+        <seg>Mechanical Services such as:     /     Các hệ thống cơ học như</seg>
       </tuv>
     </tu>
     <tu>
@@ -16609,8 +16746,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Mechanical services, system included</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T083300Z">
-        <seg>Mechanical services, system included    /    Các máy móc, hệ thống bao gồm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T084147Z" creationid="LanHK" creationdate="20210525T083300Z">
+        <seg>Mechanical services, system included    /    Hệ thống cơ học bao gồm</seg>
       </tuv>
     </tu>
     <tu>
@@ -18001,6 +18138,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PLUMBING &amp; DRAINAGE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083849Z" creationid="Kieu Lan" creationdate="20210824T083849Z">
+        <seg>PLUMBING &amp; DRAINAGE     /     Hệ Thống Bơm và Thoát Nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POOR</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020742Z" creationid="Kieu Lan" creationdate="20210805T020742Z">
@@ -18881,6 +19026,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140434Z" creationid="Kieu Lan" creationdate="20210814T140434Z">
         <seg>Please note that all compact fluorescent (CF) and Fluorescent (F) should becolour temperature 3000 K and a color rendition (Ra) of equal to or greater than 85.     /     Lưu ý: tất cả đèn huỳnh quang compact (CF) và huỳnh quang (F) phải có nhiệt độ màu là 3000 K và độ hiển thị màu (Ra) bằng hoặc lớn hơn 85.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plumbing Services, System included</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083943Z" creationid="Kieu Lan" creationdate="20210824T083924Z">
+        <seg>Plumbing services, system included    /    Hệ thống bơm, bao gồm</seg>
       </tuv>
     </tu>
     <tu>
@@ -20854,6 +21007,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Schedule of essential/Critical Services generator Loads</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083736Z" creationid="Kieu Lan" creationdate="20210824T083736Z">
+        <seg>Schedule of Essential/Critical Services Generator Loads     /     Mô tả các tải máy phát trọng yếu / thiết yếu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Schematic Comparision of stack options for high rise</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T123303Z" creationid="Kieu Lan" creationdate="20210820T123303Z">
@@ -20952,8 +21113,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Security System</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083359Z" creationid="Kieu Lan" creationdate="20210810T083359Z">
-        <seg> Security System     /     Hệ thống an ninh</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083836Z" creationid="Kieu Lan" creationdate="20210810T083359Z">
+        <seg>Security System     /     Hệ thống an ninh</seg>
       </tuv>
     </tu>
     <tu>
@@ -22442,6 +22603,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131935Z" creationid="Kieu Lan" creationdate="20210815T131935Z">
         <seg>Sulphates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary of Design Requirement</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083859Z" creationid="Kieu Lan" creationdate="20210824T083853Z">
+        <seg>Summary of Design Requirements     /     Tổng kết các yêu cầu thiết kế</seg>
       </tuv>
     </tu>
     <tu>
@@ -25718,9 +25887,25 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typical MV Distribution with Primary Loop</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083650Z" creationid="Kieu Lan" creationdate="20210824T083650Z">
+        <seg>Typical MV Distribution with Primary Loop     /     Phân phối điện trung thế với vòng mạch sơ cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Typical Power Loads for Hotel Areas</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T041110Z" creationid="Kieu Lan" creationdate="20210806T041110Z">
+        <seg>Typical Power Loads for Hotel Areas     /     Các phụ tại điển hình trong các khu vực khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Power Loads for Hotel areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083644Z" creationid="Kieu Lan" creationdate="20210824T083644Z">
         <seg>Typical Power Loads for Hotel Areas     /     Các phụ tại điển hình trong các khu vực khách sạn</seg>
       </tuv>
     </tu>
@@ -26187,8 +26372,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Vertical Power distribution system</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T024157Z" creationid="Kieu Lan" creationdate="20210810T024157Z">
-        <seg>Vertical Power distribution system</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083715Z" creationid="Kieu Lan" creationdate="20210810T024157Z">
+        <seg>Vertical Power distribution system     /     Hệ thống phân phối theo chiều dọc</seg>
       </tuv>
     </tu>
     <tu>
