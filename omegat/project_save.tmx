@@ -8215,6 +8215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cost</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041805Z" creationid="Kieu Lan" creationdate="20210824T041805Z">
+        <seg>Cost     /     Chi phí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cost of various fuel sources</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065236Z" creationid="Kieu Lan" creationdate="20210817T065236Z">
