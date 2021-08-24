@@ -22098,6 +22098,15 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <note>civil costs là gì?</note>
+      <tuv lang="EN-US">
+        <seg>System costs higher than conventional technologies (app. 30 % higher), but allow reduced civil costs and provide much better effluent quality which is safe for reuse.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T042911Z" creationid="Kieu Lan" creationdate="20210824T042911Z">
+        <seg>System costs higher than conventional technologies (app. 30 % higher), but allow reduced civil costs and provide much better effluent quality which is safe for reuse.     /     Chi phí hệ thống cao hơn các công nghệ thông thường khoảng 30%, nhưng giúp giảm civil costs và chất lượng nước sau xử lý tốt hơn nhiều, an toàn để tái sử dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>System description</seg>
       </tuv>
@@ -23060,6 +23069,22 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T095834Z" creationid="Kieu Lan" creationdate="20210806T095834Z">
         <seg>The electrical supply must have a reliability of &gt; 99.988%. If a supply of this reliability is not</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The electro-mechanical cost is higher but Civil cost is reduced due to smaller aeration tank.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T042943Z" creationid="Kieu Lan" creationdate="20210824T042943Z">
+        <seg>The electro-mechanical cost is higher but Civil cost is reduced due to smaller aeration tank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The electro-mechanical cost is lesser but civil cost is invariably high, due to high area requirement for aeration tank.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T042948Z" creationid="Kieu Lan" creationdate="20210824T042942Z">
+        <seg>The electro-mechanical cost is lesser but civil cost is invariably high, due to high area requirement for aeration tank.     /     Chi phí cơ - điện  thấp hơn nhưng chi phí civil costs luôn luôn cao do cần</seg>
       </tuv>
     </tu>
     <tu>
