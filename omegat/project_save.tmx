@@ -4075,6 +4075,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.6.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T060932Z" creationid="Kieu Lan" creationdate="20210824T060932Z">
+        <seg>6.6.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.9 bar - 27.6 bar</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143511Z" creationid="Kieu Lan" creationdate="20210820T143511Z">
@@ -23075,16 +23083,24 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The electro-mechanical cost is higher but Civil cost is reduced due to smaller aeration tank.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T042943Z" creationid="Kieu Lan" creationdate="20210824T042943Z">
-        <seg>The electro-mechanical cost is higher but Civil cost is reduced due to smaller aeration tank.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T060915Z" creationid="Kieu Lan" creationdate="20210824T042943Z">
+        <seg>The electro-mechanical cost is higher but Civil cost is reduced due to smaller aeration tank.     /     Chi phí cơ - điện  cao hơn nhưng chi phí civil costs thấp hơn do cần diện tích lớn cho bể hiếu khí</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The electro-mechanical cost is lesser but civil cost is invariably high, due to high area requirement for aeration tank.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T042948Z" creationid="Kieu Lan" creationdate="20210824T042942Z">
-        <seg>The electro-mechanical cost is lesser but civil cost is invariably high, due to high area requirement for aeration tank.     /     Chi phí cơ - điện  thấp hơn nhưng chi phí civil costs luôn luôn cao do cần</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T060857Z" creationid="Kieu Lan" creationdate="20210824T042942Z">
+        <seg>The electro-mechanical cost is lesser but civil cost is invariably high, due to high area requirement for aeration tank.     /     Chi phí cơ - điện  thấp hơn nhưng chi phí civil costs luôn luôn cao do cần diện tích lớn cho bể hiếu khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The electro-mechanical cost is reduced but Civil cost is higher.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T060931Z" creationid="Kieu Lan" creationdate="20210824T060931Z">
+        <seg>The electro-mechanical cost is reduced but Civil cost is higher.     /     Chi phí cơ - điện  cao hơn nhưng chi phí civil costs thấp hơn</seg>
       </tuv>
     </tu>
     <tu>
