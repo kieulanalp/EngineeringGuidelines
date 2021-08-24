@@ -4083,6 +4083,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.6.4</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070437Z" creationid="Kieu Lan" creationdate="20210824T070437Z">
+        <seg>6.6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.9 bar - 27.6 bar</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143511Z" creationid="Kieu Lan" creationdate="20210820T143511Z">
@@ -8821,6 +8829,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061314Z" creationid="Kieu Lan" creationdate="20210805T061314Z">
         <seg>Displacement ventilation is one of the most efficient methods of conditioning high spaces, such as Convention centers, lobbies and atriums.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disposal of effluent may include leaching fields and or seepage pits where discharge to surface waters is not permitted. For disposal of sludge, drying beds may be considered. However primary consideration should be given to the use of local disposal facilities.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070436Z" creationid="Kieu Lan" creationdate="20210824T070436Z">
+        <seg>Disposal of effluent may include leaching fields and or seepage pits where discharge to surface waters is not permitted. For disposal of sludge, drying beds may be considered. However primary consideration should be given to the use of local disposal facilities.     /     Phương án xả nước đã xử lý bao gồm để ngấm đất hoặc bể tự thấm nếu không được phép xả ra nguồn nước mở. Đối với việc xử lý bùn thải, có thể cân nhắc dùng sân phơi bùn. Tuy nhiên cần phải chú ý cân nhắc sử dụng cơ sở vật chất cho chất thải của địa phương</seg>
       </tuv>
     </tu>
     <tu>
@@ -21287,6 +21303,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070551Z" creationid="Kieu Lan" creationdate="20210824T070551Z">
+        <seg>Source     /     Nguồn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>South-East Europe</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T082838Z" creationid="Kieu Lan" creationdate="20210713T082838Z">
@@ -21387,6 +21411,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143433Z" creationid="Kieu Lan" creationdate="20210820T143420Z">
         <seg>Specification     /     Thông số vật liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification and application</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070549Z" creationid="Kieu Lan" creationdate="20210824T070549Z">
+        <seg>Specification and application     /     Thông số và ứng dụng</seg>
       </tuv>
     </tu>
     <tu>
