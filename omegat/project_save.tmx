@@ -4419,6 +4419,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.6.7</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T094139Z" creationid="Kieu Lan" creationdate="20210824T094139Z">
+        <seg>6.6.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.9 bar - 27.6 bar</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143511Z" creationid="Kieu Lan" creationdate="20210820T143511Z">
@@ -8278,6 +8286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commissioning and Testing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T094149Z" creationid="Kieu Lan" creationdate="20210824T094149Z">
+        <seg>Commissioning and Testing     /     Vận hành thử và kiểm tra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Communication and integration layer: This layer consists of the communication networks and the communication controllers called gateways. The gateways fulfil three principal tasks:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T111513Z" creationid="Kieu Lan" creationdate="20210815T111513Z">
@@ -9180,8 +9196,8 @@
       <tuv lang="EN-US">
         <seg>Discharge of treated water to soak-a-ways or water courses should be monitors on a regular basis to ensure out fall content is not hazardous to the local environment. Assess suitability of site with regard to reed-bed filtration for the treatment of grey/waste water for the development.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083631Z" creationid="Kieu Lan" creationdate="20210824T083631Z">
-        <seg>Discharge of treated water to soak-a-ways or water courses should be monitors on a regular basis to ensure out fall content is not hazardous to the local environment. Assess suitability of site with regard to reed-bed filtration for the treatment of grey/waste water for the development.     /     Do </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T093906Z" creationid="Kieu Lan" creationdate="20210824T083631Z">
+        <seg>Discharge of treated water to soak-a-ways or water courses should be monitors on a regular basis to ensure out fall content is not hazardous to the local environment. Assess suitability of site with regard to reed-bed filtration for the treatment of grey/waste water for the development.     /     Xả nước đã qua xử lý ra khu vực để tự thấm hoặc ra nguồn nước cần phải được theo dõi thường xuyên để đảm bảo nước xả ra không gây hại cho môi trường. Đánh giá liệu dự án có phù hợp áp dụng phương pháp lọc nước bằng cây sậy để xử lý nước xám / nước thải.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21917,8 +21933,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Space Allocation</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T092808Z" creationid="Kieu Lan" creationdate="20210824T092808Z">
-        <seg>Space Allocation</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T093935Z" creationid="Kieu Lan" creationdate="20210824T092808Z">
+        <seg>Space Allocation     /     Vị trí</seg>
       </tuv>
     </tu>
     <tu>
@@ -24619,6 +24635,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064704Z" creationid="Kieu Lan" creationdate="20210705T064704Z">
         <seg>The sequence must then be repeated continuously until manually silenced.     /     Toàn bộ chu trình phải được nhắc lại liên tục cho tới khi được tắt bằng tay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sewage disposal plant should be situated at a lower level than the development, adjacent to roadway or hard standing or at a maximum distance of 30 metres from the nearest road. Access route from roadway to plant area should avoid occupied areas, either internally or externally (e.g., bathing areas tennis courts, etc.).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T094138Z" creationid="Kieu Lan" creationdate="20210824T093917Z">
+        <seg>The sewage disposal plant should be situated at a lower level than the development, adjacent to roadway or hard standing or at a maximum distance of 30 metres from the nearest road. Access route from roadway to plant area should avoid occupied areas, either internally or externally (e.g., bathing areas tennis courts, etc.).     /     Trạm xả nước thải nên được bố trí ở vị trí thấp hơn so với dự án, gần đường đi, khu đỗ xe hoặc ở vị trí cách tuyến đường gần nhất tối đa 30m. Đường tiếp cận trạm xả nước nên tránh các khu vực có người, kể cả bên trong và bên ngoài (khu tắm của sân tennis, etc)</seg>
       </tuv>
     </tu>
     <tu>
