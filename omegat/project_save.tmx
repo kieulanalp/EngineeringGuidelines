@@ -16690,8 +16690,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Mechanical Services</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082653Z" creationid="Kieu Lan" creationdate="20210714T082653Z">
-        <seg>Mechanical Services    /    Các máy móc</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T084208Z" creationid="Kieu Lan" creationdate="20210714T082653Z">
+        <seg>Mechanical Services    /    Các hệ thống cơ học</seg>
       </tuv>
     </tu>
     <tu>
@@ -16714,8 +16714,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Mechanical Services, Systems Included</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T034614Z" creationid="LanHK" creationdate="20210715T034614Z">
-        <seg>Mechanical Services, Systems Included     /     Các máy móc, hệ thống bao gồm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T084217Z" creationid="LanHK" creationdate="20210715T034614Z">
+        <seg>Mechanical Services, Systems Included     /     Các hệ thống cơ học bao gồm</seg>
       </tuv>
     </tu>
     <tu>
@@ -24256,8 +24256,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The main mechanical services that are included within the designer’s responsibility:-</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210715T034641Z" creationid="LanHK" creationdate="20210715T034641Z">
-        <seg>The main mechanical services that are included within the designer’s responsibility:-     /     Các máy móc chính bao gồm trong trách nhiệm của thiết kế:</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T084258Z" creationid="LanHK" creationdate="20210715T034641Z">
+        <seg>The main mechanical services that are included within the designer’s responsibility:-     /     Các hệ thống cơ học chính thuộc trách nhiệm của thiết kế:</seg>
       </tuv>
     </tu>
     <tu>
