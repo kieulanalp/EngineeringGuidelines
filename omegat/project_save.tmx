@@ -769,6 +769,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1. Power Requirements increased in comparison to other systems (additional operation of membranes)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041548Z" creationid="Kieu Lan" creationdate="20210824T041548Z">
+        <seg>1. Power Requirements increased in comparison to other systems (additional operation of membranes)     /     Cần nhiều năng lượng hơn so với các hệ thống khác (cần vận hành thêm các màng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1. Pre- treatment is absolutely necessary, or else the media may get clogged.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041628Z" creationid="Kieu Lan" creationdate="20210824T041606Z">
+        <seg>1. Pre- treatment is absolutely necessary, or else the media may get clogged.     /     Bắt buộc cần xử lý trước, nếu không giá thể có thể bị tắc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1. THIS IS AN INDICATIVE LAYOUT TO ILLUSTRATE HOW THE IHG REÛUIRED LIGHTING LEVELS FROM TABLE 4.3 OF THE HEP STANDARDS CAN BE ACHIEVED, IN THIS CASE WITH AN EFFICIENCY OF APPROXIMATELY 70Lm/W. DESIGNERS CAN PROPOSE ALTERNATIVE LAYOUTS PROVIDING THE LIGHTING LEVELS ARE ACHIEVED AT AN AVERAGE EFFICIENCY OF GREATER THAN SQLm/W.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T162638Z" creationid="Kieu Lan" creationdate="20210814T155632Z">
@@ -1273,6 +1289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>15.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041716Z" creationid="Kieu Lan" creationdate="20210824T041716Z">
+        <seg>15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15.1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045021Z" creationid="Kieu Lan" creationdate="20210806T045021Z">
@@ -1525,6 +1549,30 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T162015Z" creationid="Kieu Lan" creationdate="20210814T155641Z">
         <seg>2. All wiring and equipment installation standards must be in accordance with the local regulations for the country the hotel is being constructed in.     /     Tất cả tiêu chuẩn về lắp đặt dây nối và thiết bị phải tuân thủ quy chuẩn quốc gia nơi khách sạn được xây dựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2. Membranes have a life time generally 5-8 years.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041557Z" creationid="Kieu Lan" creationdate="20210824T041557Z">
+        <seg>2. Membranes have a life time generally 5-8 years.     /     Tuổi thọ của màng thường từ 5-8 năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2. Not suitable for higher flows.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041709Z" creationid="Kieu Lan" creationdate="20210824T041709Z">
+        <seg>2. Not suitable for higher flows.     /     Không phù hợp với lưu lượng cao hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2. Not suitable for very higher flows, above 2-3 MLD.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041645Z" creationid="Kieu Lan" creationdate="20210824T041645Z">
+        <seg>2. Not suitable for very higher flows, above 2-3 MLD.     /     Không phù hợp với lưu lượng cao quá 2-3 MLD</seg>
       </tuv>
     </tu>
     <tu>
@@ -8681,6 +8729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disadvantages</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041529Z" creationid="Kieu Lan" creationdate="20210824T041529Z">
+        <seg>Disadvantages     /     Khuyết điểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disadvantages are:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T084210Z" creationid="LanHK" creationdate="20210702T084210Z">
@@ -12663,6 +12719,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T170429Z" creationid="Kieu Lan" creationdate="20210822T170429Z">
         <seg>High due to larger detention time.     /     Cao hơn, do thời gian lưu nước lâu hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High space required and high power requirement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041611Z" creationid="Kieu Lan" creationdate="20210824T041606Z">
+        <seg>High space required and high power requirement.     /     Cần nhiều diện tích và tiêu tốn năng lượng</seg>
       </tuv>
     </tu>
     <tu>
@@ -18695,6 +18759,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre-treatment is absolutely necessary, or else the media may get clogged.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041700Z" creationid="Kieu Lan" creationdate="20210824T041700Z">
+        <seg>Pre- treatment is absolutely necessary, or else the media may get clogged.     /     Bắt buộc cần xử lý trước, nếu không giá thể có thể bị tắc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preferred System Components</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T025412Z" creationid="Kieu Lan" creationdate="20210816T025412Z">
@@ -18811,6 +18883,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T121118Z" creationid="Kieu Lan" creationdate="20210822T121118Z">
         <seg>Process Involved     /     Quy trình liên quan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process controlled more complicated.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041716Z" creationid="Kieu Lan" creationdate="20210824T041716Z">
+        <seg>Process controlled more complicated.     /     Điều khiển quy trình phức tạp</seg>
       </tuv>
     </tu>
     <tu>
@@ -20884,10 +20964,26 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sludge is digested and can be disposed off.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041520Z" creationid="Kieu Lan" creationdate="20210824T041520Z">
+        <seg>Sludge is digested and can be disposed off.     /     Bùn được phân hủy và có thể loại bỏ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sludge is recycled back to the SAFF Reactor from the secondary settling tank.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T164233Z" creationid="Kieu Lan" creationdate="20210822T164233Z">
         <seg>Sludge is recycled back to the SAFF Reactor from the secondary settling tank.     /     Bùn được hồi lại vào bể SAFF từ bể lắng thứ cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sludge is totally digested and can be disposed off easily.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041510Z" creationid="Kieu Lan" creationdate="20210824T041510Z">
+        <seg>Sludge is totally digested and can be disposed off easily.     /     Bùn được phân hủy hoàn toàn và dễ loại bỏ</seg>
       </tuv>
     </tu>
     <tu>
