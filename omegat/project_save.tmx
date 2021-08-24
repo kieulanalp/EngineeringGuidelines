@@ -12531,6 +12531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grease Traps</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T100744Z" creationid="Kieu Lan" creationdate="20210824T100744Z">
+        <seg>Grease Traps     /     Bẫy mỡ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grease traps to be provided for all kitchen areas, external to the building, in a location accessible by vehicles for cleaning.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T031219Z" creationid="Kieu Lan" creationdate="20210820T031033Z">
