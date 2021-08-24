@@ -4307,6 +4307,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.3.4</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T092806Z" creationid="Kieu Lan" creationdate="20210824T092806Z">
+        <seg>6.3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.4</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T092806Z" creationid="Kieu Lan" creationdate="20210824T092806Z">
+        <seg>6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.4.1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T044559Z" creationid="Kieu Lan" creationdate="20210821T044559Z">
@@ -4391,6 +4407,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083617Z" creationid="Kieu Lan" creationdate="20210824T083615Z">
         <seg>6.6.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.6.6</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T092807Z" creationid="Kieu Lan" creationdate="20210824T092807Z">
+        <seg>6.6.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -13102,8 +13126,8 @@
       <tuv lang="EN-US">
         <seg>Heating</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025632Z" creationid="Kieu Lan" creationdate="20210806T025610Z">
-        <seg>Heating Systems     /     Hệ thống sưởi</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T092805Z" creationid="Kieu Lan" creationdate="20210806T025610Z">
+        <seg>Heating     /     Hệ thống sưởi</seg>
       </tuv>
     </tu>
     <tu>
@@ -21887,6 +21911,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T084620Z" creationid="Kieu Lan" creationdate="20210713T084620Z">
         <seg>Southern Africa     /     Nam Phi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Space Allocation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T092808Z" creationid="Kieu Lan" creationdate="20210824T092808Z">
+        <seg>Space Allocation</seg>
       </tuv>
     </tu>
     <tu>
