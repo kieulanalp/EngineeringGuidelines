@@ -5782,6 +5782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All compartments should be sectionalised and equipment furnished in duplicate, or two complete plats shall be installed, each size for 50% of the load, to facilitate maintenance and repairs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T081133Z" creationid="Kieu Lan" creationdate="20210824T080938Z">
+        <seg>All compartments should be sectionalised and equipment furnished in duplicate, or two complete plats shall be installed, each size for 50% of the load, to facilitate maintenance and repairs.     /     Tất cả các bộ phận đều có thể </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All controls for</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061351Z" creationid="Kieu Lan" creationdate="20210805T061351Z">
@@ -22117,6 +22125,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Standby Provisions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T080942Z" creationid="Kieu Lan" creationdate="20210824T080936Z">
+        <seg>Standby Provisions     /     Phương án dự phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standby lighting is provided to enable a prolonged occupation of the building upon failure of the electrical supply. This could be to mitigate against business interruption or to avoid immediate evacuation of the building.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T075554Z" creationid="LanHK" creationdate="20210702T075554Z">
@@ -24248,8 +24264,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The plant should be based on 5 day B.O.D (Biochemical Oxygen Demand) capacity as scheduled above, with loading of 0.37 kilos per m.3 (23.0 lbs. /1000 cu. Ft.) The preferred system is the extended aeration plant.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T073857Z" creationid="Kieu Lan" creationdate="20210824T073857Z">
-        <seg>The plant should be based on 5 day B.O.D (Biochemical Oxygen Demand) capacity as scheduled above, with loading of 0.37 kilos per m.3 (23.0 lbs. /1000 cu. Ft.) The preferred system is the extended aeration plant.     /     Trạm xử lý nước nên dựa trên </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T080755Z" creationid="Kieu Lan" creationdate="20210824T073857Z">
+        <seg>The plant should be based on 5 day B.O.D (Biochemical Oxygen Demand) capacity as scheduled above, with loading of 0.37 kilos per m.3 (23.0 lbs. /1000 cu. Ft.) The preferred system is the extended aeration plant.     /     Trạm xử lý nước nên dựa trên nhu cầu oxy sinh hóa trong 5 ngày. </seg>
       </tuv>
     </tu>
     <tu>
