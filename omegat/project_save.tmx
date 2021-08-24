@@ -1161,6 +1161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>13</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041257Z" creationid="Kieu Lan" creationdate="20210824T041257Z">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13.9</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093213Z" creationid="Kieu Lan" creationdate="20210806T093213Z">
@@ -12675,6 +12683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Higher BOD loads cannot be efficiently removed maximum 90% BOD removal.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041256Z" creationid="Kieu Lan" creationdate="20210824T041256Z">
+        <seg>Higher BOD loads cannot be efficiently removed maximum 90% BOD removal.     /     Hiệu suất loại bỏ BOD không cao, tối đa 90%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Higher capital costs</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T062711Z" creationid="LanHK" creationdate="20210729T062711Z">
@@ -15568,8 +15584,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>MBR produces highest quality tertiary quality bacteria-free effluent which safely allows direct recycling without further steps. Highest efficiency at all; BOD&gt;99%, COD &gt; 95%, no bacteria and viruses in effluent</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T031851Z" creationid="Kieu Lan" creationdate="20210824T031851Z">
-        <seg>MBR produces highest quality tertiary quality bacteria-free effluent which safely allows direct recycling without further steps. Highest efficiency at all; BOD&gt;99%, COD &gt; 95%, no bacteria and viruses in effluent</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041221Z" creationid="Kieu Lan" creationdate="20210824T031851Z">
+        <seg>MBR produces highest tertiary quality bacteria-free effluent which safely allows direct recycling without further steps. Highest efficiency at all; BOD&gt;99%, COD &gt; 95%, no bacteria and viruses in effluent     /     MBR đem lại chất lượng nước sau xử lý tốt nhất, không có vi khuẩn, cho phép tái chế trực tiếp mà không cần các bước sau. Hiệu suất cao nhất; BOD&gt;99%, COD &gt; 95%, không còn virus, vi khuẩn sau khi xử lý</seg>
       </tuv>
     </tu>
     <tu>
@@ -20860,6 +20876,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sludge</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041259Z" creationid="Kieu Lan" creationdate="20210824T041259Z">
+        <seg>Sludge     /     Bùn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sludge is recycled back to the SAFF Reactor from the secondary settling tank.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T164233Z" creationid="Kieu Lan" creationdate="20210822T164233Z">
@@ -25487,8 +25511,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Very efficient. High BOD loads can be removed up to 98%.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T031851Z" creationid="Kieu Lan" creationdate="20210824T031851Z">
-        <seg>Very efficient. High BOD loads can be removed up to 98%.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041239Z" creationid="Kieu Lan" creationdate="20210824T031851Z">
+        <seg>Very efficient. High BOD loads can be removed up to 98%.     /     Hiệu suất cao. BOD có thể được loại bỏ lên đến 98%</seg>
       </tuv>
     </tu>
     <tu>
