@@ -473,6 +473,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0.060 kilos</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070629Z" creationid="Kieu Lan" creationdate="20210824T070629Z">
+        <seg>0.060 kilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0.1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061256Z" creationid="Kieu Lan" creationdate="20210805T061256Z">
@@ -2197,6 +2205,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061300Z" creationid="Kieu Lan" creationdate="20210805T061300Z">
         <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>230 litres/day</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070625Z" creationid="Kieu Lan" creationdate="20210824T070625Z">
+        <seg>230 litres/day     /     230 l/ngày</seg>
       </tuv>
     </tu>
     <tu>
@@ -12427,6 +12443,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guests</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070619Z" creationid="Kieu Lan" creationdate="20210824T070619Z">
+        <seg>Guests     /     Khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guidelines for Plant space Required</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T081135Z" creationid="LanHK" creationdate="20210717T022859Z">
@@ -17496,6 +17520,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Organic Loading</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070615Z" creationid="Kieu Lan" creationdate="20210824T070615Z">
+        <seg>Organic Loading     /     Lượng chất hữu cơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other Fire Suppression System</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T080540Z" creationid="LanHK" creationdate="20210525T080540Z">
@@ -19880,6 +19912,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resorts and Japan Tropical</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070652Z" creationid="Kieu Lan" creationdate="20210824T070652Z">
+        <seg>Resorts and Japan Tropical     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restaurant</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064751Z" creationid="LanHK" creationdate="20210715T063418Z">
@@ -20784,6 +20824,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T044558Z" creationid="Kieu Lan" creationdate="20210821T044558Z">
         <seg>Sewage Disposal Systems     /     Hệ thống cống thải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sewage Flow/Person (5-day B.O.D)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070607Z" creationid="Kieu Lan" creationdate="20210824T070607Z">
+        <seg>Sewage Flow/Person (5-day B.O.D)     /     Lưu lượng nước thải/người (BOD 5 ngày)</seg>
       </tuv>
     </tu>
     <tu>
