@@ -8617,6 +8617,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design of all sewage treatment plants must conform to all local health codes. If local health codes are not available, the sewage treatment plant should be designed on the basis of the following minimum standards.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T061923Z" creationid="Kieu Lan" creationdate="20210824T061923Z">
+        <seg>Design of all sewage treatment plants must conform to all local health codes. If local health codes are not available, the sewage treatment plant should be designed on the basis of the following minimum standards.     /     Thiết kế tất cả các hệ thống xử lý nước thải phải tuân thủ tất cả các quy định tiêu chuẩn y tế địa phương. Nếu không có, STP phải được thiết kế tuân theo các tiêu chuẩn tối thiểu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design of the substation must be strictly in accordance with the local supply authority requirements. Provide signed approval from Local Supply Authority for substation design.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T045304Z" creationid="Kieu Lan" creationdate="20210714T082201Z">
