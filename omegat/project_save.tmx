@@ -641,6 +641,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>00</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070958Z" creationid="Kieu Lan" creationdate="20210824T070958Z">
+        <seg>00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>01</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070959Z" creationid="Kieu Lan" creationdate="20210824T070959Z">
+        <seg>01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0116</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070957Z" creationid="Kieu Lan" creationdate="20210824T070953Z">
+        <seg>0116</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>02</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>02.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>02.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0C db</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061409Z" creationid="Kieu Lan" creationdate="20210805T061409Z">
@@ -809,10 +849,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.0</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.0 l/s/m2</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210805T061410Z">
         <seg>1.0 l/s/m²</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071001Z" creationid="Kieu Lan" creationdate="20210824T071001Z">
+        <seg>1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071001Z" creationid="Kieu Lan" creationdate="20210824T071001Z">
+        <seg>1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071002Z" creationid="Kieu Lan" creationdate="20210824T071002Z">
+        <seg>1.3</seg>
       </tuv>
     </tu>
     <tu>
@@ -1473,6 +1545,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>17.12.13</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>17.12.13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>17045</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061431Z" creationid="Kieu Lan" creationdate="20210805T061431Z">
@@ -1501,6 +1581,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142639Z" creationid="Kieu Lan" creationdate="20210820T142639Z">
         <seg>18-27 db</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>18.02.2013</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070955Z" creationid="Kieu Lan" creationdate="20210824T070955Z">
+        <seg>18.02.2013</seg>
       </tuv>
     </tu>
     <tu>
@@ -1597,6 +1685,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075629Z">
         <seg>2. Retail tenants to be provided with cold water supply only if space is greater than 10 m².     /     Khu retail chỉ được cấp đường nước lạnh nếu không gian lớn hơn 10m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.0</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071007Z" creationid="Kieu Lan" creationdate="20210824T071007Z">
+        <seg>2.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -2209,6 +2305,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>23.11.13</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>23.11.13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>23.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071011Z" creationid="Kieu Lan" creationdate="20210824T071011Z">
+        <seg>23.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>230 litres/day</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070625Z" creationid="Kieu Lan" creationdate="20210824T070625Z">
@@ -2261,6 +2373,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061420Z" creationid="Kieu Lan" creationdate="20210805T061420Z">
         <seg>24 max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>24.11.15</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>24.11.15</seg>
       </tuv>
     </tu>
     <tu>
@@ -2581,6 +2701,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142639Z" creationid="Kieu Lan" creationdate="20210820T142639Z">
         <seg>30-40 db</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>30.07.13</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070959Z" creationid="Kieu Lan" creationdate="20210824T070959Z">
+        <seg>30.07.13</seg>
       </tuv>
     </tu>
     <tu>
@@ -4159,6 +4287,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134908Z" creationid="Kieu Lan" creationdate="20210820T134908Z">
         <seg>60°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>61</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071011Z" creationid="Kieu Lan" creationdate="20210824T071011Z">
+        <seg>61</seg>
       </tuv>
     </tu>
     <tu>
@@ -6408,6 +6544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B. Wormald</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070959Z" creationid="Kieu Lan" creationdate="20210824T070959Z">
+        <seg>B. Wormald</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BACK OF HOUSE AC SYSTEM COMPARISON TABLE</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044024Z" creationid="Kieu Lan" creationdate="20210805T044010Z">
@@ -6580,6 +6724,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061414Z" creationid="Kieu Lan" creationdate="20210805T061414Z">
         <seg>Bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Barry Wormald</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>Barry Wormald</seg>
       </tuv>
     </tu>
     <tu>
@@ -7640,6 +7792,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T023247Z" creationid="Kieu Lan" creationdate="20210814T023247Z">
         <seg>Centralized control system of guest room application provides a robust communications solution for hotel with energy management and integrated room automation systems. It gives room monitoring and control capabilities and provides efficient information presentation to staff and management. The central software communicates with room intelligent devices such as digital thermostat and a variety of light switches, controllers and communication devices.     /     Hệ thống điều khiển tập trung trong ứng dụng phòng khách cung cấp giải pháp liên lạc mạnh mẽ cho khách sạn với hệ thống quản lý năng lượng và tự động hóa phòng tích hợp. Nó cung cấp khả năng giám sát và kiểm soát phòng và cung cấp thông tin hiệu quả cho nhân viên và quản lý. Phần mềm trung tâm giao tiếp với các thiết bị thông minh trong phòng như bộ điều nhiệt kỹ thuật số và nhiều loại công tắc đèn, bộ điều khiển và thiết bị liên lạc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071014Z" creationid="Kieu Lan" creationdate="20210824T071014Z">
+        <seg>Change room</seg>
       </tuv>
     </tu>
     <tu>
@@ -11297,6 +11457,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food preparation area</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071012Z" creationid="Kieu Lan" creationdate="20210824T071012Z">
+        <seg>Food preparation area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For Comment</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T071056Z" creationid="LanHK" creationdate="20210525T071056Z">
@@ -13164,6 +13332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hoyce Ho</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>Hoyce Ho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Human Safety &amp; Protection</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T033014Z" creationid="Kieu Lan" creationdate="20210811T033014Z">
@@ -14378,6 +14554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>J. Grazebrook</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070958Z" creationid="Kieu Lan" creationdate="20210824T070958Z">
+        <seg>J. Grazebrook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JBar Fridge</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T025832Z" creationid="Kieu Lan" creationdate="20210814T025800Z">
@@ -14452,6 +14636,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Job No.:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T070952Z" creationid="Kieu Lan" creationdate="20210824T070952Z">
+        <seg>Job No.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Joining method</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T084546Z" creationid="Kieu Lan" creationdate="20210804T084546Z">
@@ -14480,6 +14672,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T092505Z" creationid="Kieu Lan" creationdate="20210804T092505Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jon Arrenberg comments</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>Jon Arrenberg comments</seg>
       </tuv>
     </tu>
     <tu>
@@ -14720,6 +14920,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011915Z" creationid="Kieu Lan" creationdate="20210816T011915Z">
         <seg>Kitchen wash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen/</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071011Z" creationid="Kieu Lan" creationdate="20210824T071011Z">
+        <seg>Kitchen/</seg>
       </tuv>
     </tu>
     <tu>
@@ -15100,6 +15308,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lew Ochnik</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>Lew Ochnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Life Expectancy</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040755Z" creationid="Kieu Lan" creationdate="20210802T040755Z">
@@ -15273,6 +15489,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103136Z" creationid="LanHK" creationdate="20210602T103131Z">
         <seg>Linen chutes must be located in housekeeping rooms or service areas on the guestroom floors and should not open directly into guestroom corridors. Smoke detection must be provided in the housekeeping rooms.        /       Ống thả đồ giặt phải được bố trí trong phòng housekeeping hoặc khu dịch vụ trên tầng phòng khách và không được mở trực tiếp ra hành lang phòng khách. Phải có đầu báo khói trong phòng housekeeping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linen/</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071015Z" creationid="Kieu Lan" creationdate="20210824T071015Z">
+        <seg>Linen/</seg>
       </tuv>
     </tu>
     <tu>
@@ -17882,6 +18106,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 141</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071011Z" creationid="Kieu Lan" creationdate="20210824T071011Z">
+        <seg>Page: 141</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 142</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T025912Z" creationid="Kieu Lan" creationdate="20210814T025912Z">
@@ -19323,6 +19555,9 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     <tu>
       <note>RCD’s to power</note>
       <tuv lang="EN-US">
+        <seg>RCD’s to power</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071011Z">
         <seg>RCD’s to power</seg>
       </tuv>
     </tu>
@@ -21626,6 +21861,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Staff Dining/</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071012Z" creationid="Kieu Lan" creationdate="20210824T071012Z">
+        <seg>Staff Dining/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Staff Kitchen</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094725Z" creationid="LanHK" creationdate="20210715T064436Z">
@@ -21943,6 +22186,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113013Z" creationid="Kieu Lan" creationdate="20210815T112926Z">
         <seg>Subsystems     /     Hệ thống con</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sudhish Sharma</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
+        <seg>Sudhish Sharma</seg>
       </tuv>
     </tu>
     <tu>
