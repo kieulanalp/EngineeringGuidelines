@@ -24445,6 +24445,15 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <note>The samples should be taken at periods which approximate the flow rates specified by the plant.</note>
+      <tuv lang="EN-US">
+        <seg>The performance of the system should be demonstrated by taking hourly samples of the raw sewage and final effluent over a twelve hour period, freezing each sample as it is taken. The samples should be taken at periods which approximate the flow rates specified by the plant. The samples shall be combined and a 5 day B.O.D run, the results of which must verify the treatment plant’s capacity, prior to acceptance, at less than 20ppm. Plant performance, other than guarantees, must be specified to start one year after start-up, demonstrating plant performance under minimum 50% loading.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T095933Z" creationid="Kieu Lan" creationdate="20210824T095933Z">
+        <seg>The performance of the system should be demonstrated by taking hourly samples of the raw sewage and final effluent over a twelve hour period, freezing each sample as it is taken. The samples should be taken at periods which approximate the flow rates specified by the plant. The samples shall be combined and a 5 day B.O.D run, the results of which must verify the treatment plant’s capacity, prior to acceptance, at less than 20ppm. Plant performance, other than guarantees, must be specified to start one year after start-up, demonstrating plant performance under minimum 50% loading.     /     Hiệu suất của hệ thống cần phải được xác định bằng cách lấy mẫu chất thải thô và nước đã qua xử lý mỗi tiếng đồng hồ trong một khoảng thời gian 12 tiếng, cấp đông các mẫu ngay khi lấy. mẫu được lấy theo giai đoạn, tương ứng với lưu lượng được xác định tại trạm xử lý nước thải. Các mẫu phải được kết hợp và kết quả của quá trình chạy B.O.D trong 5 ngày phải xác minh công suất của nhà máy xử lý ở mức dưới 20ppm, trước khi được chấp nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>chịu</note>
       <tuv lang="EN-US">
         <seg>The perimeter zoning</seg>
