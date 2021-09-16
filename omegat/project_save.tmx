@@ -7274,6 +7274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Below are the suggested target temperatures for various types of pool</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061058Z" creationid="Kieu Lan" creationdate="20210916T061058Z">
+        <seg>Below are the suggested target temperatures for various types of pool     /     Dưới đây gợi ý nhiệt độ cần đạt được đối với các loại bể bơi khác nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Benchmarking Demand/Consumption</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T031638Z" creationid="Kieu Lan" creationdate="20210806T030042Z">
@@ -15741,6 +15749,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leisure Pool</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061116Z" creationid="Kieu Lan" creationdate="20210916T061116Z">
+        <seg>Leisure Pool     /     Bể bơi thường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leisure and fitness (separately metered)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T070124Z" creationid="Kieu Lan" creationdate="20210810T070124Z">
@@ -19378,6 +19394,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T091427Z" creationid="Kieu Lan" creationdate="20210814T091404Z">
         <seg>Pool Deck     /     Xung quanh bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool Type</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061111Z" creationid="Kieu Lan" creationdate="20210916T061111Z">
+        <seg>Pool Type     /     Loại bể bơi</seg>
       </tuv>
     </tu>
     <tu>
@@ -23396,6 +23420,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054231Z" creationid="Kieu Lan" creationdate="20210916T030422Z">
         <seg>Table 6.7.2.1     /     Bảng 6.7.2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 6.7.2.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061106Z" creationid="Kieu Lan" creationdate="20210916T061106Z">
+        <seg>Table 6.7.2.2     /     Bảng 6.7.2.2</seg>
       </tuv>
     </tu>
     <tu>
