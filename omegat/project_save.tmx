@@ -5435,6 +5435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A single plant room should serve multiple pools, arranged with run and standby facilities to minimise disruption to pool use during plant maintenance. Pipework distribution should be arranged so that any pool, whatever pool size, will have a minimum of 2 suction/drain connections on the circuit to the pump. Shortcircuiting of water should be avoided. Pools with high numbers of infant usage should have a higher circulation rate than those for adult use. Circulation pumps should be run and standby.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T071045Z" creationid="Kieu Lan" creationdate="20210916T071045Z">
+        <seg>A single plant room should serve multiple pools, arranged with run and standby facilities to minimise disruption to pool use during plant maintenance. Pipework distribution should be arranged so that any pool, whatever pool size, will have a minimum of 2 suction/drain connections on the circuit to the pump. Shortcircuiting of water should be avoided. Pools with high numbers of infant usage should have a higher circulation rate than those for adult use. Circulation pumps should be run and standby.     /     Một phòng máy duy nhất phục vụ nhiều bể bơi, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A specific cause and effect matrix and flow chart shall be produced for each hotel to be relevant for the actual systems installed.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T040608Z" creationid="Kieu Lan" creationdate="20210713T040450Z">
