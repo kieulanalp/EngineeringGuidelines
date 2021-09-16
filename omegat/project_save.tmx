@@ -1601,6 +1601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>16°C to 20°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061351Z" creationid="Kieu Lan" creationdate="20210916T061351Z">
+        <seg>16°C - 20°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>17.1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045023Z" creationid="Kieu Lan" creationdate="20210806T045023Z">
@@ -2585,6 +2593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>26°C to 27°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061139Z" creationid="Kieu Lan" creationdate="20210916T061139Z">
+        <seg>26°C - 27°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>27</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061301Z" creationid="Kieu Lan" creationdate="20210805T061301Z">
@@ -2633,6 +2649,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>27°C to 29°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061120Z" creationid="Kieu Lan" creationdate="20210916T061120Z">
+        <seg>27°C - 29°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>28 max</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061420Z" creationid="Kieu Lan" creationdate="20210805T061420Z">
@@ -2653,6 +2677,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045045Z" creationid="Kieu Lan" creationdate="20210806T045045Z">
         <seg>28.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>28°C to 30°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061128Z" creationid="Kieu Lan" creationdate="20210916T061128Z">
+        <seg>28°C - 30°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -2941,6 +2973,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T072832Z" creationid="Kieu Lan" creationdate="20210824T072832Z">
         <seg>350 litres/day     /     350 l/ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>35°C to 40°C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061352Z" creationid="Kieu Lan" creationdate="20210916T061352Z">
+        <seg>35°C to 40°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -9427,6 +9467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diving/Competition Pool</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061135Z" creationid="Kieu Lan" creationdate="20210916T061135Z">
+        <seg>Diving/Competition Pool     /     Bể bơi nhảy cầu/thi đấu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Document Title:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070122Z">
@@ -15085,6 +15133,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jacuzzi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061351Z" creationid="Kieu Lan" creationdate="20210916T061351Z">
+        <seg>Jacuzzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jet fan technology to limit the amount of supply and extract ductwork where ductless plenum systems are not feasible, in conjunction with efficient plant positioning (may require CFD analysis).</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071820Z" creationid="Kieu Lan" creationdate="20210804T071820Z">
@@ -19310,6 +19366,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plunge Pool - Adjacent Saunas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061348Z" creationid="Kieu Lan" creationdate="20210916T061348Z">
+        <seg>Plunge Pool - Adjacent Saunas     /     Bể bơi ngâm - cạnh sauna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Point of Sale Outlets</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T121307Z" creationid="Kieu Lan" creationdate="20210809T121307Z">
@@ -19410,6 +19474,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210807T092907Z" creationid="LanHK" creationdate="20210715T072606Z">
         <seg>Pool hall internal temperature should be designed 1°C above maximum pool water temperature.     /     Nhiệt độ sảnh bể bơi trong nhà nên duy trì cao hơn 1°C so với nhiệt độ nước bể bơi tối đa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool plant should be self regulating and include automatic monitoring of pH levels chemical levels and temperatures maintaining acceptable levels.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061352Z" creationid="Kieu Lan" creationdate="20210916T061352Z">
+        <seg>Pool plant should be self regulating and include automatic monitoring of pH levels chemical levels and temperatures maintaining acceptable levels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26927,6 +26999,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>W_08 Ozone Water Treatment    /    Chemical Reduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wading/Paddling Pool</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061125Z" creationid="Kieu Lan" creationdate="20210916T061125Z">
+        <seg>Wading/Paddling Pool     /     Bể nước nông</seg>
       </tuv>
     </tu>
     <tu>
