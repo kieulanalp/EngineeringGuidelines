@@ -14287,6 +14287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In those areas where the water supply is limited, the storm piping may discharge into a cistern for use of non- potable system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T022628Z" creationid="Kieu Lan" creationdate="20210916T022628Z">
+        <seg>In those areas where the water supply is limited, the storm piping may discharge into a cistern for use of non- potable system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inc. flush floor boxes</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064956Z" creationid="Kieu Lan" creationdate="20210809T064956Z">
@@ -19652,6 +19660,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T074811Z" creationid="LanHK" creationdate="20210715T034801Z">
         <seg>Provide a comfortable odour free temperature controlled environment for occupants up to 24 hours a day.     /     Cung cấp cho khách một môi trường thoải mái, không mùi, với nhiệt độ được kiểm soát lên đến 24h/ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide a complete system of storm drainage piping inside the building, collecting water from all roof areas, setback areas, plazas, etc. Connect to headers and, in turn, connect to house drains which will discharge into a storm sewer, combination sewer, ocean, rain water cisterns, or swale, as conditions dictate. All drainage below gravity level should be collected and drained into a sump and then pumped into the storm house drain. Pumps should be in duplicate and be provided with emergency power where available.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T022546Z" creationid="Kieu Lan" creationdate="20210916T022546Z">
+        <seg>Provide a complete system of storm drainage piping inside the building, collecting water from all roof areas, setback areas, plazas, etc. Connect to headers and, in turn, connect to house drains which will discharge into a storm sewer, combination sewer, ocean, rain water cisterns, or swale, as conditions dictate. All drainage below gravity level should be collected and drained into a sump and then pumped into the storm house drain. Pumps should be in duplicate and be provided with emergency power where available.      /     Cung cấp một hệ thống đường ống thoát nước mưa hoàn chỉnh trong tòa nhà, thu gom nước từ tất cả các khu vực mái, </seg>
       </tuv>
     </tu>
     <tu>
