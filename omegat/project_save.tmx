@@ -1249,6 +1249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>120 to 180 mg/l</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054334Z" creationid="Kieu Lan" creationdate="20210916T054334Z">
+        <seg>120 to 180 mg/l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>121</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T061430Z" creationid="Kieu Lan" creationdate="20210806T061430Z">
@@ -4603,6 +4611,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.2 to 7.8</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054328Z" creationid="Kieu Lan" creationdate="20210916T054328Z">
+        <seg>7.2 - 7.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.4 to 7.6</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054330Z" creationid="Kieu Lan" creationdate="20210916T054330Z">
+        <seg>7.4 - 7.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>700</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061427Z" creationid="Kieu Lan" creationdate="20210805T061427Z">
@@ -4631,6 +4655,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061259Z" creationid="Kieu Lan" creationdate="20210805T061259Z">
         <seg>75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>75 to 250mg/l</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054339Z" creationid="Kieu Lan" creationdate="20210916T054331Z">
+        <seg>75 - 250mg/l</seg>
       </tuv>
     </tu>
     <tu>
@@ -5560,6 +5592,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T121004Z" creationid="Kieu Lan" creationdate="20210822T080341Z">
         <seg>Absolutely mandatory to protect the ultra-filtration membranes. Typically 3mm screening will be used in front of the biological process and grease must be removed via a grease trap or DAF.     /     Bắt buộc có để bảo vệ các màng tinh lọc. Thông thường một màn lọc 3mm sẽ được sử dụng trước pha vi sinh và dầu mỡ/chất nhờn cần phải được loại bỏ qua bẫy mỡ hoặc DAF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acceptable Range</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054318Z" creationid="Kieu Lan" creationdate="20210916T054316Z">
+        <seg>Acceptable Range     /     Khoảng chấp nhận được</seg>
       </tuv>
     </tu>
     <tu>
@@ -13941,6 +13981,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ideal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054321Z" creationid="Kieu Lan" creationdate="20210916T054317Z">
+        <seg>Ideal     /     Lý tưởng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If 2 hour enclosure is provided, only dry type electrical equipment is installed and dedicated room w/o storage.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093801Z" creationid="LanHK" creationdate="20210713T093801Z">
@@ -18294,6 +18342,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143051Z" creationid="Kieu Lan" creationdate="20210820T143051Z">
         <seg>PEX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054324Z" creationid="Kieu Lan" creationdate="20210916T054324Z">
+        <seg>pH</seg>
       </tuv>
     </tu>
     <tu>
@@ -23314,8 +23370,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Table 6.7.2.1</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T030422Z" creationid="Kieu Lan" creationdate="20210916T030422Z">
-        <seg>Table 6.7.2.1</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054231Z" creationid="Kieu Lan" creationdate="20210916T030422Z">
+        <seg>Table 6.7.2.1     /     Bảng 6.7.2.1</seg>
       </tuv>
     </tu>
     <tu>
