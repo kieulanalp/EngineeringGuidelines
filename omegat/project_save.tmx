@@ -19542,6 +19542,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Potable/Pre-treated Water Top-up</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063415Z" creationid="Kieu Lan" creationdate="20210916T063358Z">
+        <seg>Potable/Pre-treated Water Top-up     /     Bù nước có thể uống/đã xử lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Potassium</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131942Z" creationid="Kieu Lan" creationdate="20210815T131942Z">
@@ -25974,6 +25982,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Top-up With Pre-treated Water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063347Z" creationid="Kieu Lan" creationdate="20210916T063347Z">
+        <seg>Top-up With Pre-treated Water     /     Bù nước bằng nước đã qua xử lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total Dissolved Solids</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054718Z" creationid="Kieu Lan" creationdate="20210916T054718Z">
@@ -29137,6 +29153,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131621Z" creationid="Kieu Lan" creationdate="20210815T131621Z">
         <seg>pH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pH Level Control</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063356Z" creationid="Kieu Lan" creationdate="20210916T063356Z">
+        <seg>pH Level Control     /     Kiểm soát mức pH</seg>
       </tuv>
     </tu>
     <tu>
