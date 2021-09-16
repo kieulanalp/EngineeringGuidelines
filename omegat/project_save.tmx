@@ -24349,6 +24349,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The filtration selected should achieve a visibility of at least 12m giving clear views of all parts of the pool bottom.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T073854Z" creationid="Kieu Lan" creationdate="20210916T073854Z">
+        <seg>The filtration selected should achieve a visibility of at least 12m giving clear views of all parts of the pool bottom.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The final system selection shall be subject to verification from a technical submission, including a full life cycle cost/benefit analysis, by the designer, and approval by InterContinental Hotels Group.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T070702Z" creationid="Kieu Lan" creationdate="20210719T070702Z">
