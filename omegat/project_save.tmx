@@ -4459,6 +4459,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.9.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T025006Z" creationid="Kieu Lan" creationdate="20210916T025006Z">
+        <seg>6.9.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -22887,6 +22895,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Swimming Pool systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T025005Z" creationid="Kieu Lan" creationdate="20210916T025005Z">
+        <seg>Swimming Pool systems     /     Hệ thống bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switchgear rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032524Z" creationid="Kieu Lan" creationdate="20210810T032443Z">
@@ -25528,6 +25544,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110115Z" creationid="Kieu Lan" creationdate="20210815T110115Z">
         <seg>This section covers the provision of access control, intruder alarms, hold-up alarms, guard tour, guest room control, and closed circuit surveillance television (CCTV) systems.     /     Mục này bao gồm các hạng mục kiểm soát truy cập,báo động  đột nhập, báo động cướp, hệ thống ghi dữ liệu tuần tra bảo vệ, điều khiển phòng khách và hệ thống CCTV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This shall be provided wherever possible with a typical re-charge pit illustrated as follows:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T025001Z" creationid="Kieu Lan" creationdate="20210916T025001Z">
+        <seg>This shall be provided wherever possible with a typical re-charge pit illustrated as follows:-     /     Luôn bố trí nếu có thể kèm hố nạp lại nước ngầm theo như hình sau</seg>
       </tuv>
     </tu>
     <tu>
