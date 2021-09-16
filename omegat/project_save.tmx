@@ -11369,6 +11369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filtered Deposits to Drain/Non Potable systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T064243Z" creationid="Kieu Lan" creationdate="20210916T064243Z">
+        <seg>Filtered Deposits to Drain/Non Potable systems     /     Nước đã lọc thải đến ga thoát/hoặc hệ thống nước không uống được</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filtration and Discharge to Drain</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063215Z" creationid="Kieu Lan" creationdate="20210916T063215Z">
@@ -17773,6 +17781,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142638Z" creationid="Kieu Lan" creationdate="20210820T142638Z">
         <seg>Noise reduction     /     Tiêu âm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-Potable Top-up Prior to Treatment Process</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T064047Z" creationid="Kieu Lan" creationdate="20210916T064047Z">
+        <seg>Non-Potable Top-up Prior to Treatment Process     /     Bù nước không uống được trước quá trình xử lý</seg>
       </tuv>
     </tu>
     <tu>
