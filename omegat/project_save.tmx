@@ -23312,6 +23312,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 6.7.2.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T030422Z" creationid="Kieu Lan" creationdate="20210916T030422Z">
+        <seg>Table 6.7.2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table top</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T085241Z" creationid="Kieu Lan" creationdate="20210814T085241Z">
@@ -24676,6 +24684,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T031845Z" creationid="Kieu Lan" creationdate="20210824T031845Z">
         <seg>The power failure disrupts the process and greatly disturbs if there is a temperature change.     /     Mất điện gây gián đoạn quy trình và ảnh hưởng rất lớn nếu có thay đổi nhiệt độ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The preferred water quality is as follows:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T030049Z" creationid="Kieu Lan" creationdate="20210916T030049Z">
+        <seg>The preferred water quality is as follows:     /     Chất lượng nước được ưu tiên như sau:</seg>
       </tuv>
     </tu>
     <tu>
