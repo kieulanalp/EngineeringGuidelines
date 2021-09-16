@@ -4435,6 +4435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.8.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T023704Z" creationid="Kieu Lan" creationdate="20210916T023704Z">
+        <seg>6.8.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.9 bar - 27.6 bar</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143511Z" creationid="Kieu Lan" creationdate="20210820T143511Z">
@@ -14289,8 +14297,8 @@
       <tuv lang="EN-US">
         <seg>In those areas where the water supply is limited, the storm piping may discharge into a cistern for use of non- potable system.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T022628Z" creationid="Kieu Lan" creationdate="20210916T022628Z">
-        <seg>In those areas where the water supply is limited, the storm piping may discharge into a cistern for use of non- potable system.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T023703Z" creationid="Kieu Lan" creationdate="20210916T022628Z">
+        <seg>In those areas where the water supply is limited, the storm piping may discharge into a cistern for use of non- potable system.     /     Trong các khu vực hạn chế về nguồn cấp nước, hệ thống ống thoát nước mưa có thể xả vào một bể chứa riêng dành cho nước không uống được </seg>
       </tuv>
     </tu>
     <tu>
@@ -19666,8 +19674,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Provide a complete system of storm drainage piping inside the building, collecting water from all roof areas, setback areas, plazas, etc. Connect to headers and, in turn, connect to house drains which will discharge into a storm sewer, combination sewer, ocean, rain water cisterns, or swale, as conditions dictate. All drainage below gravity level should be collected and drained into a sump and then pumped into the storm house drain. Pumps should be in duplicate and be provided with emergency power where available.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T022546Z" creationid="Kieu Lan" creationdate="20210916T022546Z">
-        <seg>Provide a complete system of storm drainage piping inside the building, collecting water from all roof areas, setback areas, plazas, etc. Connect to headers and, in turn, connect to house drains which will discharge into a storm sewer, combination sewer, ocean, rain water cisterns, or swale, as conditions dictate. All drainage below gravity level should be collected and drained into a sump and then pumped into the storm house drain. Pumps should be in duplicate and be provided with emergency power where available.      /     Cung cấp một hệ thống đường ống thoát nước mưa hoàn chỉnh trong tòa nhà, thu gom nước từ tất cả các khu vực mái, </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T023631Z" creationid="Kieu Lan" creationdate="20210916T022546Z">
+        <seg>Provide a complete system of storm drainage piping inside the building, collecting water from all roof areas, setback areas, plazas, etc. Connect to headers and, in turn, connect to house drains which will discharge into a storm sewer, combination sewer, ocean, rain water cisterns, or swale, as conditions dictate. All drainage below gravity level should be collected and drained into a sump and then pumped into the storm house drain. Pumps should be in duplicate and be provided with emergency power where available.      /     Cung cấp một hệ thống đường ống thoát nước mưa hoàn chỉnh trong tòa nhà, thu gom nước từ tất cả các khu vực mái, sân hiên, v.v. Kết nối vào các đầu nối, và các ga thoát ra các đường ống thoát nước mưa, kết hợp bể hoặc hố trũng chứa nước cống, nước biển, nước mưa tùy thuộc điều kiện. Tất cả các đường thoát nước dưới mực nước chảy phải được gom và thoát vào bể phốt và sau đó bơm vào cống thoát nước của tòa nhà. Bơm cần phải được bố trí theo đôi và có nguồn điện dự phòng nếu có điều kiện</seg>
       </tuv>
     </tu>
     <tu>
