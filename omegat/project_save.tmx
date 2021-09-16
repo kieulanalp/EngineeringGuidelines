@@ -9402,6 +9402,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disinfection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063219Z" creationid="Kieu Lan" creationdate="20210916T063219Z">
+        <seg>Disinfection     /     Khử khuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Displacement ventilation is one of the most efficient methods of conditioning high spaces, such as Convention centers, lobbies and atriums.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061314Z" creationid="Kieu Lan" creationdate="20210805T061314Z">
@@ -9430,6 +9438,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091644Z">
         <seg>Distribution Options    /    Các phương thức phân phối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribution System and Pool</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063208Z" creationid="Kieu Lan" creationdate="20210916T063208Z">
+        <seg>Distribution System and Pool     /     Hệ thống phân phối và bể bơi</seg>
       </tuv>
     </tu>
     <tu>
@@ -11349,6 +11365,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T103719Z" creationid="LanHK" creationdate="20210602T103719Z">
         <seg>File resitting chute or chute located In fire resisting shaft        /       Ống chống cháy hoặc ống bố trí trong trục ống chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filtration and Discharge to Drain</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063215Z" creationid="Kieu Lan" creationdate="20210916T063215Z">
+        <seg>Filtration and Discharge to Drain     /     Lọc và thải ra ga thoát</seg>
       </tuv>
     </tu>
     <tu>
@@ -23097,8 +23121,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Swimming Pool System Cycle</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T062739Z" creationid="Kieu Lan" creationdate="20210916T062739Z">
-        <seg>Swimming Pool System Cycle     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063159Z" creationid="Kieu Lan" creationdate="20210916T062739Z">
+        <seg>Swimming Pool System Cycle     /     Vòng tuần hoàn hệ thống bể bơi</seg>
       </tuv>
     </tu>
     <tu>
