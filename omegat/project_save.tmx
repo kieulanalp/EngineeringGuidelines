@@ -5363,6 +5363,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A pressure switch should be fitted prior to the filter for backwash/rinse requirements. Pipework should be installed in polybutlene with corrosion resistant fittings.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T133656Z" creationid="Kieu Lan" creationdate="20210916T133656Z">
+        <seg>A pressure switch should be fitted prior to the filter for backwash/rinse requirements. Pipework should be installed in polybutlene with corrosion resistant fittings.     /     Phải lắp đặt công tắc áp suất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A pressurisation system comprises two main components:-</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T015428Z" creationid="LanHK" creationdate="20210611T015428Z">
