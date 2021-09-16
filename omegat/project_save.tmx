@@ -4427,6 +4427,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.8.1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T020645Z" creationid="Kieu Lan" creationdate="20210916T020645Z">
+        <seg>6.8.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.9 bar - 27.6 bar</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143511Z" creationid="Kieu Lan" creationdate="20210820T143511Z">
@@ -6444,6 +6452,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T040959Z" creationid="LanHK" creationdate="20210602T034211Z">
         <seg>As an alternative to fire dampers if permitted by local codes, ventilation ducts may either be fire resisting or fully enclosed in fire resisting material of the same standard as the structure throughout their entire length.        /       Nếu quy định địa phương cho phép, giải pháp thay thế cho van chặn lửa có thể là ống thông gió chống cháy hoặc được bảo vệ kín hoàn toàn trong vật liệu chống cháy có tiêu chuẩn tương đương với cấu trúc suốt dọc chiều dài ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As an option, a proprietary unit such as “Fatstrippa” may be used, which has considerable benefits, refer to Volume 3 of this manual)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T020622Z" creationid="Kieu Lan" creationdate="20210916T020622Z">
+        <seg>As an option, a proprietary unit such as “Fatstrippa” may be used, which has considerable benefits, refer to Volume 3 of this manual     /     Có thể cân nhắc phương án sử dụng hệ thống chính hãng như "Fatstrippa" với nhiều lợi ích đáng kể, tham khảo tập 3 của hướng dẫn này</seg>
       </tuv>
     </tu>
     <tu>
@@ -22474,6 +22490,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061354Z" creationid="Kieu Lan" creationdate="20210805T061354Z">
         <seg>Storerooms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storm water Drainage System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T020642Z" creationid="Kieu Lan" creationdate="20210916T020642Z">
+        <seg>Storm water Drainage System     /     Hệ thống thoát nước mưa</seg>
       </tuv>
     </tu>
     <tu>
