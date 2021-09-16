@@ -4531,6 +4531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.9.3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T062658Z" creationid="Kieu Lan" creationdate="20210916T062658Z">
+        <seg>6.9.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061258Z" creationid="Kieu Lan" creationdate="20210805T061258Z">
@@ -23083,6 +23091,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083356Z" creationid="Kieu Lan" creationdate="20210810T083356Z">
         <seg>Surge protection devices shall be provided in order to protect equipment from voltage spikes.it helps in reducing downtime of equipment. Also helps in reduction of maintenance cost.     /     Thiết bị bảo vệ chống quá tải cần được cung cấp để bảo vệ thiết bị trong trường hợp điện áp tăng đột ngột. Việc này giúp giảm thời gian thiết bị không hoạt động và giảm chi phí bảo trì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swimming Pool System Cycle</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T062739Z" creationid="Kieu Lan" creationdate="20210916T062739Z">
+        <seg>Swimming Pool System Cycle     /     </seg>
       </tuv>
     </tu>
     <tu>
