@@ -17889,6 +17889,22 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No residual chemicals discharged water can be recycled more</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095905Z" creationid="Kieu Lan" creationdate="20210920T095827Z">
+        <seg>No residual chemicals discharged water can be recycled more readiily     /     Không gây dư đọng chất hóa học nên nước thải ra có thể dễ tái chế hoan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No residue, so water can become contaminated.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095950Z" creationid="Kieu Lan" creationdate="20210920T095950Z">
+        <seg>No residue, so water can become contaminated.     /     Không còn dư lại trong nước, khiến nước có thể bị nhiễm khuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No response after predetermined time delay</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T061058Z" creationid="Kieu Lan" creationdate="20210713T061058Z">
@@ -18341,6 +18357,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045055Z" creationid="LanHK" creationdate="20210715T064453Z">
         <seg>Offices     /     Các văn phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once added, must be removed again prior to use.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095935Z" creationid="Kieu Lan" creationdate="20210920T095935Z">
+        <seg>Once added, must be removed again prior to use.     /     Phải loại bỏ ozone trước khi sử dụng bể bơi</seg>
       </tuv>
     </tu>
     <tu>
@@ -29618,6 +29642,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T080526Z" creationid="LanHK" creationdate="20210729T072653Z">
         <seg>radiant ceiling panels with variable air flow (Patented- selected climates only)     /     Tấm trần bức xạ với VAV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>readily.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095834Z" creationid="Kieu Lan" creationdate="20210920T095834Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
