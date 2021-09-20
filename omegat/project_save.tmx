@@ -7411,6 +7411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bromine additives.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T094222Z" creationid="Kieu Lan" creationdate="20210920T094222Z">
+        <seg>Bromine additives.     /     Sử dụng brom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Building Energy System Commissioning</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T030904Z" creationid="LanHK" creationdate="20210715T030904Z">
@@ -8329,6 +8337,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T063405Z" creationid="Kieu Lan" creationdate="20210824T063355Z">
         <seg>Chlorination equipment (only if discharged to surface waterways or used for irrigation. Not required for effluent to seepage pits or the like).     /     Thiết bị châm clo (chỉ bố trí nếu xả nước ra nguồn nước mở hoặc dùng để tưới tiêu. Không yêu cầu đối với nước xả ra bể tự thấm hoặc tương tự)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chlorine application, via sodium or calcium hypochlorite additives or electrolytically generated in situ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T094211Z" creationid="Kieu Lan" creationdate="20210920T094211Z">
+        <seg>Chlorine application, via sodium or calcium hypochlorite additives or electrolytically generated in situ.     /     Sử dụng clo, thông qua chất phụ gia sodium hoặc calcium hypochlorite hoặc thông qua tạo clo bằng điện phân tại chỗ</seg>
       </tuv>
     </tu>
     <tu>
@@ -18488,6 +18504,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Ozone additives in conjunction with low level chlorination.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T094233Z" creationid="Kieu Lan" creationdate="20210920T094233Z">
+        <seg>Ozone additives in conjunction with low level chlorination.     /     Sử dụng ozone kết hợp với hàm lượng clo thấp</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>có phải public adress??</note>
       <tuv lang="EN-US">
         <seg>PA System</seg>
@@ -26644,6 +26668,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134958Z" creationid="Kieu Lan" creationdate="20210820T134958Z">
         <seg>UV Resistance     /     Chống UV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ultra violet light application with low dilution of chlorine additive.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T094252Z" creationid="Kieu Lan" creationdate="20210920T094252Z">
+        <seg>Ultra violet light application with low dilution of chlorine additive.     /     Sử dụng tia cực tím kết hợp hàm lượng clo thấp</seg>
       </tuv>
     </tu>
     <tu>
