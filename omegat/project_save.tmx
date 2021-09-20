@@ -6488,6 +6488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095445Z" creationid="Kieu Lan" creationdate="20210920T095445Z">
+        <seg>Application     /     Ứng dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applications for Fire Suppression Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094027Z" creationid="LanHK" creationdate="20210713T094027Z">
@@ -15821,6 +15829,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Larger pools with trained maintenance staff, used to handling chlorine.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095504Z" creationid="Kieu Lan" creationdate="20210920T095504Z">
+        <seg>Larger pools with trained maintenance staff, used to handling chlorine.     /     Các bể bơi lớn với nhân viên bảo trì có chuyên môn, quen thuộc với việc sử dụng clo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lasting 1 to 2 seconds</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064402Z" creationid="Kieu Lan" creationdate="20210705T064402Z">
@@ -19960,6 +19976,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Problems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095237Z" creationid="Kieu Lan" creationdate="20210920T095237Z">
+        <seg>Problems     /     Vấn đề</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Problems can occur within guest bathrooms, if the hot water and cold water pressure are not balanced,</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T025027Z" creationid="Kieu Lan" creationdate="20210820T025027Z">
@@ -20876,6 +20900,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Renders discharged water useless for irrigation if it is to be recycled, but can be used for urinal/WC flushing. Fumes can damage building finishes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095441Z" creationid="Kieu Lan" creationdate="20210920T095441Z">
+        <seg>Renders discharged water useless for irrigation if it is to be recycled, but can be used for urinal/WC flushing. Fumes can damage building finishes.     /     Không thể tái sử dụng nước thải ra để tưới tiêu, nhưng có thể dùng để xả bồn tiểu/WC. Khí clo có thể gây hư hại cho hoàn thiện của tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeater fire alarm and detection panel located at security or engineering offices for larger hotel as</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061353Z" creationid="Kieu Lan" creationdate="20210805T061353Z">
@@ -20940,10 +20972,26 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requires careful control can cause irritation of eyes, discolor hair.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095258Z" creationid="Kieu Lan" creationdate="20210920T095258Z">
+        <seg>Requires careful control can cause irritation of eyes, discolor hair.     /     Cần có biện pháp kiểm soát chặt chẽ, có thể gây kích ứng mắt, tẩy màu tóc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting of chilled water supply temperature from the chiller when external conditions allow to maximise chiller</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061441Z" creationid="Kieu Lan" creationdate="20210805T061441Z">
         <seg>Resetting of chilled water supply temperature from the chiller when external conditions allow to maximise chiller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Residual chlorine content in water maintains disinfectant properties in pool after treatment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095232Z" creationid="Kieu Lan" creationdate="20210920T095232Z">
+        <seg>Residual chlorine content in water maintains disinfectant properties in pool after treatment     /     Dư lượng clo trong nước giúp duy trì khả năng khử trùng trong bể bơi sau khi xử lý</seg>
       </tuv>
     </tu>
     <tu>
@@ -26773,6 +26821,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134817Z" creationid="Kieu Lan" creationdate="20210820T125548Z">
         <seg>Unplasticized polyvinyl chloride (uPVC)     /     Polyvinyl clorua không hóa dẻo (UPVC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unpleasant fumes which can be lethal in case of accidental release.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095333Z" creationid="Kieu Lan" creationdate="20210920T095333Z">
+        <seg>Unpleasant fumes which can be lethal in case of accidental release.     /     Mùi khó chịu, có thể gây chết người nếu có sự cố xả clo ra bể</seg>
       </tuv>
     </tu>
     <tu>
