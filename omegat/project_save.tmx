@@ -6271,6 +6271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alternative method of protecting the system is by application of magnetic water conditioners. The conditioners impose a magnetic charge upon the particles suspended in the systems water. This prevents the particles adhering to internal surfaces susceptible to scale such as pump rotors, heating coils, etc. They have also been found to be beneficial to the disinfecting process. Where magnetic water conditioners are provided, pH monitoring and control are still required to maintain levels in the range of 7.2 - 7.8 mentioned above.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210921T013305Z" creationid="Kieu Lan" creationdate="20210921T013305Z">
+        <seg>An alternative method of protecting the system is by application of magnetic water conditioners. The conditioners impose a magnetic charge upon the particles suspended in the systems water. This prevents the particles adhering to internal surfaces susceptible to scale such as pump rotors, heating coils, etc. They have also been found to be beneficial to the disinfecting process. Where magnetic water conditioners are provided, pH monitoring and control are still required to maintain levels in the range of 7.2 - 7.8 mentioned above.     /     Một phương pháp bảo vệ hệ thống là sử dụng các máy xử lý nước từ tính. Máy phát ra từ tính ảnh hưởng đến các vật chất lơ lửng trong hệ thống nước. Nhờ đó các vật chất không bám dính vào bề mặt bên trong dễ bám cặn như motor máy bơm, cuộn sưởi, v.v Máy xử lý từ tính cũng có tác dụng trong quá trình khử khuẩn. Nếu sử dụng máy này, vẫn cần có theo dõi và kiểm soát nồng độ pH để duy trì trong mức 7.2 - 7.8 như đã đề cập ở trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An alternative power supply must be provided to the lift that must start automatically on loss of the primary supply</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T025644Z">
