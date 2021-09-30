@@ -5227,6 +5227,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A central Building Management System (BMS) shall be provided and include a supervisor, comprising central processor unit (CPU), color monitor, keyboard and color printer. The supervisor shall be configured with the latest windows-based operating system and the BMS operational software, including a full graphical user interface.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T023911Z" creationid="Kieu Lan" creationdate="20210930T023911Z">
+        <seg>A central Building Management System (BMS) shall be provided and include a supervisor, comprising of central processor unit (CPU), color monitor, keyboard and color printer. The supervisor shall be configured with the latest windows-based operating system and the BMS operational software, including a full graphical user interface.     /     Một hệ thống BMS phải được cung cấp, có thiết bị để giám sát, bao gồm CPU, màn hình máy tính màu, bàn phím và máy in màu. Thiết bị giám sát phải được cài đặt hệ điều hành windows mới nhất và phần mềm BMS với giao diện đồ họa hoàn chỉnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dedicated AHU shall be provided to serve the kitchen area. The unit shall provide 100% fresh air (no re-circulation permitted) with heat recovery. This air shall be tempered to room conditions (cooled/heated) prior to supply to the kitchen.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T033853Z" creationid="Kieu Lan" creationdate="20210804T033734Z">
