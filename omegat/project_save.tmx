@@ -12642,6 +12642,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full color interactive graphics shall be provided to allow all points to be displayed, together with control set points and real time values.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T075724Z" creationid="Kieu Lan" creationdate="20210930T075724Z">
+        <seg>Full color interactive graphics shall be provided to allow all points to be displayed, together with control set points and real time values.     /     Đồ họa tương tác full màu sẽ được cung cấp, đảm bảo mọi điểm sẽ được thể hiện, cùng với các điểm kiểm saots và giá trị thời gian thực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fully automatic feed and ignition</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T045655Z" creationid="LanHK" creationdate="20210728T045655Z">
