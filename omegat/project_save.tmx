@@ -6072,8 +6072,8 @@
       <tuv lang="EN-US">
         <seg>All analogue inputs shall have at least one high and one low alarm settings to provide alarm monitoring. All commands shall have at least one status point;</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T045807Z" creationid="Kieu Lan" creationdate="20210930T045807Z">
-        <seg>All analogue inputs shall have at least one high and one low alarm settings to provide alarm monitoring. All commands shall have at least one status point;     /     Tất cả phải có cài đặt báo động cao và thấp để theo dõi báo động. Tất cả các lệnh phải có ít nhất</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T071326Z" creationid="Kieu Lan" creationdate="20210930T045807Z">
+        <seg>All analogue inputs shall have at least one high and one low alarm settings to provide alarm monitoring. All commands shall have at least one status point;     /     Tất cả tín hiệu đầu vào analogue phải có cài đặt báo động cao và thấp để theo dõi báo động. Tất cả các lệnh phải có ít nhất một status point</seg>
       </tuv>
     </tu>
     <tu>
