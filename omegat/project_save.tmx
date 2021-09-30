@@ -6399,6 +6399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An uninterrupted power supply system shall be provided to give 4 hours back up in the event of mains supply failure.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T080951Z" creationid="Kieu Lan" creationdate="20210930T080951Z">
+        <seg>An uninterrupted power supply system shall be provided to give 4 hours back up in the event of mains supply failure.     /     Phải có hệ thống lưu điện đảm bảo dự phòng 4h trong trường hợp nguồn điện chính có sự cố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An uninterruptible supply system must be provided to ensure no break in electrical supply must occur to the following services:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044750Z" creationid="Kieu Lan" creationdate="20210810T044641Z">
@@ -10870,8 +10878,8 @@
       <tuv lang="EN-US">
         <seg>Equipment</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T095638Z" creationid="LanHK" creationdate="20210405T095638Z">
-        <seg>Equipment Thiết bị</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T081034Z" creationid="LanHK" creationdate="20210405T095638Z">
+        <seg>Equipment     /     Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -15051,6 +15059,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020819Z" creationid="Kieu Lan" creationdate="20210805T020819Z">
         <seg>Insulation requirement for Chilled water pipes     /     Yêu cầu về bảo ôn với ống nước mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrated BMS/IT systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T081030Z" creationid="Kieu Lan" creationdate="20210930T081030Z">
+        <seg>Integrated BMS/IT systems     /     Hệ thống BMS/IT tích hợp</seg>
       </tuv>
     </tu>
     <tu>
@@ -24389,6 +24405,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061350Z" creationid="Kieu Lan" creationdate="20210805T061350Z">
         <seg>The</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The BMS can be integrated with IT system as illustrated below:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T081018Z" creationid="Kieu Lan" creationdate="20210930T081018Z">
+        <seg>The BMS can be integrated with IT system as illustrated below:     /     Hệ thống BMS có thể được liên kết với hệ thống IT như minh họa sau:</seg>
       </tuv>
     </tu>
     <tu>
