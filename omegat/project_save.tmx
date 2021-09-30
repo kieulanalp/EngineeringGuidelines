@@ -24771,6 +24771,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The design of the system shall allow the co-existence and interoperation of primary HVAC controllers, secondary terminal unit (e.g. guest room) controllers and where required, 3rd party devices (e.g. front desk booking system) in the same network, either directly or via the use of gateways or protocol converters. It shall be possible to make available specific data from the HVAC control system to other 3rd party systems if required (such as electrical equipment, lighting, blinds, etc.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T084131Z" creationid="Kieu Lan" creationdate="20210930T084131Z">
+        <seg>The design of the system shall allow the co-existence and interoperation of primary HVAC controllers, secondary terminal unit (e.g. guest room) controllers and where required, 3rd party devices (e.g. front desk booking system) in the same network, either directly or via the use of gateways or protocol converters. It shall be possible to make available specific data from the HVAC control system to other 3rd party systems if required (such as electrical equipment, lighting, blinds, etc.)     /     Việc thiết kế hệ thống sẽ 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The design of these systems is to ensure they are effective, fit for purpose and will ensure a safe environment for guests and staff whilst simplifying the operation and maintenance of the fire systems as much as practically possible. Section 1.1 of this document identifies acceptable standards to achieve these aims.</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T044501Z" creationid="LanHK" creationdate="20210602T012734Z">
