@@ -10732,6 +10732,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Environment and Energy Conservation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020610Z" creationid="Kieu Lan" creationdate="20210930T020610Z">
+        <seg>Environment and Energy Conservation     /     Bảo vệ môi trường và tiết kiệm năng lượng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Environment and energy conservation</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083628Z" creationid="Kieu Lan" creationdate="20210824T083616Z">
@@ -12014,6 +12022,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T085126Z" creationid="Kieu Lan" creationdate="20210814T085117Z">
         <seg>Floor Level     /     Mức sàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Floor cleaning shall be accomplished by automatic floor cleaners, which shall be provided.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020553Z" creationid="Kieu Lan" creationdate="20210930T020553Z">
+        <seg>Floor cleaning shall be accomplished by automatic floor cleaners, which shall be provided.     /     Sàn bể sẽ được làm sạch bằng máy vệ sinh tự động, máy sẽ được cấp</seg>
       </tuv>
     </tu>
     <tu>
@@ -18653,6 +18669,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135540Z" creationid="Kieu Lan" creationdate="20210814T135540Z">
         <seg>Outdoor Pools     /     Bể bơi ngoài trời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outdoor pools should be covered with an insulating cover when out of use. This not only conserves energy by reducing heat loss outside hours of sunshine effectively and prevents evaporation but also restricts use to when lifeguards/poolside staff are available for supervision. Where possible, “waste water” from filtration backwash should be recycled for WC or urinal flushing.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020806Z" creationid="Kieu Lan" creationdate="20210930T020806Z">
+        <seg>Outdoor pools should be covered with an insulating cover when out of use. This not only conserves energy by reducing heat loss outside hours of sunshine effectively and prevents evaporation but also restricts use to when lifeguards/poolside staff are available for supervision. Where possible, “waste water” from filtration backwash should be recycled for WC or urinal flushing.     /     Bể bơi ngoài trời phải được che bằng tấm phủ cách nhiệt khi không sử dụng, việc này không chỉ tiết kiệm năng lượng thông qua giảm thiểu thoát nhiệt trong lúc không có nắng và tránh bay hơi nước, mà còn hạn chế sử dụng khi không có nhân viên/nhân viên cứu hộ ở đó để giám sát. Nếu có thể, "nước thải" từ bộ lọc rửa ngược nên được tái sử dụng để dội toilet</seg>
       </tuv>
     </tu>
     <tu>
