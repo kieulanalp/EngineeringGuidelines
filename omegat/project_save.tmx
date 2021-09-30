@@ -6111,6 +6111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All controllers shall have the ability to communicate using a network architecture, which shall support multiple levels of communication using an internationally recognized open standard communication network (EIB/KNX, LON, BACNet, TCP/IP, Modbus or equivalent).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T083241Z" creationid="Kieu Lan" creationdate="20210930T083241Z">
+        <seg>All controllers shall have the ability to communicate using a network architecture, which shall support multiple levels of communication using an internationally recognized open standard communication network (EIB/KNX, LON, BACNet, TCP/IP, Modbus or equivalent).     /     Tất cả các bộ điều khiển sẽ có khả năng giao tiếp thông qua kiến trúc mạng có hỗ trợ giao tiếp nhiều cấp độ, sử dụng mạng truyền thông tiêu chuẩn mở được quốc tế công nhận (EIB / KNX, LON, BACNet, TCP / IP, Modbus hoặc tương đương)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All controllers supplied will feature a suite of pre-engineered and pre-tested HVAC applications. No programming is necessary; devices will be configured from a simple user interface. The assignment of inputs and outputs will be automatically configured once the application type has been selected.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T082739Z" creationid="Kieu Lan" creationdate="20210930T082739Z">
