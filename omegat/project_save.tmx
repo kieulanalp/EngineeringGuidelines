@@ -1017,6 +1017,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10% spare outstation capacity shall be provided backed up by the equivalent spare memory within the CPU.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T024706Z" creationid="Kieu Lan" creationdate="20210930T024706Z">
+        <seg>10% spare outstation capacity shall be provided backed up by the equivalent spare memory within the CPU.     /     Phải đảm bảo 10% dung lượng máy outstation, back up bằng dung lượng tương đương trên CPU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10-15</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131621Z" creationid="Kieu Lan" creationdate="20210815T131621Z">
