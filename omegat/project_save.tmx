@@ -25835,8 +25835,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The system shall have the ability for on/off site networking and for interface with hotel management system and guest room controllers.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T080830Z" creationid="Kieu Lan" creationdate="20210930T080830Z">
-        <seg>The system shall have the ability for on/off site networking and for interface with hotel management system and guest room controllers.     /     Hệ thống sẽ cho phép </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T080920Z" creationid="Kieu Lan" creationdate="20210930T080830Z">
+        <seg>The system shall have the ability for on/off site networking and for interface with hotel management system and guest room controllers.     /     Hệ thống sẽ cho phép networking từ trong hoặc ngoài khuôn viên và liên kết với hệ thống quản lý khách sạn và điều khiển phòng khách</seg>
       </tuv>
     </tu>
     <tu>
