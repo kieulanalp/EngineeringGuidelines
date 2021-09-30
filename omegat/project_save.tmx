@@ -6087,6 +6087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All control panels containing outstations shall have the facility of external connection interface for lap top computer to enable set point adjustment to be carried out locally;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T025511Z" creationid="Kieu Lan" creationdate="20210930T025511Z">
+        <seg>All control panels containing outstations shall have the facility of external connection interface for lap top computer to enable set point adjustment to be carried out locally;     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All controls for</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061351Z" creationid="Kieu Lan" creationdate="20210805T061351Z">
