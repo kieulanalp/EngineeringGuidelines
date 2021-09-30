@@ -1,18 +1,18 @@
-Fire Safety	PCCC
-Sprinkler	Sprinkler
-Brand Standards	bộ Tiêu chuẩn Thương hiệu
-Means of Escape	Lối thoát hiểm
-sprinkler protected building	tòa nhà có sprinkler	Guestroom dead-end corridors must not exceed 8m or 15m in a sprinkler protected building
-sealed shut	đóng kín
-escape stair	thang bộ thoát hiểm
-atrium	giếng trời
-guest room	phòng khách
-hotel	khách sạn
-cooling load	phụ tải làm mát
-Fresh Air Load	phụ tải khí tươi
-peak load	phụ tải đỉnh
-chandelier	đèn trần
-guestroom	phòng khách
-recommend	khuyến nghị
-system	hệ thống
-attached growth process	quy trình tăng trưởng vi sinh bám dính
+Fire Safety	PCCC 
+Sprinkler	Sprinkler 
+Brand Standards	bộ Tiêu chuẩn Thương hiệu 
+Means of Escape	Lối thoát hiểm 
+sprinkler protected building	tòa nhà có sprinkler 
+sealed shut	đóng kín 
+escape stair	thang bộ thoát hiểm 
+atrium	giếng trời 
+guest room	phòng khách 
+hotel	khách sạn 
+cooling load	phụ tải làm mát 
+Fresh Air Load	phụ tải khí tươi 
+peak load	phụ tải đỉnh 
+chandelier	đèn trần 
+guestroom	phòng khách 
+recommend	khuyến nghị 
+system	hệ thống 
+attached growth process	quy trình tăng trưởng vi sinh bám dính 
