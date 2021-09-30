@@ -18946,6 +18946,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PC-based operator workstation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T091327Z" creationid="Kieu Lan" creationdate="20210930T091327Z">
+        <seg>PC-based operator workstation     /     Khu làm việc cho người vận hành với máy tính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PENDANT SPRINKLER HEAD SPRINKLER VALVE ARRANGEMENT - REFER TO DETAIL OPPOSITE it 2.7.4</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210803T065357Z" creationid="LanHK" creationdate="20210610T070537Z">
@@ -21667,6 +21675,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120740Z" creationid="Kieu Lan" creationdate="20210821T120740Z">
         <seg>SBR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCADA package running on a Web-browser</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T091339Z" creationid="Kieu Lan" creationdate="20210930T091339Z">
+        <seg>SCADA package running on a Web-browser     /     SCADA package chạy trên trình duyệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -26782,6 +26798,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Touch screens</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T091342Z" creationid="Kieu Lan" creationdate="20210930T091342Z">
+        <seg>Touch screens     /     màn hình cảm ứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Towers can</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061443Z" creationid="Kieu Lan" creationdate="20210805T061443Z">
@@ -28338,6 +28362,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T100503Z" creationid="Kieu Lan" creationdate="20210920T100503Z">
         <seg>Where potable/pre-treated water is available for pool use, introduce the fresh water prior to heating. As a guide, approximately 25 liters of freshwater per bather may be introduced.     /     Nếu có nước uống được / đã qua xử lý để sử dụng trong hồ bơi, bổ sung nước mới trước khi đun nóng. Gợi ý có thể bổ sung khoảng 25 lít nước mới cho mỗi người bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where required, central user operation for the HVAC plant and building zones shall be available, including central monitoring, management and alarm functions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T091313Z" creationid="Kieu Lan" creationdate="20210930T091313Z">
+        <seg>Where required, central user operation for the HVAC plant and building zones shall be available, including central monitoring, management and alarm functions.     /     Nếu cần thiết, vận hành máy HVAC và các zone trong tòa nhà từ một user trung tâm, bao gồm chức năng giám sát, quản lý và báo động trung tâm</seg>
       </tuv>
     </tu>
     <tu>
