@@ -5211,6 +5211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A building Management system is essential in a Hotel for efficient operation and monitoring of the systems and can help achieve the following goals which otherwise would not be readily achievable:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021613Z" creationid="Kieu Lan" creationdate="20210930T021613Z">
+        <seg>A building Management system is essential in a Hotel for efficient operation and monitoring of the systems and can help achieve the following goals which otherwise would not be readily achievable:-     /     Một hệ thống quản lý tòa nhà là không thể thiếu trong việc vận hành hiệu quả và theo dõi các hệ thống trong khách sạn, và hỗ trợ đạt được các mục tiêu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A carbon monoxide detector/alarm is not required in a kitchen. Where the only potential source of CO is gas kitchen equipment, there should be written certification from a professional engineer that it has been installed and complies with local codes and the manufacturers installation instructions</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T092123Z" creationid="Kieu Lan" creationdate="20210629T050101Z">
@@ -7037,6 +7045,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074809Z">
         <seg>BRAND SAFETY    /    TIÊU CHUẨN AN TOÀN THƯƠNG HIỆU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BUILDING MANAGEMENT SYSTEM (BMS)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021500Z" creationid="Kieu Lan" creationdate="20210930T021500Z">
+        <seg>BUILDING MANAGEMENT SYSTEM (BMS)     /     Hệ thống quản lý tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -17040,6 +17056,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Management of operation and maintenance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021632Z" creationid="Kieu Lan" creationdate="20210930T021632Z">
+        <seg>Management of operation and maintenance     /     Quản lý hoạt động vận hành và bảo trì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manganese</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132547Z" creationid="Kieu Lan" creationdate="20210815T132547Z">
@@ -17556,6 +17580,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092329Z" creationid="Kieu Lan" creationdate="20210815T092329Z">
         <seg>Minibar (could share with In Room Entertainment)     /     Có thể chung với hệ thống giải trí trong phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimising the impact of the Hotel on the Environment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021713Z" creationid="Kieu Lan" creationdate="20210930T021713Z">
+        <seg>Minimising the impact of the Hotel on the Environment     /     Giảm thiểu ảnh hưởng của khách sạn đến môi trường</seg>
       </tuv>
     </tu>
     <tu>
@@ -18573,6 +18605,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081231Z" creationid="Kieu Lan" creationdate="20210713T081231Z">
         <seg>Các điều kiện sau xảy ra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimisation of operation with reduction in energy required and running costs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021705Z" creationid="Kieu Lan" creationdate="20210930T021705Z">
+        <seg>Optimisation of operation with reduction in energy required and running costs.     /     Tối ưu hóa vận hành thông qua tiết kiệm điện năng và giảm chi phí hoạt động</seg>
       </tuv>
     </tu>
     <tu>
@@ -20928,6 +20968,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T170544Z" creationid="Kieu Lan" creationdate="20210814T170544Z">
         <seg>Refer to Volume 3 of this manual for an example of LED light in a hotel.     /     Tham khảo Volume 3 trong hướng dẫn này về ví dụ ứng dụng đèn LED trong khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to Volume 3 of this manual for an example of an efficient swimming pool water treatment system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021447Z" creationid="Kieu Lan" creationdate="20210930T021447Z">
+        <seg>Refer to Volume 3 of this manual for an example of an efficient swimming pool water treatment system.     /     Xem Volume 3 của hướng dẫn này để thấy ví dụ về một hệ thống xử lý nước bể bơi hiệu quả</seg>
       </tuv>
     </tu>
     <tu>
@@ -26022,6 +26070,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>There shall be no restrictions on the mix of devices connected to the bus; permissible bus devices include primary HVAC controllers, room units, individual room controllers (terminal units) and devices from third-party manufacturers (EIB    /    KNX). Each bus shall support a minimum number of 60 devices. All bus devices shall reside on the same network without any intermediate interface</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thermal comfort of staff and guests</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021622Z" creationid="Kieu Lan" creationdate="20210930T021622Z">
+        <seg>Thermal comfort of staff and guests     /     Đảm bảo nhiệt độ dễ chịu cho nhân viên và khách</seg>
       </tuv>
     </tu>
     <tu>
