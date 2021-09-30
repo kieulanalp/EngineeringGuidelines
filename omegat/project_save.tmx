@@ -5307,6 +5307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A lap top computer shall be provided with full software package installed complete with password entry; (With Hierarchical Order).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T032016Z" creationid="Kieu Lan" creationdate="20210930T032016Z">
+        <seg>A lap top computer shall be provided with full software package installed complete with password entry; (With Hierarchical Order).     /     Laptop phải có phần mềm đầy đủ tính năng và có kiểm soát truy cập bằng mật khẩu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A lightning protection system is always to be provided to ensure the safe conveyance and dissipation of the lightning energy into the Ground.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210811T033313Z" creationid="Kieu Lan" creationdate="20210811T033313Z">
@@ -6089,8 +6097,8 @@
       <tuv lang="EN-US">
         <seg>All control panels containing outstations shall have the facility of external connection interface for lap top computer to enable set point adjustment to be carried out locally;</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T025511Z" creationid="Kieu Lan" creationdate="20210930T025511Z">
-        <seg>All control panels containing outstations shall have the facility of external connection interface for lap top computer to enable set point adjustment to be carried out locally;     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T031939Z" creationid="Kieu Lan" creationdate="20210930T025511Z">
+        <seg>All control panels containing outstations shall have the facility of external connection interface for lap top computer to enable set point adjustment to be carried out locally;     /     Tất cả các bảng điều khiển có outstation phải hỗ trợ kết nối với laptop để có thể tiến hành điều chỉnh tại chỗ</seg>
       </tuv>
     </tu>
     <tu>
