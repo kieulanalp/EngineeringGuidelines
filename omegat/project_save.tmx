@@ -25833,6 +25833,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system shall have the ability for on/off site networking and for interface with hotel management system and guest room controllers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T080830Z" creationid="Kieu Lan" creationdate="20210930T080830Z">
+        <seg>The system shall have the ability for on/off site networking and for interface with hotel management system and guest room controllers.     /     Hệ thống sẽ cho phép </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system should be complete with the following minimum main components as hereinafter specified:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T062744Z" creationid="Kieu Lan" creationdate="20210824T062744Z">
