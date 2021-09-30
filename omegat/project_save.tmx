@@ -9610,6 +9610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>District heating schemes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020223Z" creationid="Kieu Lan" creationdate="20210930T020223Z">
+        <seg>District heating schemes.     /     Hệ thống sưởi của khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diversity</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043430Z" creationid="Kieu Lan" creationdate="20210802T043430Z">
@@ -10071,6 +10079,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110151Z" creationid="Kieu Lan" creationdate="20210815T110151Z">
         <seg>Each of the above systems must be supplied, installed, tested and commissioned by specialist system suppliers.     /     Mỗi hệ thống đều phải được cung cấp, lắp đặt, kiểm tra và vận hành thử bằng nhà cung cấp chuyên môn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each of these systems should be supplemented with electric, gas or oil fired boilers via heat the exchangers. These should be designed to compensate for times where the initial source is insufficient.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020439Z" creationid="Kieu Lan" creationdate="20210930T020439Z">
+        <seg>Each of these systems should be supplemented with electric, gas or oil fired boilers via heat the exchangers. These should be designed to compensate for times where the initial source is insufficient.     /     Mỗi hệ thống này cần được hỗ trợ bằng nồi hơi điện, ga hoặc dầu thông qua bộ trao đổi nhiệt. Cần phải thiết kế để bù đắp cho những lúc nguồn năng lượng chính không đủ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13508,6 +13524,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heat can also be recovered from within the swimming pool plant from the filtration backwash.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020353Z" creationid="Kieu Lan" creationdate="20210930T020353Z">
+        <seg>Heat can also be recovered from within the swimming pool plant from the filtration backwash.     /     cũng có thể thu hồi nhiệt trong cụm máy bể bơi từ bộ lọc rửa ngược</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heat fusion weld,</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061257Z" creationid="Kieu Lan" creationdate="20210805T061257Z">
@@ -13848,6 +13872,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135128Z" creationid="Kieu Lan" creationdate="20210815T135128Z">
         <seg>Hot and Cold Water Design Criteria.     /     Bảng D - Tiêu chí thiết kế nước nóng và nước lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot springs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020228Z" creationid="Kieu Lan" creationdate="20210930T020228Z">
+        <seg>Hot springs     /     suối nước nóng</seg>
       </tuv>
     </tu>
     <tu>
@@ -19770,6 +19802,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061111Z" creationid="Kieu Lan" creationdate="20210916T061111Z">
         <seg>Pool Type     /     Loại bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool floor cleaning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020528Z" creationid="Kieu Lan" creationdate="20210930T020528Z">
+        <seg>Pool floor cleaning     /     Vệ sinh sàn bể</seg>
       </tuv>
     </tu>
     <tu>
@@ -28010,6 +28050,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095737Z" creationid="Kieu Lan" creationdate="20210920T095737Z">
         <seg>Where large proportion of infant users.     /     Nếu có nhiều trẻ sơ sinh sử dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where more than one swimming pool is served from a single plant, each pool should have its own dedicated heat exchanger, sized to match the duty required.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020512Z" creationid="Kieu Lan" creationdate="20210930T020512Z">
+        <seg>Where more than one swimming pool is served from a single plant, each pool should have its own dedicated heat exchanger, sized to match the duty required.     /     Nếu một cụm máy phục vụ nhiều hơn 1 bể bơi, mỗi bể nên có bộ trao đổi nhiệt riêng với kích thước phù hợp</seg>
       </tuv>
     </tu>
     <tu>
