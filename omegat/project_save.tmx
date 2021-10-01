@@ -6255,6 +6255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All specified control equipment and devices shall be standard proprietary products designed and tested for HVAC control applications, and not custom-designed or adapted specially for each project. Controllers will be preconfigured to suit standard IHG application and functionality. Each device will be fully tested, allowing simple precommissioning at the equipment manufacturers works before delivery to each hotel project.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211001T014637Z" creationid="Kieu Lan" creationdate="20211001T014637Z">
+        <seg>All specified control equipment and devices shall be standard proprietary products designed and tested for HVAC control applications, and not custom-designed or adapted specially for each project. Controllers will be preconfigured to suit standard IHG application and functionality. Each device will be fully tested, allowing simple precommissioning at the equipment manufacturers works before delivery to each hotel project.     /     Tất cả các thiết bị và bộ điều khiển nói trên đều phải là sản phẩm độc quyền tiêu chuẩn được thiết kế và thử nghiệm cho các ứng dụng điều khiển HVAC, và không được thiết kế riêng hoặc điều chỉnh đáp ứng riêng từng dự án. Điều khiển được cài đặt sẵn để đáp ứng với các ứng dụng và chức năng tiêu chuẩn của IHG. Mỗi thiết bị sẽ được test đầy đủ, cho phép vận hành thử đơn giản tại nơi sản xuất trước khi đưa tới mỗi dự án khách sạn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All systems shall operate on refrigerants with zero ODP and low GWP (less than 100) such as R123, R410A,</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061442Z" creationid="Kieu Lan" creationdate="20210805T061442Z">
