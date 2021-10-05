@@ -14831,6 +14831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to facilitate pre-commissioning of the packaged HVAC equipment supplied to the hotels, all BMS controllers and control equipment shall be installed by the original equipment manufacturer (OEM) prior to delivery to site.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211005T082827Z" creationid="Kieu Lan" creationdate="20211005T082827Z">
+        <seg>In order to facilitate pre-commissioning of the packaged HVAC equipment supplied to the hotels, all BMS controllers and control equipment shall be installed by the original equipment manufacturer (OEM) prior to delivery to site.     /     Để tạo điều kiện thuận lợi cho việc vận hành thử các thiết bị HVAC được cung cấp cho khách sạn, tất cả các bộ điều khiển BMS và thiết bị điều khiển phải được lắp đặt bởi nhà sản xuất thiết bị gốc (OEM) trước khi giao hàng đến công trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In rooms or areas with fossil-fuel burning equipment, a carbon monoxide detector/alarm with an automatic shut down device may be connected to the equipment. Such a component can be wired to the fossil-fuel burning equipment and shut it down automatically. In such circumstances signage and restarting restrictions may also apply. Automatic shutdown is not required for power generator.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T092012Z" creationid="Kieu Lan" creationdate="20210629T045457Z">
