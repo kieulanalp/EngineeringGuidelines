@@ -11697,6 +11697,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Final commissioning and where applicable, integration of the control equipment into a network shall be performed by the controls supplier; his approved local partners or approved installers. The control system supplier, his approved local partners or approved installers shall be responsible for all low-voltage control wiring for control equipment and devices provided under this project and to ensure a complete and fully operational system. All control wiring (and, where specified, suitable containment systems) shall comply with the latest edition of local and national regulations for electrical installation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211005T084526Z" creationid="Kieu Lan" creationdate="20211005T084526Z">
+        <seg>Final commissioning and where applicable, integration of the control equipment into a network shall be performed by the controls supplier; his approved local partners or approved installers. The control system supplier, his approved local partners or approved installers shall be responsible for all low-voltage control wiring for control equipment and devices provided under this project and to ensure a complete and fully operational system. All control wiring (and, where specified, suitable containment systems) shall comply with the latest edition of local and national regulations for electrical installation.     /     Việc vận hành thử lần cuối và tích hợp thiết bị điều khiển nếu có vào mạng lưới sẽ được thực hiện bởi nhà cung cấp thiết bị điều khiển, đối tác địa phương được chấp thuận của họ hoặc thợ lắp đặt được phê duyệt. Nhà cung cấp hệ thống điều khiển, các đối tác địa phương được phê duyệt của họ hoặc thợ lắp đặt được phê duyệt phải chịu trách nhiệm về tất cả hệ thống dây nối điện nhẹ cho các bộ điều khiển và thiết bị được cung cấp cho dự án và đảm bảo hệ thống có thể vận hành hoàn chỉnh và đầy đủ. Tất cả hệ thống dây nối (và, nếu có, hệ thống hộp chứa phù hợp) phải tuân theo các quy định địa phương và quốc gia về lắp đặt điện mới nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final exits from the hotel must lead to a place from where people can disperse away from the building and</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T014449Z" creationid="LanHK" creationdate="20210603T014449Z">
@@ -20743,6 +20751,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T042532Z" creationid="Kieu Lan" creationdate="20210820T141910Z">
         <seg>Pushfit couplings     /     Khớp nối ấn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quality assurance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211005T084610Z" creationid="Kieu Lan" creationdate="20211005T084610Z">
+        <seg>Quality assurance     /     Đảm bảo chất lượng</seg>
       </tuv>
     </tu>
     <tu>
