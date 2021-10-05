@@ -13604,6 +13604,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hardware compliance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211005T095706Z" creationid="Kieu Lan" creationdate="20211005T095706Z">
+        <seg>Hardware compliance     /     Tiêu chuẩn cho phần cứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have direct access to a final exit from the building</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T104648Z">
@@ -25907,8 +25915,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The supplier should have proven technical expertise and experience in the manufacture, installation and maintenance of control systems similar in size and complexity to the project. In addition, the supplier should have a competent service organisation and provide a list of (5) projects, similar in size and scope to this project, completed within the last five years.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211005T092109Z" creationid="Kieu Lan" creationdate="20211005T092109Z">
-        <seg>The supplier should have proven technical expertise and experience in the manufacture, installation and maintenance of control systems similar in size and complexity to the project. In addition, the supplier should have a competent service organisation and provide a list of (5) projects, similar in size and scope to this project, completed within the last five years.     /     Nhà cung cấp phải có chuyên môn kỹ thuật và kinh nghiệm có thể xác nhận trong việc sản xuất, lắp đặt và bảo trì các hệ thống điều khiển có quy mô và độ phức tạp tương đương dự án. Ngoài ra, nhà cung cấp cần có một tổ chức dịch vụ có năng lực và cung cấp danh sách (5) dự án với quy mô và phạm vi tương tự như dự án này được hoàn thành trong vòng năm năm qua.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211005T095658Z" creationid="Kieu Lan" creationdate="20211005T092109Z">
+        <seg>The supplier should have proven technical expertise and experience in the manufacture, installation and maintenance of control systems similar in size and complexity to the project. In addition, the supplier should have a competent service organisation and provide a list of (5) projects, similar in size and scope to this project, completed within the last five years.     /     Nhà cung cấp phải có chuyên môn kỹ thuật và kinh nghiệm có thể xác nhận được trong việc sản xuất, lắp đặt và bảo trì các hệ thống điều khiển có quy mô và độ phức tạp tương đương dự án. Ngoài ra, nhà cung cấp cần có khả năng cung cấp dịch vụ và ohải cung cấp danh sách (5) dự án với quy mô và phạm vi tương tự như dự án này được hoàn thành trong vòng năm năm qua.</seg>
       </tuv>
     </tu>
     <tu>
