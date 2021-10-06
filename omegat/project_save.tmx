@@ -4221,8 +4221,8 @@
       <tuv lang="EN-US">
         <seg>5…95 % r.h. (non-condensing)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T070052Z" creationid="Kieu Lan" creationdate="20211006T070052Z">
-        <seg>5…95 % r.h. (non-condensing)     /     Độ ẩm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T070217Z" creationid="Kieu Lan" creationdate="20211006T070052Z">
+        <seg>5…95 % r.h. (non-condensing)     /     Độ ẩm 5…95 % r.h. (không đọng nước)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8640,8 +8640,8 @@
       <tuv lang="EN-US">
         <seg>Class 3M2</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
-        <seg>Class 3m²</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T070246Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>Class 3M2     /     Điều kiện cơ học Cấp 3M2</seg>
       </tuv>
     </tu>
     <tu>
@@ -10327,6 +10327,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065130Z" creationid="LanHK" creationdate="20210610T065128Z">
         <seg>Each pressure zone in the building will be fed by the fire pump with the installation being controlled by a wet sprinkler alarm valve located in an accessible location for the fire brigade to isolate the water supply when necessary.    /    Mỗi khu tăng áp trong tòa nhà có bơm cứu hỏa điều khiển bởi van báo động sprinkler ướt ở một vị trí dễ tiếp cận để lực lượng cứu hỏa cách ly nguồn cấp nước khi cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each primary controller shall accept universal industry standard inputs, which can accept digital signals, passive analog signals, or active analogue signals.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T070322Z" creationid="Kieu Lan" creationdate="20211006T070322Z">
+        <seg>Each primary controller shall accept universal industry standard inputs, which can accept digital signals, passive analog signals, or active analogue signals.     /     Mỗi bộ điều khiển chính phải chấp nhận đầu vào tiêu chuẩn công nghiệp phổ quát, có thể chấp nhận tín hiệu kỹ thuật số, tín hiệu analog thụ động hoặc tín hiệu analog chủ động.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27693,6 +27701,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043503Z" creationid="Kieu Lan" creationdate="20210802T043503Z">
         <seg>Unit Price ($)     /     Chi phí unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Universal inputs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T070254Z" creationid="Kieu Lan" creationdate="20211006T070254Z">
+        <seg>Universal inputs     /     Đầu vào</seg>
       </tuv>
     </tu>
     <tu>
