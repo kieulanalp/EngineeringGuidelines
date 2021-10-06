@@ -9257,6 +9257,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DC 0... 10V, +/-1mA</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T075403Z" creationid="Kieu Lan" creationdate="20211006T075403Z">
+        <seg>DC 0... 10V, +/-1mA     /     Tín hiệu đầu ra biến điệu (analog)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DDC control systems via a central BMS to optimize system control strategies. Sub meter and data log all air</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061441Z" creationid="Kieu Lan" creationdate="20210805T061441Z">
@@ -13756,6 +13764,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HVAC control algorithms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T075703Z" creationid="Kieu Lan" creationdate="20211006T075703Z">
+        <seg>HVAC control algorithms     /     Thuật toán điều khiển HVAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard water - softener only to be applied to hot services, unless levels such that cold services would be affected.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011619Z" creationid="Kieu Lan" creationdate="20210816T011619Z">
@@ -17580,6 +17596,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094444Z" creationid="LanHK" creationdate="20210715T063054Z">
         <seg>Max RH     /     Độ ẩm tương đối tối đa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max. 4 A res., 3 A ind</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T075656Z" creationid="Kieu Lan" creationdate="20211006T075656Z">
+        <seg>Max. 4 A res., 3 A ind     /     Dòng điện: Max. 4 A res., 3 A ind</seg>
       </tuv>
     </tu>
     <tu>
@@ -28135,6 +28159,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061353Z" creationid="Kieu Lan" creationdate="20210805T061353Z">
         <seg>Voice evacuation speakers or voice enhanced fire alarm sounders must be provided in all guest bedrooms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voltage: max. AC 265 V, min. AC 19 V</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T075643Z" creationid="Kieu Lan" creationdate="20211006T075643Z">
+        <seg>Voltage: max. AC 265 V, min. AC 19 V     /     Tín hiệu đầu ra kỹ thuật số (rơ le)</seg>
       </tuv>
     </tu>
     <tu>
