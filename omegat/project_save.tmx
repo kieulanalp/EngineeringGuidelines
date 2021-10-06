@@ -6375,6 +6375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alternative “dedicated” Hotel (Guest) Room Management System (HRMS) provides special functions for hotels. The required system shall offer integrated Guest Room Management directly from the hotel’s Front Desk in order to maximise guest and service staff management to assist the hotel manager to cut costs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T050315Z" creationid="Kieu Lan" creationdate="20211006T050315Z">
+        <seg>An alternative “dedicated” Hotel (Guest) Room Management System (HRMS) provides special functions for hotels. The required system shall offer integrated Guest Room Management directly from the hotel’s Front Desk in order to maximise guest and service staff management to assist the hotel manager to cut costs.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An atrium is a large vertical opening that spans two or more floors. As a general rule an atrium has a relatively large plan area and to be considered an atrium the opening must have a minimum horizontal dimension of 6.1 m and a minimum area of 95 sqm. A monumental stair may or may not be considered as an atrium space.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210611T033920Z">
@@ -14201,6 +14209,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113139Z" creationid="Kieu Lan" creationdate="20210815T113139Z">
         <seg>Hotel guest elevator lobby and guest room corridors     /     Sảnh thang máy cho khách và hành lang phòng khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hotel guest room management system (HRMS)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T050320Z" creationid="Kieu Lan" creationdate="20211006T050111Z">
+        <seg>Hotel guest room management system (HRMS)     /     Hệ thống quản lý phòng khách sạn (HRMS)</seg>
       </tuv>
     </tu>
     <tu>
