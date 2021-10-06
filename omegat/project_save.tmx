@@ -8734,6 +8734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Communication: inbuilt, different standards (e.g. KNX/EIB or LON) optional versions without communication</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032858Z" creationid="Kieu Lan" creationdate="20211006T032858Z">
+        <seg>Communication: inbuilt, different standards (e.g. KNX/EIB o LON) optional versions without communication     /     Giao tiếp: có sẵn, các phiên bản tùy chọn tiêu chuẩn khác nhau mà không cần giao tiếp (e.g. KNX/EIB or LON) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compact Fluorescent</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140445Z" creationid="Kieu Lan" creationdate="20210814T135930Z">
