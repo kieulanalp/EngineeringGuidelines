@@ -6111,6 +6111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All controllers included shall be fully compliant with latest EMC and low-voltage directives and declarations of conformity shall be provided. Additionally, the equipment shall bear the CE mark (or equivalent) in order to show compliance to the directives.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T031311Z" creationid="Kieu Lan" creationdate="20211006T031311Z">
+        <seg>All controllers included shall be fully compliant with latest EMC and low-voltage directives and declarations of conformity shall be provided. Additionally, the equipment shall bear the CE mark (or equivalent) in order to show compliance to the directives.     /     Tất cả các bộ điều khiển đi kèm phải hoàn toàn tuân thủ EMC mới nhất và các tiêu chuẩn điện nhẹ cũng như có các giấy tờ chứng minh tuân thủ tiêu chuẩn. Ngoài ra, thiết bị phải có dấu hiệu CE (hoặc tương đương) để thể hiện sự tuân thủ các tiêu chuẩn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All controllers shall have the ability to communicate using a network architecture, which shall support multiple levels of communication using an internationally recognized open standard communication network (EIB/KNX, LON, BACNet, TCP/IP, Modbus or equivalent).</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T083241Z" creationid="Kieu Lan" creationdate="20210930T083241Z">
