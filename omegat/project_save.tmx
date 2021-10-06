@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(FOS), ensuring trouble-free operation of guest room access control, indoor climate control, security and energy efficiency from check-in to check-out.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T050559Z" creationid="Kieu Lan" creationdate="20211006T050559Z">
+        <seg>(FOS), ensuring trouble-free operation of guest room access control, indoor climate control, security and energy efficiency from check-in to check-out.     /     Hệ thống sẽ kết nối trực tiếp vào phần mềm quản lý khách sạn (PMS) / Hệ thống Lễ tân (FOS), đảm bảo vận hành trơn tru các quy trình cấp quyền truy cập phòng khách, điều hòa không khí trong nhà, an ninh và tiết kiệm năng lượng từ lúc check in đến check out</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Note 12)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061420Z" creationid="Kieu Lan" creationdate="20210805T061420Z">
@@ -6377,8 +6385,8 @@
       <tuv lang="EN-US">
         <seg>An alternative “dedicated” Hotel (Guest) Room Management System (HRMS) provides special functions for hotels. The required system shall offer integrated Guest Room Management directly from the hotel’s Front Desk in order to maximise guest and service staff management to assist the hotel manager to cut costs.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T050315Z" creationid="Kieu Lan" creationdate="20211006T050315Z">
-        <seg>An alternative “dedicated” Hotel (Guest) Room Management System (HRMS) provides special functions for hotels. The required system shall offer integrated Guest Room Management directly from the hotel’s Front Desk in order to maximise guest and service staff management to assist the hotel manager to cut costs.     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T050410Z" creationid="Kieu Lan" creationdate="20211006T050315Z">
+        <seg>An alternative “dedicated” Hotel (Guest) Room Management System (HRMS) provides special functions for hotels. The required system shall offer integrated Guest Room Management directly from the hotel’s Front Desk in order to maximise guest and service staff management to assist the hotel manager to cut costs.     /     Một Hệ thống Quản lý Phòng Khách sạn (HRMS) “chuyên dụng” thay thế cung cấp các chức năng đặc biệt cho khách sạn. Hệ thống sẽ cung cấp tính năng Quản lý Phòng được tích hợp trực tiếp từ Lễ tân của khách sạn để tối đa hóa việc quản lý khách và nhân viên để giúp quản lý khách sạn cắt giảm chi phí</seg>
       </tuv>
     </tu>
     <tu>
@@ -26081,18 +26089,18 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The system shall be designed to provide sufficient fresh air and exhaust as necessary to achieve this, and maintain the conditions specified in the requirements schedule.</seg>
+        <seg>The system shall be adaptable to any type of hotel, independent of complexity and size.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061313Z" creationid="Kieu Lan" creationdate="20210805T061313Z">
-        <seg>The system shall be designed to provide sufficient fresh air and exhaust as necessary to achieve this, and maintain the conditions specified in the requirements schedule.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T050634Z" creationid="Kieu Lan" creationdate="20211006T050634Z">
+        <seg>The system shall be adaptable to any type of hotel, independent of complexity and size.     /     Hệ thống có thể được chỉnh sửa để đáp ứng tất cả các loại khách sạn, bất kể mức độ phức tạp và kích cỡ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The system shall be directly linked to the hotel’s Property Management System (PMS) / Front Office System</seg>
+        <seg>The system shall be designed to provide sufficient fresh air and exhaust as necessary to achieve this, and maintain the conditions specified in the requirements schedule.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>The system shall be directly linked to the hotel’s Property Management System (PMS)    /    Front Office System</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061313Z" creationid="Kieu Lan" creationdate="20210805T061313Z">
+        <seg>The system shall be designed to provide sufficient fresh air and exhaust as necessary to achieve this, and maintain the conditions specified in the requirements schedule.</seg>
       </tuv>
     </tu>
     <tu>
