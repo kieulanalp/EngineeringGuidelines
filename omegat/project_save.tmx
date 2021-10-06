@@ -25928,6 +25928,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The primary controllers shall operate from an AC 24 power supply. This operating voltage must conform to the requirements of SELV/PELV (safety extra low-voltage). The transformers used must be safety isolating transformers featuring double insulation to EN 60 742 or EN 61 558-2-6, and should be suited for 100% duty.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065451Z" creationid="Kieu Lan" creationdate="20211006T065451Z">
+        <seg>The primary controllers shall operate from an AC 24 power supply. This operating voltage must conform to the requirements of SELV/PELV (safety extra low-voltage). The transformers used must be safety isolating transformers featuring double insulation to EN 60 742 or EN 61 558-2-6, and should be suited for 100% duty.     /     Các bộ điều khiển chính hoạt động nhờ nguồn điện AC 24. Điện áp vận hành này phải tuân thủ các tiêu chuẩn SELV/PELV (an toàn điện siêu nhẹ). Biến áp được sử dụng phải là máy biến áp cách ly an toàn có cách điện kép theo EN 60 742 hoặc EN 61 558-2-6 và phải phù hợp với chế độ làm việc 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The primary heating demand associated with the domestic hot water peak demand</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035309Z" creationid="Kieu Lan" creationdate="20210721T035309Z">
