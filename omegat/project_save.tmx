@@ -10219,6 +10219,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each controller shall be identified by a unique device name at the planning stage. The device name shall be entered in the controller via the operator units. Each name shall comprise up to 21 alphanumeric characters (maximum 21 characters including blanks). Device names should be agreed in advance with the consulting engineer or plant operator and once saved, these device names shall be visible from services tools or PC management systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T061147Z" creationid="Kieu Lan" creationdate="20211006T061147Z">
+        <seg>Each controller shall be identified by a unique device name at the planning stage. The device name shall be entered in the controller via the operator units. Each name shall comprise up to 21 alphanumeric characters (maximum 21 characters including blanks). Device names should be agreed in advance with the consulting engineer or plant operator and once saved, these device names shall be visible from services tools or PC management systems     /     Mỗi bộ điều khiển phải được định danh bằng một tên thiết bị độc nhất ở giai đoạn lên kế hoạch. Tên thiết bị sẽ được nhập vào bộ điều khiển thông qua máy vận hành. Mỗi tên sẽ gồm tối đa 21 ký tự chữ và số (tối đa 21 ký tự bao gồm cả ký tự trống). Tên thiết bị nên được thống nhất sẵn với kỹ sư tư vấn hoặc đơn vị vận hành cụm máy và một khi đã lưu, tên thiết bị sẽ được hiển thị trên công cụ bảo trì hoặc trên các hệ thống quản lý PC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each controller shall support a suite of language pre-programmed into it, which can be selected at any time via the operator unit. All operating instructions for the end user shall be provided in all languages with which the controllers are supplied.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T061306Z" creationid="Kieu Lan" creationdate="20211006T061306Z">
+        <seg>Each controller shall support a suite of language pre-programmed into it, which can be selected at any time via the operator unit. All operating instructions for the end user shall be provided in all languages with which the controllers are supplied.     /     Mỗi bộ điều khiển phải hỗ trợ một bộ nhiều ngôn ngữ cài đặt sẵn, có thể chọn bất cứ lúc nào thông qua máy vận hành. Tất cả các hướng dẫn vận hành cho người dùng cuối sẽ được cung cấp bằng tất cả các ngôn ngữ đi kèm bộ điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each exit 1m wide</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T034054Z" creationid="LanHK" creationdate="20210610T034054Z">
