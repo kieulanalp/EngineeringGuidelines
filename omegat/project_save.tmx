@@ -12426,6 +12426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For commissioning and fine-tuning, full access to operating parameters, controller setting and configuration.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065117Z" creationid="Kieu Lan" creationdate="20211006T065117Z">
+        <seg>For commissioning and fine-tuning, full access to operating parameters, controller setting and configuration.     /     Dành cho chạy thử và tinh chỉnh, có quyền truy cập đầy đủ vào các thông số vận hành, cài đặt điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each building design, the solar paths should be plotted to ensure shading or alternative treatment is effective for the orientations to which they are provided.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T095528Z" creationid="LanHK" creationdate="20210715T095528Z">
@@ -12486,6 +12494,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T045236Z" creationid="LanHK" creationdate="20210602T014459Z">
         <seg>For relevant Country/State Local Requirement        /       Các quy định, yêu cầu quốc gia/địa phương liên quan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For service and maintenance, allowing the additional display of inputs and output values, adjustment of operating modes and timer settings.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065024Z" creationid="Kieu Lan" creationdate="20211006T065024Z">
+        <seg>For service and maintenance, allowing the additional display of inputs and output values, adjustment of operating modes and timer settings.     /     Dành cho bảo trì, bảo dưỡng, cho phéo hiển thị thêm giá trị đầu vào và đầu ra, điều chỉnh chế độ vận hành và cài đặt thời gian</seg>
       </tuv>
     </tu>
     <tu>
@@ -19851,6 +19867,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Password level: Highest access level, via password:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065046Z" creationid="Kieu Lan" creationdate="20211006T065035Z">
+        <seg>Password level: Highest access level, via password:     /     Cấp mật khẩu: cấp truy cập cao nhất, thông qua mật khẩu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pathways/Parking</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T130802Z" creationid="Kieu Lan" creationdate="20210814T130802Z">
@@ -22498,8 +22522,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Service level: Medium access level, via key sequence:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T064942Z" creationid="Kieu Lan" creationdate="20211006T064942Z">
-        <seg>Service level: Medium access level, via key sequence:     /     Cấp bảo trì: cấp truy cập trung cấp, thông qua trình tự phím</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065038Z" creationid="Kieu Lan" creationdate="20211006T064942Z">
+        <seg>Service level: Medium access level, via key sequence:     /     Cấp bảo trì: cấp truy cập trung bình, thông qua trình tự phím</seg>
       </tuv>
     </tu>
     <tu>
