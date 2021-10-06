@@ -12466,10 +12466,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each analog input, the type, unit, measuring range and readjustment shall be defined (Ni 1000, -50.+250 0C, -0.5K)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T074127Z" creationid="Kieu Lan" creationdate="20211006T074033Z">
+        <seg>For each analog input, the type, unit, measuring range and readjustment shall be defined (Ni 1000, -50.+250 0C, -0.5K)     /     Đối với mỗi tín hiệu vào analog, phải xác định loại, đơn vị, dải đo và điều chỉnh (Ni 1000, -50.+250 0C, -0.5K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each building design, the solar paths should be plotted to ensure shading or alternative treatment is effective for the orientations to which they are provided.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T095528Z" creationid="LanHK" creationdate="20210715T095528Z">
         <seg>For each building design, the solar paths should be plotted to ensure shading or alternative treatment is effective for the orientations to which they are provided.     /      Đối với mỗi thiết kế tòa nhà, cần tính toán đường đi của mặt trời để đảm bảo việc che chắn nắng hoặc phương án thay thế đạt được hiệu quả đối với hướng tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each digital input, the normal position shall be defined (normally open/closed)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T074118Z" creationid="Kieu Lan" creationdate="20211006T074118Z">
+        <seg>For each digital input, the normal position shall be defined (normally open/closed)     /     Với mỗi tín hiệu vào kỹ thuật số, phải xác định trạng thái định vị</seg>
       </tuv>
     </tu>
     <tu>
