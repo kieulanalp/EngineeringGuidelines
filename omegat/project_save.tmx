@@ -4699,6 +4699,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.3.5 Device Name</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T060908Z" creationid="Kieu Lan" creationdate="20211006T060908Z">
+        <seg>7.3.5 Device Name     /     Tên thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7.4 to 7.6</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054330Z" creationid="Kieu Lan" creationdate="20210916T054330Z">
@@ -10271,6 +10279,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065130Z" creationid="LanHK" creationdate="20210610T065128Z">
         <seg>Each pressure zone in the building will be fed by the fire pump with the installation being controlled by a wet sprinkler alarm valve located in an accessible location for the fire brigade to isolate the water supply when necessary.    /    Mỗi khu tăng áp trong tòa nhà có bơm cứu hỏa điều khiển bởi van báo động sprinkler ướt ở một vị trí dễ tiếp cận để lực lượng cứu hỏa cách ly nguồn cấp nước khi cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each primary controller shall have the provision for connection of a backlit LCD plug in operator unit for the display of values and adjustment of settings, showing all menus in plain text for local use operation. These units shall be either mounted directly on the controller or alternatively mounted remotely (typically in the control panel door) with operator keys for navigation and user operation. It shall be possible for the operator unit to be used to make all settings and readouts required for operating the controller and plant.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T060850Z" creationid="Kieu Lan" creationdate="20211006T060850Z">
+        <seg>Each primary controller shall have the provision for connection of a backlit LCD plug in operator unit for the display of values and adjustment of settings, showing all menus in plain text for local use operation. These units shall be either mounted directly on the controller or alternatively mounted remotely (typically in the control panel door) with operator keys for navigation and user operation. It shall be possible for the operator unit to be used to make all settings and readouts required for operating the controller and plant.     /     Mỗi bộ điều khiển chính phải cho phép kết nối máy vận hành có màn hình LCD với đèn nền để hiển thị các giá trị và thay đổi cài đặt, cho thấy tất cả các mục ở dạng thuần chữ phục vụ việc sử dụng tại chỗ. Các máy này phải được gắn trực tiếp trên bộ điều khiển hoặc gắn ở nơi khác (thường là trong tủ điện) với phím điều khiển để người dùng điều hướng và thao tác. Máy vận hành cần có thể được sử dụng để thực hiện tất cả các cài đặt và báo cáo chỉ số cần thiết để vận hành bộ điều khiển và nhà máy.</seg>
       </tuv>
     </tu>
     <tu>
