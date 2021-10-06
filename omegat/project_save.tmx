@@ -12826,6 +12826,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuses, switches, wiring and earthing must be in compliance with local regulations. Sensor wires should not be run parallel to mains carrying wires that power fans, actuators, pumps, etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065710Z" creationid="Kieu Lan" creationdate="20211006T065710Z">
+        <seg>Fuses, switches, wiring and earthing must be in compliance with local regulations. Sensor wires should not be run parallel to mains carrying wires that power fans, actuators, pumps, etc.     /     Cầu chì, công tắc, hệ thống dây điện và nối đất phải tuân theo các quy định của địa phương. Các dây cảm biến không được chạy song song với các dây mang điện cấp cho quạt, thiết bị truyền động, máy bơm, v.v.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fusible link in each sprinkler head will melt under</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061358Z" creationid="Kieu Lan" creationdate="20210805T061358Z">
@@ -14465,6 +14473,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092731Z" creationid="Kieu Lan" creationdate="20210815T092731Z">
         <seg>I.T Room Typical Layout     /     Layout điển hình phòng IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60 721-3-3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065810Z" creationid="Kieu Lan" creationdate="20211006T065810Z">
+        <seg>IEC 60 721-3-3     /     Tuân thủ tiêu chuẩn IEC 60 721-3-3</seg>
       </tuv>
     </tu>
     <tu>
@@ -24990,6 +25006,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T020743Z" creationid="LanHK" creationdate="20210724T020743Z">
         <seg>The configuration of the heating and chilled water circuits should be such that clearly identified zones can be individually served, thus making it possible to close down areas of the hotel for maintenance.     /     Cần bố trí mạch đường nước làm nóng và đường nước lạnh sao cho có thể phục vụ riêng lẻ cho từng khu vực được xác định rõ ràng, từ đó có thể đóng cửa từng khu vực riêng của khách sạn để bảo trì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The controllers shall conform to the following operating environmental conditions:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065758Z" creationid="Kieu Lan" creationdate="20211006T065758Z">
+        <seg>The controllers shall conform to the following operating environmental conditions:     /     Các bộ điều khiển phải tuân thủ các điều kiện về môi trường sau khi vận hành</seg>
       </tuv>
     </tu>
     <tu>
