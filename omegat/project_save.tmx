@@ -5740,6 +5740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access levels</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T061331Z" creationid="Kieu Lan" creationdate="20211006T061331Z">
+        <seg>Access levels     /     Phân quyền truy cập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acoustic Isolation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T031110Z" creationid="LanHK" creationdate="20210715T031110Z">
