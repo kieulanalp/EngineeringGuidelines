@@ -10267,6 +10267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each controller shall provide a combination of fixed analog or digital output signals to suit the required plant.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T074846Z" creationid="Kieu Lan" creationdate="20211006T074846Z">
+        <seg>Each controller shall provide a combination of fixed analog or digital output signals to suit the required plant.     /     Mỗi bộ điều khiển sẽ cung cấp một tập hợp các tín hiệu đầu ra analog hoặc kỹ thuật số phù hợp với mỗi cụm máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each controller shall support a suite of language pre-programmed into it, which can be selected at any time via the operator unit. All operating instructions for the end user shall be provided in all languages with which the controllers are supplied.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T061306Z" creationid="Kieu Lan" creationdate="20211006T061306Z">
