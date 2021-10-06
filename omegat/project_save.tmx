@@ -22496,6 +22496,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Service level: Medium access level, via key sequence:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T064942Z" creationid="Kieu Lan" creationdate="20211006T064942Z">
+        <seg>Service level: Medium access level, via key sequence:     /     Cấp bảo trì: cấp truy cập trung cấp, thông qua trình tự phím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Service lifts (separately metered)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T070156Z" creationid="Kieu Lan" creationdate="20210810T070156Z">
@@ -27500,6 +27508,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T073531Z" creationid="Kieu Lan" creationdate="20210824T073531Z">
         <seg>Typical total consumption figures are 400-600 litres/guest in moderate and 600-800 litres/guest in tropical climate zones, which includes all of the above. They differ primarily by hotel type (business v. Resort), facilities (laundry), number of restaurants, and employees etc.     /     Thông thường, tổng lượng nước tiêu thụ vào khoảng 400-600 l/khách ở khí hậu ôn đới và 600-800 l/khách ở khí hậu nhiệt đới, bao gồm tất cả các hạng mục trên. Tổng lượng nước chủ yếu khác nhau do loại hình khách sạn (khách sạn thương mại và resort), cơ sở vật chất (giặt là), số nhà hàng, và số nhân viên, etc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically for the plant operator, to view operational status, measured values, operation mode, main variable set points and time clock. All parameters displayed at this level shall be accessibly by the user.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T064856Z" creationid="Kieu Lan" creationdate="20211006T064856Z">
+        <seg>Typically for the plant operator, to view operational status, measured values, operation mode, main variable set points and time clock. All parameters displayed at this level shall be accessibly by the user.     /     Thường dùng cho người vận hành máy để xem trạng thái vận hành, các thông số, chế độ vận hành, các chỉ tiêu thông số chính và đồng hồ. Tất cả các hạng mục hiển thị ở cấp độ này phải có thể được truy cập bởi người dùng</seg>
       </tuv>
     </tu>
     <tu>
