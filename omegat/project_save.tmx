@@ -393,6 +393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0...50 0C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T070103Z" creationid="Kieu Lan" creationdate="20211006T070048Z">
+        <seg>0...50°C     /     Nhiệt độ (vỏ máy và linh kiện điện)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0.000,1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132541Z" creationid="Kieu Lan" creationdate="20210815T132541Z">
@@ -4207,6 +4215,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061316Z" creationid="Kieu Lan" creationdate="20210805T061316Z">
         <seg>59</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5…95 % r.h. (non-condensing)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T070052Z" creationid="Kieu Lan" creationdate="20211006T070052Z">
+        <seg>5…95 % r.h. (non-condensing)     /     Độ ẩm</seg>
       </tuv>
     </tu>
     <tu>
@@ -8610,6 +8626,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T064145Z" creationid="Kieu Lan" creationdate="20210824T064145Z">
         <seg>Clarifier surface and weirs should be designed for peak flow rates and not normal daily flow rates.     /     Bề mặt lọc và kè nên được thiết kế phù hợp với lưu lượng chảy tối đa, chứ không phải lưu lượng thường ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class 3K5</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065903Z" creationid="Kieu Lan" creationdate="20211006T065903Z">
+        <seg>Class 3K5     /     Điều kiện khí hậu Cấp 3K5</seg>
       </tuv>
     </tu>
     <tu>
