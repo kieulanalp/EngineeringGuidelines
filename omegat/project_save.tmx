@@ -17208,6 +17208,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Main plant control of air handling units, chillers, heating plant, etc. Primary controllers shall provide independent control loops and shall contain factory-pre-programmed applications as well as being capable of site engineered applications, either as a modification to factory application or as a new application designed specifically to suit the site requirements.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032405Z" creationid="Kieu Lan" creationdate="20211006T032405Z">
+        <seg>Main plant control of air handling units, chillers, heating plant, etc. Primary controllers shall provide independent control loops and shall contain factory-pre-programmed applications as well as being capable of site engineered applications, either as a modification to factory application or as a new application designed specifically to suit the site requirements.     /     Điều khiển cụm máy chính của AHU, chiller, máy sưởi, v.v Các điều khiển chính phải có vòng điều khiển độc lập và có các chương trình được cài đặt sẵn ở nhà máy cũng như có khả năng chạy chương trình cài đặt tại chỗ, hoặc dưới dạng thay đổi chương trình nhà máy hoặc dưới dạng chương trình mới được thiết kế đặc biệt để phù hợp các yêu cầu của dự án</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main plant rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T043048Z" creationid="Kieu Lan" creationdate="20210810T043048Z">
