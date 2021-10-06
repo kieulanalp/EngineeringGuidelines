@@ -9474,6 +9474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dedicated software</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T075709Z" creationid="Kieu Lan" creationdate="20211006T075709Z">
+        <seg>Dedicated software     /     Phần mềm chuyên dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Define the design criteria for IHG hotel projects.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T043155Z" creationid="LanHK" creationdate="20210525T092547Z">
