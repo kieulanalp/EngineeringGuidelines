@@ -4707,6 +4707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.3.10 Outputs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T074628Z" creationid="Kieu Lan" creationdate="20211006T074628Z">
+        <seg>7.3.10 Outputs     /     Tín hiệu đầu ra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7.3.2 Primary controllers</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032206Z" creationid="Kieu Lan" creationdate="20211006T032206Z">
@@ -30439,8 +30447,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>outside temperature, frost, faults, etc.)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T074213Z" creationid="Kieu Lan" creationdate="20211006T074213Z">
-        <seg>outside temperature, frost, faults, etc.)     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T074623Z" creationid="Kieu Lan" creationdate="20211006T074213Z">
+        <seg>outside temperature, frost, faults, etc.)     /     Cũng phải có tham số đầu vào đặc biệt cho các chức năng cụ thể của cụm máy (vd, set point cho điều chỉnh, nhiệt độ bên ngoài, nhiệt độ đóng băng, lỗi...)</seg>
       </tuv>
     </tu>
     <tu>
