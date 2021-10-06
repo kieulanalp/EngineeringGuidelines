@@ -25888,6 +25888,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The primary controllers shall have dedicated user levels allowing display of information and adjustment of parameters; no commissioning tools shall be required. Access to the basic controller settings shall be granted only via the password level at the controller.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T062849Z" creationid="Kieu Lan" creationdate="20211006T062849Z">
+        <seg>The primary controllers shall have dedicated user levels allowing display of information and adjustment of parameters; no commissioning tools shall be required. Access to the basic controller settings shall be granted only via the password level at the controller.     /     Các bộ điều khiển chính sẽ có các mức quyền truy cập cho phép hiển thị thông tin và thay đổi thông số; không cần bất cứ công cụ bổ sung nào. Truy cập vào các cài đặt điều khiển đơn giản được cấp phép thông qua mật khẩu tại bộ điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The primary heating demand associated with the domestic hot water peak demand</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035309Z" creationid="Kieu Lan" creationdate="20210721T035309Z">
@@ -27685,6 +27693,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074114Z" creationid="Kieu Lan" creationdate="20210804T074114Z">
         <seg>Use: major heating and cooling systems     /     Ứng dụng: các hệ thống sưởi và làm mát lớn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User level: Lowest access level, without password:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T062912Z" creationid="Kieu Lan" creationdate="20211006T062912Z">
+        <seg>User level: Lowest access level, without password:     /     Cấp người dùng: cấp truy cập thấp nhất, không có mật khẩu</seg>
       </tuv>
     </tu>
     <tu>
