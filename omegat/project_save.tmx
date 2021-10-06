@@ -12530,6 +12530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Freely programmable controller</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032625Z" creationid="Kieu Lan" creationdate="20211006T032625Z">
+        <seg>Freely programmable controller     /     Điều khiển có thể tự do cài đặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Freezers</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095321Z" creationid="LanHK" creationdate="20210713T095321Z">
@@ -13632,6 +13640,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211005T095706Z" creationid="Kieu Lan" creationdate="20211005T095706Z">
         <seg>Hardware compliance     /     Tiêu chuẩn cho phần cứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hardware:24 V AC power supply, plug connectors, 2 DIL switches, LED for status indication</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032717Z" creationid="Kieu Lan" creationdate="20211006T032717Z">
+        <seg>Hardware: 24 V AC power supply, plug connectors, 2 DIL switches, LED for status indication     /     Phần cứng: Nguồn điện 24 V AC, đầu nối phích cắm, 2 công tắc DIL, đèn LED chỉ báo trạng thái</seg>
       </tuv>
     </tu>
     <tu>
@@ -15219,6 +15235,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T073211Z" creationid="Kieu Lan" creationdate="20210705T043836Z">
         <seg>Interface to air handling systems for engineered smoke clearance systems (where required)     /     Liên động với hệ thống AHU để kiểm soát các hệ thống hút khói (khi cần thiết)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interfaces: RJ45 serial for HMI, monitoring PC or modem connection; PPS2 for room unit: RS485 for USS or ModBus communication with 3rd party (VFDs)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032806Z" creationid="Kieu Lan" creationdate="20211006T032806Z">
+        <seg>Interfaces: RJ45 serial for HMI, monitoring PC or modem connection; PPS2 for room unit: RS485 for USS or ModBus communication with 3rd party (VFDs)     /     Giao diện: RJ45 serial cho HMI, PC giám sát hoặc kết nối modem; PPS2 cho unit phòng: RS485 cho giao tiếp USS hoặc ModBus với bên thứ 3 (VFDs)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20400,6 +20424,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primary controllers must be capable of being engineered and commissioned without the need of a PC or tool and shall have sufficient memory to operate autonomously. Any modification or creation of applications shall utilize preconfigured and preloaded function blocks allowing minimal effort in commissioning with the added possibility to define and commission the desired application using only an LCD interface with clear text display in English (or other selected) language.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032604Z" creationid="Kieu Lan" creationdate="20211006T032604Z">
+        <seg>Primary controllers must be capable of being engineered and commissioned without the need of a PC or tool and shall have sufficient memory to operate autonomously. Any modification or creation of applications shall utilize preconfigured and preloaded function blocks allowing minimal effort in commissioning with the added possibility to define and commission the desired application using only an LCD interface with clear text display in English (or other selected) language.     /     Các điều khiển chính phải có thể được chỉnh sửa và vận hành mà không cần máy tính hoặc công cụ và phải có đủ bộ nhớ để vận hành tự động. Bất cứ việc thay đổi hoặc tạo mới chương trình nàoc ũng sẽ sử dụng các khối chức năng đã cài đặt và load sẵn, cho phép vận hành với ít công sức nhất, với khả năng định nghĩa và vận hành các chương trình mong muối trên màn hình LCD với text rõ ràng bằng tiếng Anh hoặc ngôn ngữ được chọn khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Primary corridors 1.3m</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T015254Z" creationid="LanHK" creationdate="20210603T015251Z">
@@ -24380,6 +24412,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024339Z" creationid="LanHK" creationdate="20210715T024339Z">
         <seg>Targets to be as required by National Standards     /     Tiêu chuẩn đặt ra tương đương Tiêu chuẩn Quốc gia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Technical characteristics</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032613Z" creationid="Kieu Lan" creationdate="20211006T032613Z">
+        <seg>Technical characteristics     /     Tính chất kỹ thuật</seg>
       </tuv>
     </tu>
     <tu>
