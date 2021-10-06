@@ -24633,6 +24633,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Hotel Guest Room Management system shall be designed, commissioned and serviced by manufacturer employed &amp; trained personnel. Manufacturer shall have an in-place support facility within the country of installation with technical staff, space parts inventory and necessary test and diagnostic equipment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T051614Z" creationid="Kieu Lan" creationdate="20211006T051614Z">
+        <seg>The Hotel Guest Room Management system shall be designed, commissioned and serviced by manufacturer employed &amp; trained personnel. Manufacturer shall have an in-place support facility within the country of installation with technical staff, space parts inventory and necessary test and diagnostic equipment.     /     Hệ thống quản lý phòng khách sạn (HRMS) sẽ được thiết kế, vận hành và bảo trì bởi nhân sự đã qua huấn luyện của nhà sản xuất. Nhà sản xuất phải có cơ sở hỗ trợ tại quốc gia lắp đặt với nhân viên kỹ thuật, linh kiện dự phòng và các thiết bị kiểm tra và chẩn đoán cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The IDS system should allow detection of unauthorized persons. This shall include installing of alarm devices at the following locations:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113337Z" creationid="Kieu Lan" creationdate="20210815T113337Z">
