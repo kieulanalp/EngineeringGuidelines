@@ -4683,6 +4683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.3.2 Primary controllers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032206Z" creationid="Kieu Lan" creationdate="20211006T032206Z">
+        <seg>7.3.2 Primary controllers     /     Các điều khiển chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7.4 to 7.6</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054330Z" creationid="Kieu Lan" creationdate="20210916T054330Z">
@@ -8980,6 +8988,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075454Z">
         <seg>Control requirements    /    Yêu cầu về điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller type</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032033Z" creationid="Kieu Lan" creationdate="20211006T032033Z">
+        <seg>Controller type     /     Loại điều khiển</seg>
       </tuv>
     </tu>
     <tu>
@@ -20368,6 +20384,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primary HVAC Controllers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032028Z" creationid="Kieu Lan" creationdate="20211006T032028Z">
+        <seg>Primary HVAC Controllers     /     Các bộ điều khiển HVAC chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Primary corridors 1.3m</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T015254Z" creationid="LanHK" creationdate="20210603T015251Z">
@@ -25724,6 +25748,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T030049Z" creationid="Kieu Lan" creationdate="20210916T030049Z">
         <seg>The preferred water quality is as follows:     /     Chất lượng nước được ưu tiên như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The primary controllers shall be dedicated HVAC controllers (stand -alone or communicating) based upon 32-bit technology, with preconfigured and user configurable applications. Each primary controller shall be supplied complete with installation and operating instructions as standard.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032201Z" creationid="Kieu Lan" creationdate="20211006T032201Z">
+        <seg>The primary controllers shall be dedicated HVAC controllers (stand -alone or communicating) based upon 32-bit technology, with preconfigured and user configurable applications. Each primary controller shall be supplied complete with installation and operating instructions as standard.     /     Các bộ điều khiển chính sẽ là điều khiển chuyên dụng cho HVAC (độc lập hoặc có giao tiếp) dựa trên công nghệ 32-bit, với các tính năng đã cài đặt sẵn hoặc có thể cài đặt bởi người dùng. Mỗi điều khiển chính sẽ đi kèm hướng dẫn lắp đặt và vận hành</seg>
       </tuv>
     </tu>
     <tu>
