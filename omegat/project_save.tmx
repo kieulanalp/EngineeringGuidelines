@@ -24787,8 +24787,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The complete control system together with all field devices and associated peripherals, shall be designed, installed, commissioned and serviced by qualified personnel. Where required, the supplier shall make available technical engineers, spare parts inventory and necessary test and diagnostic equipment.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211005T091955Z" creationid="Kieu Lan" creationdate="20211005T091955Z">
-        <seg>The complete control system together with all field devices and associated peripherals, shall be designed, installed, commissioned and serviced by qualified personnel. Where required, the supplier shall make available technical engineers, spare parts inventory and necessary test and diagnostic equipment.     /     Hệ thống điều khiển hoàn chỉnh cùng với tất cả các thiết bị và các thiết bị ngoại vi liên quan phải được thiết kế, lắp đặt, vận hành và bảo dưỡng bởi nhân viên có trình độ chuyên môn. Khi được yêu cầu, nhà cung cấp phải đảm bảo có kỹ sư, có linh kiện thay thế và có các thiết bị phục vụ kiểm tra và chẩn đoán cần thiết.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T031822Z" creationid="Kieu Lan" creationdate="20211005T091955Z">
+        <seg>The complete control system together with all field devices and associated peripherals, shall be designed, installed, commissioned and serviced by qualified personnel. Where required, the supplier shall make available technical engineers, spare parts inventory and necessary test and diagnostic equipment.     /     Hệ thống điều khiển hoàn chỉnh cùng với tất cả các thiết bị kết nối và các thiết bị ngoại vi liên quan phải được thiết kế, lắp đặt, vận hành và bảo dưỡng bởi nhân viên có trình độ chuyên môn. Khi được yêu cầu, nhà cung cấp phải đảm bảo có kỹ sư, có linh kiện thay thế và có các thiết bị phục vụ kiểm tra và chẩn đoán cần thiết.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25868,6 +25868,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T071431Z" creationid="Kieu Lan" creationdate="20210817T071330Z">
         <seg>The single largest source of Legionnaires Disease is Conventional Showers which occurs when they are not in regular use.     /     Nguồn gây bệnh Legionnaires lớn nhất là đường ống nước tắm không được sử dụng thường xuyên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified control system shall be supported for a minimum of 5 years after installation and handover offering the ability of the user or building owner to upgrade installed controllers, software and field devices to current levels of technology and, where required, extend the network with new devices.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T031931Z" creationid="Kieu Lan" creationdate="20211006T031815Z">
+        <seg>The specified control system shall be supported for a minimum of 5 years after installation and handover offering the ability of the user or building owner to upgrade installed controllers, software and field devices to current levels of technology and, where required, extend the network with new devices.     /     Hệ thống điều khiển sẽ được hỗ trợ tối thiểu 5 năm sau khi lắp đặt và bàn giao, cho phép người dùng hoặc chủ đầu tư nâng cấp các bộ điều khiển, phần mềm và các thiết bị kết nối đã lắp đặt đạt đến chuẩn mực kỹ thuật hiện thời, và nếu cần thiết, mở rộng mạng lưới với các thiết bị mới</seg>
       </tuv>
     </tu>
     <tu>
