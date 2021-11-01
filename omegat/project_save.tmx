@@ -24801,6 +24801,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The BCS controllers shall comprise pre-programmed and proven software blocks, dedicated to HVAC control applications. It shall be possible when configuring the controller, to select one of the following options:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T020201Z" creationid="Kieu Lan" creationdate="20211101T020201Z">
+        <seg>The BCS controllers shall comprise pre-programmed and proven software blocks, dedicated to HVAC control applications. It shall be possible when configuring the controller, to select one of the following options:     /     Bộ điều khiển BCS phải bao gồm các khối phần mềm được lập trình trước và đã được chứng minh, dành riêng cho các ứng dụng điều khiển HVAC. Khi cài đặt bộ điều khiển, phải có thể lựa chọn một trong các tùy chọn sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The BMS can be integrated with IT system as illustrated below:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T081018Z" creationid="Kieu Lan" creationdate="20210930T081018Z">
@@ -26317,6 +26325,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061313Z" creationid="Kieu Lan" creationdate="20210805T061313Z">
         <seg>The system shall be designed to provide sufficient fresh air and exhaust as necessary to achieve this, and maintain the conditions specified in the requirements schedule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system shall be directly linked to the hotel’s Property Management System (PMS) / Front Office System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>The system shall be directly linked to the hotel’s Property Management System (PMS)    /    Front Office System</seg>
       </tuv>
     </tu>
     <tu>
