@@ -8292,10 +8292,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cascade control during summer and supply air control during winter.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T092058Z" creationid="Kieu Lan" creationdate="20211101T092033Z">
+        <seg>Cascade control during summer and supply air control during winter.     /     Điều khiển tầng trong mùa hè và điều khiển khí cấp trong mùa đông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cascade control of room/supply air temperature or exhaust/supply air temperature with limits for supply air temperature</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T085211Z" creationid="Kieu Lan" creationdate="20211101T085211Z">
-        <seg>Cascade control of room/supply air temperature or exhaust/supply air temperature with limits for supply air temperature     /     Điều khiển phân tầng nhiệt độ phòng / nhiệt độ không khí cấp hoặc khí thải / nhiệt độ không khí cung cấp với các giới hạn về nhiệt độ không khí cấp</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T092047Z" creationid="Kieu Lan" creationdate="20211101T085211Z">
+        <seg>Cascade control of room/supply air temperature or exhaust/supply air temperature with limits for supply air temperature     /     Điều khiển tầng nhiệt độ phòng / nhiệt độ không khí cấp; hoặc nhiệt độ khí thải / khí cấp với giới hạn về nhiệt độ không khí cấp</seg>
       </tuv>
     </tu>
     <tu>
@@ -9067,6 +9075,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T100547Z" creationid="Kieu Lan" creationdate="20210920T100547Z">
         <seg>Control of pH levels is particularly important where chlorine is selected as the medium used for disinfection of pool waters.     /     Kiểm soát nồng độ pH đặc biệt quan trọng nếu clo được sử dụng để khử khuẩn nước bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control of supply air temperature</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T091928Z" creationid="Kieu Lan" creationdate="20211101T091928Z">
+        <seg>Control of supply air temperature     /     Điều khiển nhiệt độ khí cấp</seg>
       </tuv>
     </tu>
     <tu>
