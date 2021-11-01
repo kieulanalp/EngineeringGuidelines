@@ -8308,6 +8308,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cascade control with fixed or sliding limits for supply air temperature (differentia! temperature control)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T092147Z" creationid="Kieu Lan" creationdate="20211101T092147Z">
+        <seg>Cascade control with fixed or sliding limits for supply air temperature (differential temperature control)     /     Điều khiển tầng với giới hạn cố định hoặc biến thiên cho nhiệt độ khí cấp (điều khiển nhiệt độ có phân biệt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cashiers room</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113210Z" creationid="Kieu Lan" creationdate="20210815T113210Z">
@@ -18096,6 +18104,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Min. and max. limits for supply air temperature</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T092204Z" creationid="Kieu Lan" creationdate="20211101T092204Z">
+        <seg>Min. and max. limits for supply air temperature     /     giới hạn tối thiểu và tối đa cho nhiệt độ khí cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minibar (could share with In Room Entertainment)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092329Z" creationid="Kieu Lan" creationdate="20210815T092329Z">
@@ -24155,6 +24171,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094443Z" creationid="LanHK" creationdate="20210715T062953Z">
         <seg>Summer     /     Mùa hè</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summer/Winter compensation of temperature set point</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T092223Z" creationid="Kieu Lan" creationdate="20211101T092223Z">
+        <seg>Summer/Winter compensation of temperature set point     /     Bù trừ cho mức nhiệt cố định trong mùa hè/mùa đông</seg>
       </tuv>
     </tu>
     <tu>
