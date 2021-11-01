@@ -5828,6 +5828,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adapted HVAC application</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T082722Z" creationid="Kieu Lan" creationdate="20211101T082722Z">
+        <seg>Adapted HVAC application     /     Chunơg trình HVAC có thể điều chỉnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Addendum</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070956Z">
@@ -12682,6 +12690,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free configuration</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T082729Z" creationid="Kieu Lan" creationdate="20211101T082729Z">
+        <seg>Free configuration     /     Cài đặt tự do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Free from</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073629Z" creationid="LanHK" creationdate="20210609T073629Z">
@@ -13776,6 +13792,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T075703Z" creationid="Kieu Lan" creationdate="20211006T075703Z">
         <seg>HVAC control algorithms     /     Thuật toán điều khiển HVAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HVAC functions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T082753Z" creationid="Kieu Lan" creationdate="20211101T082753Z">
+        <seg>HVAC functions     /     Chức năng HVAC</seg>
       </tuv>
     </tu>
     <tu>
@@ -20564,6 +20588,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061357Z" creationid="Kieu Lan" creationdate="20210805T061357Z">
         <seg>Pre-action water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-programmed HVAC application</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T082712Z" creationid="Kieu Lan" creationdate="20211101T082712Z">
+        <seg>Pre-programmed HVAC application     /     chương trình HVAC cài đặt sẵn</seg>
       </tuv>
     </tu>
     <tu>
