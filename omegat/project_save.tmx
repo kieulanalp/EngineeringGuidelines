@@ -9072,6 +9072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control scheme examples</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T083138Z" creationid="Kieu Lan" creationdate="20211101T083138Z">
+        <seg>Control scheme examples     /     Ví dụ các tính năng điều khiển:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Controller type</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032033Z" creationid="Kieu Lan" creationdate="20211006T032033Z">
@@ -15107,6 +15115,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211005T082827Z" creationid="Kieu Lan" creationdate="20211005T082827Z">
         <seg>In order to facilitate pre-commissioning of the packaged HVAC equipment supplied to the hotels, all BMS controllers and control equipment shall be installed by the original equipment manufacturer (OEM) prior to delivery to site.     /     Để tạo điều kiện thuận lợi cho việc vận hành thử các thiết bị HVAC được cung cấp cho khách sạn, tất cả các bộ điều khiển BMS và thiết bị điều khiển phải được lắp đặt bởi nhà sản xuất thiết bị gốc (OEM) trước khi giao hàng đến công trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to provide the basic control requirements for heating, ventilation and air conditioning plants, the control system shall provide (but not be limited to) the following control functions as standard:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T082937Z" creationid="Kieu Lan" creationdate="20211101T082937Z">
+        <seg>In order to provide the basic control requirements for heating, ventilation and air conditioning plants, the control system shall provide (but not be limited to) the following control functions as standard:     /     Nhằm cung cấp các yêu cầu điều khiển tối thiểu cho HVAC, hệ thống điều khiển phải cung cấp (và không giới hạn ở) các chức năng điều khiển sau:</seg>
       </tuv>
     </tu>
     <tu>
