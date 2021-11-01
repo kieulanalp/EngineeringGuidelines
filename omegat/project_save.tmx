@@ -10563,6 +10563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical Heating Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T085417Z" creationid="Kieu Lan" creationdate="20211101T085417Z">
+        <seg>Electrical Heating Systems     /     Hệ thống sưởi điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical Infrastructure Requirements for 2,600kW cooling.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T065857Z" creationid="LanHK" creationdate="20210722T065857Z">
@@ -14477,6 +14485,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>House Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T085437Z" creationid="Kieu Lan" creationdate="20211101T085437Z">
+        <seg>House Areas     /     Khu BOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Housekeeping</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T025617Z" creationid="Kieu Lan" creationdate="20210814T025617Z">
@@ -14537,6 +14553,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025551Z" creationid="Kieu Lan" creationdate="20210806T025516Z">
         <seg>Humidification Plant     /     Máy tạo ẩm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Humidification Plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T085410Z" creationid="Kieu Lan" creationdate="20211101T085410Z">
+        <seg>Humidification Plant     /     Máy cấp ẩm</seg>
       </tuv>
     </tu>
     <tu>
