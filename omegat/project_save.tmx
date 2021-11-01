@@ -11482,8 +11482,8 @@
       <tuv lang="EN-US">
         <seg>External temperature set point (0-10V or N: 1000)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T094152Z" creationid="Kieu Lan" creationdate="20211101T094152Z">
-        <seg>External temperature set point (0-10V or N: 1000)     /     Nhiệt độ </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T095304Z" creationid="Kieu Lan" creationdate="20211101T094152Z">
+        <seg>External temperature set point (0-10V or N: 1000)     /     Nhiệt độ điểm chuẩn bên ngoài (0-10V hoặc N: 1000)</seg>
       </tuv>
     </tu>
     <tu>
