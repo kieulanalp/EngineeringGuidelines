@@ -18441,6 +18441,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Night ventilation function (Night purge)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T095527Z" creationid="Kieu Lan" creationdate="20211101T095527Z">
+        <seg>Night ventilation function (Night purge)     /     Chức năng thông gió ban đêm (xả khí ban đêm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nil</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040856Z" creationid="Kieu Lan" creationdate="20210802T040856Z">
@@ -27917,6 +27925,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210602T045145Z">
         <seg>Unoccupied attics or roof spaces must be subdivided into areas no greater than 330m² by fire and smoke resisting separation. Each area must be provided with smoke detection and in sprinkler protected buildings over four floors in height each area must have sprinklers.        /       Các không gian gác mái hoặc mái không sử dụng phải được chia thành các khoang nhỏ không quá 330m² bằng các vách chống cháy và ngăn khói. Mỗi khoang phải có đầu báo khói và trong các tòa nhà được bảo vệ bằng sprinkler cao hơn 4 tầng, mỗi khoang phải có sprinkler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unoccupied mode (night mode) for heating and/or cooling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T095431Z" creationid="Kieu Lan" creationdate="20211101T095431Z">
+        <seg>Unoccupied mode (night mode) for heating and/or cooling     /     Chế độ không người (chế độ ban đêm) cho sưởi và/hoặc làm mát</seg>
       </tuv>
     </tu>
     <tu>
