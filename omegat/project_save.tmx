@@ -12914,6 +12914,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frost protection function</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T095847Z" creationid="Kieu Lan" creationdate="20211101T095847Z">
+        <seg>Frost protection function     /     Chức năng bảo vệ chống đóng băng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frosting protection for heat recovery unit (HRC)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T095828Z" creationid="Kieu Lan" creationdate="20211101T095828Z">
+        <seg>Frosting protection for heat recovery unit (HRC)     /     Bảo vệ chống đóng băng cho bộ thu hồi nhiệt (HRC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuel</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T031545Z" creationid="LanHK" creationdate="20210717T031545Z">
@@ -16882,6 +16898,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T023113Z" creationid="LanHK" creationdate="20210602T023107Z">
         <seg>Load bearing wall        /       Tường chịu lực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load dependent ventilation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T095839Z" creationid="Kieu Lan" creationdate="20211101T095839Z">
+        <seg>Load dependent ventilation     /     Thông gió tùy thuộc vào phụ tải</seg>
       </tuv>
     </tu>
     <tu>
