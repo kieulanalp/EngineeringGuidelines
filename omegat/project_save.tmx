@@ -5884,6 +5884,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjustable P, PI, PD or PID control functions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T100332Z" creationid="Kieu Lan" creationdate="20211101T100332Z">
+        <seg>Adjustable P, PI, PD or PID control functions     /     Các chức năng điều khiển P, PI, PD hoặc PID có thể tùy chỉnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adopt Best Management Plan (BMP)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061844Z" creationid="Kieu Lan" creationdate="20210805T061804Z">
@@ -20676,6 +20684,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094524Z" creationid="LanHK" creationdate="20210715T063600Z">
         <seg>Pre-Function Foyer     /     Sảnh pre-function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-Selection of HVAC Equipment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T100407Z" creationid="Kieu Lan" creationdate="20211101T100407Z">
+        <seg>Pre-Selection of HVAC Equipment     /     Lựa chọn trước thiết bị HVAC</seg>
       </tuv>
     </tu>
     <tu>
