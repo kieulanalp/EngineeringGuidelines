@@ -10427,14 +10427,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Each primary controller shall include an internal 365-day clock / calendar with the possibility to operat autonomously or in master / slave configuration. More than one master / slave group may reside on the same bus network.</seg>
-      </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Each primary controller shall include an internal 365-day clock    /    calendar with the possibility to operat autonomously or in master    /    slave configuration. More than one master    /    slave group may reside on the same bus network.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Each system provides only heating or cooling</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T062040Z" creationid="LanHK" creationdate="20210729T062040Z">
@@ -11484,6 +11476,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071150Z" creationid="Kieu Lan" creationdate="20210804T071150Z">
         <seg>External Plant     /     Máy bên ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External temperature set point (0-10V or N: 1000)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T094152Z" creationid="Kieu Lan" creationdate="20211101T094152Z">
+        <seg>External temperature set point (0-10V or N: 1000)     /     Nhiệt độ </seg>
       </tuv>
     </tu>
     <tu>
