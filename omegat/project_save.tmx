@@ -15963,6 +15963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It shall be possible for alarms of other controllers to be made available on the bus and viewable at any controller having a display connected. In addition to the descriptive clear-text, alarm displays shall include an error code, time and date stamp and the controller address. All alarms shall also be available to the system operator station</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013841Z" creationid="Kieu Lan" creationdate="20211102T013841Z">
+        <seg>It shall be possible for alarms of other controllers to be made available on the bus and viewable at any controller having a display connected. In addition to the descriptive clear-text, alarm displays shall include an error code, time and date stamp and the controller address. All alarms shall also be available to the system operator station     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should discharge the air across the ceiling to use the coanda effect for good distribution.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043048Z" creationid="Kieu Lan" creationdate="20210802T043048Z">
