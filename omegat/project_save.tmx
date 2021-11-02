@@ -10347,6 +10347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each controller function block shall be a proven and tested HVAC control algorithm specifically for the purposes of HVAC control. In addition, it shall be possible to demonstrate the correct operation of each block via suitable demonstration material or software.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012557Z" creationid="Kieu Lan" creationdate="20211102T012557Z">
+        <seg>Each controller function block shall be a proven and tested HVAC control algorithm specifically for the purposes of HVAC control. In addition, it shall be possible to demonstrate the correct operation of each block via suitable demonstration material or software.     /     mỗi khối chức năng điều khiển phải là một thuật toán điều khiển HVAC đã qua kiểm nghiệm chuyên dụng phục vụ mục đích điều khiển HVAC. Ngoài ra, còn cần có thể chứng minh hoạt động chính xác của từng khối thông qua tài liệu hoặc phần mềm trình diễn phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each controller shall be identified by a unique device name at the planning stage. The device name shall be entered in the controller via the operator units. Each name shall comprise up to 21 alphanumeric characters (maximum 21 characters including blanks). Device names should be agreed in advance with the consulting engineer or plant operator and once saved, these device names shall be visible from services tools or PC management systems</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T061147Z" creationid="Kieu Lan" creationdate="20211006T061147Z">
