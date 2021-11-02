@@ -11889,6 +11889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fault acknowledgement</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013551Z" creationid="Kieu Lan" creationdate="20211102T013551Z">
+        <seg>Fault acknowledgement     /     Ghi nhận lỗi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fault alarm at fire panel &amp; pagers only</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T031409Z" creationid="Kieu Lan" creationdate="20210713T081329Z">
@@ -11907,8 +11915,16 @@
       <tuv lang="EN-US">
         <seg>Fault priority (urgent / not urgent)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T101204Z">
-        <seg>Fault priority (urgent    /    not urgent)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013627Z" creationid="LanHK" creationdate="20210601T101204Z">
+        <seg>Fault priority (urgent / not urgent)     /     Mức độ ưu tiên (khẩn / không khẩn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fault status signal delay (the period of time before the alarm message is sent)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013831Z" creationid="Kieu Lan" creationdate="20211102T013831Z">
+        <seg>Fault status signal delay (the period of time before the alarm message is sent)     /     Hoãn thời điểm báo lỗi (khoảng thời gian trước khi gửi tin nhắn báo lỗi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12638,6 +12654,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T074118Z" creationid="Kieu Lan" creationdate="20211006T074118Z">
         <seg>For each digital input, the normal position shall be defined (normally open/closed)     /     Với mỗi tín hiệu vào kỹ thuật số, phải xác định trạng thái định vị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For every fault status message, the following settings shall be available:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013541Z" creationid="Kieu Lan" creationdate="20211102T013541Z">
+        <seg>For every fault status message, the following settings shall be available:     /     Đối với mỗi tin báo lỗi, sẽ có các tính năng sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15041,6 +15065,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T081347Z" creationid="Kieu Lan" creationdate="20210713T081347Z">
         <seg>Ngay lập tức báo động trong phòng/khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impact of fault (plant stop) depending on whether a plant item shall be switched off</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013749Z" creationid="Kieu Lan" creationdate="20211102T013749Z">
+        <seg>Impact of fault (plant stop) depending on whether a plant item shall be switched off     /     Xác động tác động của lỗi (dừng máy) phụ thuộc vào việc liệu một bộ phận máy có được tắt hay không</seg>
       </tuv>
     </tu>
     <tu>
