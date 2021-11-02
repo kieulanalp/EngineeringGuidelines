@@ -10451,6 +10451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each primary controller shall contain a 'fault' function block to collect and evaluate and fault stat messages from the building or plant, and if required, to trigger appropriate actions to prevent damage.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013416Z" creationid="Kieu Lan" creationdate="20211102T013416Z">
+        <seg>Each primary controller shall contain a 'fault' function block to collect and evaluate and fault stat messages from the building or plant, and if required, to trigger appropriate actions to prevent damage.     /     Mỗi điều khiển chính sẽ có một khối chức năng "báo lỗi" để thu thập và đánh giá và soát lỗi các tin từ tòa nhà hoặc cụm máy, để kích hoạt các hành động hợp lý nhằm ngăn chặn thiệt hại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each primary controller shall have the provision for connection of a backlit LCD plug in operator unit for the display of values and adjustment of settings, showing all menus in plain text for local use operation. These units shall be either mounted directly on the controller or alternatively mounted remotely (typically in the control panel door) with operator keys for navigation and user operation. It shall be possible for the operator unit to be used to make all settings and readouts required for operating the controller and plant.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T060850Z" creationid="Kieu Lan" creationdate="20211006T060850Z">
@@ -11885,6 +11893,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T031409Z" creationid="Kieu Lan" creationdate="20210713T081329Z">
         <seg>Báo lỗi ở tủ báo cháy và máy liên lạc của nhân viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fault inputs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013247Z" creationid="Kieu Lan" creationdate="20211102T013247Z">
+        <seg>Fault inputs     /     Báo lỗi</seg>
       </tuv>
     </tu>
     <tu>
@@ -22936,6 +22952,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013421Z" creationid="Kieu Lan" creationdate="20211102T013421Z">
+        <seg>Settings     /     Cài đặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sewage Disposal Systems</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T044558Z" creationid="Kieu Lan" creationdate="20210821T044558Z">
@@ -27988,6 +28012,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T012723Z" creationid="LanHK" creationdate="20210610T102232Z">
         <seg>Typically these systems will be operated via smoke detectors in the area to be protected which:-    /    Thường các hệ thống này sẽ được vận hành nhờ đầu báo khói trong các khu vực được bảo vệ. Đầu báo khói sẽ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, one of the primary controllers shall be defined as the time switch "Master" for designated zone within the building, with all other devices in the group designated as time switch "Slaves". Controllers not involved in the time program shall be set to "Autonomous".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T013233Z" creationid="Kieu Lan" creationdate="20211102T013233Z">
+        <seg>Typically, one of the primary controllers shall be defined as the time switch "Master" for designated zone within the building, with all other devices in the group designated as time switch "Slaves". Controllers not involved in the time program shall be set to "Autonomous".     /     Nhìn chung, một trong các bộ điều khiển chính sẽ được xác định là công tắc hẹn giờ "Master" cho khu vực xác định trong tòa nhà, và các thiết bị khác trong nhóm sẽ được xác định là công tắc hẹn giờ "Slave". Các bộ điều khiển không liên quan đến chương trình hẹn giờ sẽ được cài đặt ở chế độ "tự động"</seg>
       </tuv>
     </tu>
     <tu>
