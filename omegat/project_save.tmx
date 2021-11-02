@@ -10459,6 +10459,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each primary controller shall include an internal 365-day clock / calendar with the possibility to operat autonomously or in master / slave configuration. More than one master / slave group may reside on the same bus network.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012802Z" creationid="Kieu Lan" creationdate="20211102T012802Z">
+        <seg>Each primary controller shall include an internal 365-day clock / calendar with the possibility to operate autonomously or in master / slave configuration. More than one master / slave group may reside on the same bus network.     /     Mỗi bộ điều khiển chính sẽ bao gồm một đồng hồ/lịch 365 ngày với khả năng vận hành tự động hoặc theo cấu hình chủ/tớ. Nhiều hơn một nhóm chủ/tớ có thể hoạt động trên cùng mạng bus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each system provides only heating or cooling</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T062040Z" creationid="LanHK" creationdate="20210729T062040Z">
@@ -14356,6 +14364,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Holidays</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012900Z" creationid="Kieu Lan" creationdate="20211102T012900Z">
+        <seg>Holidays     /     ngày lễ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095209Z" creationid="Kieu Lan" creationdate="20210728T095209Z">
@@ -15081,6 +15097,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T045121Z" creationid="Kieu Lan" creationdate="20210804T045121Z">
         <seg>In addition to the common air conditioning system serving these areas, a separate independent split system shall be provided for each room to guarantee availability of cooling at all times. Failure shall be alarmed at the BMS.     /     Ngoài hệ thống điều hòa không khí chung phục vụ các khu vực này, một hệ thống hai cục riêng độc lập sẽ được cung cấp cho mỗi phòng để đảm bảo luôn có khả năng làm mát. Sự cố sẽ được báo về BMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, the following functionality shall also be provided:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012833Z" creationid="Kieu Lan" creationdate="20211102T012833Z">
+        <seg>In addition, the following functionality shall also be provided:     /     Ngoài ra, cần có các chức năng sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23563,6 +23587,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Special day / exceptional time functions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012914Z" creationid="Kieu Lan" creationdate="20211102T012914Z">
+        <seg>Special day / exceptional time functions     /     Vận hành ngày đặc biệt / thời gian khác thường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special fire rated wiring to the luminaire is not required.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T084156Z" creationid="LanHK" creationdate="20210702T084156Z">
@@ -24295,6 +24327,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Summertime / wintertime changeover</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012857Z" creationid="Kieu Lan" creationdate="20211102T012857Z">
+        <seg>Summertime / wintertime changeover     /     Chuyển đổi giờ mùa hè/giờ mùa đông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sump pumps</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T043402Z" creationid="Kieu Lan" creationdate="20210810T043402Z">
@@ -24492,6 +24532,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T062029Z" creationid="LanHK" creationdate="20210729T062029Z">
         <seg>System only has two refrigerant pipes     /     Hệ thống chỉ có 2 ống môi chất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System time synchronization</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012840Z" creationid="Kieu Lan" creationdate="20211102T012840Z">
+        <seg>System time synchronization     /     Đồng bộ thời gian hệ thống </seg>
       </tuv>
     </tu>
     <tu>
@@ -27280,6 +27328,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074300Z" creationid="Kieu Lan" creationdate="20210804T074240Z">
         <seg>Three port valve system - 114.5 Kg/s (+29%)     /     Hệ van ba ngả - 114.5 Kg/s (+29%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time switch operation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012656Z" creationid="Kieu Lan" creationdate="20211102T012656Z">
+        <seg>Time switch operation     /     Vận hành theo công tắc hẹn giờ</seg>
       </tuv>
     </tu>
     <tu>
