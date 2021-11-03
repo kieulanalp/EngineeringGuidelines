@@ -6086,6 +6086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211103T040157Z" creationid="Kieu Lan" creationdate="20211103T040157Z">
+        <seg>Alarms     /     Báo động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alcohol and beverage store</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113216Z" creationid="Kieu Lan" creationdate="20210815T113216Z">
