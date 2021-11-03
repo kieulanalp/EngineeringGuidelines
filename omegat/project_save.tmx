@@ -10371,6 +10371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each controller shall have an alarm button with LED indication. The alarm button shall flash when new alarms are present and be lit continuously when only acknowledged alarms are present. The LED shall be switched off when all alarm conditions are reset.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211103T040301Z" creationid="Kieu Lan" creationdate="20211103T040301Z">
+        <seg>Each controller shall have an alarm button with LED indication. The alarm button shall flash when new alarms are present and be lit continuously when only acknowledged alarms are present. The LED shall be switched off when all alarm conditions are reset.     /     Mỗi bộ điều khiển sẽ có một nút báo động với đèn báo LED. Nút báo động sẽ nhấp nháy khi có báo động mới và sẽ duy trì sáng đều nếu chỉ có báo động đã được xác nhận. Đèn LED sẽ tắt khi tất cả các điều kiện báo động được reset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each controller shall provide a combination of fixed analog or digital output signals to suit the required plant.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T074846Z" creationid="Kieu Lan" creationdate="20211006T074846Z">
