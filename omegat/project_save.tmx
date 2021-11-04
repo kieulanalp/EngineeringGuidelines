@@ -6615,6 +6615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any alarms present at the controller shall be displayed in clear-text on the plug-in operator units. Main alarm message texts (main control loops) shall be factory configured and reflect information important for the HVAC application</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T021749Z" creationid="Kieu Lan" creationdate="20211104T021749Z">
+        <seg>Any alarms present at the controller shall be displayed in clear-text on the plug-in operator units. Main alarm message texts (main control loops) shall be factory configured and reflect information important for the HVAC application     /     Bất cứ cảnh báo nào hiển thị ở bộ điều khiển phải là chữ không mã hóa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any doors opening directly into a stair must not obstruct the stair by more than 50% of its width.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T074842Z" creationid="LanHK" creationdate="20210609T074842Z">
@@ -15981,8 +15989,8 @@
       <tuv lang="EN-US">
         <seg>It shall be possible for alarms of other controllers to be made available on the bus and viewable at any controller having a display connected. In addition to the descriptive clear-text, alarm displays shall include an error code, time and date stamp and the controller address. All alarms shall also be available to the system operator station</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211103T033308Z" creationid="Kieu Lan" creationdate="20211102T013841Z">
-        <seg>It shall be possible for alarms of other controllers to be made available on the bus and viewable at any controller having a display connected. In addition to the descriptive clear-text, alarm displays shall include an error code, time and date stamp and the controller address. All alarms shall also be available to the system operator station     /    Các báo động của các bộ điều khiển khác phải có thể được nối vào bus và xem được trên bất cứ điều khiển có màn hình hiển thị nào có kết nối. Ngoài chữ mô tả rõ ràng, màn hình hiển thị báo động phải bao gồm mã số lỗi (error code), thời gian và ngày tháng năm và địa chỉ bộ điều khiển. Tất cả báo động cũng phải xem được ở trạm vận hành hệ thống </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T021805Z" creationid="Kieu Lan" creationdate="20211102T013841Z">
+        <seg>It shall be possible for alarms of other controllers to be made available on the bus and viewable at any controller having a display connected. In addition to the descriptive clear-text, alarm displays shall include an error code, time and date stamp and the controller address. All alarms shall also be available to the system operator station     /    Các báo động của các bộ điều khiển khác phải có thể được nối vào bus và xem được trên bất cứ điều khiển có màn hình hiển thị nào có kết nối. Ngoài chữ không mã hóa, màn hình hiển thị báo động phải bao gồm mã số lỗi (error code), thời gian và ngày tháng năm và địa chỉ bộ điều khiển. Tất cả báo động cũng phải xem được ở trạm vận hành hệ thống </seg>
       </tuv>
     </tu>
     <tu>
