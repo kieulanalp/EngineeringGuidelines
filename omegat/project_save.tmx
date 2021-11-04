@@ -9047,6 +9047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuration alarm: supply air fan failure</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T031339Z" creationid="Kieu Lan" creationdate="20211104T031339Z">
+        <seg>Configuration alarm: supply air fan failure     /     Báo động cài đặt: lỗi hỏng quạt cấp khí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirmation of whether plant has been sized correctly to meet the loads - this can have substantial benefits on future projects.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T022159Z" creationid="Kieu Lan" creationdate="20210930T022159Z">
@@ -10375,6 +10383,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012557Z" creationid="Kieu Lan" creationdate="20211102T012557Z">
         <seg>Each controller function block shall be a proven and tested HVAC control algorithm specifically for the purposes of HVAC control. In addition, it shall be possible to demonstrate the correct operation of each block via suitable demonstration material or software.     /     mỗi khối chức năng điều khiển phải là một thuật toán điều khiển HVAC đã qua kiểm nghiệm chuyên dụng phục vụ mục đích điều khiển HVAC. Ngoài ra, còn cần có thể chứng minh hoạt động chính xác của từng khối thông qua tài liệu hoặc phần mềm trình diễn phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each controller shall also have the provision for "miscellaneous alarm messages". These alarm inputs shall be user configurable.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T031419Z" creationid="Kieu Lan" creationdate="20211104T031419Z">
+        <seg>Each controller shall also have the provision for "miscellaneous alarm messages". These alarm inputs shall be user configurable.     /     Mỗi bộ điều khiển sẽ có tính năng "thông báo báo động khác". Các báo động này sẽ được cài đặt bởi người dùng</seg>
       </tuv>
     </tu>
     <tu>
@@ -14809,6 +14825,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092731Z" creationid="Kieu Lan" creationdate="20210815T092731Z">
         <seg>I.T Room Typical Layout     /     Layout điển hình phòng IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I/O alarm: room temperature sensor failure</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T031328Z" creationid="Kieu Lan" creationdate="20211104T031328Z">
+        <seg>I/O alarm: room temperature sensor failure     /     Báo động I/O: lỗi hỏng cảm biến nhiệt độ phòng</seg>
       </tuv>
     </tu>
     <tu>
