@@ -9722,6 +9722,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deviation alarm: actual value deviates from set point</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T031053Z" creationid="Kieu Lan" creationdate="20211104T031053Z">
+        <seg>Deviation alarm: actual value deviates from set point     /     Báo động lệch chuẩn: các giá trị thực tế lệch khỏi điểm chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deviations from the InterContinental Hotels Group Standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074801Z">
@@ -11378,6 +11386,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210610T033525Z">
         <seg>Example of a function room with an area of 400m²:     /    Ví dụ về một phòng chức năng với diện tích 400m²:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T031024Z" creationid="Kieu Lan" creationdate="20211104T031024Z">
+        <seg>Examples     /     ví dụ</seg>
       </tuv>
     </tu>
     <tu>
