@@ -6617,8 +6617,8 @@
       <tuv lang="EN-US">
         <seg>Any alarms present at the controller shall be displayed in clear-text on the plug-in operator units. Main alarm message texts (main control loops) shall be factory configured and reflect information important for the HVAC application</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T021749Z" creationid="Kieu Lan" creationdate="20211104T021749Z">
-        <seg>Any alarms present at the controller shall be displayed in clear-text on the plug-in operator units. Main alarm message texts (main control loops) shall be factory configured and reflect information important for the HVAC application     /     Bất cứ cảnh báo nào hiển thị ở bộ điều khiển phải là chữ không mã hóa</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T030831Z" creationid="Kieu Lan" creationdate="20211104T021749Z">
+        <seg>Any alarms present at the controller shall be displayed in clear-text on the plug-in operator units. Main alarm message texts (main control loops) shall be factory configured and reflect information important for the HVAC application     /     Bất cứ cảnh báo nào hiển thị ở bộ điều khiển phải là chữ không mã hóa trên unit vận hành plug-in. </seg>
       </tuv>
     </tu>
     <tu>
