@@ -27478,8 +27478,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>To assist commissioning and fault diagnosis, each primary controller shall have a wiring test facility to allow all activated inputs and their connected devices to be checked for correct operation in "real-time":</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T034332Z" creationid="Kieu Lan" creationdate="20211104T034332Z">
-        <seg>To assist commissioning and fault diagnosis, each primary controller shall have a wiring test facility to allow all activated inputs and their connected devices to be checked for correct operation in "real-time":     /     Để hỗ trợ việc vận hành thử và phát hiện lỗi, mỗi bộ điều khiển chính sẽ có cơ chế để test dây</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T034527Z" creationid="Kieu Lan" creationdate="20211104T034332Z">
+        <seg>To assist commissioning and fault diagnosis, each primary controller shall have a wiring test facility to allow all activated inputs and their connected devices to be checked for correct operation in "real-time":     /     Để hỗ trợ việc vận hành thử và phát hiện lỗi, mỗi bộ điều khiển chính sẽ có cơ chế để test hệ thống dây điện để cho phép tất cả các input đã kích hoạt và các thiết bị được kết nối của chúng được kiểm tra đảm bảo vận hành đúng trong "thời gian thực"</seg>
       </tuv>
     </tu>
     <tu>
@@ -29481,8 +29481,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Wiring test</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T034336Z" creationid="Kieu Lan" creationdate="20211104T032500Z">
-        <seg>Wiring test     /     Test dây nối</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211104T034440Z" creationid="Kieu Lan" creationdate="20211104T032500Z">
+        <seg>Wiring test     /     Test hệ thống dây điện</seg>
       </tuv>
     </tu>
     <tu>
