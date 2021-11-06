@@ -28595,6 +28595,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Viewing of actual measured values (analog inputs).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211106T074759Z" creationid="Kieu Lan" creationdate="20211106T074759Z">
+        <seg>Viewing of actual measured values (analog inputs).     /     xem giá trị đo thực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Visual fault indicators for mains failure, battery under voltage and battery charger failure</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T015940Z" creationid="Kieu Lan" creationdate="20210713T015940Z">
