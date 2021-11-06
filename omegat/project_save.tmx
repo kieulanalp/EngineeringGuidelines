@@ -28597,8 +28597,16 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Viewing of actual measured values (analog inputs).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211106T074759Z" creationid="Kieu Lan" creationdate="20211106T074759Z">
-        <seg>Viewing of actual measured values (analog inputs).     /     xem giá trị đo thực</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211106T080501Z" creationid="Kieu Lan" creationdate="20211106T074759Z">
+        <seg>Viewing of actual measured values (analog inputs).     /     xem giá trị đã đo thực (analog inputs)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Viewing of status values (digital inputs).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211106T080514Z" creationid="Kieu Lan" creationdate="20211106T080457Z">
+        <seg>Viewing of status values (digital inputs).     /     view các giá trị hiện trạng (digital inputs).</seg>
       </tuv>
     </tu>
     <tu>
