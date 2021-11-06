@@ -16029,8 +16029,8 @@
       <tuv lang="EN-US">
         <seg>It shall also be possible to drive the controller outputs in real-time for checking the correct connection to, and the correct operation of field devices:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211106T080708Z" creationid="Kieu Lan" creationdate="20211106T080708Z">
-        <seg>It shall also be possible to drive the controller outputs in real-time for checking the correct connection to, and the correct operation of field devices:     /     Phải có thể điều kiển các đầu ra của bộ điều khiển trong thời gian thực để kiểm tra kết nối chính xác tới và hoạt động chính xác của các thiết bị hiện trường</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211106T080823Z" creationid="Kieu Lan" creationdate="20211106T080708Z">
+        <seg>It shall also be possible to drive the controller outputs in real-time for checking the correct connection to, and the correct operation of field devices:     /     Phải có thể điều kiển các đầu ra của bộ điều khiển trong thời gian thực để kiểm tra kết nối chính xác tới và hoạt động chính xác của các thiết bị hiện trường: </seg>
       </tuv>
     </tu>
     <tu>
