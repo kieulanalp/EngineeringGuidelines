@@ -10122,6 +10122,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Drive analog outputs (such as valve or damper actuators???????</note>
+      <tuv lang="EN-US">
+        <seg>Drive analog outputs (such as valve or damper actuators)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Dry deluge or glycol system</seg>
       </tuv>
