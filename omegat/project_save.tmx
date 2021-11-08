@@ -15030,6 +15030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If IAQ levels are poor, the percentage or volume of fresh air can be increased to maintain comfort</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T014654Z" creationid="Kieu Lan" creationdate="20211108T014654Z">
+        <seg>If IAQ levels are poor, the percentage or volume of fresh air can be increased to maintain comfort     /     Nếu thông số IAQ không tốt, có thể tăng phần trăm hoặc thể tích khí tươi để duy trì sự thoải mái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a glycol system is used, then the glycol shall be food</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061357Z" creationid="Kieu Lan" creationdate="20210805T061357Z">
@@ -15058,6 +15066,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T085102Z" creationid="Kieu Lan" creationdate="20210628T061934Z">
         <seg>If installing an electrically operated device, the AC power source should be supplied from either a dedicated branch circuit or the un-switched portion of the branch circuit also used for power and lighting. Operation of a switch (other than a circuit breaker) or a ground fault circuit interrupter should not cause loss of power to the alarm.     /     Nếu lắp đặt thiết bị vận hành bằng điện, nguồn điện AC được cấp từ hoặc một mạch nhánh dành riêng hoặc từ một đoạn mạch nhánh không có công tắc sử dụng đồng thời cho cấp điện và chiếu sáng. Việc vận hành công tắc (ngoại trừ aptomat) hoặc bộ ngắt điện rò mặt đất không gây cắt nguồn điện cấp cho hệ báo động.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If lAQ levels are good, ventilation can be reduced to save electrical energy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T014629Z" creationid="Kieu Lan" creationdate="20211108T014629Z">
+        <seg>If lAQ levels are good, ventilation can be reduced to save electrical energy     /     Nếu các thông số IAQ tốt, có thể giảm thông gió để tiết kiệm điện</seg>
       </tuv>
     </tu>
     <tu>
@@ -15410,8 +15426,8 @@
       <tuv lang="EN-US">
         <seg>In order to reduce energy costs and increase guest comfort building occupancy levels are to be sensed by the implementation of carbon dioxide (C02) -based Indoor Air Quality (IAQ) control and demand control ventilation (DCV).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T014504Z" creationid="Kieu Lan" creationdate="20211108T014504Z">
-        <seg>In order to reduce energy costs and increase guest comfort building occupancy levels are to be sensed by the implementation of carbon dioxide (C02) -based Indoor Air Quality (IAQ) control and demand control ventilation (DCV).     /     Để giảm thiểu chi phí năng lượng và tăng độ thoải mái cho khách trong tòa nhà, mức độ lấp đầy tòa nhà cần phải  được theo dõi bằng hệ thống kiểm soát chất lượng không khí trong nhà trên cơ sở CO2 và thông gió điều khiển theo nhu cầu</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T014525Z" creationid="Kieu Lan" creationdate="20211108T014504Z">
+        <seg>In order to reduce energy costs and increase guest comfort building occupancy levels are to be sensed by the implementation of carbon dioxide (C02) -based Indoor Air Quality (IAQ) control and demand control ventilation (DCV).     /     Để giảm thiểu chi phí năng lượng và tăng độ thoải mái cho khách trong tòa nhà, mức độ lấp đầy tòa nhà cần phải  được theo dõi bằng hệ thống kiểm soát chất lượng không khí trong nhà (IAQ) trên cơ sở CO2 và thông gió điều khiển theo nhu cầu (DCV).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18085,6 +18101,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T014339Z" creationid="LanHK" creationdate="20210603T014339Z">
         <seg>Means of escape must be designed so that they are safe to use and people can leave the building unaided        /       Lối thoát hiểm phải được thiết kế để đảm bảo an toàn khi sử dụng và mọi người có thể rời khỏi tòa nhà mà không cần trợ giúp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of air quality by combined CO2/V0C sensors will allow the following strategies:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T014946Z" creationid="Kieu Lan" creationdate="20211108T014946Z">
+        <seg>Measurement of air quality by combined CO2/V0C sensors will allow the following strategies:     /     Đo chất lượng gió bằng cách kết hợp cảm biến CO2/V0C sẽ cho phép áp dụng các chiến lược sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -26770,6 +26794,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system ensures IHG Hotels conform to ventilation regulations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T014712Z" creationid="Kieu Lan" creationdate="20211108T014712Z">
+        <seg>The system ensures IHG Hotels conform to ventilation regulations     /     Hệ thống đảm bảo các Khách sạn IHG tuân thủ tiêu chuẩn về thông gió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system must be sized to accommodate the electrical load for the equipment supplied plus a minimum of 25% spare capacity. The battery autonomy must be 20 minutes at full load.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T045232Z" creationid="Kieu Lan" creationdate="20210810T045232Z">
@@ -26886,6 +26918,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T103306Z" creationid="Kieu Lan" creationdate="20210806T103306Z">
         <seg>The tariff for supply must be negotiated to provide the most economic provision of power for the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The technology is simple; sensors monitor levels of exhaled carbon dioxide in selected spaces and ventilation rates are adjusted according to calculated occupancy:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T014608Z" creationid="Kieu Lan" creationdate="20211108T014608Z">
+        <seg>The technology is simple; sensors monitor levels of exhaled carbon dioxide in selected spaces and ventilation rates are adjusted according to calculated occupancy:     /     Công nghệ này đơn giản; cảm biến theo dõi mức độ CO2 được thở ra trong các không gian khác nhau và mức độ thông khí được điều chỉnh dựa trên mức độ lấp đầy</seg>
       </tuv>
     </tu>
     <tu>
