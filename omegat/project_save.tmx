@@ -5918,8 +5918,8 @@
       <tuv lang="EN-US">
         <seg>After the initial configuration and setting of the primary controller(s), it shall be possible to store the settings within the controller for later retrieval (restore) in the event of incorrect or unwanted changes being made. Storage date of the last saved parameter set shall be displayed. In the event of power failure, the "currently active" parameter set shall remain in operation when power is returned.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T013823Z" creationid="Kieu Lan" creationdate="20211108T013823Z">
-        <seg>After the initial configuration and setting of the primary controller(s), it shall be possible to store the settings within the controller for later retrieval (restore) in the event of incorrect or unwanted changes being made. Storage date of the last saved parameter set shall be displayed. In the event of power failure, the "currently active" parameter set shall remain in operation when power is returned.     /     Sau khi cài đặt ban đầu cho bộ điều khiển chính, phải có thể lưu thông tin cài đặt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T014116Z" creationid="Kieu Lan" creationdate="20211108T013823Z">
+        <seg>After the initial configuration and setting of the primary controller(s), it shall be possible to store the settings within the controller for later retrieval (restore) in the event of incorrect or unwanted changes being made. Storage date of the last saved parameter set shall be displayed. In the event of power failure, the "currently active" parameter set shall remain in operation when power is returned.     /     Sau khi cài đặt ban đầu cho bộ điều khiển chính, phải có thể lưu thông tin cài đặt trong bộ điều khiển để lấy lại được về sau (khôi phục) trong trường hợp có thay đổi không chính xác hoặc không mong muốn. Phải hiển thị ngày lưu gần nhất của bộ thông số. Trong trường hợp mất hiện, bộ thông số "đang sử dụng" sẽ tiếp tục được sử dụng khi có điện</seg>
       </tuv>
     </tu>
     <tu>
@@ -9531,8 +9531,8 @@
       <tuv lang="EN-US">
         <seg>Data protection</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T013752Z" creationid="Kieu Lan" creationdate="20211108T013752Z">
-        <seg>Data protection     /     Bảo mật thông tin</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T013937Z" creationid="Kieu Lan" creationdate="20211108T013752Z">
+        <seg>Data Protection    /    Bảo vệ thông tin</seg>
       </tuv>
     </tu>
     <tu>
@@ -16056,6 +16056,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211106T080823Z" creationid="Kieu Lan" creationdate="20211106T080708Z">
         <seg>It shall also be possible to drive the controller outputs in real-time for checking the correct connection to, and the correct operation of field devices:     /     Phải có thể điều kiển các đầu ra của bộ điều khiển trong thời gian thực để kiểm tra kết nối chính xác tới và hoạt động chính xác của các thiết bị hiện trường: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It shall also be possible to save the parameter set to the operator station (PC) for archiving or for downloading to other controllers having similar application requirements.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T014151Z" creationid="Kieu Lan" creationdate="20211108T014151Z">
+        <seg>It shall also be possible to save the parameter set to the operator station (PC) for archiving or for downloading to other controllers having similar application requirements.     /     Phải có thể lưu bộ thông số vào máy tính (PC</seg>
       </tuv>
     </tu>
     <tu>
