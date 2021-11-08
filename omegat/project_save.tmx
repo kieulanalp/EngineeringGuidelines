@@ -7097,6 +7097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automation:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030402Z" creationid="Kieu Lan" creationdate="20211108T030402Z">
+        <seg>Automation:     /     Tự động hóa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Availability of fuel sources</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065243Z" creationid="Kieu Lan" creationdate="20210817T065243Z">
@@ -7117,6 +7125,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T040426Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
         <seg>Available water supply flow and pressure - are 2 separate independent supplies available to avoid storage?     /     Lưu lượng của nguồn cấp nước và áp lực - Có 2 nhà cung cấp độc lập để tránh phải dự trữ nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoids unpleasant odours in public areas such as restaurants, bars, lounges, shops</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030359Z" creationid="Kieu Lan" creationdate="20211108T030359Z">
+        <seg>Avoids unpleasant odours in public areas such as restaurants, bars, lounges, shops     /     Tránh các mùi lạ trong khu vực công cộng như nhà hàng, bar, lounge, cửa hàng</seg>
       </tuv>
     </tu>
     <tu>
@@ -10949,6 +10965,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eliminates human error, forgetting to switch-on and -off of the plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030426Z" creationid="Kieu Lan" creationdate="20211108T030426Z">
+        <seg>Eliminates human error, forgetting to switch-on and -off of the plant     /     Tránh sai sót do con người, quên tắt, bật máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emergency</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061429Z" creationid="Kieu Lan" creationdate="20210805T061429Z">
@@ -11041,6 +11065,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T061717Z" creationid="PHUONG.DTM" creationdate="20210605T020315Z">
         <seg>Enclosure of the lift should consist of a protected lobby at every level     /     Khu vực kín của thang máy cần bao gồm cả một buồng đệm bảo vệ tại mỗi tầng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Energy &amp; cost savings:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030512Z" creationid="Kieu Lan" creationdate="20211108T030512Z">
+        <seg>Energy &amp; cost savings:     /     Tiết kiệm năng lượng và chi phí</seg>
       </tuv>
     </tu>
     <tu>
@@ -13797,6 +13829,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guest perception:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030340Z" creationid="Kieu Lan" creationdate="20211108T030340Z">
+        <seg>Guest perception:     /     Cảm nhận của khcahs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest room air distribution and heating</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T071723Z" creationid="Kieu Lan" creationdate="20210802T071723Z">
@@ -14329,6 +14369,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100008Z" creationid="Kieu Lan" creationdate="20210729T100008Z">
         <seg>High     /     Cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High C02 contents in a meeting room, reduce a person's capability to concentrate</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030336Z" creationid="Kieu Lan" creationdate="20211108T030316Z">
+        <seg>High C02 contents in a meeting room reduce a person's capability to concentrate     /     Nồng độ CO2 cao trong phòng làm giảm khả năng chú ý của nhân viên</seg>
       </tuv>
     </tu>
     <tu>
@@ -15572,6 +15620,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095230Z" creationid="Kieu Lan" creationdate="20210728T095230Z">
         <seg>Increased capital/running costs     /     Tăng chi phí đầu tư/vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increased productivity of employees, fewer sick days</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030317Z" creationid="Kieu Lan" creationdate="20211108T030313Z">
+        <seg>Increased productivity of employees, fewer sick days     /     Tăng năng suất nhân viên, ít ngày nghỉ ốm hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increased productivity of guests during meetings, conferences, functions etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030302Z" creationid="Kieu Lan" creationdate="20211108T030302Z">
+        <seg>Increased productivity of guests during meetings, conferences, functions etc.     /     Tăng năng suất làm việc cho khách trong các cuộc họp, hội nghị, hội thảo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20608,6 +20672,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T075731Z" creationid="LanHK" creationdate="20210717T022331Z">
         <seg>Plant areas minimised     /     Giảm thiểu diện tích cho khu vực kỹ thuật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant automatically controls room air quality levels</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030412Z" creationid="Kieu Lan" creationdate="20211108T030412Z">
+        <seg>Plant automatically controls room air quality levels     /     Máy móc tự động kiểm soát chất lượng không khí trong phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -28560,6 +28632,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T025138Z" creationid="Kieu Lan" creationdate="20210816T025138Z">
         <seg>VFD pumping versus constant volume pumping?     /     Bơm biến tần hay bơm lưu lượng cố định?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VOC measurement provides early warning for poor supply air (dirty filters, problems)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030456Z" creationid="Kieu Lan" creationdate="20211108T030456Z">
+        <seg>VOC measurement provides early warning for poor supply air (dirty filters, problems)     /     Thông số VOC giúp cảnh báo sớm về nguồn khí cấp chất lượng kém (lọc bẩn, vấn đề)</seg>
       </tuv>
     </tu>
     <tu>
