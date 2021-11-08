@@ -6656,6 +6656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any solution would naturally depend upon the type of plant (fan type, method of heat recovery etc.) and the required control strategy (time schedule, manual control, occupancy sensors etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030143Z" creationid="Kieu Lan" creationdate="20211108T030143Z">
+        <seg>Any solution would naturally depend upon the type of plant (fan type, method of heat recovery etc.) and the required control strategy (time schedule, manual control, occupancy sensors etc.     /     Bất cứ giải pháp nào cũng đều phụ thuộc vào loại máy (loại quạt, phương pháp thu hồi nhiệt etc) và chiến lược kiểm soát cần thiết (theo thời gian biểu, điều khiển bằng tay, cảm biến người trong phòng etc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any sustainable accreditation</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065257Z" creationid="Kieu Lan" creationdate="20210817T065257Z">
@@ -25326,6 +25334,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T081018Z" creationid="Kieu Lan" creationdate="20210930T081018Z">
         <seg>The BMS can be integrated with IT system as illustrated below:     /     Hệ thống BMS có thể được liên kết với hệ thống IT như minh họa sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The C02 signal is an indicator of the number of people in a meeting room, while the VOC signal detects sources of odors such as sweat, dirty carpets, dirt from filters, furnishings and fabrics, cleaning agents etc. The sensor automatically provides a maximum value selection so that the air renewal demand is always determined by the higher of the two signals.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030029Z" creationid="Kieu Lan" creationdate="20211108T030029Z">
+        <seg>The C02 signal is an indicator of the number of people in a meeting room, while the VOC signal detects sources of odors such as sweat, dirty carpets, dirt from filters, furnishings and fabrics, cleaning agents etc. The sensor automatically provides a maximum value selection so that the air renewal demand is always determined by the higher of the two signals.     /     Tín hiệu CO2 là chỉ số cho thấy số người trong một phòng họp, trong khi tín hiệu VOC phát hiện nguồn mùi lạ như mồ hôi, thẩm bẩn, bộ lọc bẩn, đồ vải bẩn, chất tẩy rửa etc. Cảm biến tự động cung cấp giá trị tối đa để nhu cầu thay khí luôn được xác định bởi giá trị cao hơn</seg>
       </tuv>
     </tu>
     <tu>
