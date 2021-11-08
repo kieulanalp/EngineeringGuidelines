@@ -8830,6 +8830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comfort:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030202Z" creationid="Kieu Lan" creationdate="20211108T030202Z">
+        <seg>Comfort:     /     Sự thoải mái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T085505Z" creationid="LanHK" creationdate="20210505T044432Z">
@@ -15226,6 +15234,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T023832Z" creationid="Kieu Lan" creationdate="20210814T022001Z">
         <seg>Improve maintenance scheduling, prolonging equipment life and avoiding premature failures.     /     Cải thiện lịch trình bảo trì, kéo dài tuổi thọ thiết bị và tránh các hỏng hóc sớm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved room air quality for guests and staff</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030217Z" creationid="Kieu Lan" creationdate="20211108T030217Z">
+        <seg>Improved room air quality for guests and staff     /     tăng chất lượng không khí phòng cho khách và nhân viên</seg>
       </tuv>
     </tu>
     <tu>
@@ -25954,6 +25970,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094150Z" creationid="LanHK" creationdate="20210713T094150Z">
         <seg>The fire suppression systems must be designed in accordance with recognised international standards and in compliance with local regulations.     /     Các hệ thống chữa cháy phải được thiết kế tuân thủ các tiêu chuẩn quốc tế được công nhận và tuân thủ các quy định địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following benefits can be realised from this:-</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030158Z" creationid="Kieu Lan" creationdate="20211108T030158Z">
+        <seg>The following benefits can be realised from this:-     /     Có thể đem lại các lợi ích sau:</seg>
       </tuv>
     </tu>
     <tu>
