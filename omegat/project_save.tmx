@@ -6246,6 +6246,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>room units,???????</note>
+      <tuv lang="EN-US">
+        <seg>All devices should be capable of accepting industry-standard signals (inputs and outputs) for field devices such as temperature sensors, room units, occupancy detectors, wireless devices, valve actuators, damper actuators, door-switches, card readers etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T100700Z" creationid="Kieu Lan" creationdate="20211108T100700Z">
+        <seg>All devices should be capable of accepting industry-standard signals (inputs and outputs) for field devices such as temperature sensors, room units, occupancy detectors, wireless devices, valve actuators, damper actuators, door-switches, card readers etc.     /     Tất cả các thiết bị đều phải có thể nhận tín hiệu theo tiêu chuẩn của ngành (đầu vào và đầu ra) từ các thiết bị hiện trường nnhư cảm biến nhiệt độ, room units, cảm biến có người, thiết bị không dây, van điều khiển, động cơ điều khiển van gió, khóa cửa, đầu đọc thẻ etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>All distribution boards serving loads in excess of 50kW must be provided with sub-metering.</seg>
       </tuv>
