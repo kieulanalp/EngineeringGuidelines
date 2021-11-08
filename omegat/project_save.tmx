@@ -5916,6 +5916,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the initial configuration and setting of the primary controller(s), it shall be possible to store the settings within the controller for later retrieval (restore) in the event of incorrect or unwanted changes being made. Storage date of the last saved parameter set shall be displayed. In the event of power failure, the "currently active" parameter set shall remain in operation when power is returned.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T013823Z" creationid="Kieu Lan" creationdate="20211108T013823Z">
+        <seg>After the initial configuration and setting of the primary controller(s), it shall be possible to store the settings within the controller for later retrieval (restore) in the event of incorrect or unwanted changes being made. Storage date of the last saved parameter set shall be displayed. In the event of power failure, the "currently active" parameter set shall remain in operation when power is returned.     /     Sau khi cài đặt ban đầu cho bộ điều khiển chính, phải có thể lưu thông tin cài đặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aims and Objectives</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T034707Z" creationid="LanHK" creationdate="20210525T083315Z">
@@ -9521,6 +9529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data protection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T013752Z" creationid="Kieu Lan" creationdate="20211108T013752Z">
+        <seg>Data protection     /     Bảo mật thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070126Z">
@@ -10125,6 +10141,9 @@
       <note>Drive analog outputs (such as valve or damper actuators???????</note>
       <tuv lang="EN-US">
         <seg>Drive analog outputs (such as valve or damper actuators)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T013600Z">
+        <seg>Drive analog outputs (such as valve or damper actuators)     /     </seg>
       </tuv>
     </tu>
     <tu>
@@ -27576,6 +27595,15 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T035026Z">
         <seg>To remove vitiated air from the areas.     /     Loại bỏ không khí không đủ chất lượng khỏi các khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Toggle digital outputs???????????</note>
+      <tuv lang="EN-US">
+        <seg>Toggle digital outputs (such as fans or pumps)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T013743Z" creationid="Kieu Lan" creationdate="20211108T013743Z">
+        <seg>Toggle digital outputs (such as fans or pumps)     /     Toggle digital outputs (như quạt hoặc bơm)</seg>
       </tuv>
     </tu>
     <tu>
