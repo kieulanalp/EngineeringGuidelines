@@ -14111,8 +14111,8 @@
       <tuv lang="EN-US">
         <seg>HVAC plant on demand gives additional savings in heating and cooling</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T095855Z" creationid="Kieu Lan" creationdate="20211108T095855Z">
-        <seg>Running HVAC plant on demand gives additional savings in heating and cooling</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T095953Z" creationid="Kieu Lan" creationdate="20211108T095855Z">
+        <seg>Running HVAC plant on demand gives additional savings in heating and cooling     /     Chạy máy HVAC theo nhu cầu cho phép tiết kiệm trong việc sưởi và làm mát</seg>
       </tuv>
     </tu>
     <tu>
@@ -20978,8 +20978,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Power consumption of fans decrease when the air volume flow is reduced Running</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T095904Z" creationid="Kieu Lan" creationdate="20211108T095854Z">
-        <seg>Power consumption of fans decrease when the air volume flow is reduced     /     Mức tiêu thụ điện năng của quạt giảm xuống khi lưu lượng khí giảm xuôgns</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T095909Z" creationid="Kieu Lan" creationdate="20211108T095854Z">
+        <seg>Power consumption of fans decrease when the air volume flow is reduced     /     Mức tiêu thụ điện năng của quạt giảm xuống khi lưu lượng khí giảm xuống</seg>
       </tuv>
     </tu>
     <tu>
@@ -24435,6 +24435,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T073334Z">
         <seg>Structural Fire Resistance    /    Kết cấu chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Studies show energy cost savings of more than 30% possible</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T100021Z" creationid="Kieu Lan" creationdate="20211108T100021Z">
+        <seg>Studies show energy cost savings of more than 30% possible     /     Các nghiên cứu cho thấy có thể tiết kiệm đến hơn 30% chi phí năng lượng</seg>
       </tuv>
     </tu>
     <tu>
