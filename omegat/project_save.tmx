@@ -6351,6 +6351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All rooms with a changing number of occupants and differing occupancy hours</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T100055Z" creationid="Kieu Lan" creationdate="20211108T100055Z">
+        <seg>All rooms with a changing number of occupants and differing occupancy hours     /     Tất cả các phòng với mức độ lấp đầy thay đổi, và giờ sử dụng thay đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All specified control equipment and devices shall be standard proprietary products designed and tested for HVAC control applications, and not custom-designed or adapted specially for each project. Controllers will be preconfigured to suit standard IHG application and functionality. Each device will be fully tested, allowing simple precommissioning at the equipment manufacturers works before delivery to each hotel project.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211001T014637Z" creationid="Kieu Lan" creationdate="20211001T014637Z">
@@ -6700,6 +6708,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095445Z" creationid="Kieu Lan" creationdate="20210920T095445Z">
         <seg>Application     /     Ứng dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T100025Z" creationid="Kieu Lan" creationdate="20211108T100025Z">
+        <seg>Application:     /     Ứng dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -18381,6 +18397,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064821Z" creationid="Kieu Lan" creationdate="20210809T064821Z">
         <seg>Meeting rooms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meeting rooms, conference rooms, ballrooms etc. (fan stages, enable/disable)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T100155Z" creationid="Kieu Lan" creationdate="20211108T100133Z">
+        <seg>Meeting rooms, conference rooms, ballrooms etc. (fan stages, enable/disable)     /     Phòng họp, hội thảo, ballroom etc (tốc độ quạt, bật/tắt)</seg>
       </tuv>
     </tu>
     <tu>
