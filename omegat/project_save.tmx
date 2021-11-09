@@ -29666,6 +29666,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When connected onto the hotel TCP/IP network or BMS communication bus, all room values (e.g. current room temperature, set point and fan speed) shall be available at management stations or at the Front Desk station.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T100933Z" creationid="Kieu Lan" creationdate="20211109T100933Z">
+        <seg>When connected onto the hotel TCP/IP network or BMS communication bus, all room values (e.g. current room temperature, set point and fan speed) shall be available at management stations or at the Front Desk station.     /     Nếu kết nối vào mạng TCP/IP hoặc BMS, tất cả các giá trị phòng (vd. nhiệt độ phòng hiện tại, nhiệt độ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When determining the width of exits and exit routes a minimum of 5mm should be allowed for each person occupying the room.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T024511Z" creationid="LanHK" creationdate="20210609T083240Z">
