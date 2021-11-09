@@ -8584,8 +8584,8 @@
       <tuv lang="EN-US">
         <seg>Central chiller plant, recirculating AHU with variable fresh air, boiler serving AHU and terminal re-heat coil. Chilled water circuit to AHU.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071142Z" creationid="Kieu Lan" creationdate="20210804T071142Z">
-        <seg>Central chiller plant, recirculating AHU with variable fresh air, boiler serving AHU and terminal re-heat coil. Chilled water circuit to AHU.     /     Trạm chiller trung tâm, AHU tái tuần hoàn với khí tươi biến thiên, nồi hơi phục vụ AHU và ống làm nóng lại ở điểm cuối. Đường nước mát tới AHU</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033813Z" creationid="Kieu Lan" creationdate="20210804T071142Z">
+        <seg>Central chiller plant, recirculating AHU with variable fresh air, boiler serving AHU and terminal re-heat coil. Chilled water circuit to AHU.     /     Trạm chiller trung tâm, AHU tái tuần hoàn với khí tươi biến thiên, nồi hơi phục vụ AHU và cuộn làm nóng lại ở đầu cuối. Đường nước mát tới AHU</seg>
       </tuv>
     </tu>
     <tu>
@@ -26957,8 +26957,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The plant should be modified to include tertiary treatment if required by the final point of discharge or terminal point use of effluent. Particular emphasis must be addressed to tertiary treatment if effluent is to be used for irrigation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T065257Z" creationid="Kieu Lan" creationdate="20210824T065257Z">
-        <seg>The plant should be modified to include tertiary treatment if required by the final point of discharge or terminal point use of effluent. Particular emphasis must be addressed to tertiary treatment if effluent is to be used for irrigation.     /     Cụm máy phải được điều chỉnh để bao gồm cả xử lý lượt ba nếu cần thiết trước điểm xả nước cuối cùng hoặc vòi nước sử dụng nước tái chế. Đặc biệt phải chú ý đến xử lý lượt ba nếu sẽ tái sử dụng làm nước tưới tiêu</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033846Z" creationid="Kieu Lan" creationdate="20210824T065257Z">
+        <seg>The plant should be modified to include tertiary treatment if required by the final point of discharge or terminal point use of effluent. Particular emphasis must be addressed to tertiary treatment if effluent is to be used for irrigation.     /     Cụm máy phải được điều chỉnh để bao gồm cả xử lý lượt ba nếu cần thiết trước vòi nước đầu cuói hoặc vòi nước sử dụng nước tái chế. Đặc biệt phải chú ý đến xử lý lượt ba nếu sẽ tái sử dụng làm nước tưới tiêu</seg>
       </tuv>
     </tu>
     <tu>
