@@ -25981,6 +25981,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The decision on whether the terminal unit controllers will operate stand-alone or with communications will depend upon the hotel type (size, design, class and star rating). Typically hotels of 4 and 5 stars, and those containing over 150 rooms will benefit from communicating room automation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032625Z" creationid="Kieu Lan" creationdate="20211109T032625Z">
+        <seg>The decision on whether the terminal unit controllers will operate stand-alone or with communications will depend upon the hotel type (size, design, class and star rating). Typically hotels of 4 and 5 stars, and those containing over 150 rooms will benefit from communicating room automation.     /     Quyết định liệu các bộ điều khiển con trong phòng sẽ hoạt động độc lập hoặc có giao tiếp sẽ phụ thuộc vào loại khách sạn (kích cỡ, thiết kế, phân khúc và hạng sao). Thường các khách sạn 4 và 5 sao và các khách sạn có hơn 150 phòng sẽ hưởng lợi từ việc giao tiếp tự động </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The design and sizing of this system shall be done in conjunction</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061357Z" creationid="Kieu Lan" creationdate="20210805T061357Z">
