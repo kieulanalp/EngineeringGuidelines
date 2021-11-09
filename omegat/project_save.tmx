@@ -26064,8 +26064,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The decision on whether the terminal unit controllers will operate stand-alone or with communications will depend upon the hotel type (size, design, class and star rating). Typically hotels of 4 and 5 stars, and those containing over 150 rooms will benefit from communicating room automation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032625Z" creationid="Kieu Lan" creationdate="20211109T032625Z">
-        <seg>The decision on whether the terminal unit controllers will operate stand-alone or with communications will depend upon the hotel type (size, design, class and star rating). Typically hotels of 4 and 5 stars, and those containing over 150 rooms will benefit from communicating room automation.     /     Quyết định liệu các bộ điều khiển con trong phòng sẽ hoạt động độc lập hoặc có giao tiếp sẽ phụ thuộc vào loại khách sạn (kích cỡ, thiết kế, phân khúc và hạng sao). Thường các khách sạn 4 và 5 sao và các khách sạn có hơn 150 phòng sẽ hưởng lợi từ việc giao tiếp tự động </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T034054Z" creationid="Kieu Lan" creationdate="20211109T032625Z">
+        <seg>The decision on whether the terminal unit controllers will operate stand-alone or with communications will depend upon the hotel type (size, design, class and star rating). Typically hotels of 4 and 5 stars, and those containing over 150 rooms will benefit from communicating room automation.     /     Quyết định liệu các bộ điều khiển thiết bị đầu cuối sẽ hoạt động độc lập hoặc có giao tiếp sẽ phụ thuộc vào loại khách sạn (kích cỡ, thiết kế, phân khúc và hạng sao). Thường các khách sạn 4 và 5 sao và các khách sạn có hơn 150 phòng sẽ hưởng lợi từ việc giao tiếp tự động </seg>
       </tuv>
     </tu>
     <tu>
@@ -26104,8 +26104,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The design of the system shall allow the co-existence and interoperation of primary HVAC controllers, secondary terminal unit (e.g. guest room) controllers and where required, 3rd party devices (e.g. front desk booking system) in the same network, either directly or via the use of gateways or protocol converters. It shall be possible to make available specific data from the HVAC control system to other 3rd party systems if required (such as electrical equipment, lighting, blinds, etc.)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T090047Z" creationid="Kieu Lan" creationdate="20210930T084131Z">
-        <seg>The design of the system shall allow the co-existence and interoperation of primary HVAC controllers, secondary terminal unit (e.g. guest room) controllers and where required, 3rd party devices (e.g. front desk booking system) in the same network, either directly or via the use of gateways or protocol converters. It shall be possible to make available specific data from the HVAC control system to other 3rd party systems if required (such as electrical equipment, lighting, blinds, etc.)     /     Thiết kế hệ thống phải cho phép bố trí và vận hành đồng thời của điều khiển HVAC chính, cụm điều khiển thứ cấp (vd phòng khách) và nếu cần thiết, thiết bị của bên thứ 3 (vd hệ thống booking ở lễ tân trên cùng một mạng lưới, hoặc là trực tiếp, thông qua gateway hoặc thiết bị chuyển đổi protocol. Phải có thể tải dữ liệu cụ thể từ hệ thống điều khiển HVAC sang các hệ thống của bên thứ 3 khác nếu cần thiết</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T034038Z" creationid="Kieu Lan" creationdate="20210930T084131Z">
+        <seg>The design of the system shall allow the co-existence and interoperation of primary HVAC controllers, secondary terminal unit (e.g. guest room) controllers and where required, 3rd party devices (e.g. front desk booking system) in the same network, either directly or via the use of gateways or protocol converters. It shall be possible to make available specific data from the HVAC control system to other 3rd party systems if required (such as electrical equipment, lighting, blinds, etc.)     /     Thiết kế hệ thống phải cho phép bố trí và vận hành đồng thời của điều khiển HVAC chính, cụm điều khiển thiết bị đầu cuối thứ cấp (vd phòng khách) và nếu cần thiết, thiết bị của bên thứ 3 (vd hệ thống booking ở lễ tân trên cùng một mạng lưới, hoặc là trực tiếp, thông qua gateway hoặc thiết bị chuyển đổi protocol. Phải có thể tải dữ liệu cụ thể từ hệ thống điều khiển HVAC sang các hệ thống của bên thứ 3 khác nếu cần thiết</seg>
       </tuv>
     </tu>
     <tu>
@@ -26957,8 +26957,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The plant should be modified to include tertiary treatment if required by the final point of discharge or terminal point use of effluent. Particular emphasis must be addressed to tertiary treatment if effluent is to be used for irrigation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033846Z" creationid="Kieu Lan" creationdate="20210824T065257Z">
-        <seg>The plant should be modified to include tertiary treatment if required by the final point of discharge or terminal point use of effluent. Particular emphasis must be addressed to tertiary treatment if effluent is to be used for irrigation.     /     Cụm máy phải được điều chỉnh để bao gồm cả xử lý lượt ba nếu cần thiết trước vòi nước đầu cuói hoặc vòi nước sử dụng nước tái chế. Đặc biệt phải chú ý đến xử lý lượt ba nếu sẽ tái sử dụng làm nước tưới tiêu</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033852Z" creationid="Kieu Lan" creationdate="20210824T065257Z">
+        <seg>The plant should be modified to include tertiary treatment if required by the final point of discharge or terminal point use of effluent. Particular emphasis must be addressed to tertiary treatment if effluent is to be used for irrigation.     /     Cụm máy phải được điều chỉnh để bao gồm cả xử lý lượt ba nếu cần thiết trước vòi nước đầu cuối hoặc vòi nước sử dụng nước tái chế. Đặc biệt phải chú ý đến xử lý lượt ba nếu sẽ tái sử dụng làm nước tưới tiêu</seg>
       </tuv>
     </tu>
     <tu>
