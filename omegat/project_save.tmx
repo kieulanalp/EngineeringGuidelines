@@ -5499,6 +5499,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A scale able room solution should be provided for the zone control of terminal units such as fan coil units, chilled ceilings, variable air volume equipment etc. within the guest room areas. Individual room controllers shall be delivered with a fixed set of factory-tested applications in accordance with IHG requirements. Once selected, the desired application can be activated via a simple hand-held operating and service tool during plant commissioning.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033619Z" creationid="Kieu Lan" creationdate="20211109T033619Z">
+        <seg>A scalable room solution should be provided for the zone control of terminal units such as fan coil units, chilled ceilings, variable air volume equipment etc. within the guest room areas. Individual room controllers shall be delivered with a fixed set of factory-tested applications in accordance with IHG requirements. Once selected, the desired application can be activated via a simple hand-held operating and service tool during plant commissioning.     /     Cần cung cấp phương án có thể thay đổi quy mô </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A secondary settling tank is Not required!</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T163648Z" creationid="Kieu Lan" creationdate="20210822T163641Z">
@@ -8431,8 +8439,8 @@
       <tuv lang="EN-US">
         <seg>Category 5 cable (pair or multi-pair) is typically used for data transmission within buildings; typically Ethernet networks. Cat 5 cable is often used with a special insulation that has low smoke and low flame</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033253Z" creationid="Kieu Lan" creationdate="20211109T033253Z">
-        <seg>Category 5 cable (pair or multi-pair) is typically used for data transmission within buildings; typically Ethernet networks. Cat 5 cable is often used with a special insulation that has low smoke and low flame     /     Cáp Cat 5 (1 cặp dây hoặc nhiều cặp dây) thường được sử dụng để truyền tải dữ liệu trong các toàn nhà; đặc biệt với mạng Ethernet. Cáp Cat 5 thường có vỏ chống cháy và chống khói đặc biệt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033441Z" creationid="Kieu Lan" creationdate="20211109T033253Z">
+        <seg>Category 5 cable (pair or multi-pair) is typically used for data transmission within buildings; typically Ethernet networks. Cat 5 cable is often used with a special insulation that has low smoke and low flame (LSF) characteristics for cables that run through open spaces such as ceilings or plenums     /     Cáp Cat 5 (1 cặp dây hoặc nhiều cặp dây) thường được sử dụng để truyền tải dữ liệu trong các toàn nhà; đặc biệt với mạng Ethernet. Cáp Cat 5 thường có vỏ chống cháy và chống khói đặc biệt (LSF) đặc trưng đối với các loại cáp chạy qua không gian mở như trần nhà hoặc trần giả</seg>
       </tuv>
     </tu>
     <tu>
@@ -15757,6 +15765,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T022002Z" creationid="Kieu Lan" creationdate="20210930T022002Z">
         <seg>Increased system efficiency and life cycle due to controlled operation and maintenance     /     Tăng hiệu suất hệ thốngvà vòng đời nhờ kiểm soát được việc vận hành và bảo trì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Individual room controllers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033451Z" creationid="Kieu Lan" creationdate="20211109T033451Z">
+        <seg>Individual room controllers     /     Điều khiển riêng của phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -26372,6 +26388,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143818Z" creationid="Kieu Lan" creationdate="20210814T143752Z">
         <seg>The following drawings illustrate the principles for     /     Các hình sau minh họa các nguyên tắc về</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following examples are typical for Hotels:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033500Z" creationid="Kieu Lan" creationdate="20211109T033500Z">
+        <seg>The following examples are typical for Hotels:     /     Các ví dụ sau là điển hình đối với Khách sạn </seg>
       </tuv>
     </tu>
     <tu>
