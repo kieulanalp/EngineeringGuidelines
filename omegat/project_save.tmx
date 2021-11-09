@@ -4715,6 +4715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.3.2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032320Z" creationid="Kieu Lan" creationdate="20211109T032320Z">
+        <seg>7.3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7.3.2 Primary controllers</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032206Z" creationid="Kieu Lan" creationdate="20211006T032206Z">
@@ -10797,6 +10805,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical Installation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032227Z" creationid="Kieu Lan" creationdate="20211109T032227Z">
+        <seg>Electrical installation     /     Lắp đặt thiết bị điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical Plant Remote (Poor Design)</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080705Z" creationid="LanHK" creationdate="20210717T022554Z">
@@ -14190,6 +14206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hardware Compliance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032230Z" creationid="Kieu Lan" creationdate="20211109T032230Z">
+        <seg>Hardware compliance     /     Tiêu chuẩn cho phần cứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hardware and Software</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T091701Z" creationid="Kieu Lan" creationdate="20210930T091701Z">
@@ -14778,6 +14802,14 @@
         <seg>Hotel guest room management system (HRMS)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T050320Z" creationid="Kieu Lan" creationdate="20211006T050111Z">
+        <seg>Hotel guest room management system (HRMS)     /     Hệ thống quản lý phòng khách sạn (HRMS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hotel guest room management systems (BMS)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032317Z" creationid="Kieu Lan" creationdate="20211109T032317Z">
         <seg>Hotel guest room management system (HRMS)     /     Hệ thống quản lý phòng khách sạn (HRMS)</seg>
       </tuv>
     </tu>
@@ -20709,6 +20741,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pipework comparison tables for the flowing services are provided as follow</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032207Z" creationid="Kieu Lan" creationdate="20211109T032207Z">
+        <seg>Pipework comparison tables for the Plumbing services are provided as follows:     /     Bảng so sánh các loại ống nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Places of assembly such as function rooms, meeting rooms, bars and restaurants must be provided with means of escape based upon the size of the room. Restricting the occupancy of an assembly room because of inadequate means of escape is impractical and unacceptable.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T023748Z" creationid="LanHK" creationdate="20210609T081431Z">
@@ -21266,9 +21306,25 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primary Controllers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032238Z" creationid="Kieu Lan" creationdate="20211109T032238Z">
+        <seg>Primary controllers     /     Các điều khiển chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Primary HVAC Controllers</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032028Z" creationid="Kieu Lan" creationdate="20211006T032028Z">
+        <seg>Primary HVAC Controllers     /     Các bộ điều khiển HVAC chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Primary HVAC controllers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032233Z" creationid="Kieu Lan" creationdate="20211109T032233Z">
         <seg>Primary HVAC Controllers     /     Các bộ điều khiển HVAC chính</seg>
       </tuv>
     </tu>
@@ -24536,6 +24592,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Storm water drainage system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032214Z" creationid="Kieu Lan" creationdate="20211109T032214Z">
+        <seg>Storm water Drainage System     /     Hệ thống thoát nước mưa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strength and rigidity</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081646Z" creationid="Kieu Lan" creationdate="20210804T081646Z">
@@ -24893,6 +24957,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063159Z" creationid="Kieu Lan" creationdate="20210916T062739Z">
         <seg>Swimming Pool System Cycle     /     Vòng tuần hoàn hệ thống bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swimming Pool Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032222Z" creationid="Kieu Lan" creationdate="20211109T032222Z">
+        <seg>Swimming Pool systems     /     Hệ thống bể bơi</seg>
       </tuv>
     </tu>
     <tu>
