@@ -22431,6 +22431,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remote readjustment of temperature set points in the guest rooms.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T101601Z" creationid="Kieu Lan" creationdate="20211109T101601Z">
+        <seg>Remote readjustment of temperature set points in the guest rooms.     /     Điều chỉnh nhiệt độ từ xa cho phòng khách </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Renders discharged water useless for irrigation if it is to be recycled, but can be used for urinal/WC flushing. Fumes can damage building finishes.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095441Z" creationid="Kieu Lan" creationdate="20210920T095441Z">
@@ -28324,6 +28332,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trend logs and graphics showing the progression of the room temperature</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T101510Z" creationid="Kieu Lan" creationdate="20211109T101424Z">
+        <seg>Trend logs and graphics showing the progression of the room temperature     /     Trend log và đồ thị cho thấy sự thay đổi của nhiệt độ phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tried and trusted method of pool water treatment</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095155Z" creationid="Kieu Lan" creationdate="20210920T095155Z">
@@ -29668,8 +29684,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>When connected onto the hotel TCP/IP network or BMS communication bus, all room values (e.g. current room temperature, set point and fan speed) shall be available at management stations or at the Front Desk station.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T100933Z" creationid="Kieu Lan" creationdate="20211109T100933Z">
-        <seg>When connected onto the hotel TCP/IP network or BMS communication bus, all room values (e.g. current room temperature, set point and fan speed) shall be available at management stations or at the Front Desk station.     /     Nếu kết nối vào mạng TCP/IP hoặc BMS, tất cả các giá trị phòng (vd. nhiệt độ phòng hiện tại, nhiệt độ </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T101420Z" creationid="Kieu Lan" creationdate="20211109T100933Z">
+        <seg>When connected onto the hotel TCP/IP network or BMS communication bus, all room values (e.g. current room temperature, set point and fan speed) shall be available at management stations or at the Front Desk station.     /     Nếu kết nối vào mạng TCP/IP hoặc BMS, tất cả các giá trị phòng (vd. nhiệt độ phòng hiện tại, nhiệt độ được cài đặt và tốc độ quạt) sẽ có thể xem được tại máy quản lý hoặc tại máy ở tiền sảnh</seg>
       </tuv>
     </tu>
     <tu>
