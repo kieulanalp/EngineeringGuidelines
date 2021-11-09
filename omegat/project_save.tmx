@@ -5275,6 +5275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A PC-based programming and service tool shall also be available as an option for all HVAC controllers connected to the bus. The solution shall contain several room components specifically designed for managing room functions in hotels. The types of components used and the key functions performed by them shall be described as below:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T092634Z" creationid="Kieu Lan" creationdate="20211109T092634Z">
+        <seg>A PC-based programming and service tool shall also be available as an option for all HVAC controllers connected to the bus. The solution shall contain several room components specifically designed for managing room functions in hotels. The types of components used and the key functions performed by them shall be described as below:     /     Phải có option công cụ lập trình và bảo trì trên PC cho tất cả các điều khiển HVAC kết nối vào bus. Giải pháp phải có một số bộ phận thiết kế dành riêng cho quản lý chức năng phòng trong khách sạn. Các loại bộ phận được sử dụng và các chức năng chính do chúng thực hiện được mô tả dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A block plan with the entire installation shown must be installed next to each FIP mimic panel and repeater panel. The plan must be in the form of a permanent diagram, water and fade resistant. The plan must show all zone areas, building layout, FIP, mimics, repeaters, CIE, FFCP, fire suppression controls, pump room etc.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T023813Z" creationid="Kieu Lan" creationdate="20210713T023755Z">
@@ -19751,6 +19759,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081118Z" creationid="Kieu Lan" creationdate="20210804T081118Z">
         <seg>Optional Simpler Efficient Solution (Recommended)     /     Phương án đơn giản hiệu quả hơn (khuyến nghị)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional peripherals</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T092650Z" creationid="Kieu Lan" creationdate="20211109T092650Z">
+        <seg>Optional peripherals     /     Thiết bị ngoại vi tùy chọn</seg>
       </tuv>
     </tu>
     <tu>
