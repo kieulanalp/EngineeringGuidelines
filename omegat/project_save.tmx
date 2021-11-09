@@ -5371,6 +5371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A guest room unit shall display the room temperature set point and shall show fan speeds 0, 1, 2 and 3. The display shall show the guest's set point adjustments. The guest shall be able to make use of the +/- buttons to adjust the room temperature within predefined limits and to manually select fan speeds.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T100641Z" creationid="Kieu Lan" creationdate="20211109T100641Z">
+        <seg>A guest room unit shall display the room temperature set point and shall show fan speeds 0, 1, 2 and 3. The display shall show the guest's set point adjustments. The guest shall be able to make use of the +/- buttons to adjust the room temperature within predefined limits and to manually select fan speeds.     /     Màn hình điều khiển trong phòng khách có thể thể hiện nhiệt độ phòng được cài đặt, tốc độ quạt 0,1,2,3. Màn hình thể hiện thay đổi nhiệt độ do khách Khách có thể sử dụng các nút +/- để điều chỉnh nhiệt độ phòng trong giới hạn đã xác định sẵn và tự thay đổi tốc độ quạt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A heat pump - de-humidifier-heat recovery unit, which de-humidifies the supply, and uses the waste heat taken from the exhaust air (due to evaporation from the pool) for re-heating the air, and heating the pool water shall be used. This type of system is expected to provide a pay back within 24 months. Other systems shall only be provided following approval from InterContinental Hotels Group.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061313Z" creationid="Kieu Lan" creationdate="20210805T061313Z">
