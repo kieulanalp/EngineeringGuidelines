@@ -10076,6 +10076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Domestic Cold water 2-zone Distribution system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T031619Z" creationid="Kieu Lan" creationdate="20211109T031619Z">
+        <seg>Domestic Cold water 2-zone Distribution system     /     Nước sinh hoạt 2 - Hệ thống phân phối theo zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Domestic Hot Distribution High Rise- Preferred Option</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T073655Z" creationid="Kieu Lan" creationdate="20210817T073655Z">
@@ -10096,6 +10104,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011849Z" creationid="Kieu Lan" creationdate="20210816T011849Z">
         <seg>Domestic hot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domestic water schematic high rise - Alternative options</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T031633Z" creationid="Kieu Lan" creationdate="20211109T031633Z">
+        <seg>Domestic water schematic, high-rise-Alternative Options     /     Sơ đồ nước sinh hoạt, phương án khác cho nhà cao tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domestic water schematic, high rise preferred option</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T031629Z" creationid="Kieu Lan" creationdate="20211109T031629Z">
+        <seg>Domestic water schematic, high-rise preferred option     /     Sơ đồ nước sinh hoạt, phương án ưu tiên cho nhà cao tầng</seg>
       </tuv>
     </tu>
     <tu>
@@ -21194,6 +21218,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure Balancing between Hot and cold water systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T031646Z" creationid="Kieu Lan" creationdate="20211109T031646Z">
+        <seg>Pressure balancing between Hot and cold Water systems     /     Cân bằng áp suất giữa hệ thống nước nóng và nước lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure Range</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T135249Z" creationid="Kieu Lan" creationdate="20210815T135249Z">
@@ -23390,6 +23422,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T062750Z" creationid="Kieu Lan" creationdate="20210824T062750Z">
         <seg>Sewage treatment plant     /     Cụm máy xử lý nước thải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sewerage Disposal Systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T031728Z" creationid="Kieu Lan" creationdate="20211109T031728Z">
+        <seg>Sewerage Disposal Systems     /     Hệ thống cống thải</seg>
       </tuv>
     </tu>
     <tu>
