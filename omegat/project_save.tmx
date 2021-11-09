@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(LSF) characteristics for cables that run through open spaces such as ceilings or plenums</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033323Z" creationid="Kieu Lan" creationdate="20211109T033323Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Note 12)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061420Z" creationid="Kieu Lan" creationdate="20210805T061420Z">
@@ -8417,6 +8425,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134853Z" creationid="Kieu Lan" creationdate="20210820T125548Z">
         <seg>Cast Iron (CI)     /     Gang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category 5 cable (pair or multi-pair) is typically used for data transmission within buildings; typically Ethernet networks. Cat 5 cable is often used with a special insulation that has low smoke and low flame</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033253Z" creationid="Kieu Lan" creationdate="20211109T033253Z">
+        <seg>Category 5 cable (pair or multi-pair) is typically used for data transmission within buildings; typically Ethernet networks. Cat 5 cable is often used with a special insulation that has low smoke and low flame     /     Cáp Cat 5 (1 cặp dây hoặc nhiều cặp dây) thường được sử dụng để truyền tải dữ liệu trong các toàn nhà; đặc biệt với mạng Ethernet. Cáp Cat 5 thường có vỏ chống cháy và chống khói đặc biệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -18915,6 +18931,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Network cable</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033045Z" creationid="Kieu Lan" creationdate="20211109T033045Z">
+        <seg>Network cable     /     Cáp magnj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Networked operation</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T031315Z" creationid="Kieu Lan" creationdate="20211109T031315Z">
@@ -23511,6 +23535,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T031753Z" creationid="Kieu Lan" creationdate="20211109T031753Z">
         <seg>Sewerage Disposal Systems     /     Hệ thống cống thải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shared networks: TCP/IP or Ethernet (Cat 5)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033042Z" creationid="Kieu Lan" creationdate="20211109T033042Z">
+        <seg>Shared networks: TCP/IP or Ethernet (Cat 5)     /     Mạng chung: TCP/IP hoặc Ethernet (Cat 5)</seg>
       </tuv>
     </tu>
     <tu>
