@@ -21457,6 +21457,15 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
     </tu>
     <tu>
+      <note>???</note>
+      <tuv lang="EN-US">
+        <seg>Proprietary bus:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033004Z" creationid="Kieu Lan" creationdate="20211109T033004Z">
+        <seg>Proprietary bus:     /     Bus độc quyền</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Proprietary chemical type grease traps are subject to IHG approval.</seg>
       </tuv>
@@ -24468,6 +24477,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032903Z" creationid="Kieu Lan" creationdate="20211109T032903Z">
         <seg>Standalone:     /     Độc lập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard bus (LON, BACNet or EIB/KNX)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033022Z" creationid="Kieu Lan" creationdate="20211109T033022Z">
+        <seg>Standard bus (LON, BACNet or EIB/KNX)     /     Bus tiêu chuẩn (LON, BACNet hoặc EIB/KNX)</seg>
       </tuv>
     </tu>
     <tu>
