@@ -29706,6 +29706,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the guest leaves the room, sensed by the motion detectorandreed switch the controller shall switch to Automatic mode using the Pre-comfort set point. When the guest returns, the room state selected last shall be adopted again.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211110T012108Z" creationid="Kieu Lan" creationdate="20211110T012108Z">
+        <seg>When the guest leaves the room, sensed by the motion detector and reed switch the controller shall switch to Automatic mode using the Pre-comfort set point. When the guest returns, the room state selected last shall be adopted again.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When there is demand for hot water as well as chilled water, unit operates in total heat recovery mode. When one of the demand is fulfilled, unit changes to chiller or heat pump mode.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210726T091644Z" creationid="LanHK" creationdate="20210726T091644Z">
