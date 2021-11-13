@@ -28564,6 +28564,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typical Guest room Temperature Controller</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211113T090800Z" creationid="Kieu Lan" creationdate="20211113T090800Z">
+        <seg>Typical Guest room Temperature Controller     /     Điều khiển nhiệt độ phòng khách điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Typical Guestroom Lighting Layout (Ceiling Light Options)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T162103Z" creationid="Kieu Lan" creationdate="20210814T162036Z">
