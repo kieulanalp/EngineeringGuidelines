@@ -29708,8 +29708,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>When the guest leaves the room, sensed by the motion detectorandreed switch the controller shall switch to Automatic mode using the Pre-comfort set point. When the guest returns, the room state selected last shall be adopted again.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211112T075239Z" creationid="Kieu Lan" creationdate="20211110T012108Z">
-        <seg>When the guest leaves the room, sensed by the motion detector and reed switch the controller shall switch to Automatic mode using the Pre-comfort set point. When the guest returns, the room state selected last shall be adopted again.     /     Khách rời khỏi phòng sẽ được cảm biến bởi cảm biến chuyển động và công tắc lưỡi gà (reed switch), bộ điều khiển sẽ chuyển sang chế độ Tự động bằng cách sử dụng điểm cài đặt Tiện nghi trước. Khi khách quay lại, trạng thái phòng được chọn cuối cùng sẽ được thông qua lại</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211113T090015Z" creationid="Kieu Lan" creationdate="20211110T012108Z">
+        <seg>When the guest leaves the room, sensed by the motion detector and reed switch the controller shall switch to Automatic mode using the Pre-comfort set point. When the guest returns, the room state selected last shall be adopted again.     /     Khách rời khỏi phòng sẽ được cảm biến bởi cảm biến chuyển động và công tắc lưỡi gà (reed switch), bộ điều khiển sẽ chuyển sang chế độ Tự động bằng cách sử dụng điểm cài đặt Tiện nghi trước. Khi khách quay lại, trạng thái phòng được chọn cuối cùng sẽ được khôi phục</seg>
       </tuv>
     </tu>
     <tu>
