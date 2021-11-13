@@ -13926,6 +13926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guest interface for the room air conditioning (fan-coil unit etc.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211113T095935Z" creationid="Kieu Lan" creationdate="20211113T095935Z">
+        <seg>Guest interface for the room air conditioning (fan-coil unit etc.)     /     Giao diện người dùng để điều chỉnh điều hòa (FCU etc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest lifts (separately metered)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T070216Z" creationid="Kieu Lan" creationdate="20210810T070158Z">
