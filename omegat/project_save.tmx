@@ -27123,6 +27123,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The room unit is normally installed in the rooms to be controlled; it is used for the following purposes:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211113T094252Z" creationid="Kieu Lan" creationdate="20211113T094252Z">
+        <seg>The room unit is normally installed in the rooms to be controlled; it is used for the following purposes:     /     Bộ điều khiển trong phòng thường được lắp đặt để sử dụng vào các mục đích sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The route must be at least 3m from any opening or vent unless the route is protected from fire within the</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T040509Z" creationid="LanHK" creationdate="20210610T040509Z">
