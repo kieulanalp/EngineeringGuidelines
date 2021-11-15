@@ -8999,6 +8999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Communications between all primary and secondary control devices on the network and a dedicated management station (plant overview, alarms, scheduling, adjustment, graphical views).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T045837Z" creationid="Kieu Lan" creationdate="20211115T045837Z">
+        <seg>Communications between all primary and secondary control devices on the network and a dedicated management station (plant overview, alarms, scheduling, adjustment, graphical views).     /     Giao tiếp giữa tất cả các thiết bị điều khiển chính trong network và một vị trí máy quản lý chuyên dụng (xem tổng quan các máy, báo động, lịch định sẵn, điều chỉnh, biểu đồ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Communications between primary and secondary control devices (demand control, exchange of data, alarms) using proprietary or industry standard bus (EIB/KNX;LON; BACnet). central display of operation and status (e.g. touch screen)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T045640Z" creationid="Kieu Lan" creationdate="20211115T040611Z">
@@ -15195,6 +15203,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091337Z" creationid="LanHK" creationdate="20210702T084355Z">
         <seg>IHG preference is for a central battery system due to its life cycle cost benefits and the following advantages:     /     IHG ưu tiên sử dụng hệ thống pin trung tâm do ưu thế về lợi ích và chi phí vòng đời hệ thống và các ưu điểm sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IHG require an integrated or full BMS solution for 4* and 5* hotels; however different regions may demand different specification.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T045909Z" creationid="Kieu Lan" creationdate="20211115T045909Z">
+        <seg>IHG require an integrated or full BMS solution for 4* and 5* hotels; however different regions may demand different specification.     /     IHG yêu cầu có giải pháp BMS tích hợp hoặc trọn gói cho khách sạn 4* và 5*, tuy nhiên mỗi vùng khác nhau có thể yêu cầu cụ thể khác nhau</seg>
       </tuv>
     </tu>
     <tu>
