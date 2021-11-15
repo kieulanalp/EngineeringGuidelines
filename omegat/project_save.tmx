@@ -8999,6 +8999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Communications between primary and secondary control devices (demand control, exchange of data, alarms) using proprietary or industry standard bus (EIB/KNX;LON; BACnet). central display of operation and status (e.g. touch screen)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T040611Z" creationid="Kieu Lan" creationdate="20211115T040611Z">
+        <seg>Communications between primary and secondary control devices (demand control, exchange of data, alarms) using proprietary or industry standard bus (EIB/KNX;LON; BACnet). central display of operation and status (e.g. touch screen)     /     Giao tiếp giữa các thiết bị điều khiển chính vào phụ (điều khiển nhu cầu, trao đổi dữ liệu, báo động) sử dụng bus độc quyền hoặc bus tiêu chuẩn (EIB/KNX;LON; BACnet). Màn hình hiển thị trung tâm thông tin vận hành và trạng thái (vd. màn hình cảm ứng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compact Fluorescent</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140445Z" creationid="Kieu Lan" creationdate="20210814T135930Z">
