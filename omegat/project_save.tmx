@@ -9001,8 +9001,16 @@
       <tuv lang="EN-US">
         <seg>Communications between primary and secondary control devices (demand control, exchange of data, alarms) using proprietary or industry standard bus (EIB/KNX;LON; BACnet). central display of operation and status (e.g. touch screen)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T040611Z" creationid="Kieu Lan" creationdate="20211115T040611Z">
-        <seg>Communications between primary and secondary control devices (demand control, exchange of data, alarms) using proprietary or industry standard bus (EIB/KNX;LON; BACnet). central display of operation and status (e.g. touch screen)     /     Giao tiếp giữa các thiết bị điều khiển chính vào phụ (điều khiển nhu cầu, trao đổi dữ liệu, báo động) sử dụng bus độc quyền hoặc bus tiêu chuẩn (EIB/KNX;LON; BACnet). Màn hình hiển thị trung tâm thông tin vận hành và trạng thái (vd. màn hình cảm ứng)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T045640Z" creationid="Kieu Lan" creationdate="20211115T040611Z">
+        <seg>Communications between primary and secondary control devices (demand control, exchange of data, alarms) using proprietary or industry standard bus (EIB/KNX;LON; BACnet). central display of operation and status (e.g. touch screen)     /     Giao tiếp giữa các thiết bị điều khiển chính và phụ (điều khiển nhu cầu, trao đổi dữ liệu, báo động) sử dụng bus độc quyền hoặc bus tiêu chuẩn (EIB/KNX;LON; BACnet). Màn hình hiển thị trung tâm thông tin vận hành và trạng thái (vd. màn hình cảm ứng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Communications between primary and secondary control devices (demand control, exchange of data, alarms) using the IT communications infrastructure (Ethernet, TCP/IP, cat 5, twisted or multi-pair) as a backbone. Operation and display via front desk PC or web-browser.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T045737Z" creationid="Kieu Lan" creationdate="20211115T045636Z">
+        <seg>Communications between primary and secondary control devices (demand control, exchange of data, alarms) using the IT communications infrastructure (Ethernet, TCP/IP, cat 5, twisted or multi-pair) as a backbone. Operation and display via front desk PC or web-browser.     /     Giao tiếp giữa các thiết bị điều khiển chính và phụ (điều khiển nhu cầu, trao đổi dữ liệu, báo động) sử dụng hệ thống giao tiếp IT (Ethernet, TCP/IP, cat 5, twisted or multi-pair). Vận hành và hiển thị thông qua máy tính lễ tân hoặc trình duyệt web</seg>
       </tuv>
     </tu>
     <tu>
