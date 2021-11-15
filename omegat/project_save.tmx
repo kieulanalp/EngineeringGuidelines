@@ -13324,6 +13324,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Functions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011543Z" creationid="Kieu Lan" creationdate="20211115T011543Z">
+        <seg>Functions     /     Chức năgn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuses, switches, wiring and earthing must be in compliance with local regulations. Sensor wires should not be run parallel to mains carrying wires that power fans, actuators, pumps, etc.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065710Z" creationid="Kieu Lan" creationdate="20211006T065710Z">
@@ -15801,6 +15809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indication of:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011546Z" creationid="Kieu Lan" creationdate="20211115T011546Z">
+        <seg>Indication of:     /     Chỉ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Individual room controllers</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033451Z" creationid="Kieu Lan" creationdate="20211109T033451Z">
@@ -16393,6 +16409,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T085455Z" creationid="LanHK" creationdate="20210505T043949Z">
         <seg>Item     /     Hạng mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011540Z" creationid="Kieu Lan" creationdate="20211115T011540Z">
+        <seg>Items     /     Mục</seg>
       </tuv>
     </tu>
     <tu>
@@ -22746,6 +22770,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Room Control Functions:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011536Z" creationid="Kieu Lan" creationdate="20211115T011536Z">
+        <seg>Room Control Functions:     /     chức năng điều khiển phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Room Electrical Services Requirements</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064410Z" creationid="Kieu Lan" creationdate="20210809T064410Z">
@@ -22782,6 +22814,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211113T101157Z" creationid="Kieu Lan" creationdate="20211113T101157Z">
         <seg>Room temperature measurement via the built-in sensor     /     Nhiệt độ phòng được đo qua cảm biến tích hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Room temperature, heating or cooling symbol, parameters and parameter values, absolute and relative set point adjustment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011620Z" creationid="Kieu Lan" creationdate="20211115T011620Z">
+        <seg>Room temperature, heating or cooling symbol, parameters and parameter values, absolute and relative set point adjustment     /     Nhiệt độ phòng, biểu tượng sưởi hay làm mát, thang đo và thông số thang đo, nhiệt độ</seg>
       </tuv>
     </tu>
     <tu>
@@ -25215,6 +25255,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070918Z" creationid="Kieu Lan" creationdate="20210804T070918Z">
         <seg>System Description     /     Mô tả hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System diagnostics by commissioning and service staff (restricted access)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011530Z" creationid="Kieu Lan" creationdate="20211115T011530Z">
+        <seg>System diagnostics by commissioning and service staff (restricted access)     /     Chẩn đoán hệ thống bởi nhân viên vận hành và bảo hành</seg>
       </tuv>
     </tu>
     <tu>
