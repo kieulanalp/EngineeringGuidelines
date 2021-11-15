@@ -199,6 +199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+ and - buttons for adjusting the room temperature set point and parameter</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011933Z" creationid="Kieu Lan" creationdate="20211115T011933Z">
+        <seg>+ and - buttons for adjusting the room temperature set point and parameter     /     Nút + và - để điều chỉnh nhiệt độ phòng và các thông số</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+UPS</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T031523Z" creationid="Kieu Lan" creationdate="20210810T030550Z">
@@ -8951,6 +8959,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Common TCP/IP Backbone</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T012126Z" creationid="Kieu Lan" creationdate="20211115T012126Z">
+        <seg>Common TCP/IP Backbone     /     TCP/IP chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Communication</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T012113Z" creationid="Kieu Lan" creationdate="20211115T012113Z">
+        <seg>Communication     /     Giao tiếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Communication and integration layer: This layer consists of the communication networks and the communication controllers called gateways. The gateways fulfil three principal tasks:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T111513Z" creationid="Kieu Lan" creationdate="20210815T111513Z">
@@ -10023,6 +10047,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061314Z" creationid="Kieu Lan" creationdate="20210805T061314Z">
         <seg>Displacement ventilation is one of the most efficient methods of conditioning high spaces, such as Convention centers, lobbies and atriums.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display of the present room operating mode or manually selected fan speed</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T012000Z" creationid="Kieu Lan" creationdate="20211115T012000Z">
+        <seg>Display of the present room operating mode or manually selected fan speed     /     Hiển thị chế độ hoạt động hiện tại hoặc cho phép chọn tốc độ quạt bằng tay</seg>
       </tuv>
     </tu>
     <tu>
@@ -11322,6 +11354,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T032422Z" creationid="Kieu Lan" creationdate="20210816T032422Z">
         <seg>Ensuring that the minimum water pressure at each fixture is 2.5 bars.     /     Đảm bảo áp suất nước tối thiểu tại mỗi vòi là 2.5bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter and Esc functions is parameterization mode</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T012110Z" creationid="Kieu Lan" creationdate="20211115T012110Z">
+        <seg>Enter and Esc functions is parameterization mode     /     Phím chức năng Enter và Esc để cài đặt thông số</seg>
       </tuv>
     </tu>
     <tu>
@@ -17135,6 +17175,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left/Right buttons (L/R) for selecting of:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T012015Z" creationid="Kieu Lan" creationdate="20211115T012015Z">
+        <seg>Left/Right buttons (L/R) for selecting of:     /     Nút Trái/Phải (L/R) để chọn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legal requirements to ensure Legionella risk is minimised</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T071611Z" creationid="Kieu Lan" creationdate="20210817T071611Z">
@@ -22810,6 +22858,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Room operating mode and fan speed in operator mode</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T012050Z" creationid="Kieu Lan" creationdate="20211115T012050Z">
+        <seg>Room operating mode and fan speed in operator mode     /     Chế độ hoạt động và tốc độ quạt trong chế độ vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Room temperature measurement via the built-in sensor</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211113T101157Z" creationid="Kieu Lan" creationdate="20211113T101157Z">
@@ -22820,8 +22876,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Room temperature, heating or cooling symbol, parameters and parameter values, absolute and relative set point adjustment</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011620Z" creationid="Kieu Lan" creationdate="20211115T011620Z">
-        <seg>Room temperature, heating or cooling symbol, parameters and parameter values, absolute and relative set point adjustment     /     Nhiệt độ phòng, biểu tượng sưởi hay làm mát, thang đo và thông số thang đo, nhiệt độ</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011908Z" creationid="Kieu Lan" creationdate="20211115T011620Z">
+        <seg>Room temperature, heating or cooling symbol, parameters and parameter values, absolute and relative set point adjustment     /     Nhiệt độ phòng, biểu tượng sưởi hay làm mát, thang đo và thông số thang đo, nhiệt độ điểm chuẩn tương đối và tuyệt đối</seg>
       </tuv>
     </tu>
     <tu>
