@@ -94,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Boilers)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061206Z" creationid="Kieu Lan" creationdate="20211117T061206Z">
+        <seg>(Boilers)     /     Nồi hơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Chillers &amp; Mechanical Plant)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061151Z" creationid="Kieu Lan" creationdate="20211117T061151Z">
+        <seg>(Chillers &amp; Mechanical Plant)     /     Chiller và máy cơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(FOS), ensuring trouble-free operation of guest room access control, indoor climate control, security and energy efficiency from check-in to check-out.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T050559Z" creationid="Kieu Lan" creationdate="20211006T050559Z">
@@ -102,10 +118,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Hot water Make Up)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061120Z" creationid="Kieu Lan" creationdate="20211117T061120Z">
+        <seg>(Hot water Make Up)     /     Bù nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Hotel)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061233Z" creationid="Kieu Lan" creationdate="20211117T061233Z">
+        <seg>(Hotel)     /     Khách sạn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Kitchen)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061203Z" creationid="Kieu Lan" creationdate="20211117T061203Z">
+        <seg>(Kitchen)     /     Bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Kitchens)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061111Z" creationid="Kieu Lan" creationdate="20211117T061111Z">
+        <seg>(Kitchens)     /     Bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LSF) characteristics for cables that run through open spaces such as ceilings or plenums</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033323Z" creationid="Kieu Lan" creationdate="20211109T033323Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Laundry)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061132Z" creationid="Kieu Lan" creationdate="20211117T061132Z">
+        <seg>(Laundry)     /     Giặt là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Lifts)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061144Z" creationid="Kieu Lan" creationdate="20211117T061144Z">
+        <seg>(Lifts)     /     Thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Loads &gt;50KW)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061157Z" creationid="Kieu Lan" creationdate="20211117T061157Z">
+        <seg>(Loads &gt;50KW)     /     Tải &gt;50kW</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +218,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061419Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
         <seg>(Note 9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Shop)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061125Z" creationid="Kieu Lan" creationdate="20211117T061125Z">
+        <seg>(Shop)     /     Cửa hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Site)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061106Z" creationid="Kieu Lan" creationdate="20211117T061106Z">
+        <seg>(Site)     /     Toàn dự án</seg>
       </tuv>
     </tu>
     <tu>
@@ -7780,6 +7868,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boiler fail</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061305Z" creationid="Kieu Lan" creationdate="20211117T061305Z">
+        <seg>Boiler fail     /     Lỗi nồi hơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boilers, AC Plant, HWS and pumps (m2)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023227Z">
@@ -10215,6 +10311,22 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T081029Z" creationid="LanHK" creationdate="20210717T022733Z">
         <seg>Distribution/cable size minimised     /     Tối thiểu kích cỡ cáp phân phối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>District cooling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061243Z" creationid="Kieu Lan" creationdate="20211117T061240Z">
+        <seg>District cooling     /     Làm mát theo khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>District heating</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061230Z" creationid="Kieu Lan" creationdate="20211117T061230Z">
+        <seg>District heating     /     Sưởi theo khu vực</seg>
       </tuv>
     </tu>
     <tu>
@@ -18660,8 +18772,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Mechanical</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153537Z" creationid="Kieu Lan" creationdate="20210405T153537Z">
-        <seg>Mechanical Cơ khí</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061256Z" creationid="Kieu Lan" creationdate="20210405T153537Z">
+        <seg>Mechanical      /     Cơ khí</seg>
       </tuv>
     </tu>
     <tu>
@@ -18862,6 +18974,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140023Z" creationid="Kieu Lan" creationdate="20210814T140023Z">
         <seg>Metal Halide     /     Đèn halogen kim loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Metering</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061103Z" creationid="Kieu Lan" creationdate="20211117T061103Z">
+        <seg>Metering     /     Đo lương</seg>
       </tuv>
     </tu>
     <tu>
@@ -22152,6 +22272,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T075050Z" creationid="LanHK" creationdate="20210610T074527Z">
         <seg>Pump or accumulator    /    Bơm hoặc bình nén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pump status</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061300Z" creationid="Kieu Lan" creationdate="20211117T061300Z">
+        <seg>Pump status     /     Tình trạng máy bơm</seg>
       </tuv>
     </tu>
     <tu>
@@ -26869,6 +26997,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T094150Z" creationid="LanHK" creationdate="20210713T094150Z">
         <seg>The fire suppression systems must be designed in accordance with recognised international standards and in compliance with local regulations.     /     Các hệ thống chữa cháy phải được thiết kế tuân thủ các tiêu chuẩn quốc tế được công nhận và tuân thủ các quy định địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following Schedule of BMS points is not exclusive but indicative of the requirements.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061053Z" creationid="Kieu Lan" creationdate="20211117T061053Z">
+        <seg>The following Schedule of BMS points is not exclusive but indicative of the requirements.     /     Danh sách điểm đo BMS dưới đây không toàn diện mà chỉ mang tính định hướng các yêu cầu.</seg>
       </tuv>
     </tu>
     <tu>
