@@ -6214,6 +6214,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air supply and return flow rates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063028Z" creationid="Kieu Lan" creationdate="20211117T063028Z">
+        <seg>Air supply and return flow rates     /     Lưu lượng khí cấp và khí hồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air supply and return humidity (where required)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063022Z" creationid="Kieu Lan" creationdate="20211117T063022Z">
+        <seg>Air supply and return humidity (where required)     /     Độ ẩm khí cấp và khí hồi (nếu cần)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air supply and return temperatures</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063008Z" creationid="Kieu Lan" creationdate="20211117T063008Z">
+        <seg>Air supply and return temperatures     /     Nhiệt độ khí cấp và khí hồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air systems shall be zoned utilizing VAV or similar (re-heat is not acceptable) according to occupancy pattern and the operations carried out in the area. Physical size of AHU's shall be considered, and the practicality of maintaining large fans, motor and coils.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T042022Z" creationid="LanHK" creationdate="20210729T024849Z">
@@ -6524,6 +6548,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T063654Z" creationid="Kieu Lan" creationdate="20210824T063654Z">
         <seg>All piping, fittings, valves, hangers, etc. to complete the mechanical installation     /     Tất cả đường ống, phụ kiện, van, thanh treo... để hoàn thiện lắp đặt cơ học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All plant items</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063132Z" creationid="Kieu Lan" creationdate="20211117T063132Z">
+        <seg>All plant items     /     Tất cả các máy</seg>
       </tuv>
     </tu>
     <tu>
@@ -7876,6 +7908,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boilers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063134Z" creationid="Kieu Lan" creationdate="20211117T063134Z">
+        <seg>Boilers     /     Nồi hơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boilers, AC Plant, HWS and pumps (m2)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023227Z">
@@ -8878,6 +8918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chiller/condensing equipment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063143Z" creationid="Kieu Lan" creationdate="20211117T063143Z">
+        <seg>Chiller/condensing equipment     /     Chiller/thiết bị ngưng tụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chillers</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T025514Z" creationid="Kieu Lan" creationdate="20210806T025514Z">
@@ -9485,6 +9533,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T083138Z" creationid="Kieu Lan" creationdate="20211101T083138Z">
         <seg>Control scheme examples     /     Ví dụ các tính năng điều khiển:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control valves and dampers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063109Z" creationid="Kieu Lan" creationdate="20211117T063109Z">
+        <seg>Control valves and dampers     /     Van điều khiển và van chống cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -11141,6 +11197,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical Lighting</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063126Z" creationid="Kieu Lan" creationdate="20211117T063121Z">
+        <seg>Electrical Lighting     /     Chiếu sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical Plant Remote (Poor Design)</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080705Z" creationid="LanHK" creationdate="20210717T022554Z">
@@ -11161,6 +11225,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210722T080139Z" creationid="LanHK" creationdate="20210722T075935Z">
         <seg>Electrical Power     /     Công suất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical Power factor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062912Z" creationid="Kieu Lan" creationdate="20211117T062912Z">
+        <seg>Electrical Power factor     /     Hệ số công suất điện</seg>
       </tuv>
     </tu>
     <tu>
@@ -12066,6 +12138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External humidity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063036Z" creationid="Kieu Lan" creationdate="20211117T063036Z">
+        <seg>External humidity     /     Độ ẩm bên ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External lighting should be provided for all pedestrian and vehicular access routes to the building, service and car parking areas. Road lighting should be in accordance with relevant standards and local codes of practice. A security risk assessment shall be prepared to identify the external lighting category design criteria. This shall be discussed with InterContinental Hotels Group and agreed prior to progression of external lighting design. Decorative lighting and/or flood lighting should be provided to the major elevations of the building and to landscaped areas and signage. All external lighting should be time switch and photocell controlled, with manual override switches being provided in the security office. Separate controls should be provided for the following:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143701Z" creationid="Kieu Lan" creationdate="20210814T143351Z">
@@ -12078,6 +12158,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T071150Z" creationid="Kieu Lan" creationdate="20210804T071150Z">
         <seg>External Plant     /     Máy bên ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External temperature</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063032Z" creationid="Kieu Lan" creationdate="20211117T063032Z">
+        <seg>External temperature     /     Nhiệt độ bên ngoài</seg>
       </tuv>
     </tu>
     <tu>
@@ -13080,6 +13168,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142643Z" creationid="Kieu Lan" creationdate="20210820T142639Z">
         <seg>Flow     /     Dòng chảy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flow and return temperatures</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062956Z" creationid="Kieu Lan" creationdate="20211117T062956Z">
+        <seg>Flow and return temperatures     /     Nhiệt độ nước đi/trả về</seg>
       </tuv>
     </tu>
     <tu>
@@ -25047,6 +25143,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speed control</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063114Z" creationid="Kieu Lan" creationdate="20211117T063114Z">
+        <seg>Speed control     /     Điều khiển tốc độ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Speed increase of fans when plant needs cooling</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T101346Z" creationid="Kieu Lan" creationdate="20211101T101334Z">
@@ -29872,6 +29976,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VAV system pressure</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063055Z" creationid="Kieu Lan" creationdate="20211117T063055Z">
+        <seg>VAV system pressure     /     Áp suát hệ thống VAV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VENT PIPE OPEN TO ATMOSPHERE WITH CAGE TYPE COWL TO PREVENT INGRESS NESTING BIRDS TO THE PIPEWORK</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T120117Z" creationid="Kieu Lan" creationdate="20210820T120117Z">
@@ -30452,6 +30564,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Water flow rates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063002Z" creationid="Kieu Lan" creationdate="20211117T063002Z">
+        <seg>Water flow rates     /     Lưu lượng nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water or air cooled chiller + fresh air AHU</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040228Z" creationid="Kieu Lan" creationdate="20210802T040228Z">
@@ -30480,6 +30600,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T044545Z" creationid="Kieu Lan" creationdate="20210821T044542Z">
         <seg>Water supply pipe     /     Ống cấp nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water system pressures</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063101Z" creationid="Kieu Lan" creationdate="20211117T063101Z">
+        <seg>Water system pressures     /     Áp suất hệ thống nước</seg>
       </tuv>
     </tu>
     <tu>
@@ -31214,10 +31342,26 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zone humidity (where required)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063048Z" creationid="Kieu Lan" creationdate="20211117T063048Z">
+        <seg>Zone humidity (where required)     /     Độ ẩm khu vực (nếu cần)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone smoke clearance using installed air handling plant and /or dedicated smoke extraction equipment -</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T075209Z" creationid="LanHK" creationdate="20210702T075209Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone temperatures</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063040Z" creationid="Kieu Lan" creationdate="20211117T063040Z">
+        <seg>Zone temperatures     /     Nhiệt độ khu vực</seg>
       </tuv>
     </tu>
     <tu>
