@@ -7146,6 +7146,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic change-over of plant;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041858Z" creationid="Kieu Lan" creationdate="20211117T041858Z">
+        <seg>Automatic change-over of plant;     /     Tự động báo thay đổi máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic fire suppression - InterContinental Hotels Group/Code (all areas to be covered)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T071833Z" creationid="LanHK" creationdate="20210702T071833Z">
@@ -9320,6 +9328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control of plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041701Z" creationid="Kieu Lan" creationdate="20211117T041701Z">
+        <seg>Control of plant     /     điều khiển máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control of supply air temperature</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T091928Z" creationid="Kieu Lan" creationdate="20211101T091928Z">
@@ -10441,6 +10457,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T095417Z" creationid="LanHK" creationdate="20210715T094244Z">
         <seg>During early mornings/late afternoons the sun angles are much lower. At these times horizontal shading is far less effective, and so, in terms of passive fixed shading, vertical elements can then be employed to help reduce the periods and extent of solar penetration.     /     Trong khoảng sáng sớm/chiều muộn, góc chiếu của mặt trời thấp hơn rất nhiều. Những lúc này, chắn nắng theo chiều ngang rất ít hiệu quả, và do đó, nên sử dụng các lam chắn nắng dọc để giảm thời gian và cường độ nắng chiếu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duty cycling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041734Z" creationid="Kieu Lan" creationdate="20211117T041734Z">
+        <seg>Duty cycling     /     Thời gian vận hành cho phép</seg>
       </tuv>
     </tu>
     <tu>
@@ -18458,6 +18482,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum electrical load demand control</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041803Z" creationid="Kieu Lan" creationdate="20211117T041803Z">
+        <seg>Maximum electrical load demand control     /     điều khiển nhu cầu tải điện tối đa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum rise of a single ramp 760mm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T041315Z">
@@ -19927,6 +19959,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T025201Z" creationid="Kieu Lan" creationdate="20210816T025201Z">
         <seg>Optimise the pumping arrangement with respect to the distribution pressures.     /     Tối ưu hóa bố trí hệ bơm dựa trên cơ sở áp suất phân phối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimization</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041739Z" creationid="Kieu Lan" creationdate="20211117T041739Z">
+        <seg>Optimization     /     Tối ưu hóa</seg>
       </tuv>
     </tu>
     <tu>
@@ -23689,6 +23729,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Sequencing of plant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041813Z" creationid="Kieu Lan" creationdate="20211117T041813Z">
+        <seg>Sequencing of plant     /     Lập trình tự máy</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Các thể loại điện nước được gọi chung là service, tiếng việt là gì nhỉ?</note>
       <tuv lang="EN-US">
         <seg>Service</seg>
@@ -23791,6 +23839,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095227Z" creationid="Kieu Lan" creationdate="20210728T095227Z">
         <seg>Services generally all accessible in vertical services riser     /     Nhìn chung có thể tiếp cận tất cả các dịch vụ bằng trục ống đứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set point and reset adjustments</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041822Z" creationid="Kieu Lan" creationdate="20211117T041822Z">
+        <seg>Set point and reset adjustments     /     Điểm chuẩn và điều chỉnh reset</seg>
       </tuv>
     </tu>
     <tu>
@@ -28344,6 +28400,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time of day</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041656Z" creationid="Kieu Lan" creationdate="20211117T041656Z">
+        <seg>Time of day     /     Thời gian trong ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time switch operation</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012656Z" creationid="Kieu Lan" creationdate="20211102T012656Z">
@@ -29919,6 +29983,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011526Z" creationid="Kieu Lan" creationdate="20210816T011526Z">
         <seg>Water treatment shall be installed if any of the following problems exist:     /      Phải có quy trình xử lý nước nếu bất cứ vấn đề nào dưới đây phát sinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weather compensation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041747Z" creationid="Kieu Lan" creationdate="20211117T041747Z">
+        <seg>Weather compensation     /     Bù trừ cho thời thiết</seg>
       </tuv>
     </tu>
     <tu>
