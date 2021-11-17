@@ -9728,6 +9728,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Creation of commissioning reports by automatic scanning of the network devices, retrieval and saving of all parameter sets in document form for later viewing/printing.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T071412Z" creationid="Kieu Lan" creationdate="20211117T071412Z">
+        <seg>Creation of commissioning reports by automatic scanning of the network devices, retrieval and saving of all parameter sets in document form for later viewing/printing.     /     Tạo báo cáo vận hành bằng cách tự động scan mạng lưới thiết bị, lấy và lưu các bộ thông số bằng văn bản để đọc/in về sau</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://www.cosmosadp.com/images/sound-attenuator/CTA-5-C.pdf</note>
       <tuv lang="EN-US">
         <seg>Cross talk attenuators and any services penetrations to/from meeting rooms and guest bedrooms to provide 50dB sound reduction through the wall, floor or roof.</seg>
@@ -13784,6 +13792,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011809Z" creationid="Kieu Lan" creationdate="20210930T075724Z">
         <seg>Full color interactive graphics shall be provided to allow all points to be displayed, together with control set points and real time values.     /     Đồ họa tương tác full màu sẽ được cung cấp, đảm bảo mọi điểm chuẩn sẽ được thể hiện, cùng với các điểm kiểm soát và giá trị thời gian thực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full commissioning of all control parameters, for controllers connected to the bus.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T071312Z" creationid="Kieu Lan" creationdate="20211117T071312Z">
+        <seg>Full commissioning of all control parameters, for controllers connected to the bus.     /     Vận hành đầy đủ tất cả các thông số điều khiển, đối với các bộ điều khiển được kết nối với bus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29907,6 +29923,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095229Z" creationid="Kieu Lan" creationdate="20210728T095229Z">
         <seg>Up to double the pipe length from vertical distribution     /     Lên tối gấp đôi chiều dài đường ống so với phân phối theo chiều dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uploading, downloading and saving of controller parameters (all parameters or selective).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T071331Z" creationid="Kieu Lan" creationdate="20211117T071331Z">
+        <seg>Uploading, downloading and saving of controller parameters (all parameters or selective).     /     Tải lên, tải xuống và lưu các thông só điều khiển (tất cả hoặc chọn một số thông số)</seg>
       </tuv>
     </tu>
     <tu>
