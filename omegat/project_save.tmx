@@ -5587,6 +5587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A standard building communication protocol such as KNX, running on an industry standard TCP/IP backbone offers many benefits to IHG:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T031148Z" creationid="Kieu Lan" creationdate="20211117T031148Z">
+        <seg>A standard building communication protocol such as KNX, running on an industry standard TCP/IP backbone offers many benefits to IHG:     /     Một giao thức giao tiếp tòa nhà tiêu chuẩn như KNX chạy trên nền tảng TCP/IP tiêu chuẩn đem lại nhiều lợi ích cho IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A structured cabling system and power supplies (only for wireless telephone) must be provided for the hotel telecommunications sections of the Brand Standard. All systems must be provided with a clean earth system.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T093128Z" creationid="Kieu Lan" creationdate="20210810T091539Z">
@@ -7832,6 +7840,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061355Z" creationid="Kieu Lan" creationdate="20210805T061355Z">
         <seg>Burundi Cameroon Central African Republic Chad Congo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bus devices</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T031154Z" creationid="Kieu Lan" creationdate="20211117T031154Z">
+        <seg>Bus devices     /     Thiết bị Bus</seg>
       </tuv>
     </tu>
     <tu>
