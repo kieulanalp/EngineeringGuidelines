@@ -9464,6 +9464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection of the service tool to any controller or to the control system bus shall not interrupt nor interfere with normal network operation in any way, prevent alarms from being transmitted.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T082658Z" creationid="Kieu Lan" creationdate="20211117T082658Z">
+        <seg>Connection of the service tool to any controller or to the control system bus shall not interrupt nor interfere with normal network operation in any way, prevent alarms from being transmitted.     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connections must be protected and a thermal fuse provided to ensure the continuity of the circuit even though the individual speaker may be destroyed by fire.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T045745Z" creationid="Kieu Lan" creationdate="20210705T065235Z">
