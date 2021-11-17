@@ -4803,6 +4803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.11.2 Functions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T070559Z" creationid="Kieu Lan" creationdate="20211117T070555Z">
+        <seg>7.11.2 Functions     /     Chức năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7.2 to 7.8</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054328Z" creationid="Kieu Lan" creationdate="20210916T054328Z">
@@ -5653,8 +5661,8 @@
       <tuv lang="EN-US">
         <seg>A service tool shall be available for all controllers connected to the bus network. The service tool shall be MS Windows-based and able to automatically recognize and display all primary controllers, individual room controllers and room units connected to the bus. All devices shall be displayed in a 'tree' structure with all data points updated and displayed when selected.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041026Z" creationid="Kieu Lan" creationdate="20211117T041026Z">
-        <seg>A service tool shall be available for all controllers connected to the bus network. The service tool shall be MS Windows-based and able to automatically recognize and display all primary controllers, individual room controllers and room units connected to the bus. All devices shall be displayed in a 'tree' structure with all data points updated and displayed when selected.     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T070553Z" creationid="Kieu Lan" creationdate="20211117T041026Z">
+        <seg>A service tool shall be available for all controllers connected to the bus network. The service tool shall be MS Windows-based and able to automatically recognize and display all primary controllers, individual room controllers and room units connected to the bus. All devices shall be displayed in a 'tree' structure with all data points updated and displayed when selected.     /     Một service tool phải có cho tất cả các điều khiển nối vào mạng lưới bus. Service tool sẽ chạy trên MS Windows và có thể tự động nhận diện và hiển thị tất cả các điều khiển chính, điều khiển phòng riêng lẻ và các máy trong phòng có kết nối vào bus. tất cả các thiết bị được hiển thị theo dạng sơ đồ cây với tất cả các điểm dữ liệu được cập nhật và hiển thị khi chọn vào</seg>
       </tuv>
     </tu>
     <tu>
@@ -17219,6 +17227,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091527Z" creationid="Kieu Lan" creationdate="20210815T091527Z">
         <seg>Key encoder     /     Máy tạo khóa từ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key functions of the service tool shall be:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T070746Z" creationid="Kieu Lan" creationdate="20211117T070556Z">
+        <seg>Key functions of the service tool shall be:     /     Các chức năng chính cho service tool sẽ bao gồm</seg>
       </tuv>
     </tu>
     <tu>
