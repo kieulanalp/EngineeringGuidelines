@@ -16501,6 +16501,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It would be highly beneficial for operation that all primary and secondary controllers within the hotel communicate according to an internationally approved open bus, ideally featuring simplified commissioning procedures. The KNX protocol enables zone addresses for each controller to be set locally viathe plug-in operator unit, without the need of a commissioning tool (also called "Easy Configuration").</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T034409Z" creationid="Kieu Lan" creationdate="20211117T034409Z">
+        <seg>It would be highly beneficial for operation that all primary and secondary controllers within the hotel communicate according to an internationally approved open bus, ideally featuring simplified commissioning procedures. The KNX protocol enables zone addresses for each controller to be set locally viathe plug-in operator unit, without the need of a commissioning tool (also called "Easy Configuration").     /     Sẽ có lợi ích lớn trong việc vận hành nếu tất cả các điều khiển chính và phụ trong khách sạn giao tiếp theo một bus mở được công nhận quốc tế, lý tưởng nhất là với quy trình vận hành được đơn giản hóa. Giao thức KNX cho phép định địa chỉ zone, mỗi điều khiển có thể được thiết lập cục bộ thông qua máy vận hành plug-in, mà không cần công cụ vận hành ("Easy Configuration").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T085455Z" creationid="LanHK" creationdate="20210505T043949Z">
