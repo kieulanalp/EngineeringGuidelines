@@ -21827,6 +21827,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Providing a communications network between BMS devices and management stations in a hotel allows the functional interaction between equipment (heat/cool demand, sharing of data, scheduling, override etc.) and also provides invaluable data on the performance of the building (alarms, trend logs and energy benchmarking). Many communication possibilities exist today for both technical building management and IT Infrastructure, with a strong focus on open communications standards and 'interoperability'.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T031056Z" creationid="Kieu Lan" creationdate="20211117T031056Z">
+        <seg>Providing a communications network between BMS devices and management stations in a hotel allows the functional interaction between equipment (heat/cool demand, sharing of data, scheduling, override etc.) and also provides invaluable data on the performance of the building (alarms, trend logs and energy benchmarking). Many communication possibilities exist today for both technical building management and IT Infrastructure, with a strong focus on open communications standards and 'interoperability'.     /     Cung cấp mạng lưới liên lạc giữa các thiết bị BMS và các máy tính quản lý trong khách sạn cho phép tương tác giữa các thiết bị (nhu cầu sưởi / làm mát, chia sẻ dữ liệu, lập lịch trình, ghi đè, v.v.) và cũng cung cấp dữ liệu có giá trị về hiệu suất của tòa nhà (báo động, trend log và benchmark năng lượng). Ngày nay có nhiều phương án giao tiếp cho cả quản lý kỹ thuật tòa nhà và Cơ sở hạ tầng IT , tập trung vào các tiêu chuẩn giao tiếp mở và 'khả năng tương tác'. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Public</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095555Z" creationid="Kieu Lan" creationdate="20210728T095555Z">
