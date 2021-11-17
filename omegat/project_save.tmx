@@ -13604,6 +13604,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh air dampers where no re-circulation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T064411Z" creationid="Kieu Lan" creationdate="20211117T064411Z">
+        <seg>Fresh air dampers where no re-circulation     /     Van chặn khí tươi nếu không có tái tuần hoàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh air ventilation heat loss and gain</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210721T035400Z" creationid="Kieu Lan" creationdate="20210721T034928Z">
