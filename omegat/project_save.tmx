@@ -25931,6 +25931,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supply and extract fans</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063150Z" creationid="Kieu Lan" creationdate="20211117T063150Z">
+        <seg>Supply and extract fans     /     Quạt cấp và hồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supply fan status</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061330Z" creationid="Kieu Lan" creationdate="20211117T061330Z">
