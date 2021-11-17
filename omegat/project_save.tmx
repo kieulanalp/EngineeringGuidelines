@@ -5916,6 +5916,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional energy profiles or programmes fed by the users</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T045751Z" creationid="Kieu Lan" creationdate="20211117T045751Z">
+        <seg>Additional energy profiles or programmes fed by the users     /     Các profile hoặc chương trình năng lượng bổ sung do người dùng nhập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Addressable hard-wired smoke detectors must be installed in all areas including:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020609Z" creationid="Kieu Lan" creationdate="20210713T020609Z">
@@ -17575,6 +17583,22 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighting sequence switching</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T045820Z" creationid="Kieu Lan" creationdate="20211117T045820Z">
+        <seg>Lighting sequence switching     /     Công tắc trình tự chiếu sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lighting time of day</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T045759Z" creationid="Kieu Lan" creationdate="20211117T045759Z">
+        <seg>Lighting time of day     /     Thời gian chiếu sáng trong ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lightning Protection</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083135Z" creationid="Kieu Lan" creationdate="20210405T153800Z">
@@ -21157,6 +21181,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plant interlocks for safety and fire alarm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T045657Z" creationid="Kieu Lan" creationdate="20211117T045657Z">
+        <seg>Plant interlocks for safety and fire alarm     /     Khóa liên động các máy cho báo động an toàn và hỏa hoạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plant rooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T025933Z" creationid="Kieu Lan" creationdate="20210814T025933Z">
@@ -21702,6 +21734,15 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T013800Z" creationid="Kieu Lan" creationdate="20211115T013800Z">
         <seg>Primary and secondary control devices providing stand-alone control of HVAC plant, with local display of operation and status     /     Thiết bị điều khiển chính vào phụ cho phép điều khiển độc lập máy HVAC, có màn hình hiển thị hoạt động và trạng thái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Primary control of 3 term variables???????</note>
+      <tuv lang="EN-US">
+        <seg>Primary control of 3 term variables</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T045603Z" creationid="Kieu Lan" creationdate="20211117T045603Z">
+        <seg>Primary control of 3 term variables     /     Điều khiển chính</seg>
       </tuv>
     </tu>
     <tu>
@@ -25356,8 +25397,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Summaries of measured variables</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T043235Z" creationid="Kieu Lan" creationdate="20211117T043235Z">
-        <seg>Summaries of measured variables     /     Tổng hợp cá thông số biến thiên đã đo</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T045609Z" creationid="Kieu Lan" creationdate="20211117T043235Z">
+        <seg>Summaries of measured variables     /     Tổng hợp các biến đo lường</seg>
       </tuv>
     </tu>
     <tu>
@@ -29081,6 +29122,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083650Z" creationid="Kieu Lan" creationdate="20210824T083650Z">
         <seg>Typical MV Distribution with Primary Loop     /     Phân phối điện trung thế với vòng mạch sơ cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Points List</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T045842Z" creationid="Kieu Lan" creationdate="20211117T045842Z">
+        <seg>Typical Points List     /     Danh sách các điểm đo điển hình</seg>
       </tuv>
     </tu>
     <tu>
