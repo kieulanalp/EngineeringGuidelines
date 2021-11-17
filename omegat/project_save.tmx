@@ -9466,8 +9466,8 @@
       <tuv lang="EN-US">
         <seg>Connection of the service tool to any controller or to the control system bus shall not interrupt nor interfere with normal network operation in any way, prevent alarms from being transmitted.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T082658Z" creationid="Kieu Lan" creationdate="20211117T082658Z">
-        <seg>Connection of the service tool to any controller or to the control system bus shall not interrupt nor interfere with normal network operation in any way, prevent alarms from being transmitted.     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T083910Z" creationid="Kieu Lan" creationdate="20211117T082658Z">
+        <seg>Connection of the service tool to any controller or to the control system bus shall not interrupt nor interfere with normal network operation in any way, prevent alarms from being transmitted.     /     Kết nối từ service tool tới bất cứ điều khiển nào hoặc tới hệ thống bus điều khiển sẽ không ngắt quãng hay ảnh hưởng vận hành network bình thường, ngăn cản báo động không truyền đi được</seg>
       </tuv>
     </tu>
     <tu>
@@ -20341,8 +20341,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>On-line trending of selected data values, with automatic creation and real-time display (tabular and graphical). Optional export of values to 3rd party software (M S Excel).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T072133Z" creationid="Kieu Lan" creationdate="20211117T072133Z">
-        <seg>On-line trending of selected data values, with automatic creation and real-time display (tabular and graphical). Optional export of values to 3rd party software (MS Excel).     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T083757Z" creationid="Kieu Lan" creationdate="20211117T072133Z">
+        <seg>On-line trending of selected data values, with automatic creation and real-time display (tabular and graphical). Optional export of values to 3rd party software (MS Excel).     /     Xu hướng của các giá trị dữ liệu được chọn, tự động tạo và hiển thị trong thời gian thực (dạng bảng và biểu đồ)</seg>
       </tuv>
     </tu>
     <tu>
