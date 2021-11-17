@@ -8189,6 +8189,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHP status</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062832Z" creationid="Kieu Lan" creationdate="20211117T062832Z">
+        <seg>CHP status     /     Trạng thái CHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CI</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T125546Z" creationid="Kieu Lan" creationdate="20210820T125546Z">
@@ -10171,6 +10179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disabled alarm status</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062820Z" creationid="Kieu Lan" creationdate="20211117T062820Z">
+        <seg>Disabled alarm status     /     Trạng thái nút gọi cho người khuyết tật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disabled guest bedrooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T043341Z" creationid="Kieu Lan" creationdate="20210810T043341Z">
@@ -11394,6 +11410,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210605T050636Z">
         <seg>Emergency lighting falls into two categories; escape lighting and standby lighting.     /     Chiếu sáng sự cố sẽ chia thành 2 mục: Chiếu sáng thoát nạn và chiếu sáng dự phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency lighting status</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062645Z" creationid="Kieu Lan" creationdate="20211117T062645Z">
+        <seg>Emergency lighting status     /     Trạng thái đèn chiếu sáng khẩn cấp</seg>
       </tuv>
     </tu>
     <tu>
@@ -12723,6 +12747,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire alarm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062533Z" creationid="Kieu Lan" creationdate="20211117T062533Z">
+        <seg>Fire alarm     /     Báo cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire alarm and detection - InterContinental Hotels Group/Code</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210608T014830Z" creationid="PHUONG.DTM" creationdate="20210608T014830Z">
@@ -12735,6 +12767,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T045757Z" creationid="Kieu Lan" creationdate="20210705T045757Z">
         <seg>Fire alarm and detection systems may be either single or two-stage as follows:     /     Hệ thống phát hiện và báo cháy có thể là hệ thống một hoặc hai giai đoạn như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire alarm fail</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062537Z" creationid="Kieu Lan" creationdate="20211117T062537Z">
+        <seg>Fire alarm fail     /     Lỗi báo cháy</seg>
       </tuv>
     </tu>
     <tu>
@@ -13837,10 +13877,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gas leak</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062627Z" creationid="Kieu Lan" creationdate="20211117T062627Z">
+        <seg>Gas leak     /     rò ga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gas leak detection</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T075331Z" creationid="LanHK" creationdate="20210702T075331Z">
         <seg>Gas leak detection     /     Đầu báo rò rỉ khí ga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gas leak detection fail</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062634Z" creationid="Kieu Lan" creationdate="20211117T062631Z">
+        <seg>Gas leak detection fail     /     Lỗi đầu báo rò ga</seg>
       </tuv>
     </tu>
     <tu>
@@ -21157,6 +21213,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Panic alarm status</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062827Z" creationid="Kieu Lan" creationdate="20211117T062812Z">
+        <seg>Panic alarm status     /     Trạng thái nút báo cháy khẩn cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameter</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T131527Z" creationid="Kieu Lan" creationdate="20210815T131525Z">
@@ -21778,6 +21842,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre fail transformer/switchgear</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062625Z" creationid="Kieu Lan" creationdate="20211117T062625Z">
+        <seg>Pre fail transformer/switchgear     /     Trước khi lỗi biến áp/ tủ điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pre insulated HDPE (High density Polyethylene)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T082630Z" creationid="Kieu Lan" creationdate="20210804T082630Z">
@@ -22328,6 +22400,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093403Z" creationid="LanHK" creationdate="20210715T063342Z">
         <seg>Public Toilets     /     Toilet công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public address status</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062802Z" creationid="Kieu Lan" creationdate="20211117T062802Z">
+        <seg>Public address status     /     Tình trạng loa thông báo công cộng</seg>
       </tuv>
     </tu>
     <tu>
@@ -23971,10 +24051,34 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Security alarm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062554Z" creationid="Kieu Lan" creationdate="20211117T062544Z">
+        <seg>Security alarm     /     Báo động an ninh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security fail</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062557Z" creationid="Kieu Lan" creationdate="20211117T062557Z">
+        <seg>Security fail     /     Lỗi an ninh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Security office</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T043240Z" creationid="Kieu Lan" creationdate="20210810T043240Z">
         <seg>Security office     /     Phòng an ninh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security status</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062548Z" creationid="Kieu Lan" creationdate="20211117T062541Z">
+        <seg>Security status     /     Tình trạng an ninh</seg>
       </tuv>
     </tu>
     <tu>
@@ -29534,6 +29638,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UPS fail</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062704Z" creationid="Kieu Lan" creationdate="20211117T062704Z">
+        <seg>UPS fail     /     Lỗi UPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UTILITY SERVICES</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T092943Z" creationid="LanHK" creationdate="20210525T081231Z">
@@ -29579,6 +29691,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T071539Z" creationid="LanHK" creationdate="20210716T092019Z">
         <seg>Understanding the wind strengths and patterns for the site can help in locating intakes &amp; discharges and benefiting from natural ventilation. The following is an illustration of a typical wind path diagram:     /     Hiểu sức gió và các luồng gió tại vị trí dự án có thể giúp xác định hướng cấp vào và thải khí (intakes &amp; discharges) và thu được lợi ích từ thông gió tự nhiên. Hình dưới minh họa một biểu đồ hướng gió điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninterrupted power supply (UPS) status</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T062701Z" creationid="Kieu Lan" creationdate="20211117T062701Z">
+        <seg>Uninterrupted power supply (UPS) status     /     Trạng thái nguồn cấp điện liên tục (UPS)</seg>
       </tuv>
     </tu>
     <tu>
