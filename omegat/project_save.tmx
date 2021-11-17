@@ -9071,6 +9071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complete floors up to 60 rooms (160mA power supply required)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T033823Z" creationid="Kieu Lan" creationdate="20211117T033823Z">
+        <seg>Complete floors up to 60 rooms (160mA power supply required)     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Component (%)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T044518Z" creationid="Kieu Lan" creationdate="20210810T044503Z">
@@ -28399,6 +28407,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063347Z" creationid="Kieu Lan" creationdate="20210916T063347Z">
         <seg>Top-up With Pre-treated Water     /     Bù nước bằng nước đã qua xử lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Topology Schematic</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T033807Z" creationid="Kieu Lan" creationdate="20211117T033807Z">
+        <seg>Topology Schematic     /     Sơ đồ đấu nối</seg>
       </tuv>
     </tu>
     <tu>
