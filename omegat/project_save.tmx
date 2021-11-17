@@ -9947,6 +9947,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Devices having the same zone address shall exchange process data automatically, whereby one zone address permits the exchange of information between several process data points. All primary controllers shall have the option of having a room sensor or room unit connected via the bus; this room unit shall be powered from the bus power supply.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T035058Z" creationid="Kieu Lan" creationdate="20211117T035058Z">
+        <seg>Devices having the same zone address shall exchange process data automatically, whereby one zone address permits the exchange of information between several process data points. All primary controllers shall have the option of having a room sensor or room unit connected via the bus; this room unit shall be powered from the bus power supply.     /     Thiết bị có địa chỉ zone giống nhau sẽ trao đổi dữ liệu xử lý tự động, trong khi một địa chỉ zone cho phép trao đổi thông tin giữa một số điểm dữ liệu xử lý. Tất cả các điều khiển chính phải cho phép kết nối một cảm biến phòng hoặc room unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Df</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T080412Z" creationid="Kieu Lan" creationdate="20210713T080412Z">
