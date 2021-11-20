@@ -6076,6 +6076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional functionality:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043703Z" creationid="Kieu Lan" creationdate="20211120T043703Z">
+        <seg>Additional functionality:     /     Chức năng bổ sung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Addressable hard-wired smoke detectors must be installed in all areas including:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T020609Z" creationid="Kieu Lan" creationdate="20210713T020609Z">
@@ -15532,6 +15540,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T092725Z" creationid="Kieu Lan" creationdate="20210815T092725Z">
         <seg>Hotel Integrated Schematic - Typical IT Provisions     /     Sơ đồ khách sạn tích hợp - Bố trí IT điển hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hotel Room Management Station Software provides IHG personnel with access to main room parameters and data from all guest rooms and zone controllers connected on the network. The software should run on any commercially available PC with Windows XP as a reliable operating system and with Sybase SQL Anywhere as the database software. The design of the Windows based software shall be specially developed to provide a familiar look and feel for ease of use, particularly to existing users of FOS systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043651Z" creationid="Kieu Lan" creationdate="20211120T043651Z">
+        <seg>Hotel Room Management Station Software provides IHG personnel with access to main room parameters and data from all guest rooms and zone controllers connected on the network. The software should run on any commercially available PC with Windows XP as a reliable operating system and with Sybase SQL Anywhere as the database software. The design of the Windows based software shall be specially developed to provide a familiar look and feel for ease of use, particularly to existing users of FOS systems.     /     Phần mềm Quản lý Phòng Khách sạn cho phép nhân viên IHG truy cập các thông số và dữ liệu phòng chính từ tất cả các bộ điều khiển phòng và zone được kết nối vào mạng. Phần mềm phải chạy trên bất kỳ PC nào có sẵn trên thị trường với Windows XP là hệ điều hành đáng tin cậy và với Sybase SQL Anywhere là phần mềm cơ sở dữ liệu. Thiết kế của phần mềm dựa trên Windows sẽ được phát triển chuyên để tạo ra giao diện và cảm giác quen thuộc để dễ sử dụng, đặc biệt là cho những người dùng hiện tại của hệ thống FOS.</seg>
       </tuv>
     </tu>
     <tu>
