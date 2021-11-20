@@ -7338,6 +7338,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic generation of "commissioning" reports with full details of all controller settings</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T033910Z" creationid="Kieu Lan" creationdate="20211120T033910Z">
+        <seg>Automatic generation of "commissioning" reports with full details of all controller settings     /     Tự động xuất báo cáo "vận hành" với đầy đủ chi tiết về cài đặt của bộ điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic heat exchanger cleaning</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T045229Z" creationid="LanHK" creationdate="20210728T045229Z">
