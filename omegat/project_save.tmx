@@ -7562,6 +7562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BMS Commissioning and handover</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T044035Z" creationid="Kieu Lan" creationdate="20211120T044035Z">
+        <seg>BMS Commissioning and handover     /     Chạy thử BMS và bàn giao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BMS Features</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T023127Z" creationid="Kieu Lan" creationdate="20210930T023127Z">
@@ -9291,6 +9299,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061439Z" creationid="Kieu Lan" creationdate="20210805T061439Z">
         <seg>Commission all</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commissioning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T044040Z" creationid="Kieu Lan" creationdate="20211120T044040Z">
+        <seg>Commissioning     /     Chạy thử</seg>
       </tuv>
     </tu>
     <tu>
@@ -16244,6 +16260,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T045121Z" creationid="Kieu Lan" creationdate="20210804T045121Z">
         <seg>In addition to the common air conditioning system serving these areas, a separate independent split system shall be provided for each room to guarantee availability of cooling at all times. Failure shall be alarmed at the BMS.     /     Ngoài hệ thống điều hòa không khí chung phục vụ các khu vực này, một hệ thống hai cục riêng độc lập sẽ được cung cấp cho mỗi phòng để đảm bảo luôn có khả năng làm mát. Sự cố sẽ được báo về BMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the pre-configured applications and pre-testing at the equipment manufacturer's works, commissioning and setting to work of the BMS, associated controllers and peripheral equipment must be made on site. The following items shall be considered the minimum requirements:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T044157Z" creationid="Kieu Lan" creationdate="20211120T044157Z">
+        <seg>In addition to the pre-configured applications and pre-testing at the equipment manufacturer's works, commissioning and setting to work of the BMS, associated controllers and peripheral equipment must be made on site. The following items shall be considered the minimum requirements:     /     Ngoài các ứng dụng đã cài đặt sẵn và quá trình kiểm tra trước thiết bị tại nơi sản xuất, việc chạy thử BMS, các điều khiển liên quan và thiết bị ngoại vi phải được thực hiện tại công trường. Các hạng mục sau cần phải được coi là yêu cầu tối thiểu</seg>
       </tuv>
     </tu>
     <tu>
