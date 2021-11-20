@@ -10147,6 +10147,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Definition of different user groups and software access rig hts</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043732Z" creationid="Kieu Lan" creationdate="20211120T043732Z">
+        <seg>Definition of different user groups and software access rights     /     định danh các nhóm người dùng và quyền truy cập phần mềm khác nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Definitions</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075532Z">
@@ -12771,6 +12779,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filter function by device names, room numbers and alarm types</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043942Z" creationid="Kieu Lan" creationdate="20211120T043921Z">
+        <seg>Filter function by device names, room numbers and alarm types     /     Lọc theo tên thiết bị, số phòng và loại báo động </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filtered Deposits to Drain/Non Potable systems</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T064243Z" creationid="Kieu Lan" creationdate="20210916T064243Z">
@@ -13696,6 +13712,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073629Z" creationid="LanHK" creationdate="20210609T073629Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freely configurable content of columns</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043844Z" creationid="Kieu Lan" creationdate="20211120T043844Z">
+        <seg>Freely configurable content of columns     /     Có thể tự do điều chỉnh nội dung cột</seg>
       </tuv>
     </tu>
     <tu>
@@ -22049,6 +22073,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pop-up Room overview for all rooms, showing the exact room state</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T044002Z" creationid="Kieu Lan" creationdate="20211120T044002Z">
+        <seg>Pop-up Room overview for all rooms, showing the exact room state     /     Overview dạng pop up cho tất cả các phòng, cho thấy chính xác tình trạng phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Portable visible and vibrating alarm units must be provided for guests with impaired hearing. These units must be operational throughout the hotel and be activated when the fire evacuation alarm is operated. A typical vibrating pad system wireless is illustrated as follows:-</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210729T090108Z" creationid="Kieu Lan" creationdate="20210713T014119Z">
@@ -23860,6 +23892,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Room list:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043818Z" creationid="Kieu Lan" creationdate="20211120T043818Z">
+        <seg>Room list:     /     Danh sách phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Room operating mode and fan speed in operator mode</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T012050Z" creationid="Kieu Lan" creationdate="20211115T012050Z">
@@ -25291,6 +25331,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T072656Z" creationid="LanHK" creationdate="20210716T092542Z">
         <seg>Some guidelines are provided for these areas to assist in understanding their importance and assessing them correctly.     /     Một số hướng dẫn về các nội dung này được cung cấp để giúp hiểu rõ tầm quan trọng cũng như đánh giá đúng đắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorting columns by clicking on the column head</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043924Z" creationid="Kieu Lan" creationdate="20211120T043918Z">
+        <seg>Sorting columns by clicking on the column head     /     Sắp xếp nội dung cột bằng cách ấn ô tiêu đề cột</seg>
       </tuv>
     </tu>
     <tu>
@@ -26829,6 +26877,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tabular overview in the main window showing all guest and room data</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043832Z" creationid="Kieu Lan" creationdate="20211120T043832Z">
+        <seg>Tabular overview in the main window showing all guest and room data     /     View tổng quan dạng bảng trong cửa sổ chính, cho thấy tất cả dữ liệu khách và phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Targets to be as required by National Standards</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024339Z" creationid="LanHK" creationdate="20210715T024339Z">
@@ -26946,6 +27002,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100031Z" creationid="Kieu Lan" creationdate="20210729T100031Z">
         <seg>Temperature control/comfort     /     Điều khiển nhiệt độ/Độ dễ chịu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature history showing the room temperatures over the last three days</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T044016Z" creationid="Kieu Lan" creationdate="20211120T044016Z">
+        <seg>Temperature history showing the room temperatures over the last three days     /     Lịch sử theo dõi nhiệt độ cho thấy nhiệt độ phòng trong 3 ngày gần nhất</seg>
       </tuv>
     </tu>
     <tu>
@@ -30312,10 +30376,34 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User administration - freely configurable in four stages for user authorization</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043753Z" creationid="Kieu Lan" creationdate="20211120T043753Z">
+        <seg>User administration - freely configurable in four stages for user authorization     /     Quản trị người dùng - có thể định cấu hình tự do trong bốn giai đoạn để ủy quyền người dùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User interface with toolbars for frequently used functions and the context menu via the right mouse button</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043813Z" creationid="Kieu Lan" creationdate="20211120T043813Z">
+        <seg>User interface with toolbars for frequently used functions and the context menu via the right mouse button     /     Giao diện người dùng với các thanh công cụ cho các chức năng được sử dụng thường xuyên và menu context thông qua nút chuột phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User level: Lowest access level, without password:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T062912Z" creationid="Kieu Lan" creationdate="20211006T062912Z">
         <seg>User level: Lowest access level, without password:     /     Cấp người dùng: cấp truy cập thấp nhất, không có mật khẩu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User-related display of room characteristics</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043858Z" creationid="Kieu Lan" creationdate="20211120T043858Z">
+        <seg>User-related display of room characteristics     /     Hiển thị tính chất phòng trên cơ sở người dùng</seg>
       </tuv>
     </tu>
     <tu>
