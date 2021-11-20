@@ -22453,8 +22453,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Primary (main plant) controllers shall contain a dedicated wiring test application. Values shall be displayed at the local operator unit for selected inputs, and aggregates (fans, pumps, etc.) connected to the outputs shall be proven (switched on and off). The wiring test shall be made after all peripheral devices are connected. On completion of the controller configuration and after having made all settings, it is recommended to conduct this test.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T045129Z" creationid="Kieu Lan" creationdate="20211120T045129Z">
-        <seg>Primary (main plant) controllers shall contain a dedicated wiring test application. Values shall be displayed at the local operator unit for selected inputs, and aggregates (fans, pumps, etc.) connected to the outputs shall be proven (switched on and off). The wiring test shall be made after all peripheral devices are connected. On completion of the controller configuration and after having made all settings, it is recommended to conduct this test.     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T050203Z" creationid="Kieu Lan" creationdate="20211120T045129Z">
+        <seg>Primary (main plant) controllers shall contain a dedicated wiring test application. Values shall be displayed at the local operator unit for selected inputs, and aggregates (fans, pumps, etc.) connected to the outputs shall be proven (switched on and off). The wiring test shall be made after all peripheral devices are connected. On completion of the controller configuration and after having made all settings, it is recommended to conduct this test.     /     Các điều khiển chính (máy chính) sẽ bao gồm phần mềm test dây nối chuyên dụng. Thông số sẽ được hiển thị tại </seg>
       </tuv>
     </tu>
     <tu>
