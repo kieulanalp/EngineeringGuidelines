@@ -4259,6 +4259,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>512MB RAM (128 MB recommended)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035641Z" creationid="Kieu Lan" creationdate="20211120T035641Z">
+        <seg>512MB RAM (128 MB recommended)     /     512MB RAM (khuyến nghị 128 MB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>53.4.5 TYPICAL DOUBLE GUEST BATHROOM DRAINAGE PLAN</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T125509Z" creationid="Kieu Lan" creationdate="20210820T124727Z">
@@ -5415,6 +5423,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T092634Z" creationid="Kieu Lan" creationdate="20211109T092634Z">
         <seg>A PC-based programming and service tool shall also be available as an option for all HVAC controllers connected to the bus. The solution shall contain several room components specifically designed for managing room functions in hotels. The types of components used and the key functions performed by them shall be described as below:     /     Phải có option công cụ lập trình và bảo trì trên PC cho tất cả các điều khiển HVAC kết nối vào bus. Giải pháp phải có một số bộ phận thiết kế dành riêng cho quản lý chức năng phòng trong khách sạn. Các loại bộ phận được sử dụng và các chức năng chính do chúng thực hiện được mô tả dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A USB1.1 or higher plus a parallel port.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035614Z" creationid="Kieu Lan" creationdate="20211120T035614Z">
+        <seg>A USB1.1 or higher plus a parallel port.     /     Cổng USB 1.1 hoặc cao hơn, cộng thêm một cổng song song</seg>
       </tuv>
     </tu>
     <tu>
@@ -14854,6 +14870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hard drive with 300 MB available space</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035423Z" creationid="Kieu Lan" creationdate="20211120T035423Z">
+        <seg>Hard drive with 300 MB available space     /     Ổ cứng có 300MB dung lượng trống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard water - softener only to be applied to hot services, unless levels such that cold services would be affected.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T011619Z" creationid="Kieu Lan" creationdate="20210816T011619Z">
@@ -21541,6 +21565,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pentium 1.6 GHz processor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035624Z" creationid="Kieu Lan" creationdate="20211120T035624Z">
+        <seg>Pentium 1.6 GHz processor     /     Bộ xử lý Pentium 1.6 GHz </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>People must be able to turn their back and move away from the fire to reach a place of safety</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T014205Z" creationid="LanHK" creationdate="20210603T014205Z">
@@ -26155,6 +26187,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supported operating systems are Windows 98SE, Windows ME, Windows 2000 and Windows XP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035616Z" creationid="Kieu Lan" creationdate="20211120T035616Z">
+        <seg>Supported operating systems are Windows 98SE, Windows ME, Windows 2000 and Windows XP     /     H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Surge Protection</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T083257Z" creationid="Kieu Lan" creationdate="20210810T083257Z">
@@ -30437,6 +30477,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T125535Z" creationid="Kieu Lan" creationdate="20210822T111737Z">
         <seg>Very important as the floating media is more prone to choke and backwash frequency will largely depends on the pre treatment done.     /     Rất quan trọng, do giá thể nổi dễ bị tắc hơn và tần suất rửa ngược giá thể sẽ rất phụ thuộc vào chất lượng quy trình xử lý trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video card and monitor capable of supporting SVGA1024 x 768 pixels</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035440Z" creationid="Kieu Lan" creationdate="20211120T035440Z">
+        <seg>Video card and monitor capable of supporting SVGA1024 x 768 pixels     /     card video và card màn hình có thể hỗ trợ SVGA1024 x 768 pixel</seg>
       </tuv>
     </tu>
     <tu>
