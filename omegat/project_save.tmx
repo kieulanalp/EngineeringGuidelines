@@ -4827,6 +4827,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.12.2 Hardware Specification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035346Z" creationid="Kieu Lan" creationdate="20211120T035346Z">
+        <seg>7.12.2 Hardware Specification     /     Yêu cầu phần cứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7.2 to 7.8</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054328Z" creationid="Kieu Lan" creationdate="20210916T054328Z">
@@ -28058,6 +28066,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The operator station shall consist of a personal computer (PC) with the following minimum specifications:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035401Z" creationid="Kieu Lan" creationdate="20211120T035401Z">
+        <seg>The operator station shall consist of a personal computer (PC) with the following minimum specifications:     /     Máy tính điều khiển phải là máy PC với các thông số tối thiểu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The overall net building pressure (controlled by the BMS) shall be positive to minimise infiltration.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T014242Z" creationid="LanHK" creationdate="20210719T014227Z">
@@ -29205,6 +29221,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211102T012656Z" creationid="Kieu Lan" creationdate="20211102T012656Z">
         <seg>Time switch operation     /     Vận hành theo công tắc hẹn giờ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time-based automatic scheduling of plant status and values</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035204Z" creationid="Kieu Lan" creationdate="20211120T035204Z">
+        <seg>Time-based automatic scheduling of plant status and values     /     Tự động lên lịch trình thời gian ra dữ liệu trạng thái máy</seg>
       </tuv>
     </tu>
     <tu>
@@ -32487,6 +32511,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061349Z" creationid="Kieu Lan" creationdate="20210805T061349Z">
         <seg>if the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>importation of photographic or other images (as bit maps) for the creation of customized user screens with pre-engineered dynamic data points</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035342Z" creationid="Kieu Lan" creationdate="20211120T035342Z">
+        <seg>importation of photographic or other images (as bit maps) for the creation of customized user screens with pre-engineered dynamic data points     /     Tầm quan trọng của ảnh (như bit maps) để tạo màn hình người dùng custum với các điểm dữ liệu động đã lập trình sẵn</seg>
       </tuv>
     </tu>
     <tu>
