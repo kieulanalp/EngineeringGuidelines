@@ -5467,6 +5467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A central communication unit (CCU) shall be used to allow direct or remote (modem) connection of the central management software to the plant controllers and devices. If required, the CCU shall provide full alarm and trending activity even when the operator station and central management software are off-line.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T041715Z" creationid="Kieu Lan" creationdate="20211120T041715Z">
+        <seg>A central communication unit (CCU) shall be used to allow direct or remote (modem) connection of the central management software to the plant controllers and devices. If required, the CCU shall provide full alarm and trending activity even when the operator station and central management software are off-line.     /     Cụm CCU sẽ được sử dụng để cho phép kết nối trực tiếp hoặc từ xa (modem) tới phần mềm quản lý trung tâm tại các bộ điều khiển máy và các thiết bị. Nếu cần thiết, CCU sẽ có đầy đủ chức năng báo động và xem xu hướng hoạt động kể cả khi máy tính vận hành và phần mềm quản lý trung tâm đang offline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dedicated AHU shall be provided to serve the kitchen area. The unit shall provide 100% fresh air (no re-circulation permitted) with heat recovery. This air shall be tempered to room conditions (cooled/heated) prior to supply to the kitchen.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T033853Z" creationid="Kieu Lan" creationdate="20210804T033734Z">
@@ -7390,6 +7398,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T045229Z" creationid="LanHK" creationdate="20210728T045229Z">
         <seg>Automatic heat exchanger cleaning     /     Tự động vệ sinh bộ trao đổi nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic identification of connected HVAC controllers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T041735Z" creationid="Kieu Lan" creationdate="20211120T041735Z">
+        <seg>Automatic identification of connected HVAC controllers     /     tự động định danh các bộ điều khiển HVAC đã kết nối</seg>
       </tuv>
     </tu>
     <tu>
@@ -22976,6 +22992,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Real-time access to all connected HVAC controllers, either directly or via modem</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T041758Z" creationid="Kieu Lan" creationdate="20211120T041758Z">
+        <seg>Real-time access to all connected HVAC controllers, either directly or via modem     /     truy cập thời gian thực vào tất cả các bộ điều khiển HVAC, hoặc trực tiếp hoặc thông qua modem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Real-time graphical viewing and control</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T030538Z" creationid="Kieu Lan" creationdate="20211120T030532Z">
@@ -27629,6 +27653,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033500Z" creationid="Kieu Lan" creationdate="20211109T033500Z">
         <seg>The following examples are typical for Hotels:     /     Các ví dụ sau là điển hình đối với Khách sạn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following functionality shall be provided:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T041724Z" creationid="Kieu Lan" creationdate="20211120T041724Z">
+        <seg>The following functionality shall be provided:     /     Phải có các chức năng sau</seg>
       </tuv>
     </tu>
     <tu>
