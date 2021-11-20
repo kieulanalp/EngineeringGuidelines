@@ -19490,6 +19490,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modem support with up to four communications port connections for remote or direct access to the bus (via the communications unit).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T034437Z" creationid="Kieu Lan" creationdate="20211120T034437Z">
+        <seg>Modem support with up to four communications port connections for remote or direct access to the bus (via the communications unit).     /     Hỗ trợ modem có lên đến 4 cổng giao tiếp để tiếp cận bus từ xa hoặc trực tiếp (thông qua linh kiện giao tiếp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moderate</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T031602Z" creationid="LanHK" creationdate="20210717T031602Z">
