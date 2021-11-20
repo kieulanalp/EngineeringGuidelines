@@ -27706,6 +27706,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The final commissioning and handover of the BMS shall be carried out in co-ordination with IHG representation the construction manager and other 3rd party trades as required. Commissioning of the BMS cannot take place until air and water systems are balanced, mains power is available and building services control equipment are proven to be functioning correctly.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T044421Z" creationid="Kieu Lan" creationdate="20211120T044421Z">
+        <seg>The final commissioning and handover of the BMS shall be carried out in co-ordination with IHG representation the construction manager and other 3rd party trades as required. Commissioning of the BMS cannot take place until air and water systems are balanced, mains power is available and building services control equipment are proven to be functioning correctly.     /     Việc chạy thử và bàn giao cuối cùng của hệ thống BMS phải được tiến hành hợp tác với đại diện IHG, quản lý thi công và các bên thứ 3 khác theo nhu cầu. Việc chạy thử BMS không được thực hiện cho tới khi đã thực hiện cân bằng hệ thống không khí và nước, đã cấp nguồn điện chính và các thiết bị điều khiển trong tòa nhà đã được xác định là hoạt động đúng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The final system selection shall be subject to verification from a technical submission, including a full life cycle cost/benefit analysis, by the designer, and approval by InterContinental Hotels Group.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210719T070702Z" creationid="Kieu Lan" creationdate="20210719T070702Z">
