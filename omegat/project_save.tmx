@@ -19611,6 +19611,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mouse and 101-key enhanced</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T040452Z" creationid="Kieu Lan" creationdate="20211120T040452Z">
+        <seg>Mouse and 101-key enhanced     /     Chuột và bàn phím 101 key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Movement sensors must be provided in sufficient number to achieve adequate control of the lighting circuits to all common areas.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T142746Z" creationid="Kieu Lan" creationdate="20210814T142746Z">
@@ -26189,8 +26197,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Supported operating systems are Windows 98SE, Windows ME, Windows 2000 and Windows XP</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035938Z" creationid="Kieu Lan" creationdate="20211120T035616Z">
-        <seg>Supported operating systems are Windows 98SE, Windows ME, Windows 2000 and Windows XP     /     Hỗ trợ hệ điều hành </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T040438Z" creationid="Kieu Lan" creationdate="20211120T035616Z">
+        <seg>Supported operating systems are Windows 98SE, Windows ME, Windows 2000 and Windows XP     /     Hỗ trợ hệ điều hành  Windows 98SE, Windows ME, Windows 2000 và Windows XP</seg>
       </tuv>
     </tu>
     <tu>
@@ -32654,6 +32662,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
         <seg>irrespective of their language</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210629T042011Z" creationid="Kieu Lan" creationdate="20210629T042011Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>keyboard.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T040500Z" creationid="Kieu Lan" creationdate="20211120T040500Z">
         <seg></seg>
       </tuv>
     </tu>
