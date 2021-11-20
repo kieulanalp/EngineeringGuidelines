@@ -10371,6 +10371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display of historical plant data</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T030819Z" creationid="Kieu Lan" creationdate="20211120T030819Z">
+        <seg>Display of historical plant data     /     Thể hiện dữ liệu máy trong quá khứ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display of the present room operating mode or manually selected fan speed</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T012000Z" creationid="Kieu Lan" creationdate="20211115T012000Z">
@@ -24319,6 +24327,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T142602Z" creationid="Kieu Lan" creationdate="20210814T142602Z">
         <seg>Selected lighting circuits to the car park, entrance hall, common area, corridors, staircases, circulation areas and external areas must, in addition to the time clock and/or solar control facility, be provided with a movement sensor which must override the astronomical time clock. Control will revert back to the time clock after a user-adjustable time period, initial set at 10 minutes.     /     Các mạch điện chiếu sáng được chọn dẫn đến bãi đỗ xe, sảnh đến, khu vực chung, hành lang, thang bộ, khu vực lưu thông và không gian ngoài trời phải được bố trí đồng hồ tính giờ và/hoặc thiết bị điều khiển năng lượng mặt trời, và cảm biến chuyển động có thể ghi đè đồng hồ tính giờ. Quyền điều khiển sẽ chuyển lại cho đồng hồ sau một khoảng thời gian do người dùng xác định, ban đầu là 10 phút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection and grouping of data points (Pop cards)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T030841Z" creationid="Kieu Lan" creationdate="20211120T030841Z">
+        <seg>Selection and grouping of data points (Pop cards)     /     Chọn và gộp nhóm các điểm dữ liệu (Pop cards)</seg>
       </tuv>
     </tu>
     <tu>
