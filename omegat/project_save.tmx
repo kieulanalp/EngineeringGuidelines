@@ -10379,6 +10379,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display of dynamic trend data</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T033730Z" creationid="Kieu Lan" creationdate="20211120T033730Z">
+        <seg>Display of dynamic trend data     /     Hiển thị dữ liệu xu hướng động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display of historical plant data</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T030819Z" creationid="Kieu Lan" creationdate="20211120T030819Z">
@@ -15827,6 +15835,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T054321Z" creationid="Kieu Lan" creationdate="20210916T054317Z">
         <seg>Ideal     /     Lý tưởng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identification and upload of all system data from controllers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T033717Z" creationid="Kieu Lan" creationdate="20211120T033717Z">
+        <seg>Identification and upload of all system data from controllers     /     Xác nhận danh tính và tải lên tất cả các dữ liệu hệ thống từ máy điều khiển</seg>
       </tuv>
     </tu>
     <tu>
