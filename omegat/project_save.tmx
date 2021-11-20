@@ -19603,6 +19603,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monitoring of all HVAC device parameters</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T042403Z" creationid="Kieu Lan" creationdate="20211120T042403Z">
+        <seg>Monitoring of all HVAC device parameters     /     Theo dõi tất cả các thông số thiết bị HVAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monitors guestroom network connection and reports non-communicating rooms.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T023408Z" creationid="Kieu Lan" creationdate="20210814T023408Z">
