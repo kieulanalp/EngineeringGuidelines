@@ -6302,10 +6302,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm handling with pop-up windows, sound files and activity log</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T034641Z" creationid="Kieu Lan" creationdate="20211120T034641Z">
+        <seg>Alarm handling with pop-up windows, sound files and activity log     /     Xử lý báo động bằng cửa sổ pop-up, file âm thanh và log hoạt động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm operates in guest room where fire is detected only</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T025256Z" creationid="Kieu Lan" creationdate="20210713T044116Z">
         <seg>Alarm operates in guest room where fire is detected only     /     Báo động kích hoạt trong phòng khách chỉ tại nơi phát hiện cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm output to screen and/or printer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T034655Z" creationid="Kieu Lan" creationdate="20211120T034655Z">
+        <seg>Alarm output to screen and/or printer     /     Xuất báo động ra màn hình và/hoặc máy in</seg>
       </tuv>
     </tu>
     <tu>
