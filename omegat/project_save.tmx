@@ -8781,6 +8781,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Central Communication unit</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T041118Z" creationid="Kieu Lan" creationdate="20211120T041118Z">
+        <seg>Central Communication unit     /     Cụm giao tiếp trung tâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Central Heating Production/ Distribution</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T041642Z" creationid="LanHK" creationdate="20210525T091637Z">
