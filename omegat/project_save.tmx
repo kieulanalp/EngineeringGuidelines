@@ -7418,6 +7418,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic reporting of alarms to SMS, fax machines, pagers or e-mail receivers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043309Z" creationid="Kieu Lan" creationdate="20211120T043309Z">
+        <seg>Automatic reporting of alarms to SMS, fax machines, pagers or e-mail receivers     /     Tự động báo cáo báo động về SMS, máy fax, máy nhắn tin hoặc email</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic reporting of alarms to a PC</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043253Z" creationid="Kieu Lan" creationdate="20211120T043253Z">
+        <seg>Automatic reporting of alarms to a PC     /     Tự động báo cáo báo động về PC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic sprinklers are not required on the atrium side of the glass wall when there is no walkway or other floor area on the atrium side above the main floor level.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210611T091545Z" creationid="LanHK" creationdate="20210611T091545Z">
@@ -13675,6 +13691,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Freely configurable potential-free inputs??</note>
+      <tuv lang="EN-US">
+        <seg>Freely configurable potential-free inputs for fault status, monitoring, etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043208Z" creationid="Kieu Lan" creationdate="20211120T043208Z">
+        <seg>Freely configurable potential-free inputs for fault status, monitoring, etc.     /     Tín hiệu vào không mang điện thế có thể tự do định cấu hình dành cho trạng thái lỗi, giám sát...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Freely programmable controller</seg>
       </tuv>
@@ -16677,6 +16702,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020819Z" creationid="Kieu Lan" creationdate="20210805T020819Z">
         <seg>Insulation requirement for Chilled water pipes     /     Yêu cầu về bảo ôn với ống nước mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integral system clock with time master function</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043337Z" creationid="Kieu Lan" creationdate="20211120T043337Z">
+        <seg>Integral system clock with time master function     /     Hệ thống đồng hồ với chức năng thời gian tổng</seg>
       </tuv>
     </tu>
     <tu>
@@ -22511,6 +22544,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T044404Z" creationid="LanHK" creationdate="20210601T100751Z">
         <seg>Property Section 1 Fire and Life Safety.        /       Mục 1 về tài sản Tiêu chuẩn An toàn Sinh mạng và PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property management system</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043341Z" creationid="Kieu Lan" creationdate="20211120T043341Z">
+        <seg>Property management system     /     Hệ thống quản lý tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
