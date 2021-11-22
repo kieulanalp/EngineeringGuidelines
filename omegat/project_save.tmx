@@ -14975,6 +14975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handover and acceptance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T064210Z" creationid="LanHK" creationdate="20211122T064210Z">
+        <seg>Handover and acceptance     /     Bàn giao và nghiệm thu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard drive with 300 MB available space</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035423Z" creationid="Kieu Lan" creationdate="20211120T035423Z">
@@ -20496,6 +20504,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044040Z" creationid="Kieu Lan" creationdate="20210713T044040Z">
         <seg>Notify fire brigade if appropriate     /     Thông báo tới lực lượng PCCC nếu hợp lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notify operating IHG or hotel personnel in writing of the handover and testing dates so that authorized personnel from IHG, the building owner, consulting engineer and construction manager are present if required.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T064549Z" creationid="LanHK" creationdate="20211122T064549Z">
+        <seg>Notify operating IHG or hotel personnel in writing of the handover and testing dates so that authorized personnel from IHG, the building owner, consulting engineer and construction manager are present if required.     /     Thông báo bằng văn bản cho nhân sự vận hành của IHG hoặc khách sạn về ngày giờ bàn giao và nghiệm thu để nhân sự có thẩm quyền tại IHG, chủ đầu tư, kỹ sư tư vấn và quản lý thi công có thể có mặt nếu cần thiết</seg>
       </tuv>
     </tu>
     <tu>
