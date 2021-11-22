@@ -16810,6 +16810,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inspection and compliance certificates should be current and on display.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T082616Z" creationid="LanHK" creationdate="20211122T082616Z">
+        <seg>Inspection and compliance certificates should be current and on display.     /     Nên có treo chứng nhận bảo trì và tuân thủ tiêu chuẩn mới nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation cost</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081825Z" creationid="Kieu Lan" creationdate="20210804T081825Z">
@@ -23637,6 +23645,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T171929Z" creationid="Kieu Lan" creationdate="20210814T171929Z">
         <seg>Refer to illustration of this manual for ‘typical requirements which will be confirmed by IHG Global Technology.     /     Tham khảo trong hướng dẫn này về các yêu cầu điển hình, và sẽ được xác nhận bởi IHG Global Technology.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the brand standard requirements for details of Fire and Life Safety and controls for Lifts and Elevators. Provide interfaces as necessary to other systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T082925Z" creationid="LanHK" creationdate="20211122T082925Z">
+        <seg>Refer to the brand standard requirements for details of Fire and Life Safety and controls for Lifts and Elevators. Provide interfaces as necessary to other systems     /     Tham khảo yêu cầu tiêu chuẩn thương hiệu để biết chi tiết hơn về yêu cầu PCCC và điều khiển dành cho thang máy. Liên kết với các hệ thống khác tùy theo nhu cầu</seg>
       </tuv>
     </tu>
     <tu>
