@@ -18224,6 +18224,22 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Levels 2-3 served</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092842Z" creationid="LanHK" creationdate="20211122T092842Z">
+        <seg>Levels 2-3 served     /     Phục vụ 2-3 tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Levels 4-12 served</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092908Z" creationid="LanHK" creationdate="20211122T092908Z">
+        <seg>Levels 4-12 served     /     Phục vụ 4-12 tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lew Ochnik</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
@@ -29871,6 +29887,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T035204Z" creationid="Kieu Lan" creationdate="20211120T035204Z">
         <seg>Time-based automatic scheduling of plant status and values     /     Tự động lên lịch trình thời gian ra dữ liệu trạng thái máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Canopy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092834Z" creationid="LanHK" creationdate="20211122T092834Z">
+        <seg>To Canopy     /     Tính tới trần</seg>
       </tuv>
     </tu>
     <tu>
