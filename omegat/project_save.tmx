@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27451,6 +27451,15 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T020743Z" creationid="LanHK" creationdate="20210724T020743Z">
         <seg>The configuration of the heating and chilled water circuits should be such that clearly identified zones can be individually served, thus making it possible to close down areas of the hotel for maintenance.     /     Cần bố trí mạch đường nước làm nóng và đường nước lạnh sao cho có thể phục vụ riêng lẻ cho từng khu vực được xác định rõ ràng, từ đó có thể đóng cửa từng khu vực riêng của khách sạn để bảo trì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>control scheme</note>
+      <tuv lang="EN-US">
+        <seg>The control system supplier shall provide recommendations for system modification in writing to IHG, the consulting engineer or building owner. No modifications to the specified control scheme shall be made (including operating parameters and control settings) without prior approval from IHG, the consulting engineer or building owner.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T064142Z" creationid="LanHK" creationdate="20211122T064142Z">
+        <seg>The control system supplier shall provide recommendations for system modification in writing to IHG, the consulting engineer or building owner. No modifications to the specified control scheme shall be made (including operating parameters and control settings) without prior approval from IHG, the consulting engineer or building owner.     /     Nhà cung cấp hệ thống điều khiển sẽ cung cấp khuyến nghị về điều chỉnh hệ thống bằng văn bản cho IHG, kỹ sư tư vấn và chủ đầu tư. Không được thực hiện bất cứ thay đổi nào đối với control scheme đã định sẵn (bao gồm thông số vận hành và cài đặt điều khiển) mà không có phê duyệt trước từ phía IHG, kỹ sư tư vấn hay chủ đầu tư.</seg>
       </tuv>
     </tu>
     <tu>
