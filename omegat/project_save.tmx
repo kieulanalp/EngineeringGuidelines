@@ -18208,6 +18208,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lift/Elevator Specification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T080451Z" creationid="LanHK" creationdate="20211122T080451Z">
+        <seg>Lift/Elevator Specification     /     Thông số thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lifts</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T024356Z" creationid="LanHK" creationdate="20210715T063639Z">
@@ -19727,6 +19735,30 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094439Z" creationid="LanHK" creationdate="20210715T062947Z">
         <seg>Minimum Filtration Standard to EN779:2012     /     Tiêu chuẩn lọc tối thiểu EN779:2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum capacity to be 13 persons (1,000 kg)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T080645Z" creationid="LanHK" creationdate="20211122T080645Z">
+        <seg>Minimum capacity to be 13 persons (1,000 kg)     /     Tải trọng tối thiểu 13 người (1,000kg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum door opening to be 1.2m opening.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T080700Z" creationid="LanHK" creationdate="20211122T080700Z">
+        <seg>Minimum door opening to be 1.2m opening.     /     Khoảng cửa mở tối thiểu 1.2m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum interval must be under 35 seconds, handling capacity not less than 17% of the expected guest population over a 5 minute period.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T080630Z" creationid="LanHK" creationdate="20211122T080630Z">
+        <seg>Minimum interval must be under 35 seconds, handling capacity not less than 17% of the expected guest population over a 5 minute period.     /     Thời gian đợi tối thiểu dưới 35 giây, với khả năng vận tải tối thiểu 17% trên số lượng khách dự kiến trong khoảng thời gian 5 phút</seg>
       </tuv>
     </tu>
     <tu>
@@ -27140,6 +27172,14 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone and intercom present and functioning.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T080754Z" creationid="LanHK" creationdate="20211122T080754Z">
+        <seg>Telephone and intercom present and functioning.     /     Điện thoại và intercom có và vận hành đầy đủ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>??</note>
       <tuv lang="EN-US">
         <seg>Telephone switchboard room</seg>
@@ -31159,6 +31199,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20211122T072824Z" creationid="LanHK" creationdate="20211122T072824Z">
         <seg>Walk-through of the control installation to locate control components and explain functions     /     Hướng dẫn giao diện điều khiển để biết các chức năng nằm ở đâu và giải thích chức năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wall-mounted handrails at 800mm, control panel with door open button and facilities clearly marked in accordance with appropriate legislation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T080738Z" creationid="LanHK" creationdate="20211122T080738Z">
+        <seg>Wall-mounted handrails at 800mm, control panel with door open button and facilities clearly marked in accordance with appropriate legislation.     /     Tay vịn gắn tường ở độ cao 800m, bảng điều khiển có nút mở cửa và các chức năng khác được đánh dấu rõ ràng</seg>
       </tuv>
     </tu>
     <tu>
