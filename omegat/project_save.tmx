@@ -19315,6 +19315,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manufacturer’s Standard</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T095537Z" creationid="LanHK" creationdate="20211122T095537Z">
+        <seg>Manufacturer’s Standard     /     Tiêu chuẩn nhà sản xuất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Massage/Solarium/</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T063901Z" creationid="LanHK" creationdate="20210715T063901Z">
