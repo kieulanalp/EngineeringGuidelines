@@ -13796,6 +13796,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free from noise when travelling.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T081450Z" creationid="LanHK" creationdate="20211122T081450Z">
+        <seg>Free from noise when travelling.     /     không có tiếng ồn khi di chuyển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Freely configurable content of columns</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043844Z" creationid="Kieu Lan" creationdate="20211120T043844Z">
