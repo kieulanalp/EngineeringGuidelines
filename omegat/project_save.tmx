@@ -27128,8 +27128,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The BMS supplier; or approved partners shall complete all testing, calibrating, adjusting and final field tests once the electrical installation of the system is complete. The controllers must be operable in standalone mode with operation possible from local operating units. Devices must be proven to failsafe in the specified mode upon panel failure or loss of power.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T044639Z" creationid="Kieu Lan" creationdate="20211120T044639Z">
-        <seg>The BMS supplier; or approved partners shall complete all testing, calibrating, adjusting and final field tests once the electrical installation of the system is complete. The controllers must be operable in standalone mode with operation possible from local operating units. Devices must be proven to failsafe in the specified mode upon panel failure or loss of power.     /     Nhà cung cấp BMS, hoặc đối tác được công nhận sẽ thực hiện tất cả các kiểm tra, cân bằng, tinh chỉnh và các test</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211122T020815Z" creationid="Kieu Lan" creationdate="20211120T044639Z">
+        <seg>The BMS supplier; or approved partners shall complete all testing, calibrating, adjusting and final field tests once the electrical installation of the system is complete. The controllers must be operable in standalone mode with operation possible from local operating units. Devices must be proven to failsafe in the specified mode upon panel failure or loss of power.     /     Nhà cung cấp BMS, hoặc đối tác được công nhận sẽ thực hiện tất cả các kiểm tra, cân bằng, tinh chỉnh và các test khi việc lắp đặt điện hệ thống đã hoàn tất. Các bộ điều khiển phải có thể vận hành độc lập (standalone mode) với khả năng cho phép vận hành từ cụm điều khiển cục bộ. Thiết bị phải tự động chuyển về chế độ được thiết lập sẵn khi xảy ra lỗi hoặc mất  điện.</seg>
       </tuv>
     </tu>
     <tu>
