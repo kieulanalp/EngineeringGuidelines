@@ -27438,6 +27438,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The commissioning and handover of the complete control system shall be fully documented in accordance with the requirements of the consulting engineer and shall include commissioning reports, complete controller configuration and settings.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T070433Z" creationid="LanHK" creationdate="20211122T070433Z">
+        <seg>The commissioning and handover of the complete control system shall be fully documented in accordance with the requirements of the consulting engineer and shall include commissioning reports, complete controller configuration and settings.     /     Việc vận hành thử và bàn giao toàn bộ hệ thống điều khiển phải được ghi chép bằng văn bản đầy đủ, tuân thủ các yêu cầu của kỹ sư tư vấn và sẽ bao gồm cả báo cáo vận hành, thiết lập và cài đặt của điều khiển </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The complete control system together with all field devices and associated peripherals, shall be designed, installed, commissioned and serviced by qualified personnel. Where required, the supplier shall make available technical engineers, spare parts inventory and necessary test and diagnostic equipment.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211106T080729Z" creationid="Kieu Lan" creationdate="20211005T091955Z">
