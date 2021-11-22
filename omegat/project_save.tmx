@@ -8597,6 +8597,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capacity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T091941Z" creationid="LanHK" creationdate="20211122T091941Z">
+        <seg>Capacity     /     Tải trọng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capacity (TR)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043323Z" creationid="Kieu Lan" creationdate="20210802T043323Z">
@@ -25820,6 +25828,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T101340Z" creationid="Kieu Lan" creationdate="20211101T101327Z">
         <seg>Speed reduction of fans when plant needs heat     /     Giảm tốc quạt khi cụm máy cần nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speeds:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T091946Z" creationid="LanHK" creationdate="20211122T091946Z">
+        <seg>Speeds:     /     Tốc độ</seg>
       </tuv>
     </tu>
     <tu>
