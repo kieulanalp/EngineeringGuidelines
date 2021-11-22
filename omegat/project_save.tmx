@@ -17800,6 +17800,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIFTS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T073723Z" creationid="LanHK" creationdate="20211122T073723Z">
+        <seg>LIFTS     /     THANG MÁY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIGHTNING PROTECTION SYSTEM IN ACCORDANCE WITH LOCAL STANDARDS</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T083907Z" creationid="Kieu Lan" creationdate="20210805T083907Z">
@@ -28448,6 +28456,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T014242Z" creationid="LanHK" creationdate="20210719T014227Z">
         <seg>The overall net building pressure (controlled by the BMS) shall be positive to minimise infiltration.     /     Tổng áp suất tòa nhà net (kiểm soát bởi BMS) phải dương để giảm thiểu không khí thâm nhập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The passenger/goods lifts shall be required to provide an excellent quality service, based on the following design criteria.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T074223Z" creationid="LanHK" creationdate="20211122T074223Z">
+        <seg>The passenger/goods lifts shall be required to provide an excellent quality service, based on the following design criteria.     /     Thang máy chở khách / thang hàng phải có chất lượng tốt, dựa trên các tiêu chí thiết kế sau:</seg>
       </tuv>
     </tu>
     <tu>
