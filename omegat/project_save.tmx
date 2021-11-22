@@ -10853,6 +10853,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the wiring test, all control applications shall be inactive, with the associated outputs disabled (OFF state) and safety-related functions (frost protection, etc.) temporarily deactivated. All automatic control applications shall be resumed when leaving the wiring test menu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211122T021503Z" creationid="Kieu Lan" creationdate="20211122T021503Z">
+        <seg>During the wiring test, all control applications shall be inactive, with the associated outputs disabled (OFF state) and safety-related functions (frost protection, etc.) temporarily deactivated. All automatic control applications shall be resumed when leaving the wiring test menu.     /     Khi test nối dây, tất cả các thiết bị điều khiển phải ở trạng thái không hoạt động, các thiết bị đầu ra tắt (OFF) và các chức năng liên quan đến an toàn (bảo vệ chống đóng băng, etc) tạm thời tắt. Tất cả các ứng dụng kiểm soát tự động sẽ được tái khởi động sau khi rời khỏi menu chức năng test nối dây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duty cycling</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041734Z" creationid="Kieu Lan" creationdate="20211117T041734Z">
