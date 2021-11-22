@@ -15776,6 +15776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>House phone connected directly to the switchboard.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T080807Z" creationid="LanHK" creationdate="20211122T080807Z">
+        <seg>House phone connected directly to the switchboard.     /     Điện thoại nội bộ kết nối thẳng đến tủ điện tổng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Housekeeping</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T025617Z" creationid="Kieu Lan" creationdate="20210814T025617Z">
@@ -19900,6 +19908,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be connected to emergency lighting.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T080957Z" creationid="LanHK" creationdate="20211122T080957Z">
+        <seg>Must be connected to emergency lighting.     /     phải được kết nối với chiếu sáng khẩn cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must comply with the following requirements as a minimum.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T130826Z" creationid="Kieu Lan" creationdate="20210815T130758Z">
@@ -20216,6 +20232,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T070730Z" creationid="Kieu Lan" creationdate="20210802T070730Z">
         <seg>No condensate drain which can be a health hazard if not cleaned regularly     /     Không cần đường thoát nước ngưng, đây có thể gây nguy cơ cho sức khỏe nếu không được vệ sinh thường xuyên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No fluctuations in speed when travelling.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T081206Z" creationid="LanHK" creationdate="20211122T081206Z">
+        <seg>No fluctuations in speed when travelling.     /     Không có biến đổi về vận tốc khi di chuyển</seg>
       </tuv>
     </tu>
     <tu>
