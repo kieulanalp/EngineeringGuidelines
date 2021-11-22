@@ -5587,6 +5587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of (8 hours) training shall be provided for the building owner and designated operating personnel into the use and operation of the control system. Training shall take place at the works unless otherwise stated, and shall be carried out in accordance with the requirements of the specification upon practical completion of the control system.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T072348Z" creationid="LanHK" creationdate="20211122T072348Z">
+        <seg>A minimum of (8 hours) training shall be provided for the building owner and designated operating personnel into the use and operation of the control system. Training shall take place at the works unless otherwise stated, and shall be carried out in accordance with the requirements of the specification upon practical completion of the control system.     /     Chủ đầu tư và các nhân sự chuyên vận hành phải tham gia tối thiểu 8h đào tạo để sử dụng và vận hành hệ thống. Đào tạo sẽ được thực hiện tại nơi làm việc trừ khi có thông báo khác, và phải được thực hiện tuân theo các yêu cầu về thông số xác định khi hoàn thiện hệ thống điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum of 60 minutes fire resisting separation must be provided between the following areas:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T030133Z" creationid="LanHK" creationdate="20210602T030133Z">
@@ -29789,6 +29797,14 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T071422Z" creationid="LanHK" creationdate="20211122T071422Z">
+        <seg>Training     /     Đào tạo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>be brought with bus ties or cable</note>
       <tuv lang="EN-US">
         <seg>Transformer outputs must be brought with bus ties or cable in case of small rating of transformer (less than 1000kVA) to enable segregation of the switchboard for maintenance purposes.</seg>
@@ -30419,8 +30435,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Upon completion and handover of the control system, the approved representatives of the control system supplier, the consulting engineer and/ or the client shall complete and sign a handover certificate, thus signifying formal acceptance of the control system and installation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20211122T071406Z" creationid="LanHK" creationdate="20211122T071406Z">
-        <seg>Upon completion and handover of the control system, the approved representatives of the control system supplier, the consulting engineer and/ or the client shall complete and sign a handover certificate, thus signifying formal acceptance of the control system and installation.     /     Khi hoàn thiện và bàn giao hệ thống điều khiển, đại diện được ủy quyền của nhà cung cấp hệ thống, kỹ sư tư vấn và/hoặc khách hàng sẽ điền và ký một biên bản bàn giao, qua đó hợp thức hóa việc chấp thuận nghiệm thu lắp đặt hệ thống</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T071414Z" creationid="LanHK" creationdate="20211122T071406Z">
+        <seg>Upon completion and handover of the control system, the approved representatives of the control system supplier, the consulting engineer and/ or the client shall complete and sign a handover certificate, thus signifying formal acceptance of the control system and installation.     /     Khi hoàn thiện và bàn giao hệ thống điều khiển, đại diện được ủy quyền của nhà cung cấp hệ thống, kỹ sư tư vấn và/hoặc khách hàng sẽ điền và ký một biên bản bàn giao, qua đó hợp thức hóa việc chấp thuận nghiệm thu hệ thống và việc lắp đặt </seg>
       </tuv>
     </tu>
     <tu>
