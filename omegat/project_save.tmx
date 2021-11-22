@@ -9713,6 +9713,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Controller functionality, user level operation and fault diagnostics</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T073204Z" creationid="LanHK" creationdate="20211122T073204Z">
+        <seg>Controller functionality, user level operation and fault diagnostics     /     Chức năng bộ điều khiển, hoạt động cấp người dùng và chẩn đoán lỗi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Controller parameterization by the commissioning staff (restricted access)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211113T102235Z" creationid="Kieu Lan" creationdate="20211113T102235Z">
@@ -22445,8 +22453,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Presentation and functions of the operator workstation(s) and peripherals (where provided)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20211122T073128Z" creationid="LanHK" creationdate="20211122T073128Z">
-        <seg>Presentation and functions of the operator workstation(s) and peripherals (where provided)     /     Hình thức và chức năng của các máy tính vận hành và thiết bị ngoại vi nếu co</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T073138Z" creationid="LanHK" creationdate="20211122T073128Z">
+        <seg>Presentation and functions of the operator workstation(s) and peripherals (where provided)     /     Hình thức và chức năng của các máy tính vận hành và thiết bị ngoại vi nếu có</seg>
       </tuv>
     </tu>
     <tu>
@@ -24953,6 +24961,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095226Z" creationid="Kieu Lan" creationdate="20210728T095226Z">
         <seg>Shorter services runs - generally approximately half the lengths required for horizontal distribution (actual projects have provided reduction in pipe runs alone from 1km-4km)     /     Đường đi ống ngắn hơn - nhìn chung khoảng nửa so với chiều dài cần thiết cho đường ống phân phối theo chiều ngang (Các dự án đã thực hiện cho thấy có thể giảm từ 1km-4km chiều dài đường ống)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should further technical training of the control system, HVAC control theory or applications be required, this shall be made available from the control system supplier in a separate contract.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T073707Z" creationid="LanHK" creationdate="20211122T073707Z">
+        <seg>Should further technical training of the control system, HVAC control theory or applications be required, this shall be made available from the control system supplier in a separate contract.     /     Nếu việc đào tạo sâu hơn về kỹ thuật của hệ thống điều khiển, nguyên lý điều khiển HVAC hay ứng dụng điều khiển là cần thiết, có thể do nhà cung cấp theo một hợp đồng riêng</seg>
       </tuv>
     </tu>
     <tu>
