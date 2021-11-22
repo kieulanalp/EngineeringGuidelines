@@ -8541,6 +8541,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cab Height:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092434Z" creationid="LanHK" creationdate="20211122T092434Z">
+        <seg>Cab Height:     /     Chiều cao cabin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cadmium</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132558Z" creationid="Kieu Lan" creationdate="20210815T132558Z">
@@ -8978,6 +8986,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T023247Z" creationid="Kieu Lan" creationdate="20210814T023247Z">
         <seg>Centralized control system of guest room application provides a robust communications solution for hotel with energy management and integrated room automation systems. It gives room monitoring and control capabilities and provides efficient information presentation to staff and management. The central software communicates with room intelligent devices such as digital thermostat and a variety of light switches, controllers and communication devices.     /     Hệ thống điều khiển tập trung trong ứng dụng phòng khách cung cấp giải pháp liên lạc mạnh mẽ cho khách sạn với hệ thống quản lý năng lượng và tự động hóa phòng tích hợp. Nó cung cấp khả năng giám sát và kiểm soát phòng và cung cấp thông tin hiệu quả cho nhân viên và quản lý. Phần mềm trung tâm giao tiếp với các thiết bị thông minh trong phòng như bộ điều nhiệt kỹ thuật số và nhiều loại công tắc đèn, bộ điều khiển và thiết bị liên lạc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Centre Open</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092103Z" creationid="LanHK" creationdate="20211122T092103Z">
+        <seg>Centre Open     /     Mở giữa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10279,6 +10295,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T062053Z" creationid="Kieu Lan" creationdate="20210817T062053Z">
         <seg>Depending on the height of the building the municipal pressure may not be sufficient to distribute the water throughout the building.     /     Phụ thuộc chiều cao tòa nhà, áp suất nước từ đường ống thành phố có thể không đủ để phân phối nước trên khắp tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092032Z" creationid="LanHK" creationdate="20211122T092032Z">
+        <seg>Depth     /     Sâu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11954,6 +11978,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094353Z" creationid="LanHK" creationdate="20210715T063218Z">
         <seg>Entrance Lobby - Seating Areas     /     Sảnh đến - Khu vực ngồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entrances:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092036Z" creationid="LanHK" creationdate="20211122T092036Z">
+        <seg>Entrances:     /     Cửa</seg>
       </tuv>
     </tu>
     <tu>
@@ -15331,6 +15363,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134923Z" creationid="Kieu Lan" creationdate="20210820T134923Z">
         <seg>Heavy     /     Nặng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092052Z" creationid="LanHK" creationdate="20211122T092052Z">
+        <seg>Height     /     Cao</seg>
       </tuv>
     </tu>
     <tu>
@@ -22098,6 +22138,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061404Z" creationid="Kieu Lan" creationdate="20211117T061404Z">
         <seg>Plant/motor run     /     chạy máy/động cơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092026Z" creationid="LanHK" creationdate="20211122T092026Z">
+        <seg>Platform:     /     Mặt bằng cabin</seg>
       </tuv>
     </tu>
     <tu>
@@ -32003,6 +32051,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T094603Z">
         <seg>Who agreed the variation    /    Người chấp thuận thay đổi này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T092045Z" creationid="LanHK" creationdate="20211122T092029Z">
+        <seg>Width     /     Rộng</seg>
       </tuv>
     </tu>
     <tu>
