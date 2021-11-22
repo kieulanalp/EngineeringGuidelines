@@ -26997,6 +26997,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TESTING AND COMMISSIONING</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T101423Z" creationid="LanHK" creationdate="20211122T101423Z">
+        <seg>TESTING AND COMMISSIONING     /     KIỂM TRA VÀ VẬN HÀNH THỬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TO HEAT EXCHANGER ROOM</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T095543Z" creationid="Kieu Lan" creationdate="20210629T065340Z">
@@ -27981,6 +27989,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T065746Z" creationid="LanHK" creationdate="20210715T024537Z">
         <seg>The design, installation and maintenance provisions shall be in full compliance with all relevant International, European, National and Local standards and regulations, and in particular any health, fire, safety and environmental legislation.     /     Thiết kế, lắp đặt và bảo trì phải tuân thủ tất cả các tiêu chuẩn và quy chế Quốc tế, châu Âu, Quốc gia và Địa phương liên quan, và đặc biệt là bất cứ quy định nào về sức khỏe, PCCC, an toàn và môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The designer may wish to consider the benefits of regenerative lift drives. Refer to Volume 3 of this manual.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T101413Z" creationid="LanHK" creationdate="20211122T101413Z">
+        <seg>The designer may wish to consider the benefits of regenerative lift drives. Refer to Volume 3 of this manual.     /     Thiết kế nên cân nhắc lợi ích của động cơ thang máy tái tạo năng lượng. Tham khảo tập 3 của bộ hướng dẫn này</seg>
       </tuv>
     </tu>
     <tu>
