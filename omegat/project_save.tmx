@@ -12271,6 +12271,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Explanation of documentation including plant drawings, controller operating instructions and operating &amp; and maintenance manuals</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T072439Z" creationid="LanHK" creationdate="20211122T072439Z">
+        <seg>Explanation of documentation including plant drawings, controller operating instructions and operating &amp; and maintenance manuals     /     Giải thích các văn bản, bao gồm sơ đồ máy, hướng dẫn vận hành bộ điều khiển và hướng dẫn vận hành và bảo trì</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>??</note>
       <tuv lang="EN-US">
         <seg>Extended Aeration</seg>
@@ -29805,6 +29813,14 @@ Mounting hardware</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Training shall include but not be limited to the following:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T072412Z" creationid="LanHK" creationdate="20211122T072358Z">
+        <seg>Training shall include but not be limited to the following:     /     Đào tạo sẽ bao gồm nhưng không giới hạn ở các nội dung sau</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>be brought with bus ties or cable</note>
       <tuv lang="EN-US">
         <seg>Transformer outputs must be brought with bus ties or cable in case of small rating of transformer (less than 1000kVA) to enable segregation of the switchboard for maintenance purposes.</seg>
@@ -30999,6 +31015,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T042004Z" creationid="Kieu Lan" creationdate="20210810T042004Z">
         <seg>Walk-in fridges/freezers and cold rooms including refrigeration plant     /     Tủ lạnh/tủ đông walk-in và phòng lạnh với máy lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walk-through of the control installation to locate control components and explain functions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T072824Z" creationid="LanHK" creationdate="20211122T072824Z">
+        <seg>Walk-through of the control installation to locate control components and explain functions     /     Hướng dẫn giao diện điều khiển để biết các chức năng nằm ở đâu và giải thích chức năng</seg>
       </tuv>
     </tu>
     <tu>
