@@ -6350,6 +6350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm functions plant analysis</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T072855Z" creationid="LanHK" creationdate="20211122T072855Z">
+        <seg>Alarm functions plant analysis     /     Chức năng báo thức, báo cáo phân tích máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm handling with pop-up windows, sound files and activity log</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T034641Z" creationid="Kieu Lan" creationdate="20211120T034641Z">
@@ -22435,6 +22443,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Presentation and functions of the operator workstation(s) and peripherals (where provided)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T073128Z" creationid="LanHK" creationdate="20211122T073128Z">
+        <seg>Presentation and functions of the operator workstation(s) and peripherals (where provided)     /     Hình thức và chức năng của các máy tính vận hành và thiết bị ngoại vi nếu co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure Balancing between Hot and cold water systems</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T031646Z" creationid="Kieu Lan" creationdate="20211109T031646Z">
@@ -23157,6 +23173,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071142Z">
         <seg>Re-issue as design guideline    /    Phát hành lại thành Hướng dẫn thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Readout of plant data and values</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20211122T072833Z" creationid="LanHK" creationdate="20211122T072833Z">
+        <seg>Readout of plant data and values     /     Đọc dữ liệu và thông số máy</seg>
       </tuv>
     </tu>
     <tu>
