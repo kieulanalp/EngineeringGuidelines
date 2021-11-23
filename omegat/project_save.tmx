@@ -17326,6 +17326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is therefore critical to the ongoing operation of the Hotel that this key task is carried out correctly in a thorough and professional manner.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211123T090928Z" creationid="Kieu Lan" creationdate="20211123T090928Z">
+        <seg>It is therefore critical to the ongoing operation of the Hotel that this key task is carried out correctly in a thorough and professional manner.     /     Do đó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is therefore essential to incorporate heat recovery on fresh air systems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T103204Z" creationid="LanHK" creationdate="20210716T103204Z">
@@ -21008,6 +21016,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T030937Z" creationid="Kieu Lan" creationdate="20210713T080614Z">
         <seg>Kích hoạt báo động hình ảnh và rung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operating and maintenance costs are minimised</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211123T064707Z" creationid="Kieu Lan" creationdate="20211123T064707Z">
+        <seg>Operating and maintenance costs are minimised     /     Chi phí vận hành và bảo trì được giảm thiểu tối đa</seg>
       </tuv>
     </tu>
     <tu>
