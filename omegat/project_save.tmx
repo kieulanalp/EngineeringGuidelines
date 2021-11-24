@@ -10740,6 +10740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Documentation which will be provided to record results</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095308Z" creationid="Kieu Lan" creationdate="20211124T095308Z">
+        <seg>Documentation which will be provided to record results     /     Các form văn bản sử dụng để ghi lại kết quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Domestic Cold Water 2 - Zone Distribution Schematic</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065105Z" creationid="Kieu Lan" creationdate="20210817T065105Z">
@@ -14133,6 +14141,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full and detailed Method Statements shall be provided for all pre-commissioning, setting to work, commissioning, testing and handover procedures. These Method Statements shall include the following information:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095637Z" creationid="Kieu Lan" creationdate="20211124T095637Z">
+        <seg>Full and detailed Method Statements shall be provided for all pre-commissioning, setting to work, commissioning, testing and handover procedures. These Method Statements shall include the following information:     /     Phương pháp tiến hành đầy đủ và chi tiết sẽ được cung cấp trong tất cả các quá trình trước khi vận hành thử, chuẩn bị công việc, vận hành thử, kiểm tra và bàn giao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full color interactive graphics shall be provided to allow all points to be displayed, together with control set points and real time values.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011809Z" creationid="Kieu Lan" creationdate="20210930T075724Z">
@@ -15259,6 +15275,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T090645Z" creationid="Kieu Lan" creationdate="20210814T090645Z">
         <seg>Health Club - Recreational     /     Health Club - Giải trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health and safety issues</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095227Z" creationid="Kieu Lan" creationdate="20211124T095227Z">
+        <seg>Health and safety issues     /     Vấn đề sức khỏe và an toàn</seg>
       </tuv>
     </tu>
     <tu>
@@ -16942,6 +16966,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T022909Z" creationid="PHUONG.DTM" creationdate="20210603T112743Z">
         <seg>Instructions for the operation of the emergency door release must be provided in clear, plain text alongside the break-glass unit in the local language and English.     /       Hướng dẫn vận hành đối với nút mở cửa khẩn cấp phải được cung cấp chữ mô tả rõ ràng cạnh nút mở cửa bằng ngôn ngữ địa phương và tiếng Anh. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruments to be used and their calibration certificates</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095245Z" creationid="Kieu Lan" creationdate="20211124T095245Z">
+        <seg>Instruments to be used and their calibration certificates     /     Thiết bị sẽ sử dụng và chứng nhận đã cân chỉnh thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -19791,6 +19823,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075430Z" creationid="Kieu Lan" creationdate="20210817T075430Z">
         <seg>Metering of water - indicative requirements     /     Đo nước - các tiêu chí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method Statements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095134Z" creationid="Kieu Lan" creationdate="20211124T095134Z">
+        <seg>Method Statements     /     Phương pháp tiến hành</seg>
       </tuv>
     </tu>
     <tu>
@@ -22908,6 +22948,15 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prior to all testing the installer and designer shall issue detailed Method Statements prior to carrying out the works. These Method Statements shall contain the following information:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095222Z" creationid="Kieu Lan" creationdate="20211124T095222Z">
+        <seg>Prior to all testing the installer and designer shall issue detailed Method Statements prior to carrying out the works. These Method Statements shall contain the following information:     /     Trước khi bắt đầu bất cứ kiểm tra nào, đơn vị lắp đặt và thiết kế sẽ cung cấp bản Phương pháp tiến hành chi tiết. Phương pháp tiến hành
+sẽ bao gồm các thông tin sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prior to the start of the design for the project it is imperative that several key parameters are obtained from the local supply authority. These key parameters include the following items:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033905Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
@@ -25088,6 +25137,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T065146Z" creationid="Kieu Lan" creationdate="20210809T065146Z">
         <seg>Separate power meter     /     Công tơ điện riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sequence of tests to be carried out</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095250Z" creationid="Kieu Lan" creationdate="20211124T095250Z">
+        <seg>Sequence of tests to be carried out     /     Trình tự kiểm tra</seg>
       </tuv>
     </tu>
     <tu>
