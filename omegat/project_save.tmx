@@ -28628,6 +28628,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The installer shall provide, at his own cost, all water, power, fuel, labor, etc., necessary for all testing and commissioning.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095123Z" creationid="Kieu Lan" creationdate="20211124T094603Z">
+        <seg>The installer shall provide, at his own cost, all water, power, fuel, labor, etc., necessary for all testing and commissioning.     /     Đơn vị lắp đặt sẽ cung cấp và chi trả cho tất cả các chi phí nước, điện, nhiên liệu, nhân viên etc. cần thiết trong quá trình kiểm tra và vận hành thử</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The item reference and applicable section of the InterContinental Hotels Group standards</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T071148Z" creationid="LanHK" creationdate="20210601T094050Z">
@@ -30963,8 +30971,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Upon completion of all testing and commissioning, the installer and designer shall provide two signed copies of the commissioning certificates and submit to InterContinental Hotels Group within 1 4 days of the results being obtained. Signed copies of the certificates shall be installed within the operating and maintenance manuals.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T094517Z" creationid="Kieu Lan" creationdate="20211124T094517Z">
-        <seg>Upon completion of all testing and commissioning, the installer and designer shall provide two signed copies of the commissioning certificates and submit to InterContinental Hotels Group within 1 4 days of the results being obtained. Signed copies of the certificates shall be installed within the operating and maintenance manuals.     /     Khi hoàn thành kiểm tra và vận hành thử, đơn vị lắp đặt và thiết kế sẽ có hai bản chứng nhận nghiệm thu có chữ ký và nộp IHG trong vòng 14 ngày kể từ khi có kết quả. </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T094613Z" creationid="Kieu Lan" creationdate="20211124T094517Z">
+        <seg>Upon completion of all testing and commissioning, the installer and designer shall provide two signed copies of the commissioning certificates and submit to InterContinental Hotels Group within 1 4 days of the results being obtained. Signed copies of the certificates shall be installed within the operating and maintenance manuals.     /     Khi hoàn thành kiểm tra và vận hành thử, đơn vị lắp đặt và thiết kế sẽ có hai bản chứng nhận nghiệm thu có chữ ký và nộp IHG trong vòng 14 ngày kể từ khi có kết quả. Cài đặt các bản sao y chứng chỉ trong hướng dẫn vận hành và bảo trì</seg>
       </tuv>
     </tu>
     <tu>
