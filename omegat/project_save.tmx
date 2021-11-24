@@ -9841,6 +9841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copies of all checklists, record sheets, etc., proposed</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095757Z" creationid="Kieu Lan" creationdate="20211124T095757Z">
+        <seg>Copies of all checklists, record sheets, etc., proposed     /     Bản sao tất cả các checklist, giấy tờ lưu trữ, etc đã đề xuất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copper</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132551Z" creationid="Kieu Lan" creationdate="20210815T132547Z">
@@ -10399,6 +10407,15 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T045739Z" creationid="LanHK" creationdate="20210728T045739Z">
         <seg>Details of suitable boilers are available at www.woodenergyltd.co.uk.     /     Chi tiết các nồi hơi phù hợp xem tại www.woodenergyltd.co.uk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>không hiểu câu này lắm :")</note>
+      <tuv lang="EN-US">
+        <seg>Details of works by others affecting progress of works detailed</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095932Z" creationid="Kieu Lan" creationdate="20211124T095932Z">
+        <seg>Details of works by others affecting progress of works detailed     /     Chi tiết </seg>
       </tuv>
     </tu>
     <tu>
@@ -18721,6 +18738,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Logic diagram of the process</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095714Z" creationid="Kieu Lan" creationdate="20211124T095714Z">
+        <seg>Logic diagram of the process     /     Sơ đồ logic của quá trình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Longer installation time</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095230Z" creationid="Kieu Lan" creationdate="20210728T095230Z">
@@ -21228,6 +21253,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outline programme (detail to be added as the document develops)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095741Z" creationid="Kieu Lan" creationdate="20211124T095741Z">
+        <seg>Outline programme (detail to be added as the document develops)     /     Outline chương trình (chi tiết sẽ bổ sung dần trong quá trình hoàn thiện tài liệu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outline schematic layouts to illustrate the fire strategy</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T045019Z" creationid="LanHK" creationdate="20210602T013926Z">
@@ -22122,6 +22155,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095403Z" creationid="Kieu Lan" creationdate="20210728T095403Z">
         <seg>Perimeter pubic areas on different facades/orientation on different systems (Typically 4-6m maximum) depth     /    Khu rìa không gian công cộng tại các mặt dựng/hướng khác nhau có hệ thống khác nhau (thường sâu max 4-6m) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permit to work systems and documentation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095813Z" creationid="Kieu Lan" creationdate="20211124T095813Z">
+        <seg>Permit to work systems and documentation     /     Giấy phép vận hành máy</seg>
       </tuv>
     </tu>
     <tu>
@@ -23073,6 +23114,14 @@ sẽ bao gồm các thông tin sau</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T043341Z" creationid="Kieu Lan" creationdate="20211120T043341Z">
         <seg>Property management system     /     Hệ thống quản lý tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proposed off-site testing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095951Z" creationid="Kieu Lan" creationdate="20211124T095951Z">
+        <seg>Proposed off-site testing     /     Đề xuất kiểm tra off-site</seg>
       </tuv>
     </tu>
     <tu>
