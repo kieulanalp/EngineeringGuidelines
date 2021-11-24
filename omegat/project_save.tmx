@@ -28620,6 +28620,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The installer and designer shall verify the correct operation of the complete systems, including items of plant, to ensure that they are operating in accordance with specified conditions and that the systems achieve the environmental conditions required.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T035532Z" creationid="Kieu Lan" creationdate="20211124T035532Z">
+        <seg>The installer and designer shall verify the correct operation of the complete systems, including items of plant, to ensure that they are operating in accordance with specified conditions and that the systems achieve the environmental conditions required.     /     Đơn vị lắp đặt và thiết kế sẽ xác nhận việc vận hành chuẩn của toàn bộ các hệ thống, bao gồm cả các bộ phận máy, để đảm bảo chúng vận hành tuân thủ các điều kiện cụ thể và ccá hệ thống đạt được các điều kiện về môi trường cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The item reference and applicable section of the InterContinental Hotels Group standards</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T071148Z" creationid="LanHK" creationdate="20210601T094050Z">
