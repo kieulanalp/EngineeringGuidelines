@@ -28862,6 +28862,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The layout, location and extent of all sub-mains cables and piped services together with all isolation points, valves, test points, etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211125T035631Z" creationid="Kieu Lan" creationdate="20211125T035631Z">
+        <seg>The layout, location and extent of all sub-mains cables and piped services together with all isolation points, valves, test points, etc.     /     Layout, vị trí và quy mô tất cả các cáp </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The life expectancy of a water cooled centrifugal chiller is generally 25-30 years, as opposed to that for an air</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061444Z" creationid="Kieu Lan" creationdate="20210805T061444Z">
@@ -28898,6 +28906,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T061741Z" creationid="PHUONG.DTM" creationdate="20210605T023819Z">
         <seg>The lift should be provided with a switch marked "EVACUATION LIFT" at exit level     /     Thang máy phải có một công tắc ghi chú "THANG SƠ TÁN/THANG THOÁT NẠN" tại tầng thoát nạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The location of all public service connections, within the contract, whether installed by the contractor or by the appropriate Authority, together with points of origin and termination, size and materials of pipes, line pressure, flow and other relevant information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211125T032909Z" creationid="Kieu Lan" creationdate="20211125T032909Z">
+        <seg>The location of all public service connections, within the contract, whether installed by the contractor or by the appropriate Authority, together with points of origin and termination, size and materials of pipes, line pressure, flow and other relevant information.     /     Vị trí của tất cả các đường điện nước... trong hợp đồng, bất kể được lắp đặt bởi nhà thầu hay cơ quan có thẩm quyền, cùng các điểm đầu và điểm cuối, kích thước và vật liệu ống, áp suất, lưu lượng đường ống và các thông tin quan trọng khác</seg>
       </tuv>
     </tu>
     <tu>
