@@ -23118,6 +23118,14 @@ sẽ bao gồm các thông tin sau</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proposed completion sequence</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211125T012350Z" creationid="Kieu Lan" creationdate="20211125T012350Z">
+        <seg>Proposed completion sequence     /     Trình tự hoàn thành đề xuất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proposed off-site testing</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095951Z" creationid="Kieu Lan" creationdate="20211124T095951Z">
