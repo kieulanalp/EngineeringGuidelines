@@ -18762,6 +18762,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Location, identity, size and details of all controls equipment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211126T061627Z" creationid="Kieu Lan" creationdate="20211126T061627Z">
+        <seg>Location, identity, size and details of all controls equipment.     /     Vị trí, tên hiệu, kích cỡ và chi tiết tất cả các thiết bị điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locks, including guestroom key-card locks must be certified to have the same fire resistance as the door in which they are fitted.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T065555Z" creationid="LanHK" creationdate="20210602T062218Z">
@@ -28862,6 +28870,22 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The layout, location and extent of all air ducts, including dampers, silencers, and air flow quantity, etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211126T061738Z" creationid="Kieu Lan" creationdate="20211126T061738Z">
+        <seg>The layout, location and extent of all air ducts, including dampers, silencers, and air flow quantity, etc.     /      Layout, vị trí và quy mô tất cả các ống gió, bao gồm van gió, giảm thanh và lưu lượng dòng khí etc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The layout, location and extent of all electrical systems, including containment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211126T061703Z" creationid="Kieu Lan" creationdate="20211126T061703Z">
+        <seg>The layout, location and extent of all electrical systems, including containment.     /      Layout, vị trí và quy mô tất cả các hệ thống điện, bao gồm các tủ/hộp chứa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The layout, location and extent of all sub-mains cables and piped services together with all isolation points, valves, test points, etc.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211126T061608Z" creationid="Kieu Lan" creationdate="20211125T035631Z">
@@ -28906,6 +28930,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T061741Z" creationid="PHUONG.DTM" creationdate="20210605T023819Z">
         <seg>The lift should be provided with a switch marked "EVACUATION LIFT" at exit level     /     Thang máy phải có một công tắc ghi chú "THANG SƠ TÁN/THANG THOÁT NẠN" tại tầng thoát nạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The location and identity of each room, including spaces housing plant machinery air apparatus.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211126T061800Z" creationid="Kieu Lan" creationdate="20211126T061800Z">
+        <seg>The location and identity of each room, including spaces housing plant machinery air apparatus.     /     Vị trí và tên hiệu mỗi phòng, bao gồm cả các không gian chứa máy không khí </seg>
       </tuv>
     </tu>
     <tu>
