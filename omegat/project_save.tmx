@@ -6535,6 +6535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All controls and wiring diagrams shall be provided.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211126T062347Z" creationid="Kieu Lan" creationdate="20211126T062347Z">
+        <seg>All controls and wiring diagrams shall be provided.     /     Cung cấp tất cả sơ đồ điều khiển và đi dây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All controls for</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061351Z" creationid="Kieu Lan" creationdate="20210805T061351Z">
@@ -13529,6 +13537,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T020553Z" creationid="Kieu Lan" creationdate="20210930T020553Z">
         <seg>Floor cleaning shall be accomplished by automatic floor cleaners, which shall be provided.     /     Sàn bể sẽ được làm sạch bằng máy vệ sinh tự động, máy sẽ được cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Floor layouts shall be provided at a scale of no less than 1:50. Plant areas and equipment rooms shall be at a scale of not less than 1:20.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211126T062704Z" creationid="Kieu Lan" creationdate="20211126T062704Z">
+        <seg>Floor layouts shall be provided at a scale of no less than 1:50. Plant areas and equipment rooms shall be at a scale of not less than 1:20.     /     Layout mặt sàn phải được cung cấp với tỉ lệ không dưới 1:50. Bản vẽ khu vực phòng máy và thiết bị có tỉ lệ không dưới 1:20</seg>
       </tuv>
     </tu>
     <tu>
