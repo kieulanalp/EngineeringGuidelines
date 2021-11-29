@@ -6688,6 +6688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of the above is to be submitted for approval prior to erection.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T040605Z" creationid="Kieu Lan" creationdate="20211129T040605Z">
+        <seg>All of the above is to be submitted for approval prior to erection.     /     Tất cả các thông tin trên phải được nộp để phê duyệt trước khi lắp đặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All piping, fittings, valves, hangers, etc. to complete the mechanical installation</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T063654Z" creationid="Kieu Lan" creationdate="20210824T063654Z">
@@ -21233,6 +21241,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T030937Z" creationid="Kieu Lan" creationdate="20210713T080614Z">
         <seg>Kích hoạt báo động hình ảnh và rung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operating and Maintenance Manuals</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T040617Z" creationid="Kieu Lan" creationdate="20211129T040617Z">
+        <seg>Operating and Maintenance Manuals     /     Hướng dẫn vận hành và bảo trì</seg>
       </tuv>
     </tu>
     <tu>
