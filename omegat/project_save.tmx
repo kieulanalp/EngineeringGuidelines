@@ -5715,6 +5715,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A section containing a full description of each system, together with main plant components, locations, mode</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T095015Z" creationid="Kieu Lan" creationdate="20211129T095015Z">
+        <seg>A section containing a full description of each system, together with main plant components, locations, mode     /     Một đoạn mô tả chi tiết từng hệ thống, với các máy chính, vị trí, chế độ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A section containing an introduction, abbreviations, health and safety and working notices, etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T094820Z" creationid="Kieu Lan" creationdate="20211129T094820Z">
+        <seg>A section containing an introduction, abbreviations, health and safety and working notices, etc.     /     Một đoạn giới thiệu, liệt kê thuật ngữ viết tắt, các lưu ý về an toàn sức khỏe và lao động, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A security system comprising access controls, intruder alarms, hold up alarms, automatic guard tour, guest room control and CCTV systems must be provided in accordance with InterContinental Hotels Group requirements.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T091242Z" creationid="Kieu Lan" creationdate="20210810T091242Z">
