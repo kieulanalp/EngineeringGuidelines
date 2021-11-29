@@ -9785,6 +9785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control schematics</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T025947Z" creationid="Kieu Lan" creationdate="20211129T025947Z">
+        <seg>Control schematics     /     Sơ đồ điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control scheme examples</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211101T083138Z" creationid="Kieu Lan" creationdate="20211101T083138Z">
@@ -25096,8 +25104,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Schematic drawings of all systems and circuit layouts showing identification and duties of equipment, numbers and locations, controls and circuits</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211128T130030Z" creationid="Kieu Lan" creationdate="20211127T090002Z">
-        <seg>Schematic drawings of all systems and circuit layouts showing identification and duties of equipment, numbers and locations, controls and circuits     /     Bản vẽ cơ sở của tất cả các hệ thống và mặt bằng '</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T022931Z" creationid="Kieu Lan" creationdate="20211127T090002Z">
+        <seg>Schematic drawings of all systems and circuit layouts showing identification and duties of equipment, numbers and locations, controls and circuits     /     Bản vẽ cơ sở của tất cả các hệ thống và mặt bằng đường điện, cho thấy tên hiệu và chức năng của thiết bị, số và vị trí, điều khiển và mạch điện</seg>
       </tuv>
     </tu>
     <tu>
