@@ -5717,56 +5717,56 @@
       <tuv lang="EN-US">
         <seg>A section containing all the record drawings</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100126Z" creationid="Kieu Lan" creationdate="20211129T100126Z">
-        <seg>A section containing all the record drawings     /     Một </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100411Z" creationid="Kieu Lan" creationdate="20211129T100126Z">
+        <seg>A section containing all the record drawings     /     Một mục bao gồm tất cả các bản vẽ hoàn công</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A section containing an introduction, abbreviations, health and safety and working notices, etc.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T094820Z" creationid="Kieu Lan" creationdate="20211129T094820Z">
-        <seg>A section containing an introduction, abbreviations, health and safety and working notices, etc.     /     Một đoạn giới thiệu, liệt kê thuật ngữ viết tắt, các lưu ý về an toàn sức khỏe và lao động, etc.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100233Z" creationid="Kieu Lan" creationdate="20211129T094820Z">
+        <seg>A section containing an introduction, abbreviations, health and safety and working notices, etc.     /     Một mục giới thiệu, liệt kê thuật ngữ viết tắt, các lưu ý về an toàn sức khỏe và lao động, etc.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A section containing plant technical data for all items of equipment</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T095101Z" creationid="Kieu Lan" creationdate="20211129T095101Z">
-        <seg>A section containing plant technical data for all items of equipment     /     Một đoạn chứa các thông số kỹ thuật đối với tất cả các hạng mục thiết bị</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100233Z" creationid="Kieu Lan" creationdate="20211129T095101Z">
+        <seg>A section containing plant technical data for all items of equipment     /     Một mục chứa các thông số kỹ thuật đối với tất cả các hạng mục thiết bị</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A section describing maintenance operations on a daily, weekly and monthly basis for each item of equipment and any system</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T095146Z" creationid="Kieu Lan" creationdate="20211129T095146Z">
-        <seg>A section describing maintenance operations on a daily, weekly and monthly basis for each item of equipment and any system     /     Một đoạn mô tả quy trình vận hành bảo trì hàng ngày, hàng tuần và hàng tháng cho mỗi hạng mục thiết bị và hệ thống</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100233Z" creationid="Kieu Lan" creationdate="20211129T095146Z">
+        <seg>A section describing maintenance operations on a daily, weekly and monthly basis for each item of equipment and any system     /     Một mục mô tả quy trình vận hành bảo trì hàng ngày, hàng tuần và hàng tháng cho mỗi hạng mục thiết bị và hệ thống</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A section describing recommended action on plant malfunction</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T095305Z" creationid="Kieu Lan" creationdate="20211129T095305Z">
-        <seg>A section describing recommended action on plant malfunction     /     Một đoạn mô tả các hành động nên thực hiện khi xảy ra lỗi máy</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100233Z" creationid="Kieu Lan" creationdate="20211129T095305Z">
+        <seg>A section describing recommended action on plant malfunction     /     Một mục mô tả các hành động nên thực hiện khi xảy ra lỗi máy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A section describing the emergency procedures to be adopted by personnel engaged on the operation and maintenance of the systems with respect to fire, first aid, failure, etc.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T095244Z" creationid="Kieu Lan" creationdate="20211129T095244Z">
-        <seg>A section describing the emergency procedures to be adopted by personnel engaged on the operation and maintenance of the systems with respect to fire, first aid, failure, etc.     /     Một đoạn mô tả quy trình khẩn cấp thực hiện bởi nhân viên chịu trách nhiệm vận hành và bảo trì hệ thống trong tình huống có hỏa hoạn, cấp cứu, lỗi, etc.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100233Z" creationid="Kieu Lan" creationdate="20211129T095244Z">
+        <seg>A section describing the emergency procedures to be adopted by personnel engaged on the operation and maintenance of the systems with respect to fire, first aid, failure, etc.     /     Một mục mô tả quy trình khẩn cấp thực hiện bởi nhân viên chịu trách nhiệm vận hành và bảo trì hệ thống trong tình huống có hỏa hoạn, cấp cứu, lỗi, etc.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A section describing, in detail, operating procedures necessary for startup, running and shut down of equipment and systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T095120Z" creationid="Kieu Lan" creationdate="20211129T095120Z">
-        <seg>A section describing, in detail, operating procedures necessary for startup, running and shut down of equipment and systems     /     Một đoạn mô tả chi tiết các bước khởi động, chạy và tắt thiết bị và hệ thống</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100233Z" creationid="Kieu Lan" creationdate="20211129T095120Z">
+        <seg>A section describing, in detail, operating procedures necessary for startup, running and shut down of equipment and systems     /     Một mục mô tả chi tiết các bước khởi động, chạy và tắt thiết bị và hệ thống</seg>
       </tuv>
     </tu>
     <tu>
@@ -34265,8 +34265,8 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       <tuv lang="EN-US">
         <seg>of operation of automatic control systems, etc.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T095035Z" creationid="Kieu Lan" creationdate="20211129T095035Z">
-        <seg>of operation of automatic control systems, etc.     /     Một đoạn mô tả chi tiết từng hệ thống, với các máy chính, vị trí, chế độ vận hành của hệ thống điều khiển tự động, etc.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100233Z" creationid="Kieu Lan" creationdate="20211129T095035Z">
+        <seg>of operation of automatic control systems, etc.     /     Một mục mô tả chi tiết từng hệ thống, với các máy chính, vị trí, chế độ vận hành của hệ thống điều khiển tự động, etc.</seg>
       </tuv>
     </tu>
     <tu>
