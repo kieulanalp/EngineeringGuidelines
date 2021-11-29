@@ -5715,6 +5715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A section containing all the record drawings</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100126Z" creationid="Kieu Lan" creationdate="20211129T100126Z">
+        <seg>A section containing all the record drawings     /     Một </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A section containing an introduction, abbreviations, health and safety and working notices, etc.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T094820Z" creationid="Kieu Lan" creationdate="20211129T094820Z">
