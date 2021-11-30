@@ -7802,6 +7802,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BRIEF</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020818Z" creationid="Kieu Lan" creationdate="20211130T020818Z">
+        <seg>Thống nhất thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BUILDING MANAGEMENT SYSTEM (BMS)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021500Z" creationid="Kieu Lan" creationdate="20210930T021500Z">
@@ -8617,6 +8625,22 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T050120Z" creationid="LanHK" creationdate="20210602T021701Z">
         <seg>COMPETENT ENGINEERS &amp; ARCHITECT        /       KỸ SƯ VÀ KIẾN TRÚC SƯ ĐỦ NĂNG LỰC CHUYÊN MÔN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONCEPT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020822Z" creationid="Kieu Lan" creationdate="20211130T020822Z">
+        <seg>Ý tưởng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONSTRUCTION DOCUMENTATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020839Z" creationid="Kieu Lan" creationdate="20211130T020839Z">
+        <seg>Bản vẽ thi công</seg>
       </tuv>
     </tu>
     <tu>
@@ -9615,6 +9639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complete Compliance Checklists 1-11</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020906Z" creationid="Kieu Lan" creationdate="20211130T020906Z">
+        <seg>Complete Compliance Checklists 1-11     /     Hoàn thiện checklist tuân thủ 1-11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complete floors up to 60 rooms (160mA power supply required)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T034100Z" creationid="Kieu Lan" creationdate="20211117T033823Z">
@@ -9715,6 +9747,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T112735Z" creationid="Kieu Lan" creationdate="20210815T112735Z">
         <seg>Concentrate the data flow between the upper and lower layers.     /     Tập trung luồng thông tin giữa các tầng trên và tầng dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concept</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020934Z" creationid="Kieu Lan" creationdate="20211130T020934Z">
+        <seg>Concept     /     Ý tưởng</seg>
       </tuv>
     </tu>
     <tu>
@@ -10218,6 +10258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DETAIL DESIGN/TENDER</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020834Z" creationid="Kieu Lan" creationdate="20211130T020834Z">
+        <seg>Thiết kế chi tiết/Đấu thầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEVIATIONS SCHEDULE</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T044750Z" creationid="Kieu Lan" creationdate="20210601T090429Z">
@@ -10523,6 +10571,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020922Z" creationid="Kieu Lan" creationdate="20211130T020922Z">
+        <seg>Design     /     Thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design Criteria</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082701Z" creationid="Kieu Lan" creationdate="20210405T153659Z">
@@ -10543,6 +10599,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074637Z">
         <seg>Design Standards    /    Tiêu chuẩn Thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design Team Meetings</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020927Z" creationid="Kieu Lan" creationdate="20211130T020927Z">
+        <seg>Design Team Meetings     /     Họp team thiết kế</seg>
       </tuv>
     </tu>
     <tu>
@@ -10600,6 +10664,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210713T030103Z">
         <seg>Detector spacing must be in accordance with local standards and manufacturer’s recommendations but must be a minimum of one smoke detector per 85m² or one heat detector per 50m² and not more than 15m spacing along corridors.     /     Khoảng cách giữa các đầu báo khói phải tuân thủ tiêu chuẩn địa phương và khuyến nghị của nhà sản xuất, nhưng phải đảm bảo tối thiểu một đầu báo khói trên mỗi 85m² hoặc một đầu báo nhiệt trên mỗi 50m² và không cách nhau quá 15m dọc theo hành lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Develop Design Brief</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021129Z" creationid="Kieu Lan" creationdate="20211130T021129Z">
+        <seg>Develop Design Brief     /     Lên hồ sơ dự án</seg>
       </tuv>
     </tu>
     <tu>
@@ -17574,6 +17646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Issue report for brief/scope</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020918Z" creationid="Kieu Lan" creationdate="20211130T020918Z">
+        <seg>Issue report for brief/scope     /     Phát hành báo cáo về thông tin dự án/quy mô</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Issues that must be addressed at the design stage include:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T102118Z">
@@ -23084,6 +23164,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre-design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020851Z" creationid="Kieu Lan" creationdate="20211130T020851Z">
+        <seg>Pre-design     /     Trước khi thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pre-engineered plant graphics (complete with dynamic points) automatically configured for the standard HVAC applications selected within the controller</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T030348Z" creationid="Kieu Lan" creationdate="20211117T084452Z">
@@ -24693,6 +24781,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review information</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020855Z" creationid="Kieu Lan" creationdate="20211130T020855Z">
+        <seg>Review information     /     Xem xét thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reviewer</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071038Z">
@@ -24898,6 +24994,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T091339Z" creationid="Kieu Lan" creationdate="20210930T091339Z">
         <seg>SCADA package running on a Web-browser     /     SCADA package chạy trên trình duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCHEMATIC</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020826Z" creationid="Kieu Lan" creationdate="20211130T020826Z">
+        <seg>Thiết kế cơ sở</seg>
       </tuv>
     </tu>
     <tu>
