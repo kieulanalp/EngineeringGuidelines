@@ -9383,6 +9383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Client Approval</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021149Z" creationid="Kieu Lan" creationdate="20211130T021149Z">
+        <seg>Client Approval     /     Khách hàng phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T070113Z">
@@ -9643,6 +9651,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020906Z" creationid="Kieu Lan" creationdate="20211130T020906Z">
         <seg>Complete Compliance Checklists 1-11     /     Hoàn thiện checklist tuân thủ 1-11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete Concept Design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021154Z" creationid="Kieu Lan" creationdate="20211130T021154Z">
+        <seg>Complete Concept Design     /     Hoàn thiện thiết kế Concept</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete Concept Report</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021207Z" creationid="Kieu Lan" creationdate="20211130T021207Z">
+        <seg>Complete Concept Report     /     Hoàn thiện báo cáo Concept</seg>
       </tuv>
     </tu>
     <tu>
@@ -10672,6 +10696,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021129Z" creationid="Kieu Lan" creationdate="20211130T021129Z">
         <seg>Develop Design Brief     /     Lên hồ sơ dự án</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Develop Scheme Design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021414Z" creationid="Kieu Lan" creationdate="20211130T021414Z">
+        <seg>Develop Scheme Design     /     Phát triển thiết kế cơ sở</seg>
       </tuv>
     </tu>
     <tu>
@@ -13256,6 +13288,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063215Z" creationid="Kieu Lan" creationdate="20210916T063215Z">
         <seg>Filtration and Discharge to Drain     /     Lọc và thải ra ga thoát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final Applications</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021238Z" creationid="Kieu Lan" creationdate="20211130T021238Z">
+        <seg>Final Applications     /     Hồ sơ nộp chính thức</seg>
       </tuv>
     </tu>
     <tu>
@@ -19002,6 +19042,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local Authority Approvals (subject to project location)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021222Z" creationid="Kieu Lan" creationdate="20211130T021222Z">
+        <seg>Local Authority Approvals (subject to project location)     /     Phê duyệt của chính quyền địa phương (phụ thuộc địa điểm dự án)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local Authority Investigation</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T033634Z" creationid="Kieu Lan" creationdate="20210816T033316Z">
@@ -23116,6 +23164,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre-Concept Designs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021136Z" creationid="Kieu Lan" creationdate="20211130T021136Z">
+        <seg>Pre-Concept Designs     /     Thiết kế Pre-Concept</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pre-Fabrication</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T141933Z" creationid="Kieu Lan" creationdate="20210820T141933Z">
@@ -23220,10 +23276,26 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preliminary Applications</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021230Z" creationid="Kieu Lan" creationdate="20211130T021230Z">
+        <seg>Preliminary Applications     /     Nộp duyệt hồ sơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preliminary Draft Generic Design Programme for a 200 bed Hotel</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020544Z" creationid="Kieu Lan" creationdate="20211130T020544Z">
         <seg>Preliminary Draft Generic Design Programme for a 200 bed Hotel     /     Sơ thảo chung lịch trình thiết kế cho khách sạn 200 giường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prepare Pre-Concept Report</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021144Z" creationid="Kieu Lan" creationdate="20211130T021140Z">
+        <seg>Prepare Pre-Concept Report     /     Chuẩn bị báo cáo Pre-Concept</seg>
       </tuv>
     </tu>
     <tu>
@@ -25394,6 +25466,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T122106Z" creationid="Kieu Lan" creationdate="20210820T122106Z">
         <seg>Schematic of Soil and Waste Vent Pipe System - High Rise     /     Sơ đồ hệ thống ống thoát chất thải - nhà cao tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scheme Design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021302Z" creationid="Kieu Lan" creationdate="20211130T021302Z">
+        <seg>Scheme Design     /     Thiết kế cơ sở</seg>
       </tuv>
     </tu>
     <tu>
@@ -31776,6 +31856,15 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T063055Z" creationid="Kieu Lan" creationdate="20211117T063055Z">
         <seg>VAV system pressure     /     Áp suát hệ thống VAV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>VE meeting trong context schematic design</note>
+      <tuv lang="EN-US">
+        <seg>VE meetings</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021408Z" creationid="Kieu Lan" creationdate="20211130T021408Z">
+        <seg>VE meetings     /     Họp VE</seg>
       </tuv>
     </tu>
     <tu>
