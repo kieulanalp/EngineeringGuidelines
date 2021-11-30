@@ -5715,6 +5715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A section containing all test certificates and commissioning reports</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T015851Z" creationid="Kieu Lan" creationdate="20211130T015851Z">
+        <seg>A section containing all test certificates and commissioning reports     /     Một mục bao gồm tất cả các chứng nhận kiểm tra và báo cáo vận hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A section containing all the record drawings</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211129T100411Z" creationid="Kieu Lan" creationdate="20211129T100126Z">
