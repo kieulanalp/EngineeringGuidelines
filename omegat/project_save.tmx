@@ -9944,6 +9944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contractor Appointment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T022603Z" creationid="Kieu Lan" creationdate="20211130T022603Z">
+        <seg>Contractor Appointment     /     Chỉ định nhà thầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control Systems)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T045859Z" creationid="LanHK" creationdate="20210715T045859Z">
