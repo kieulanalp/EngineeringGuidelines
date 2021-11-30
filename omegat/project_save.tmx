@@ -9495,6 +9495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commissioning Programme</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020410Z" creationid="Kieu Lan" creationdate="20211130T020410Z">
+        <seg>Commissioning Programme     /     Lịch trình vận hành thử</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commissioning and Testing</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T094149Z" creationid="Kieu Lan" creationdate="20210824T094149Z">
@@ -9836,6 +9844,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T065125Z" creationid="Kieu Lan" creationdate="20210804T065125Z">
         <seg>Constant Air Volume (CAV)     /     Hệ thống lưu lượng gió không đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Construction Programme</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020405Z" creationid="Kieu Lan" creationdate="20211130T020405Z">
+        <seg>Construction Programme     /     Lịch trình thi công</seg>
       </tuv>
     </tu>
     <tu>
@@ -10511,6 +10527,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082701Z" creationid="Kieu Lan" creationdate="20210405T153659Z">
         <seg>Design Criteria     /     Tiêu chí thiết kế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design Programme</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020402Z" creationid="Kieu Lan" creationdate="20211130T020324Z">
+        <seg>Design Programme     /     Lịch trình thiết kế</seg>
       </tuv>
     </tu>
     <tu>
@@ -14737,8 +14761,8 @@
       <tuv lang="EN-US">
         <seg>Generic Programmes</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020243Z" creationid="Kieu Lan" creationdate="20211130T020243Z">
-        <seg>Generic Programmes     /     Chương trình chung</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020358Z" creationid="Kieu Lan" creationdate="20211130T020243Z">
+        <seg>Generic Programmes     /     Lịch trình chung</seg>
       </tuv>
     </tu>
     <tu>
