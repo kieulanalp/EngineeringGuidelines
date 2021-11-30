@@ -9671,6 +9671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complete Tender Documentation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T022520Z" creationid="Kieu Lan" creationdate="20211130T022520Z">
+        <seg>Complete Tender Documentation     /     Hoàn thiện tài liệu đấu thầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complete floors up to 60 rooms (160mA power supply required)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T034100Z" creationid="Kieu Lan" creationdate="20211117T033823Z">
@@ -10687,6 +10695,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021449Z" creationid="Kieu Lan" creationdate="20211130T021449Z">
         <seg>Detail Design     /     Thiết kế chi tiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detail Design Report</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T022512Z" creationid="Kieu Lan" creationdate="20211130T022512Z">
+        <seg>Detail Design Report     /     Báo cáo thiết kế chi tiết</seg>
       </tuv>
     </tu>
     <tu>
@@ -22575,6 +22591,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Peer Review</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T022533Z" creationid="Kieu Lan" creationdate="20211130T022533Z">
+        <seg>Peer Review     /     Review tài liệu bởi chuyên gia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Penmeter pub c areas on afferent facades'on entat'on or, different systems (Typically 4-6m maximum) depth</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095404Z" creationid="Kieu Lan" creationdate="20210728T095404Z">
@@ -25422,6 +25446,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Samples</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T022502Z" creationid="Kieu Lan" creationdate="20211130T022502Z">
+        <seg>Samples     /     Mẫu thử</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sauna/Jacuzzi</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061417Z" creationid="Kieu Lan" creationdate="20210805T061417Z">
@@ -28252,6 +28284,22 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T020607Z" creationid="Kieu Lan" creationdate="20210805T020607Z">
         <seg>Temperature range     /     Dải nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tender Period</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T022547Z" creationid="Kieu Lan" creationdate="20211130T022547Z">
+        <seg>Tender Period     /     Thời gian đấu thầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tender Review, Negotiation and Appointment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T022559Z" creationid="Kieu Lan" creationdate="20211130T022559Z">
+        <seg>Tender Review, Negotiation and Appointment     /     Xem xét đấu thầu, đàm phán và bổ nhiệm</seg>
       </tuv>
     </tu>
     <tu>
