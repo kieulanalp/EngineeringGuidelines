@@ -7062,6 +7062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annual Rainfall:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T090818Z" creationid="Kieu Lan" creationdate="20211130T090818Z">
+        <seg>Annual Rainfall:     /     Lượng mưa hàng năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annual energy consumption for the whole hotel equated to kWh/room/annum</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T040914Z" creationid="Kieu Lan" creationdate="20210806T040914Z">
@@ -8703,6 +8711,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041323Z" creationid="Kieu Lan" creationdate="20210802T041257Z">
         <seg>clearance of steam     /     Bố trí ống thải phía trên bồn tắm/khoang tắm sen để thoát hơi nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CLIMATOLOGICAL DATA</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T071402Z" creationid="Kieu Lan" creationdate="20211130T071402Z">
+        <seg>CLIMATOLOGICAL DATA     /     Dữ liệu thời tiết</seg>
       </tuv>
     </tu>
     <tu>
@@ -32054,10 +32070,26 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total Area - Car Parking:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T071347Z" creationid="Kieu Lan" creationdate="20211130T071347Z">
+        <seg>Total Area - Car Parking:     /     Tổng diện tích - Đỗ xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total Area - Occupied Spaces/Storage:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T071324Z" creationid="Kieu Lan" creationdate="20211130T071324Z">
         <seg>Total Area - Occupied Spaces/Storage:     /     Tổng diện tích - Không gian thường có người / Kho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Area - Plant:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T071337Z" creationid="Kieu Lan" creationdate="20211130T071337Z">
+        <seg>Total Area - Plant:     /     Tổng diện tích - Máy</seg>
       </tuv>
     </tu>
     <tu>
