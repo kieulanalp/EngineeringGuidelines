@@ -12463,6 +12463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equipment Definition/Specification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T022442Z" creationid="Kieu Lan" creationdate="20211130T022442Z">
+        <seg>Equipment Definition/Specification     /     Định nghĩa/Thông số thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment available</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065246Z" creationid="Kieu Lan" creationdate="20210817T065246Z">
