@@ -9799,6 +9799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concept Design Report</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T025359Z" creationid="Kieu Lan" creationdate="20211130T025359Z">
+        <seg>Concept Design Report     /     Báo cáo thiết kế Concept</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concessionary Outlets</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T092422Z" creationid="Kieu Lan" creationdate="20210806T092422Z">
@@ -12927,6 +12935,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T092532Z" creationid="Kieu Lan" creationdate="20210814T092532Z">
         <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F 1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T025347Z" creationid="Kieu Lan" creationdate="20211130T025347Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -19430,6 +19446,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210702T091653Z" creationid="LanHK" creationdate="20210702T091653Z">
         <seg>Luminaires     /     Đèn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>M&amp;E confirmed load schedules and 1 energy conservation analysis</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042107Z" creationid="Kieu Lan" creationdate="20211130T042107Z">
+        <seg>M&amp;E confirmed load schedules and energy conservation analysis     /     M&amp;E xác nhận các tải và phân tích tiết kiệm năng lượng </seg>
       </tuv>
     </tu>
     <tu>
