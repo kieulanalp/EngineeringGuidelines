@@ -8308,6 +8308,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Building structure to waterproofing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042237Z" creationid="Kieu Lan" creationdate="20211130T042237Z">
+        <seg>Building structure to waterproofing     /     Xây kết cấu đến chống thấm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bulk storage of LPF, Butane or Propane may be used, based on 6 weeks supply at maximum use.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210714T024451Z" creationid="LanHK" creationdate="20210714T024451Z">
@@ -10531,6 +10539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defects inspections</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042332Z" creationid="Kieu Lan" creationdate="20211130T042332Z">
+        <seg>Defects inspections     /     Defect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Define the design criteria for IHG hotel projects.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210720T043155Z" creationid="LanHK" creationdate="20210525T092547Z">
@@ -12511,6 +12527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equipment and outlet connections</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042327Z" creationid="Kieu Lan" creationdate="20211130T042327Z">
+        <seg>Equipment and outlet connections     /     Kết nối thiết bị và ổ cắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment available</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065246Z" creationid="Kieu Lan" creationdate="20210817T065246Z">
@@ -13824,6 +13848,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T071052Z">
         <seg>First Issue    /    Bản đầu tiên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First fix MEP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042306Z" creationid="Kieu Lan" creationdate="20211130T042306Z">
+        <seg>First fix MEP     /     Điều chỉnh MEP lần một</seg>
       </tuv>
     </tu>
     <tu>
@@ -19627,6 +19659,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MONTH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042213Z" creationid="Kieu Lan" creationdate="20211130T042213Z">
+        <seg>Tháng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOTOR DRIVEN THREE WAY CONTROL VALVE ON FURTHEST AIR HANDLING UNIT TO KEEP PIPE HOT.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T064721Z" creationid="LanHK" creationdate="20210728T064721Z">
@@ -19816,6 +19856,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T043047Z" creationid="Kieu Lan" creationdate="20211117T043024Z">
         <seg>Maintenance cycle and stock position     /     chu kỳ bảo dưỡng và tình trạng kho dự trữ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Major equipment in place</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042314Z" creationid="Kieu Lan" creationdate="20211130T042314Z">
+        <seg>Major equipment in place     /     Lắp đặt các thiết bị lớn</seg>
       </tuv>
     </tu>
     <tu>
@@ -20729,6 +20777,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T064416Z" creationid="LanHK" creationdate="20210728T064416Z">
         <seg>NOTE:     /     Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE: Refer to MEP Design Standards for detailed schedules of information to be submitted.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042145Z" creationid="Kieu Lan" creationdate="20211130T042145Z">
+        <seg>NOTE: Refer to MEP Design Standards for detailed schedules of information to be submitted.     /     LƯU Ý: Tham khảo tiêu chuẩn thiết kế MEP, có chi tiết hơn về lịch trình nộp duyệt các thông tin</seg>
       </tuv>
     </tu>
     <tu>
@@ -23388,10 +23444,26 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preliminary Draft Generic Construction Programme for a 200 bed Hotel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042205Z" creationid="Kieu Lan" creationdate="20211130T042205Z">
+        <seg>Preliminary Draft Generic Construction Programme for a 200 bed Hotel     /     Sơ thảo chung lịch trình thi công cho khách sạn 200 giường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preliminary Draft Generic Design Programme for a 200 bed Hotel</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020544Z" creationid="Kieu Lan" creationdate="20211130T020544Z">
         <seg>Preliminary Draft Generic Design Programme for a 200 bed Hotel     /     Sơ thảo chung lịch trình thiết kế cho khách sạn 200 giường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preliminary as built drawings, O&amp;M Manuals</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042558Z" creationid="Kieu Lan" creationdate="20211130T042558Z">
+        <seg>Preliminary as built drawings, O&amp;M Manuals     /     Sơ thảo bản vẽ hoàn công, Hướng dẫn O&amp;M</seg>
       </tuv>
     </tu>
     <tu>
@@ -25614,6 +25686,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Second fix MEP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042320Z" creationid="Kieu Lan" creationdate="20211130T042320Z">
+        <seg>Second fix MEP     /     Điều chỉnh MEP lần hai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secondary HVAC controllers</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T100252Z" creationid="Kieu Lan" creationdate="20211108T100252Z">
@@ -26043,6 +26123,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033042Z" creationid="Kieu Lan" creationdate="20211109T033042Z">
         <seg>Shared networks: TCP/IP or Ethernet (Cat 5)     /     Mạng chung: TCP/IP hoặc Ethernet (Cat 5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shop drawings and equipment submissions</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042259Z" creationid="Kieu Lan" creationdate="20211130T042259Z">
+        <seg>Shop drawings and equipment submissions     /     Nộp Shop drawing và thông tin thiết bị</seg>
       </tuv>
     </tu>
     <tu>
