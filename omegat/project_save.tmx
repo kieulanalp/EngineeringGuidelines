@@ -8859,6 +8859,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calculation/ Appraisal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065420Z" creationid="Kieu Lan" creationdate="20211130T065420Z">
+        <seg>Calculation/ Appraisal     /     Tính toán / Thẩm định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calculations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065521Z" creationid="Kieu Lan" creationdate="20211130T065521Z">
+        <seg>Calculations     /     Tính toán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculations and / or smoke modeling of the system must be provided to IHG for approval.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210625T081142Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -11547,6 +11563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drainage Plans &amp; Details</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065431Z" creationid="Kieu Lan" creationdate="20211130T065431Z">
+        <seg>Drainage Plans &amp; Details     /     Sơ đồ thoát nước và chi tiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drinking Water Quality</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T122131Z" creationid="Kieu Lan" creationdate="20210815T122131Z">
@@ -12553,6 +12577,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030512Z" creationid="Kieu Lan" creationdate="20211108T030512Z">
         <seg>Energy &amp; cost savings:     /     Tiết kiệm năng lượng và chi phí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Energy Conservation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065339Z" creationid="Kieu Lan" creationdate="20211130T065339Z">
+        <seg>Energy Conservation     /     Tiết kiệm năng lượng</seg>
       </tuv>
     </tu>
     <tu>
@@ -13714,6 +13746,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Final</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065515Z" creationid="Kieu Lan" creationdate="20211130T065515Z">
+        <seg>Bản hoàn thiện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final Applications</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021238Z" creationid="Kieu Lan" creationdate="20211130T021238Z">
@@ -13894,6 +13934,22 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T050353Z" creationid="LanHK" creationdate="20210525T073328Z">
         <seg>2.2. Fire Safety    /    An toàn PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Safety Strategy Proposal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065507Z" creationid="Kieu Lan" creationdate="20211130T065507Z">
+        <seg>Fire Safety Strategy Proposal     /     Đề xuất chiến lược PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Safety Systems and Specifications</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065458Z" creationid="Kieu Lan" creationdate="20211130T065458Z">
+        <seg>Fire Safety Systems and Specifications     /     Hệ thống PCCC và thông số</seg>
       </tuv>
     </tu>
     <tu>
@@ -23914,6 +23970,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preliminary</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065448Z" creationid="Kieu Lan" creationdate="20211130T065437Z">
+        <seg>Sơ thảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preliminary Applications</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021230Z" creationid="Kieu Lan" creationdate="20211130T021230Z">
@@ -28769,6 +28833,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T024339Z" creationid="LanHK" creationdate="20210715T024339Z">
         <seg>Targets to be as required by National Standards     /     Tiêu chuẩn đặt ra tương đương Tiêu chuẩn Quốc gia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Technical Submission for Plant &amp; Equipment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065539Z" creationid="Kieu Lan" creationdate="20211130T065539Z">
+        <seg>Technical Submission for Plant &amp; Equipment     /     Nộp thông số kỹ thuật cho máy và thiết bị</seg>
       </tuv>
     </tu>
     <tu>
