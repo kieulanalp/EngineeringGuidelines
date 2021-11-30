@@ -17777,6 +17777,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intercontinental/Authority Witnessing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061549Z" creationid="Kieu Lan" creationdate="20211130T061549Z">
+        <seg>Intercontinental/Authority Witnessing     /     Chứng kiến bởi IHG/ chính quyền</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interface to air handling systems for engineered smoke clearance systems (where required)</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210728T073211Z" creationid="Kieu Lan" creationdate="20210705T043836Z">
