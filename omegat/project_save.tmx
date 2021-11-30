@@ -9316,6 +9316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checklist 1 - Design Stage Compliance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065758Z" creationid="Kieu Lan" creationdate="20211130T065752Z">
+        <seg>Checklist 1 - Design Stage Compliance Verification     /     Checklist 1 - Xác nhận tuân thủ các giai đoạn thiết kết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checklist 1 - Design Stage Compliance Verification</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061925Z" creationid="Kieu Lan" creationdate="20211130T061925Z">
@@ -26164,6 +26172,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Schedule of Deviations</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065734Z" creationid="Kieu Lan" creationdate="20211130T065734Z">
+        <seg>Schedule of Deviations     /     Danh sách các hạng mục có thay đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Schedule of Lighting Levels and Fitting Types</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T084832Z" creationid="Kieu Lan" creationdate="20210814T084724Z">
@@ -32896,6 +32912,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T080620Z" creationid="LanHK" creationdate="20210715T080620Z">
         <seg>Ventilation to these areas to be designed to maintain internal air temperature below 25°C for 95% of the year, if possible without a cooling system. If a cooling system is required the internal design temperature shall be 24°C.     /     Thông gió cho các khu vực này phải được thiết kế để duy trì nhiệt độ trong nhà thấp hơn 25°C trong 95% thời gian năm, nếu có thể mà không có hệ thống làm mát. Nếu yêu cầu có hệ thống làm mát, nhiệt độ thiết kế trong nhà sẽ là 24°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065759Z" creationid="Kieu Lan" creationdate="20211130T065759Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
