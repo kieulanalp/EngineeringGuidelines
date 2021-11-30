@@ -5675,6 +5675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A project specific construction programme should be issued for each project incorporating all the points illustrated here.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042914Z" creationid="Kieu Lan" creationdate="20211130T042914Z">
+        <seg>A project specific construction programme should be issued for each project incorporating all the points illustrated here.     /     Lịch trình thi công của một dự án cụ thể cần được lên cho từng dự án riêng, bao gồm tất cả các mục đã thể hiện ở đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A proprietary kitchen exhaust system with injection nozzles, such as “Halton Capture Jet” Gaylord ELX Hood or</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061441Z" creationid="Kieu Lan" creationdate="20210805T061441Z">
@@ -8296,6 +8304,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T092331Z" creationid="LanHK" creationdate="20210716T092331Z">
         <seg>Building construction type,     /     Loại hình thi công tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building fine tuning during occupancy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042707Z" creationid="Kieu Lan" creationdate="20211130T042707Z">
+        <seg>Building fine tuning during occupancy     /     Tinh chỉnh trong quá trình tiếp nhận khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -14995,6 +15011,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T030013Z" creationid="Kieu Lan" creationdate="20210713T080253Z">
         <seg>Generator running/fault (only during alarm)     /     Máy phát chạy/lỗi máy phát (chỉ khi đang có báo động)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generic Commissioning programme - MEPF Services</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T043058Z" creationid="Kieu Lan" creationdate="20211130T043058Z">
+        <seg>Generic Commissioning programme - MEPF Services     /     Lịch trình vận hành thử - MEPF</seg>
       </tuv>
     </tu>
     <tu>
@@ -26137,8 +26161,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Shop drawings and equipment submissions</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042259Z" creationid="Kieu Lan" creationdate="20211130T042259Z">
-        <seg>Shop drawings and equipment submissions     /     Nộp Shop drawing và thông tin thiết bị</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042757Z" creationid="Kieu Lan" creationdate="20211130T042259Z">
+        <seg>Shop drawings and equipment submissions     /     Nộp bản vẽ thi công và thông tin thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -28464,6 +28488,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Testing and commissioning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042656Z" creationid="Kieu Lan" creationdate="20211130T042656Z">
+        <seg>Testing and commissioning     /     Kiểm tra và vận hành thử</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Testing and commissioning method statements and procedures</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042648Z" creationid="Kieu Lan" creationdate="20211130T042619Z">
@@ -29530,6 +29562,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095123Z" creationid="Kieu Lan" creationdate="20211124T094603Z">
         <seg>The installer shall provide, at his own cost, all water, power, fuel, labor, etc., necessary for all testing and commissioning.     /     Đơn vị lắp đặt sẽ cung cấp và chi trả cho tất cả các chi phí nước, điện, nhiên liệu, nhân viên etc. cần thiết trong quá trình kiểm tra và vận hành thử</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The intention of this programme is to illustrate the general services requirements during the hotel construction phase.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042837Z" creationid="Kieu Lan" creationdate="20211130T042837Z">
+        <seg>The intention of this programme is to illustrate the general services requirements during the hotel construction phase.     /     Mục đích của lịch trình này nhằm cho thấy các yêu cầu service chung trong quá trình thi công khách sạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -30913,6 +30953,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T130757Z" creationid="Kieu Lan" creationdate="20210815T124544Z">
         <seg>This number of fittings shall be used for commissioning purposes to demonstrate adequate flows/temperatures are available.     /     Số lượng thiết bị sẽ được sử dụng vào mục đích vận hành thử để chứng minh lưu lượng/nhiệt độ đã được đảm bảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This programme should be read in conjunction with the design and commissioning programmes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042851Z" creationid="Kieu Lan" creationdate="20211130T042851Z">
+        <seg>This programme should be read in conjunction with the design and commissioning programmes.     /     Lịch trình này cần đọc song song với lịch trình thiết kế và vận hành thử</seg>
       </tuv>
     </tu>
     <tu>
@@ -35909,6 +35957,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T025610Z" creationid="Kieu Lan" creationdate="20210814T025610Z">
         <seg>✓ 50% night     /     50% đêm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>✓ All construction shop drawings and equipment submissions finalised</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042811Z" creationid="Kieu Lan" creationdate="20211130T042752Z">
+        <seg>All construction shop drawings and equipment submissions finalised     /     Chốt tất cả các bản vẽ thi công chi tiết và đề xuất thiết bị</seg>
       </tuv>
     </tu>
     <tu>
