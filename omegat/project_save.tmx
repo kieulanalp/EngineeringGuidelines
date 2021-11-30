@@ -5715,6 +5715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A section comprising a list of manufacturers, including addresses, telephone numbers and equipment supplied</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020023Z" creationid="Kieu Lan" creationdate="20211130T020023Z">
+        <seg>A section comprising a list of manufacturers, including addresses, telephone numbers and equipment supplied     /     Một mục gồm danh sách các nhà sản xuất, bao gồm địa chỉ, điện thoại và tên thiết bị đã cung cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A section containing all test certificates and commissioning reports</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T015851Z" creationid="Kieu Lan" creationdate="20211130T015851Z">
@@ -14723,6 +14731,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T030013Z" creationid="Kieu Lan" creationdate="20210713T080253Z">
         <seg>Generator running/fault (only during alarm)     /     Máy phát chạy/lỗi máy phát (chỉ khi đang có báo động)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generic Programmes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020243Z" creationid="Kieu Lan" creationdate="20211130T020243Z">
+        <seg>Generic Programmes     /     Chương trình chung</seg>
       </tuv>
     </tu>
     <tu>
