@@ -9316,6 +9316,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checklist 12 - Sample Mechanical Load Schedules</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062540Z" creationid="Kieu Lan" creationdate="20211130T062540Z">
+        <seg>Checklist 12 - Sample Mechanical Load Schedules     /     Checklist 12 - Mẫu danh sách các tải cơ học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 13 - Sample Electrical Load Schedules</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062554Z" creationid="Kieu Lan" creationdate="20211130T062554Z">
+        <seg>Checklist 13 - Sample Electrical Load Schedules     /     Checklist 13 - Mẫu danh sách các tải điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 14 - Building Air Balance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062606Z" creationid="Kieu Lan" creationdate="20211130T062606Z">
+        <seg>Checklist 14 - Building Air Balance     /      Checklist 14 - Cân bằng không khí tòa nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checklist 2 - Site Location/Summary Details</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062040Z" creationid="Kieu Lan" creationdate="20211130T061930Z">
@@ -10524,6 +10548,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T014650Z" creationid="LanHK" creationdate="20210602T014650Z">
         <seg>DESIGN FOR APPROVAL        /       PHÊ DUYỆT THIẾT KẾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DESIGN PERIOD</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062807Z" creationid="Kieu Lan" creationdate="20211130T062807Z">
+        <seg>DESIGN PERIOD     /     Giai đoạn thiết kế</seg>
       </tuv>
     </tu>
     <tu>
@@ -22387,6 +22419,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>PRE-CONTRACT WORKS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062848Z" creationid="Kieu Lan" creationdate="20211130T062848Z">
+        <seg>PRE-CONTRACT WORKS     /     Giai đoạn chuẩn bị</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Substation: Trạm phụ tải???	</note>
       <tuv lang="EN-US">
         <seg>PREFERABLY LOCATED ADJACENT TO SUBSTATION</seg>
@@ -24593,6 +24633,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REQUIRED INFORMATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062802Z" creationid="Kieu Lan" creationdate="20211130T062802Z">
+        <seg>REQUIRED INFORMATION     /     Các thông tin cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Radiant Cooling/Heating</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061314Z" creationid="Kieu Lan" creationdate="20210805T061314Z">
@@ -25620,6 +25668,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SCHEDULE OF INFORMATION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062758Z" creationid="Kieu Lan" creationdate="20211130T062758Z">
+        <seg>SCHEDULE OF INFORMATION     /     Danh sách thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCHEMATIC</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T020826Z" creationid="Kieu Lan" creationdate="20211130T020826Z">
@@ -25872,6 +25928,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T121745Z" creationid="Kieu Lan" creationdate="20210815T121637Z">
         <seg>Cung cấp nhiệt độ nước nóng/lạnh phù hợp mà không phải đợi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUMMARY SCHEDULE OF INFORMATION AND STAGE TO BE SUBMITTED</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062753Z" creationid="Kieu Lan" creationdate="20211130T062753Z">
+        <seg>SUMMARY SCHEDULE OF INFORMATION AND STAGE TO BE SUBMITTED     /     Tóm tắt lịch trình nộp duyệt thông tin</seg>
       </tuv>
     </tu>
     <tu>
