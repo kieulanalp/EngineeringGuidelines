@@ -9332,6 +9332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checked by:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070616Z" creationid="Kieu Lan" creationdate="20211130T070616Z">
+        <seg>Checked by:     /     Người kiểm tra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checklist 1 - Design Stage Compliance</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070229Z" creationid="Kieu Lan" creationdate="20211130T065752Z">
@@ -10515,6 +10523,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T065236Z" creationid="Kieu Lan" creationdate="20210817T065236Z">
         <seg>Cost of various fuel sources     /     Giá nhiên liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Country:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070644Z" creationid="Kieu Lan" creationdate="20211130T070644Z">
+        <seg>Country:     /     Quốc gia</seg>
       </tuv>
     </tu>
     <tu>
@@ -19247,6 +19263,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Latitude/Longitude:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070715Z" creationid="Kieu Lan" creationdate="20211130T070715Z">
+        <seg>Latitude/Longitude:     /     Kinh độ / Vĩ độ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laundry</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094646Z" creationid="LanHK" creationdate="20210406T011646Z">
@@ -19523,6 +19547,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T045850Z" creationid="Kieu Lan" creationdate="20211130T045847Z">
         <seg>Lifts (60 days)     /     Thang máy (60 ngày)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lifts/Elevator</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070609Z" creationid="Kieu Lan" creationdate="20211130T070609Z">
+        <seg>Lifts/Elevator     /     Thang máy</seg>
       </tuv>
     </tu>
     <tu>
@@ -19804,6 +19836,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064109Z" creationid="LanHK" creationdate="20210715T062502Z">
         <seg>Location     /     Vị trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location (Country/City/ Combined Development)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070706Z" creationid="Kieu Lan" creationdate="20211130T070706Z">
+        <seg>Location (Country/City/ Combined Development)     /     Vị trí (Quốc gia/ Thành phố/ Khu phát triển)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24476,6 +24516,22 @@ sẽ bao gồm các thông tin sau</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proposed Facilities:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070732Z" creationid="Kieu Lan" creationdate="20211130T070732Z">
+        <seg>Proposed Facilities:     /     Đề xuất cơ sở vật chất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proposed No. of Rooms:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070721Z" creationid="Kieu Lan" creationdate="20211130T070721Z">
+        <seg>Proposed No. of Rooms:     /     Đề xuất số lượng phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proposed completion sequence</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211125T012350Z" creationid="Kieu Lan" creationdate="20211125T012350Z">
@@ -26052,6 +26108,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SITE LOCATION &amp; SUMMARY DETAILS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070641Z" creationid="Kieu Lan" creationdate="20211130T070641Z">
+        <seg>SITE LOCATION &amp; SUMMARY DETAILS     /     Vị trí Dự án / Thông tin tóm tắt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SLAB</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T125543Z" creationid="Kieu Lan" creationdate="20210820T125543Z">
@@ -26957,6 +27021,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Signed:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070620Z" creationid="Kieu Lan" creationdate="20211130T070620Z">
+        <seg>Signed:     /     Ký tên:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Significant savings can be made on:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081819Z" creationid="Kieu Lan" creationdate="20210804T081819Z">
@@ -27073,6 +27145,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210628T060747Z" creationid="Kieu Lan" creationdate="20210628T060747Z">
         <seg>Single- or multiple-station (interconnected) carbon monoxide detectors and alarms must be installed in each of the following locations     /     Đầu báo khí CO đơn hoặc đa trạm và báo động phải được lắp đặt ở mỗi vị trí sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Site Address:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070650Z" creationid="Kieu Lan" creationdate="20211130T070650Z">
+        <seg>Site Address:     /     Địa chỉ dự án</seg>
       </tuv>
     </tu>
     <tu>
@@ -28504,6 +28584,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032524Z" creationid="Kieu Lan" creationdate="20210810T032443Z">
         <seg>Switchgear rooms     /     Phòng tủ điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System &amp; Points Schedule</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070604Z" creationid="Kieu Lan" creationdate="20211130T070604Z">
+        <seg>System &amp; Points Schedule     /     Danh sách các hệ thống và điểm kiểm soát</seg>
       </tuv>
     </tu>
     <tu>
@@ -31962,6 +32050,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T033807Z" creationid="Kieu Lan" creationdate="20211117T033807Z">
         <seg>Topology Schematic     /     Sơ đồ đấu nối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Area - Occupied Spaces/Storage:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T071324Z" creationid="Kieu Lan" creationdate="20211130T071324Z">
+        <seg>Total Area - Occupied Spaces/Storage:     /     Tổng diện tích - Không gian thường có người / Kho</seg>
       </tuv>
     </tu>
     <tu>
