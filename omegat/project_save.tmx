@@ -10977,6 +10977,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detail</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065218Z" creationid="Kieu Lan" creationdate="20211130T065218Z">
+        <seg>Chi tiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detail Design</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021449Z" creationid="Kieu Lan" creationdate="20211130T021449Z">
@@ -20586,10 +20594,18 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical &amp; Electrical Services Drawings &amp; Specifications &amp; Site Plan</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065243Z" creationid="Kieu Lan" creationdate="20211130T065243Z">
+        <seg>Mechanical &amp; Electrical Services Drawings &amp; Specifications &amp; Site Plan     /     Bản vẽ M&amp;E &amp; Thông số &amp; sơ đồ dự án</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical &amp; Electrical Services Schematics &amp; Load Schedules</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065124Z" creationid="Kieu Lan" creationdate="20211130T065124Z">
-        <seg>Mechanical &amp; Electrical Services Schematics &amp; Load Schedules     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065151Z" creationid="Kieu Lan" creationdate="20211130T065124Z">
+        <seg>Mechanical &amp; Electrical Services Schematics &amp; Load Schedules     /     Sơ đồ M&amp;E và danh sách các tải</seg>
       </tuv>
     </tu>
     <tu>
@@ -22263,6 +22279,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081516Z" creationid="Kieu Lan" creationdate="20210804T081516Z">
         <seg>Outer Layer     /     Lớp ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outline</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T065214Z" creationid="Kieu Lan" creationdate="20211130T065214Z">
+        <seg>Sơ lược</seg>
       </tuv>
     </tu>
     <tu>
