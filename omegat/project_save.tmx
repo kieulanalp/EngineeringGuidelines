@@ -7169,8 +7169,8 @@
       <tuv lang="EN-US">
         <seg>Appendix &amp; Design Compliance Checklists</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061725Z" creationid="Kieu Lan" creationdate="20211130T061725Z">
-        <seg>Appendix &amp; Design Compliance Checklists     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061822Z" creationid="Kieu Lan" creationdate="20211130T061725Z">
+        <seg>Appendix &amp; Design Compliance Checklists     /     Phụ lục và Checklist kiểm tra tuân thủ tiêu chuẩn</seg>
       </tuv>
     </tu>
     <tu>
@@ -9288,6 +9288,38 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T043508Z" creationid="Kieu Lan" creationdate="20211130T043508Z">
         <seg>Check/Clean/Flush     /     Kiểm tra / Vệ sinh / Xả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 1 - Design Stage Compliance Verification</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061925Z" creationid="Kieu Lan" creationdate="20211130T061925Z">
+        <seg>Checklist 1 - Design Stage Compliance Verification     /     Checklist 1 - Xác nhận tuân thủ các giai đoạn thiết kết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 2 - Site Location/Summary Details</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062040Z" creationid="Kieu Lan" creationdate="20211130T061930Z">
+        <seg>Checklist 2 - Site Location/Summary Details     /     Checklist 2 - Vị trí Dự án / Thông tin tóm tắt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 3 - Climatological Data</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062045Z" creationid="Kieu Lan" creationdate="20211130T062045Z">
+        <seg>Checklist 3 - Climatological Data     /     Dữ liệu thời tiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 4 - Electricity</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062054Z" creationid="Kieu Lan" creationdate="20211130T062054Z">
+        <seg>Checklist 4 - Electricity     /     Checklist 4 - Điện</seg>
       </tuv>
     </tu>
     <tu>
@@ -27852,6 +27884,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Summary Schedule of Information and Stage to be submitted</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061903Z" creationid="Kieu Lan" creationdate="20211130T061903Z">
+        <seg>Summary Schedule of Information and Stage to be submitted     /     Tóm tắt lịch trình nộp duyệt thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Summary of Design Requirement</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T083859Z" creationid="Kieu Lan" creationdate="20210824T083853Z">
@@ -31223,6 +31263,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T110115Z" creationid="Kieu Lan" creationdate="20210815T110115Z">
         <seg>This section covers the provision of access control, intruder alarms, hold-up alarms, guard tour, guest room control, and closed circuit surveillance television (CCTV) systems.     /     Mục này bao gồm các hạng mục kiểm soát truy cập,báo động  đột nhập, báo động cướp, hệ thống ghi dữ liệu tuần tra bảo vệ, điều khiển phòng khách và hệ thống CCTV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section includes the following Design Compliance Checklists which must be completed by the Designers and submitted to InterContinental Hotels Group as indicated.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061848Z" creationid="Kieu Lan" creationdate="20211130T061848Z">
+        <seg>This section includes the following Design Compliance Checklists which must be completed by the Designers and submitted to InterContinental Hotels Group as indicated.     /     Mục này bao gồm Checklist kiểm tra tuân thủ tiêu chuẩn, phải được Thiết kế hoàn thành và trình IHG</seg>
       </tuv>
     </tu>
     <tu>
