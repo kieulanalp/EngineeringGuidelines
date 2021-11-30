@@ -9310,8 +9310,8 @@
       <tuv lang="EN-US">
         <seg>Checklist 3 - Climatological Data</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062045Z" creationid="Kieu Lan" creationdate="20211130T062045Z">
-        <seg>Checklist 3 - Climatological Data     /     Dữ liệu thời tiết</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062058Z" creationid="Kieu Lan" creationdate="20211130T062045Z">
+        <seg>Checklist 3 - Climatological Data     /     Checklist 3 - Dữ liệu thời tiết</seg>
       </tuv>
     </tu>
     <tu>
@@ -9320,6 +9320,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062054Z" creationid="Kieu Lan" creationdate="20211130T062054Z">
         <seg>Checklist 4 - Electricity     /     Checklist 4 - Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 5 - Gas Service</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062113Z" creationid="Kieu Lan" creationdate="20211130T062113Z">
+        <seg>Checklist 5 - Gas Service     /     Checklist 5 - Cấp ga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 6 - Potable Water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062132Z" creationid="Kieu Lan" creationdate="20211130T062132Z">
+        <seg>Checklist 6 - Potable Water     /     Checklist 6 - Nước sinh hoạt</seg>
       </tuv>
     </tu>
     <tu>
@@ -13580,8 +13596,8 @@
       <tuv lang="EN-US">
         <seg>Filtered Deposits to Drain/Non Potable systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T064243Z" creationid="Kieu Lan" creationdate="20210916T064243Z">
-        <seg>Filtered Deposits to Drain/Non Potable systems     /     Nước đã lọc thải đến ga thoát/hoặc hệ thống nước không uống được</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062213Z" creationid="Kieu Lan" creationdate="20210916T064243Z">
+        <seg>Filtered Deposits to Drain/Non Potable systems     /     Nước đã lọc thải đến ga thoát/hoặc hệ thống nước không phải nước sinh hoạt</seg>
       </tuv>
     </tu>
     <tu>
@@ -17467,8 +17483,8 @@
       <tuv lang="EN-US">
         <seg>In those areas where the water supply is limited, the storm piping may discharge into a cistern for use of non- potable system.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T023703Z" creationid="Kieu Lan" creationdate="20210916T022628Z">
-        <seg>In those areas where the water supply is limited, the storm piping may discharge into a cistern for use of non- potable system.     /     Trong các khu vực hạn chế về nguồn cấp nước, hệ thống ống thoát nước mưa có thể xả vào một bể chứa riêng dành cho nước không uống được </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062233Z" creationid="Kieu Lan" creationdate="20210916T022628Z">
+        <seg>In those areas where the water supply is limited, the storm piping may discharge into a cistern for use of non-potable system.     /     Trong các khu vực hạn chế về nguồn cấp nước, hệ thống ống thoát nước mưa có thể xả vào một bể chứa riêng dành cho nước không dành cho sinh hoạt</seg>
       </tuv>
     </tu>
     <tu>
@@ -21429,8 +21445,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Non-Potable Top-up Prior to Treatment Process</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T064047Z" creationid="Kieu Lan" creationdate="20210916T064047Z">
-        <seg>Non-Potable Top-up Prior to Treatment Process     /     Bù nước không uống được trước quá trình xử lý</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062153Z" creationid="Kieu Lan" creationdate="20210916T064047Z">
+        <seg>Non-Potable Top-up Prior to Treatment Process     /     Bù nước không phải nước sinh hoạt trước quá trình xử lý</seg>
       </tuv>
     </tu>
     <tu>
@@ -23466,8 +23482,8 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       <tuv lang="EN-US">
         <seg>Potable/Pre-treated Water Top-up</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063415Z" creationid="Kieu Lan" creationdate="20210916T063358Z">
-        <seg>Potable/Pre-treated Water Top-up     /     Bù nước có thể uống/đã xử lý</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062141Z" creationid="Kieu Lan" creationdate="20210916T063358Z">
+        <seg>Potable/Pre-treated Water Top-up     /     Bù nước sinh hoạt/đã xử lý</seg>
       </tuv>
     </tu>
     <tu>
@@ -33457,8 +33473,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Where potable/pre-treated water is available for pool use, introduce the fresh water prior to heating. As a guide, approximately 25 liters of freshwater per bather may be introduced.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T100503Z" creationid="Kieu Lan" creationdate="20210920T100503Z">
-        <seg>Where potable/pre-treated water is available for pool use, introduce the fresh water prior to heating. As a guide, approximately 25 liters of freshwater per bather may be introduced.     /     Nếu có nước uống được / đã qua xử lý để sử dụng trong hồ bơi, bổ sung nước mới trước khi đun nóng. Gợi ý có thể bổ sung khoảng 25 lít nước mới cho mỗi người bơi.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062242Z" creationid="Kieu Lan" creationdate="20210920T100503Z">
+        <seg>Where potable/pre-treated water is available for pool use, introduce the fresh water prior to heating. As a guide, approximately 25 liters of freshwater per bather may be introduced.     /     Nếu có nước sinh hoạt/ đã qua xử lý để sử dụng trong hồ bơi, bổ sung nước mới trước khi đun nóng. Gợi ý có thể bổ sung khoảng 25 lít nước mới cho mỗi người bơi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33570,8 +33586,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>Where water is non-potable, it should be introduced to the system prior to filtration and disinfection.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T100524Z" creationid="Kieu Lan" creationdate="20210920T100524Z">
-        <seg>Where water is non-potable, it should be introduced to the system prior to filtration and disinfection.     /     Nếu nước không uống được, cần đưa vào hệ thống trước hệ lọc và khử khuẩn</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062249Z" creationid="Kieu Lan" creationdate="20210920T100524Z">
+        <seg>Where water is non-potable, it should be introduced to the system prior to filtration and disinfection.     /     Nếu nước không dùng cho sinh hoạt, cần đưa vào hệ thống trước hệ lọc và khử khuẩn</seg>
       </tuv>
     </tu>
     <tu>
