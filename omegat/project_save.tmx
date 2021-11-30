@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(construction use)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T045856Z" creationid="Kieu Lan" creationdate="20211130T045856Z">
+        <seg>(construction use)     /     Sử dụng trong thi công</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(m2)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023719Z">
@@ -8266,6 +8274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Booster Pumps</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T045824Z" creationid="Kieu Lan" creationdate="20211130T045824Z">
+        <seg>Booster Pumps     /     Bơm tăng áp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brand Standard Manual</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095957Z">
@@ -13610,6 +13626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Extinguishing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T045754Z" creationid="Kieu Lan" creationdate="20211130T045754Z">
+        <seg>Fire Extinguishing     /     Dập lửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire Fighting Equipment</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T110135Z" creationid="Kieu Lan" creationdate="20210809T110129Z">
@@ -14119,6 +14143,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132607Z" creationid="Kieu Lan" creationdate="20210815T132607Z">
         <seg>Fluoride</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flush/Disinfect CWS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T045820Z" creationid="Kieu Lan" creationdate="20211130T045820Z">
+        <seg>Flush/Disinfect CWS     /     Xả / Khử khuẩn nguồn cấp nước lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flush/Disinfect HWS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T045817Z" creationid="Kieu Lan" creationdate="20211130T045817Z">
+        <seg>Flush/Disinfect HWS     /     Xả / Khử khuẩn nguồn cấp nước nóng</seg>
       </tuv>
     </tu>
     <tu>
@@ -15197,6 +15237,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grease Traps/ Clean Drains</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T045840Z" creationid="Kieu Lan" creationdate="20211130T045840Z">
+        <seg>Grease Traps/ Clean Drains     /     Bẫy mỡ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grease traps shall be fitted with siphon storage tanks that will store a minimum of 14 days of grease.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T013454Z" creationid="Kieu Lan" creationdate="20210909T095444Z">
@@ -15610,6 +15658,14 @@
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T081135Z" creationid="LanHK" creationdate="20210717T022859Z">
         <seg>Guidelines for Plant space Required     /     Hướng dẫn về diện tích bố trí trạm kĩ thuật </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H&amp;CWS Balance</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T045836Z" creationid="Kieu Lan" creationdate="20211130T045836Z">
+        <seg>H&amp;CWS Balance     /     Cân bằng nguồn cấp nước nóng &amp; lạnh</seg>
       </tuv>
     </tu>
     <tu>
@@ -19083,6 +19139,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T024356Z" creationid="LanHK" creationdate="20210715T063639Z">
         <seg>Lifts     /     Thang máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lifts (60 days)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T045850Z" creationid="Kieu Lan" creationdate="20211130T045847Z">
+        <seg>Lifts (60 days)     /     Thang máy (60 ngày)</seg>
       </tuv>
     </tu>
     <tu>
