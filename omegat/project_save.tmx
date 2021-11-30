@@ -9856,6 +9856,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm Spatial Requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021430Z" creationid="Kieu Lan" creationdate="20211130T021430Z">
+        <seg>Confirm Spatial Requirements     /     Xác nhận các yêu cầu về không gian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm utility Demands</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021445Z" creationid="Kieu Lan" creationdate="20211130T021445Z">
+        <seg>Confirm utility Demands     /     Xác nhận nhu cầu điện nước...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirmation of whether plant has been sized correctly to meet the loads - this can have substantial benefits on future projects.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T022159Z" creationid="Kieu Lan" creationdate="20210930T022159Z">
@@ -10667,6 +10683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detail Design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021449Z" creationid="Kieu Lan" creationdate="20211130T021449Z">
+        <seg>Detail Design     /     Thiết kế chi tiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Details of suitable boilers are available at www.woodenergyltd.co.uk.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210728T045739Z" creationid="LanHK" creationdate="20210728T045739Z">
@@ -10696,6 +10720,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021129Z" creationid="Kieu Lan" creationdate="20211130T021129Z">
         <seg>Develop Design Brief     /     Lên hồ sơ dự án</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Develop Detail Design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021456Z" creationid="Kieu Lan" creationdate="20211130T021456Z">
+        <seg>Develop Detail Design     /     Phát triển thiết kế chi tiết</seg>
       </tuv>
     </tu>
     <tu>
