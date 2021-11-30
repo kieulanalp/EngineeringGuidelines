@@ -9300,6 +9300,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checklist 10 - Boiler Fuel Options</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062507Z" creationid="Kieu Lan" creationdate="20211130T062507Z">
+        <seg>Checklist 10 - Boiler Fuel Options     /     Checklist 10 - Các phương án nhiên liệu cho nồi hơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 11 - Telephone &amp; tv</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062518Z" creationid="Kieu Lan" creationdate="20211130T062518Z">
+        <seg>Checklist 11 - Telephone &amp; TV     /     Checklist 11 - Điện thoại và TV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checklist 2 - Site Location/Summary Details</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062040Z" creationid="Kieu Lan" creationdate="20211130T061930Z">
@@ -9336,6 +9352,30 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062132Z" creationid="Kieu Lan" creationdate="20211130T062132Z">
         <seg>Checklist 6 - Potable Water     /     Checklist 6 - Nước sinh hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 7 - Sewage Disposal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062346Z" creationid="Kieu Lan" creationdate="20211130T062346Z">
+        <seg>Checklist 7 - Sewage Disposal     /     Checklist 7 - Nước thải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 8 - Fire Protection</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062359Z" creationid="Kieu Lan" creationdate="20211130T062359Z">
+        <seg>Checklist 8 - Fire Protection     /     Checklist 8 - PCCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist 9 - District steam/heating</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062419Z" creationid="Kieu Lan" creationdate="20211130T062413Z">
+        <seg>Checklist 9 - District steam/heating     /     Checklist 9 - Cấp hơi nước / Sưởi</seg>
       </tuv>
     </tu>
     <tu>
@@ -13596,8 +13636,8 @@
       <tuv lang="EN-US">
         <seg>Filtered Deposits to Drain/Non Potable systems</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062213Z" creationid="Kieu Lan" creationdate="20210916T064243Z">
-        <seg>Filtered Deposits to Drain/Non Potable systems     /     Nước đã lọc thải đến ga thoát/hoặc hệ thống nước không phải nước sinh hoạt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062317Z" creationid="Kieu Lan" creationdate="20210916T064243Z">
+        <seg>Filtered Deposits to Drain/Non Potable systems     /     Nước đã lọc thải đến ga thoát/hoặc hệ thống nước không dành cho sinh hoạt</seg>
       </tuv>
     </tu>
     <tu>
@@ -21445,8 +21485,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Non-Potable Top-up Prior to Treatment Process</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062153Z" creationid="Kieu Lan" creationdate="20210916T064047Z">
-        <seg>Non-Potable Top-up Prior to Treatment Process     /     Bù nước không phải nước sinh hoạt trước quá trình xử lý</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T062306Z" creationid="Kieu Lan" creationdate="20210916T064047Z">
+        <seg>Non-Potable Top-up Prior to Treatment Process     /     Bù nước không dành cho sinh hoạt trước quá trình xử lý</seg>
       </tuv>
     </tu>
     <tu>
