@@ -11285,6 +11285,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draft for 200 bed Hotel</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T043112Z" creationid="Kieu Lan" creationdate="20211130T043112Z">
+        <seg>Draft for 200 bed Hotel     /     Sơ thảo cho khách sạn 200 giường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drainage</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T030815Z" creationid="Kieu Lan" creationdate="20210405T154714Z">
