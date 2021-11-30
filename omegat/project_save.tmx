@@ -7167,6 +7167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appendix &amp; Design Compliance Checklists</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061725Z" creationid="Kieu Lan" creationdate="20211130T061725Z">
+        <seg>Appendix &amp; Design Compliance Checklists     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appendix - Technical Specifications - then reference each individual area</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="LanHK" creationdate="20210715T034555Z">
@@ -7347,6 +7355,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T020622Z" creationid="Kieu Lan" creationdate="20210916T020622Z">
         <seg>As an option, a proprietary unit such as “Fatstrippa” may be used, which has considerable benefits, refer to Volume 3 of this manual     /     Có thể cân nhắc phương án sử dụng hệ thống chính hãng như "Fatstrippa" với nhiều lợi ích đáng kể, tham khảo tập 3 của hướng dẫn này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As bu lit draw in gs/O&amp;M Manuals</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061610Z" creationid="Kieu Lan" creationdate="20211130T061610Z">
+        <seg>As built drawings/O&amp;M Manuals     /      Bản vẽ hoàn công và Hướng dẫn O&amp;M</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,6 +8398,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042237Z" creationid="Kieu Lan" creationdate="20211130T042237Z">
         <seg>Building structure to waterproofing     /     Xây kết cấu đến chống thấm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building tuning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061724Z" creationid="Kieu Lan" creationdate="20211130T061724Z">
+        <seg>Building tuning     /     Bàn giao tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -12373,6 +12397,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End of defects</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061720Z" creationid="Kieu Lan" creationdate="20211130T061720Z">
+        <seg>End of defects     /     Kết thúc Defect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Energy &amp; cost savings:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T030512Z" creationid="Kieu Lan" creationdate="20211108T030512Z">
@@ -13097,6 +13129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F Drafts submitted</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061621Z" creationid="Kieu Lan" creationdate="20211130T061612Z">
+        <seg>Drafts submitted     /     Nộp sơ thảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>F Permanent power</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T043429Z" creationid="Kieu Lan" creationdate="20211130T043409Z">
@@ -13534,6 +13574,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T021238Z" creationid="Kieu Lan" creationdate="20211130T021238Z">
         <seg>Final Applications     /     Hồ sơ nộp chính thức</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final As Eluilts and Manuals "</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061649Z" creationid="Kieu Lan" creationdate="20211130T061649Z">
+        <seg>Final As Builts and Manuals     /     Bản vẽ hoàn công và Hướng dẫn O&amp;M hoàn chỉnh</seg>
       </tuv>
     </tu>
     <tu>
@@ -21615,6 +21663,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T094851Z" creationid="Kieu Lan" creationdate="20210809T094851Z">
         <seg>Note: Where power failures are historically extended and fuel supplies are unreliable, storage capacity must be increased up to 7 days continuous full load operation. Where reliability of power is 99.98% +, fuel storage capacity can be reduced to 8 hours subject to IHG approval.     /     Lưu ý: Nếu thường xuyên mất điện kéo dài và nguồn cung nhiên liệu không đảm bảo, cần tăng lượng nhiên liệu dự trữ lên 7 ngày vận hành liên tục ở mức tải đỉnh. Nếu nguồn cấp điện đảm bảo 99.98% hoặc hơn, nhiên liệu dự trữ có thể giảm xuống 8h, cần trình IHG phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: any works testing/inspections to be listed separately on the construction programme.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T061714Z" creationid="Kieu Lan" creationdate="20211130T061714Z">
+        <seg>Note: any works testing/inspections to be listed separately on the construction programme.     /     Lưu ý: Bất cứ công việc test/ thanh tra nào cũng phải được liệt kê riêng biệt trên lịch trình thi công</seg>
       </tuv>
     </tu>
     <tu>
