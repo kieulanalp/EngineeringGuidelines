@@ -14459,6 +14459,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flooding Season:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T014412Z" creationid="Kieu Lan" creationdate="20211201T014412Z">
+        <seg>Flooding Season:     /     Mùa lụt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Floor Level</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T085126Z" creationid="Kieu Lan" creationdate="20210814T085117Z">
@@ -17065,8 +17073,8 @@
       <tuv lang="EN-US">
         <seg>Hurricane Season:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T013743Z" creationid="Kieu Lan" creationdate="20211201T013738Z">
-        <seg>Hurricane Season:     /     Mùa bão</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T014253Z" creationid="Kieu Lan" creationdate="20211201T013738Z">
+        <seg>Hurricane Season:     /     Mùa xoáy thuận nhiệt đới</seg>
       </tuv>
     </tu>
     <tu>
@@ -21359,6 +21367,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T023408Z" creationid="Kieu Lan" creationdate="20210814T023408Z">
         <seg>Monitors guestroom network connection and reports non-communicating rooms.     /     Giám sát kết nối mạng trong phòng khách và báo lại các phòng không kết nối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monsoon Season:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T014408Z" creationid="Kieu Lan" creationdate="20211201T014408Z">
+        <seg>Monsoon Season:     /     Mùa mưa gió mùa</seg>
       </tuv>
     </tu>
     <tu>
@@ -26736,6 +26752,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T074707Z" creationid="Kieu Lan" creationdate="20210804T074250Z">
         <seg>See the following illustration for a typical 2 port valve system with primary pumping only.     /     Xem hình dưới về hệ van 2 ngả với chỉ bơm chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seismic Index:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T014445Z" creationid="Kieu Lan" creationdate="20211201T014445Z">
+        <seg>Seismic Index:     /     Chỉ số địa chấn</seg>
       </tuv>
     </tu>
     <tu>
@@ -32530,8 +32554,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Typhoon Season:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T013740Z" creationid="Kieu Lan" creationdate="20211201T013732Z">
-        <seg>Typhoon Season:     /     Mùa mưa</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T014132Z" creationid="Kieu Lan" creationdate="20211201T013732Z">
+        <seg>Typhoon Season:     /     Mùa bão nhiệt đới</seg>
       </tuv>
     </tu>
     <tu>
