@@ -1911,14 +1911,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>2.0</seg>
-      </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071007Z" creationid="Kieu Lan" creationdate="20210824T071007Z">
-        <seg>2.0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>2.2.1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061346Z" creationid="Kieu Lan" creationdate="20210805T061346Z">
@@ -6894,6 +6886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternative Gas Sources:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T062059Z" creationid="Kieu Lan" creationdate="20211201T062059Z">
+        <seg>Alternative Gas Sources:     /     Nguồn cấp ga khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the MLSS is normally maintained higher due to the attached growth thus doesn’t requires any sludge recycling but normal practice is to give a back-up sludge recycling line so that if there is too low BOD loading, the sludge can be recycled.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210822T165957Z" creationid="Kieu Lan" creationdate="20210822T165957Z">
@@ -10428,6 +10428,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T032033Z" creationid="Kieu Lan" creationdate="20211006T032033Z">
         <seg>Controller type     /     Loại điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controlling agency:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T061921Z" creationid="Kieu Lan" creationdate="20211201T061921Z">
+        <seg>Controlling agency:     /     Cơ quan kiểm soát</seg>
       </tuv>
     </tu>
     <tu>
@@ -15317,6 +15325,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GAS SERVICE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T061948Z" creationid="Kieu Lan" creationdate="20211201T061948Z">
+        <seg>GAS SERVICE     /     Cấp ga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GENERAL</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210525T073304Z" creationid="LanHK" creationdate="20210525T073304Z">
@@ -18484,10 +18500,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is frequency change contemplated?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T061932Z" creationid="Kieu Lan" creationdate="20211201T061932Z">
+        <seg>Is frequency change contemplated?     /     Đã tính tới thay đổi tần số chưa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is natural gas available to be used as the source of energy for hot water?</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024842Z" creationid="Kieu Lan" creationdate="20210816T024826Z">
         <seg>Is natural gas available to be used as the source of energy for hot water?     /     Khí ga tự nhiên có thể dùng làm nguồn năng lượng tạo nước nóng?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is utility, piped-in gas available:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T062048Z" creationid="Kieu Lan" creationdate="20211201T062048Z">
+        <seg>Is utility, piped-in gas available:     /     Có đường ống cấp ga không?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24166,6 +24198,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061441Z" creationid="Kieu Lan" creationdate="20210805T061441Z">
         <seg>Power factor correction equipment will be provided to the main electrical distribution control boards to automatically</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power factor requirements:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T061914Z" creationid="Kieu Lan" creationdate="20211201T061914Z">
+        <seg>Power factor requirements:     /     Yêu cầu về hệ số công suất</seg>
       </tuv>
     </tu>
     <tu>
