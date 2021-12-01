@@ -7239,6 +7239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application Lead Time:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063639Z" creationid="Kieu Lan" creationdate="20211201T063639Z">
+        <seg>Application lead time:     /     Thời gian sản xuất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application lead time:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041421Z" creationid="Kieu Lan" creationdate="20211201T041421Z">
@@ -7283,6 +7291,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044959Z" creationid="Kieu Lan" creationdate="20210805T044959Z">
         <seg>Aquatherm Pipe     /     Ống Aquatherm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are LPG installations subject to local codes/practice?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063819Z" creationid="Kieu Lan" creationdate="20211201T063741Z">
+        <seg>Are LPG installations subject to local codes/practice?     /     Việc lắp đặt khí ga lỏng có được kiểm soát bởi quy định địa phương nào không?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8916,6 +8932,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CV, if known:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063702Z" creationid="Kieu Lan" creationdate="20211201T063702Z">
+        <seg>CV, if known:     /     CV, nếu biết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cab Height:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20211122T092434Z" creationid="LanHK" creationdate="20211122T092434Z">
@@ -10448,6 +10472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Controlling Agency:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063641Z" creationid="Kieu Lan" creationdate="20211201T063641Z">
+        <seg>Controlling agency:     /     Cơ quan kiểm soát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Controlling agency:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T061921Z" creationid="Kieu Lan" creationdate="20211201T061921Z">
@@ -10616,6 +10648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cost:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063708Z" creationid="Kieu Lan" creationdate="20211201T063708Z">
+        <seg>Cost:     /     Chi phí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Country:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070644Z" creationid="Kieu Lan" creationdate="20211130T070644Z">
@@ -10669,6 +10709,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132605Z" creationid="Kieu Lan" creationdate="20210815T132605Z">
         <seg>Cyanides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cylinder size:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063658Z" creationid="Kieu Lan" creationdate="20211201T063658Z">
+        <seg>Cylinder size:     /     Kích thước bình</seg>
       </tuv>
     </tu>
     <tu>
@@ -17456,6 +17504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If LPG, is bulk delivery available:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063748Z" creationid="Kieu Lan" creationdate="20211201T063653Z">
+        <seg>If LPG, is bulk delivery available:     /     Nếu là ga lỏng, có thể giao hàng khối lượng lớn không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a glycol system is used, then the glycol shall be food</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061357Z" creationid="Kieu Lan" creationdate="20210805T061357Z">
@@ -18524,6 +18580,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is copy of code/regulations attached?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063831Z" creationid="Kieu Lan" creationdate="20211201T063831Z">
+        <seg>Is copy of code/regulations attached?     /     Đã đính kèm bản sao của quy định này chưa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is frequency change contemplated?</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T061932Z" creationid="Kieu Lan" creationdate="20211201T061932Z">
@@ -18536,6 +18600,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024842Z" creationid="Kieu Lan" creationdate="20210816T024826Z">
         <seg>Is natural gas available to be used as the source of energy for hot water?     /     Khí ga tự nhiên có thể dùng làm nguồn năng lượng tạo nước nóng?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is supply adequate?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063714Z" creationid="Kieu Lan" creationdate="20211201T063714Z">
+        <seg>Is supply adequate?     /     Nguồn cung có đủ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22124,6 +22196,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063834Z" creationid="Kieu Lan" creationdate="20211201T063834Z">
+        <seg>Note     /     Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note 1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061419Z" creationid="Kieu Lan" creationdate="20210805T061419Z">
@@ -25350,6 +25430,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T021514Z" creationid="Kieu Lan" creationdate="20210713T021514Z">
         <seg>Rate of rise heat detectors with a fixed temperature element must be used in kitchens and car parks.     /      Đầu báo nhiệt gia tăng ROR với tính năng định sẵn mức nhiệt cụ thể phải được dùng trong bếp và khu đỗ xe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate schedule attached:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063635Z" creationid="Kieu Lan" creationdate="20211201T063635Z">
+        <seg>Rate schedule attached:     /     Đính kèm danh sách mức phí</seg>
       </tuv>
     </tu>
     <tu>
@@ -35802,6 +35890,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061349Z" creationid="Kieu Lan" creationdate="20210805T061349Z">
         <seg>if the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if utility gas is not available, furnish the following data:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064807Z" creationid="Kieu Lan" creationdate="20211201T064807Z">
+        <seg>if utility gas is not available, furnish the following data:     /     Nếu không có ống dẫn ga, bổ sung thêm các thông tin sau:</seg>
       </tuv>
     </tu>
     <tu>
