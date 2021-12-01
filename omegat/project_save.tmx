@@ -18757,6 +18757,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is percolation data available:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T082838Z" creationid="Kieu Lan" creationdate="20211201T082838Z">
+        <seg>Is percolation data available:     /     Có dữ liệu lọc?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is supply adequate?</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063714Z" creationid="Kieu Lan" creationdate="20211201T063714Z">
@@ -19621,6 +19629,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T080159Z" creationid="LanHK" creationdate="20210609T080159Z">
         <seg>Ladders are not permitted for means of escape.         /       Không được sử dụng thang đơn làm thang thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lake:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T082854Z" creationid="Kieu Lan" creationdate="20211201T082854Z">
+        <seg>Lake:     /     Hồ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22805,6 +22821,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ocean/Sea:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T082849Z" creationid="Kieu Lan" creationdate="20211201T082849Z">
+        <seg>Ocean/Sea:     /     Biển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Odor and taste:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T075143Z" creationid="Kieu Lan" creationdate="20211201T075143Z">
@@ -25190,6 +25214,14 @@ sẽ bao gồm các thông tin sau</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proposed effluent discharge into:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T082848Z" creationid="Kieu Lan" creationdate="20211201T082848Z">
+        <seg>Proposed effluent discharge into:     /     Đề xuất xả thải ra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proposed off-site testing</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095951Z" creationid="Kieu Lan" creationdate="20211124T095951Z">
@@ -26451,6 +26483,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retention Size/Distance:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T084741Z" creationid="Kieu Lan" creationdate="20211201T084741Z">
+        <seg>Retention Size/Distance:     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return elevators to ground floor or other floor If fire onground floor</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T030952Z" creationid="Kieu Lan" creationdate="20210713T080625Z">
@@ -26538,6 +26578,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T141928Z" creationid="Kieu Lan" creationdate="20210820T141928Z">
         <seg>Ring-Seal socket/ Solvent Fittings     /     Hàn dung môi &amp; khớp nối tròn có gioăng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>River:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T082858Z" creationid="Kieu Lan" creationdate="20211201T082858Z">
+        <seg>River:     /     Sông</seg>
       </tuv>
     </tu>
     <tu>
@@ -27876,6 +27924,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070650Z" creationid="Kieu Lan" creationdate="20211130T070650Z">
         <seg>Site Address:     /     Địa chỉ dự án</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size of filter bed/distance:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T082828Z" creationid="Kieu Lan" creationdate="20211201T082828Z">
+        <seg>Size of filter bed/distance:     /     Kích thước bể lọc/ khoảng cách</seg>
       </tuv>
     </tu>
     <tu>
