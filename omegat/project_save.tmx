@@ -33484,6 +33484,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Voltage Stability:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T040903Z" creationid="Kieu Lan" creationdate="20211201T040903Z">
+        <seg>Voltage Stability:     /     Độ ổn định điện áp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Voltage: max. AC 265 V, min. AC 19 V</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T075643Z" creationid="Kieu Lan" creationdate="20211006T075643Z">
