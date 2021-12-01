@@ -21837,6 +21837,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Municipal System:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080809Z" creationid="Kieu Lan" creationdate="20211201T080809Z">
+        <seg>Municipal System:     /     Hệ thống của địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must be connected to emergency lighting.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20211122T080957Z" creationid="LanHK" creationdate="20211122T080957Z">
@@ -22797,6 +22805,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Off-site disposal/distance:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080851Z" creationid="Kieu Lan" creationdate="20211201T080849Z">
+        <seg>Off-site disposal/distance:     /     Xả thải tại nơi khác/ khoảng cách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Offices</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045055Z" creationid="LanHK" creationdate="20210715T064453Z">
@@ -22817,6 +22833,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T083757Z" creationid="Kieu Lan" creationdate="20211117T072133Z">
         <seg>On-line trending of selected data values, with automatic creation and real-time display (tabular and graphical). Optional export of values to 3rd party software (MS Excel).     /     Xu hướng của các giá trị dữ liệu được chọn, tự động tạo và hiển thị trong thời gian thực (dạng bảng và biểu đồ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On-site treatment/distance:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080829Z" creationid="Kieu Lan" creationdate="20211201T080829Z">
+        <seg>On-site treatment/distance:     /     Xử lý tại hiện trường/ khoảng cách</seg>
       </tuv>
     </tu>
     <tu>
@@ -25126,6 +25150,14 @@ sẽ bao gồm các thông tin sau</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proposed Disposal method:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080754Z" creationid="Kieu Lan" creationdate="20211201T080754Z">
+        <seg>Proposed Disposal method:     /     Đề xuất phương pháp xử lý nước thải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proposed Facilities:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070732Z" creationid="Kieu Lan" creationdate="20211130T070732Z">
@@ -26718,6 +26750,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SEWAGE DISPOSAL</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080707Z" creationid="Kieu Lan" creationdate="20211201T080707Z">
+        <seg>SEWAGE DISPOSAL     /     Xử lý nước thải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SHOWER/BATH FOR</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041251Z" creationid="Kieu Lan" creationdate="20210802T041251Z">
@@ -27908,6 +27948,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T041510Z" creationid="Kieu Lan" creationdate="20210824T041510Z">
         <seg>Sludge is totally digested and can be disposed off easily.     /     Bùn được phân hủy hoàn toàn và dễ loại bỏ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sludge off-site/distance:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T081011Z" creationid="Kieu Lan" creationdate="20211201T081011Z">
+        <seg>Sludge off-site/distance:     /     Bùn thải tại nơi khác/ khoảng cách</seg>
       </tuv>
     </tu>
     <tu>
