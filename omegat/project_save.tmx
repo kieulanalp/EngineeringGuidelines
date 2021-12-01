@@ -6226,6 +6226,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adequacy of system over next 5 years:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041331Z" creationid="Kieu Lan" creationdate="20211201T041331Z">
+        <seg>Adequacy of system over next 5 years:     /     Tính phù hợp của hệ thống trong 5 năm tới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adequate flow/temperatures</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T123727Z" creationid="Kieu Lan" creationdate="20210815T123727Z">
@@ -7223,6 +7231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application lead time:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041421Z" creationid="Kieu Lan" creationdate="20211201T041421Z">
+        <seg>Application lead time:     /     Thời gian sản xuất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211108T100025Z" creationid="Kieu Lan" creationdate="20211108T100025Z">
@@ -7259,6 +7275,15 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044959Z" creationid="Kieu Lan" creationdate="20210805T044959Z">
         <seg>Aquatherm Pipe     /     Ống Aquatherm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>không chắc lắm</note>
+      <tuv lang="EN-US">
+        <seg>Are two services possible?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041252Z" creationid="Kieu Lan" creationdate="20211201T041201Z">
+        <seg>Are two services possible?     /     Có thể bố trí hai nguồn cấp?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21525,8 +21550,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>NO</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210505T045533Z" creationid="LanHK" creationdate="20210505T045533Z">
-        <seg>NO KHÔNG</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041225Z" creationid="LanHK" creationdate="20210505T045533Z">
+        <seg>No     /     Không</seg>
       </tuv>
     </tu>
     <tu>
@@ -34627,8 +34652,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>YES</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210505T045513Z" creationid="LanHK" creationdate="20210505T045513Z">
-        <seg>YES CÓ</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041214Z" creationid="LanHK" creationdate="20210505T045513Z">
+        <seg>Yes     /     Có</seg>
       </tuv>
     </tu>
     <tu>
