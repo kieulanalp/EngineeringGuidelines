@@ -8050,6 +8050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bacterial count:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T075206Z" creationid="Kieu Lan" creationdate="20211201T075206Z">
+        <seg>Bacterial count:     /     Số lượng vi khẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bahrain Iran Iraq Israel / Occupied Territories Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T083658Z" creationid="LanHK" creationdate="20210601T101204Z">
@@ -9766,6 +9774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chlorine residual:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T075222Z" creationid="Kieu Lan" creationdate="20211201T075214Z">
+        <seg>Chlorine residual:     /     Dư lượng clo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chromium</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T132559Z" creationid="Kieu Lan" creationdate="20210815T132559Z">
@@ -10653,6 +10669,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T134949Z" creationid="Kieu Lan" creationdate="20210820T134949Z">
         <seg>Corrosion resistant coatings available     /     Có sơn phủ chống ăn mòn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Corrosive or scaling tendency of water. Reference is made to Langelier &amp; Ryznar Indices.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T075925Z" creationid="Kieu Lan" creationdate="20211201T075218Z">
+        <seg>Corrosive or scaling tendency of water. Reference is made to Langelier &amp; Ryznar Indices.     /     Độ ăn mòn của nước. Tham khảo Chỉ số Langelier &amp; Ryznar</seg>
       </tuv>
     </tu>
     <tu>
@@ -22709,6 +22733,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Odor and taste:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T075143Z" creationid="Kieu Lan" creationdate="20211201T075143Z">
+        <seg>Odor and taste:     /     Mùi và vị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Offices</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045055Z" creationid="LanHK" creationdate="20210715T064453Z">
@@ -32753,6 +32785,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total hardness for each season:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T075152Z" creationid="Kieu Lan" creationdate="20211201T075152Z">
+        <seg>Total hardness for each season:     /     Tổng độ cứng nước đối với mỗi mùa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total plant space (m2)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023725Z">
@@ -36507,6 +36547,14 @@ KL: e đọc thì đại khái là một  miếng cao su trên cái cạnh cửa
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T063356Z" creationid="Kieu Lan" creationdate="20210916T063356Z">
         <seg>pH Level Control     /     Kiểm soát mức pH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pH for each season:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T075159Z" creationid="Kieu Lan" creationdate="20211201T075159Z">
+        <seg>pH for each season:     /     Nồng độ pH mỗi mùa</seg>
       </tuv>
     </tu>
     <tu>
