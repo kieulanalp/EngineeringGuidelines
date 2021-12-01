@@ -7078,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annual Service Interruption Hours:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063542Z" creationid="Kieu Lan" creationdate="20211201T063542Z">
+        <seg>Annual Service Interruption Hours:     /     Số giờ tam dừng trong năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annual Snowfall:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T090854Z" creationid="Kieu Lan" creationdate="20211130T090854Z">
@@ -20699,6 +20707,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Major Cause of Interruption:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063601Z" creationid="Kieu Lan" creationdate="20211201T063601Z">
+        <seg>Major Cause of Interruption:     /     Nguyên nhân chính của việc tạm dừng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Major equipment in place</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T042314Z" creationid="Kieu Lan" creationdate="20211130T042314Z">
@@ -26249,6 +26265,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T142706Z" creationid="Kieu Lan" creationdate="20210820T142706Z">
         <seg>Rough inner surface     /     Bề mặt bên trong không nhẵn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rules &amp; Regulations attached:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063617Z" creationid="Kieu Lan" creationdate="20211201T063617Z">
+        <seg>Rules &amp; Regulations attached:     /     Đính kèm các quy định và luật lệ liên quan</seg>
       </tuv>
     </tu>
     <tu>
