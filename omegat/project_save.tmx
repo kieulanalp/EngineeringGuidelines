@@ -14948,6 +14948,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frequency Stability:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T040955Z" creationid="Kieu Lan" creationdate="20211201T040955Z">
+        <seg>Frequency Stability:     /     Độ ổn định tần số</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh Air</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210716T092508Z" creationid="LanHK" creationdate="20210716T092508Z">
@@ -17323,6 +17331,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211120T033717Z" creationid="Kieu Lan" creationdate="20211120T033717Z">
         <seg>Identification and upload of all system data from controllers     /     Xác nhận danh tính và tải lên tất cả các dữ liệu hệ thống từ máy điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identify Major Causes of Service Disruption:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041056Z" creationid="Kieu Lan" creationdate="20211201T041056Z">
+        <seg>Identify Major Causes of Service Disruption:     /     Xác định các nguyên nhân chính gây gián đoạn dịch vụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22263,6 +22279,22 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T013712Z" creationid="Kieu Lan" creationdate="20211201T013712Z">
         <seg>Number of Annual Sunshine Hours;:     /     Số giờ nắng hàng năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Blackout Hours:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041035Z" creationid="Kieu Lan" creationdate="20211201T041035Z">
+        <seg>Number of Blackout Hours:     /     Số giờ mất điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Brownout Hours:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041028Z" creationid="Kieu Lan" creationdate="20211201T041028Z">
+        <seg>Number of Brownout Hours:     /     Số giờ sụt áp</seg>
       </tuv>
     </tu>
     <tu>
