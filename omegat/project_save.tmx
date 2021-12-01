@@ -6242,6 +6242,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adequacy over next 15 years:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095612Z" creationid="Kieu Lan" creationdate="20211201T095612Z">
+        <seg>Adequacy over next 15 years:     /     Tính phù hợp của hệ thống trong 15 năm tới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adequacy over next 5 years:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095605Z" creationid="Kieu Lan" creationdate="20211201T095605Z">
+        <seg>Adequacy over next 5 years:     /     Tính phù hợp của hệ thống trong 5 năm tới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adequate flow/temperatures</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T123727Z" creationid="Kieu Lan" creationdate="20210815T123727Z">
@@ -7130,6 +7146,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T040914Z" creationid="Kieu Lan" creationdate="20210806T040914Z">
         <seg>Annual energy consumption for the whole hotel equated to kWh/room/annum     /     Điện năng tiêu thụ hàng năm của khách sạn - kWh/phòng/năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annual fee/rent:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095908Z" creationid="Kieu Lan" creationdate="20211201T095908Z">
+        <seg>Annual fee/rent:     /     Chi phí/ tiền thuê hàng năm</seg>
       </tuv>
     </tu>
     <tu>
@@ -15280,8 +15304,8 @@
       <tuv lang="EN-US">
         <seg>From an operational cost and reliability perspective the following systems should be utilised:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T025431Z" creationid="Kieu Lan" creationdate="20210816T025413Z">
-        <seg>From an operational cost and reliability perspective the following systems should be utilised:     /     Nhìn từ góc độ chi phí vận hành và độ đáng tin cậy, các hệ thống sau nên được sử dụng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095706Z" creationid="Kieu Lan" creationdate="20210816T025413Z">
+        <seg>From an operational cost and reliability perspective the following systems should be utilised:     /     Nhìn từ góc độ chi phí vận hành và độ đảm bảo cậy, các hệ thống sau nên được sử dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -17723,8 +17747,8 @@
       <tuv lang="EN-US">
         <seg>If the Utility Company is able to provide dual feed power supplies to the site from separate independent generating sources, or separate external mains, then consideration may be given to deletion of the standby generator set. This will be subject to receipt in writing from the Utility Company of verification of the supplies and their reliability. (refer to electrical section for further details).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210714T082223Z" creationid="Kieu Lan" creationdate="20210714T080833Z">
-        <seg>If the Utility Company is able to provide dual feed power supplies to the site from separate independent generating sources, or separate external mains, then consideration may be given to deletion of the standby generator set. This will be subject to receipt in writing from the Utility Company of verification of the supplies and their reliability. (refer to electrical section for further details).     /     Nếu công ty Điện lực có thể cung cấp nguồn cấp điện đôi cho khách sạn từ các nguồn phát điện độc lập riêng biệt, hoặc lưới điện bên ngoài riêng biệt, vậy thì có thể cân nhắc miễn bộ máy phát điện dự phòng. Việc này phụ thuộc vào xác nhận bằng văn bản của công ty Điện lực về các nguồn cung cấp và độ đáng tin cậy của họ (xem cụ thể hơn tại mục Điện)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095706Z" creationid="Kieu Lan" creationdate="20210714T080833Z">
+        <seg>If the Utility Company is able to provide dual feed power supplies to the site from separate independent generating sources, or separate external mains, then consideration may be given to deletion of the standby generator set. This will be subject to receipt in writing from the Utility Company of verification of the supplies and their reliability. (refer to electrical section for further details).     /     Nếu công ty Điện lực có thể cung cấp nguồn cấp điện đôi cho khách sạn từ các nguồn phát điện độc lập riêng biệt, hoặc lưới điện bên ngoài riêng biệt, vậy thì có thể cân nhắc miễn bộ máy phát điện dự phòng. Việc này phụ thuộc vào xác nhận bằng văn bản của công ty Điện lực về các nguồn cung cấp và độ đảm bảo cậy của họ (xem cụ thể hơn tại mục Điện)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26299,6 +26323,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reliability of system:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095717Z" creationid="Kieu Lan" creationdate="20211201T095624Z">
+        <seg>Reliability of system:     /     Độ đảm bảo của hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reliability: total hours shut down annually:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080440Z" creationid="Kieu Lan" creationdate="20211201T080440Z">
@@ -31723,8 +31755,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The requirements for storage will depend upon the reliability of the water supply, which should be confirmed before deciding upon the storage requirements indicated in section 6. It is preferable to reduce storage due to the potential health risk, but the final storage requirements should be based on the reliability, and maximum water flow available.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T035536Z" creationid="Kieu Lan" creationdate="20210714T094153Z">
-        <seg>The requirements for storage will depend upon the reliability of the water supply, which should be confirmed before deciding upon the storage requirements indicated in section 6. It is preferable to reduce storage due to the potential health risk, but the final storage requirements should be based on the reliability, and maximum water flow available.     /     Yêu cầu đối với dự trữ nước sẽ phụ thuộc vào độ đáng tin cậy của nguồn cấp, việc này cần phải được xác nhận trước khi quyết định yêu cầu đối với bể trữ như trong Mục 6. Ưu tiên giảm thiểu lượng nước dự trữ do nguy cơ tiềm ẩn đối với sức khỏe, tuy nhiên yêu cầu cuối cùng đối với bể trữ nước nên dựa trên độ đáng tin cậy và dòng chảy tối đa sẵn có.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095706Z" creationid="Kieu Lan" creationdate="20210714T094153Z">
+        <seg>The requirements for storage will depend upon the reliability of the water supply, which should be confirmed before deciding upon the storage requirements indicated in section 6. It is preferable to reduce storage due to the potential health risk, but the final storage requirements should be based on the reliability, and maximum water flow available.     /     Yêu cầu đối với dự trữ nước sẽ phụ thuộc vào độ đảm bảo cậy của nguồn cấp, việc này cần phải được xác nhận trước khi quyết định yêu cầu đối với bể trữ như trong Mục 6. Ưu tiên giảm thiểu lượng nước dự trữ do nguy cơ tiềm ẩn đối với sức khỏe, tuy nhiên yêu cầu cuối cùng đối với bể trữ nước nên dựa trên độ đảm bảo cậy và dòng chảy tối đa sẵn có.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32204,8 +32236,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:</seg>
       </tuv>
-      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T031156Z" creationid="Kieu Lan" creationdate="20210629T064140Z">
-        <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:     /     Phải tiến hành nghiên cứu mức độ đáng tin cậy đối với dịch vụ điện nước, thể hiện số giờ cung cấp mỗi năm, nhưng các nguyên tắc chung được liệt kê dưới đây: </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095706Z" creationid="Kieu Lan" creationdate="20210629T064140Z">
+        <seg>The utility services must be subject to a reliability study to demonstrate the typical available hours per annum, but general principles are outlined below:     /     Phải tiến hành nghiên cứu mức độ đảm bảo cậy đối với dịch vụ điện nước, thể hiện số giờ cung cấp mỗi năm, nhưng các nguyên tắc chung được liệt kê dưới đây: </seg>
       </tuv>
     </tu>
     <tu>
@@ -35645,8 +35677,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>available, then an additional electrical supply system must also be provided in the form of an independent electrical generating plant, or a totally independent power supply from an alternative generating source. An availability in excess of 99.988% is required (i.e. not more than one hour interruption per year) to obviate the need for the generator.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T103258Z" creationid="Kieu Lan" creationdate="20210806T103258Z">
-        <seg>available, then an additional electrical supply system must also be provided in the form of an independent electrical generating plant, or a totally independent power supply from an alternative generating source. An availability in excess of 99.988% is required (i.e. not more than one hour interruption per year) to obviate the need for the generator.     /     Nguồn cấp điện phải có độ đáng tin cậy lớn hơn &gt; 99.988%. Nếu không đạt được mức này, phải có hệ thống cấp điện bổ sung nhờ nguồn phát thay thế khác. </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095706Z" creationid="Kieu Lan" creationdate="20210806T103258Z">
+        <seg>available, then an additional electrical supply system must also be provided in the form of an independent electrical generating plant, or a totally independent power supply from an alternative generating source. An availability in excess of 99.988% is required (i.e. not more than one hour interruption per year) to obviate the need for the generator.     /     Nguồn cấp điện phải có độ đảm bảo cậy lớn hơn &gt; 99.988%. Nếu không đạt được mức này, phải có hệ thống cấp điện bổ sung nhờ nguồn phát thay thế khác. </seg>
       </tuv>
     </tu>
     <tu>
