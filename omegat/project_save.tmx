@@ -7278,6 +7278,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Are interruptible rates available?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063526Z" creationid="Kieu Lan" creationdate="20211201T063526Z">
+        <seg>Are interruptible rates available?     /     Có dịch vụ cung cấp ga có thể tạm dừng giữa chừng?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>không chắc lắm</note>
       <tuv lang="EN-US">
         <seg>Are two services possible?</seg>
@@ -19852,6 +19860,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T071842Z" creationid="LanHK" creationdate="20210602T101133Z">
         <seg>Like other vertical shafts linen chutes must have the same fire resistance as the structure. In addition linen chutes must have:        /       Cũng như các trục ống đứng khác, ống thả đồ giặt phải có mức chống cháy tương đương kết cấu. Ngoài ra ống thả đồ giặt phải có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limits on quantity:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063248Z" creationid="Kieu Lan" creationdate="20211201T063248Z">
+        <seg>Limits on quantity:     /     Giới hạn về số lượng</seg>
       </tuv>
     </tu>
     <tu>
