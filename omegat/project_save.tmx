@@ -7310,11 +7310,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>dual service??? 	</note>
       <tuv lang="EN-US">
         <seg>Are Dual Services available:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T065044Z" creationid="Kieu Lan" creationdate="20211201T065044Z">
-        <seg>Are Dual Services available:     /     Có</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T072009Z" creationid="Kieu Lan" creationdate="20211201T065044Z">
+        <seg>Are Dual Services available:     /     </seg>
       </tuv>
     </tu>
     <tu>
