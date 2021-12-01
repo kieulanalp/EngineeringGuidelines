@@ -20025,6 +20025,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Limits on peak demand:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T074741Z" creationid="Kieu Lan" creationdate="20211201T074741Z">
+        <seg>Limits on peak demand:     /     Giới hạn đối với nhu cầu tải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Limits on quantity:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063248Z" creationid="Kieu Lan" creationdate="20211201T063248Z">
