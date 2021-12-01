@@ -6282,6 +6282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Age and Condition of Mains if known:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064950Z" creationid="Kieu Lan" creationdate="20211201T064950Z">
+        <seg>Age and Condition of Mains if known:     /     Tuổi thọ và tình trạng ống nếu biết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aims &amp; Objectives Section 1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070312Z" creationid="Kieu Lan" creationdate="20211130T070312Z">
@@ -6878,6 +6886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternate Sources:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064927Z" creationid="Kieu Lan" creationdate="20211201T064927Z">
+        <seg>Alternate Sources:     /     Nguồn cung khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternative - Preferred Option</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081228Z" creationid="Kieu Lan" creationdate="20210804T081228Z">
@@ -7291,6 +7307,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T044959Z" creationid="Kieu Lan" creationdate="20210805T044959Z">
         <seg>Aquatherm Pipe     /     Ống Aquatherm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are Dual Services available:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T065044Z" creationid="Kieu Lan" creationdate="20211201T065044Z">
+        <seg>Are Dual Services available:     /     Có</seg>
       </tuv>
     </tu>
     <tu>
@@ -11539,6 +11563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distance to Mains:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064934Z" creationid="Kieu Lan" creationdate="20211201T064934Z">
+        <seg>Distance to Main:     /     Khoảng cách đến ống chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribution Options</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T091644Z">
@@ -12586,6 +12618,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T074948Z" creationid="LanHK" creationdate="20210715T074948Z">
         <seg>Electrostatic smoke filters and negative pressure are required in the re-circulation system from Lounge and Bar areas when smoking is permitted. Fresh air rates are maximums when smoking is not permitted unless local regulations require higher rates.     /     Cần có bộ lọc khói tĩnh điện và áp suất âm trong hệ thống tái tuần hoàn từ khu vực Lounge và Bar nếu cho phép hút thuốc. Tỉ lệ khí tươi là tối đa khi không cho phép hút thuốc, trừ khi địa phương yêu cầu tỉ lệ cao hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064942Z" creationid="Kieu Lan" creationdate="20211201T064942Z">
+        <seg>Elevation     /     Ca độ</seg>
       </tuv>
     </tu>
     <tu>
@@ -18082,6 +18122,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indicate cost of LPG:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064858Z" creationid="Kieu Lan" creationdate="20211201T064858Z">
+        <seg>Indicate cost of LPG:     /     Giá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicate size of cylinders:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064854Z" creationid="Kieu Lan" creationdate="20211201T064854Z">
+        <seg>Indicate size of cylinders:     /     Kích cỡ bình chứa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indication of:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T011546Z" creationid="Kieu Lan" creationdate="20211115T011546Z">
@@ -18568,6 +18624,22 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095223Z" creationid="Kieu Lan" creationdate="20210728T095223Z">
         <seg>Iron content less than 0.1ppm     /     Hàm lượng sắt ít hơn 0.1pm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is LPG delivered by tank truck:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064848Z" creationid="Kieu Lan" creationdate="20211201T064848Z">
+        <seg>Is LPG delivered by tank truck:     /     Khí ga được giao bằng xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is LPG imported?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064817Z" creationid="Kieu Lan" creationdate="20211201T064815Z">
+        <seg>Is LPG imported?     /     Khí ga lỏng được nhập khẩu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19499,6 +19571,14 @@ file gốc bị nhảy dòng</note>
         <seg>Largest Tap Permitted:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063232Z" creationid="Kieu Lan" creationdate="20211201T063232Z">
+        <seg>Largest Tap Permitted:     /     Vòi đầu ra lớn nhất được phép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Largest tap permitted:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064956Z" creationid="Kieu Lan" creationdate="20211201T064956Z">
         <seg>Largest Tap Permitted:     /     Vòi đầu ra lớn nhất được phép</seg>
       </tuv>
     </tu>
@@ -21804,6 +21884,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name applicable codes:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064906Z" creationid="Kieu Lan" creationdate="20211201T064906Z">
+        <seg>Name applicable codes:     /     Các quy định áp dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name of the contract and the area of the building</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211126T062728Z" creationid="Kieu Lan" creationdate="20211126T062728Z">
@@ -23081,6 +23169,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091749Z" creationid="Kieu Lan" creationdate="20210815T091744Z">
         <seg>POS terminal     /     Máy POS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POTABLE WATER SERVICE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064919Z" creationid="Kieu Lan" creationdate="20211201T064919Z">
+        <seg>POTABLE WATER SERVICE     /     Nước sinh hoạt</seg>
       </tuv>
     </tu>
     <tu>
@@ -24611,6 +24707,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064940Z" creationid="Kieu Lan" creationdate="20211201T064940Z">
+        <seg>Press:     /     Áp suất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure Balancing between Hot and cold water systems</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T031646Z" creationid="Kieu Lan" creationdate="20211109T031646Z">
@@ -24703,6 +24807,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032233Z" creationid="Kieu Lan" creationdate="20211109T032233Z">
         <seg>Primary HVAC Controllers     /     Các bộ điều khiển HVAC chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Primary Supply by:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064923Z" creationid="Kieu Lan" creationdate="20211201T064923Z">
+        <seg>Primary Supply by:     /     Nguồn cung chính</seg>
       </tuv>
     </tu>
     <tu>
@@ -25050,6 +25162,14 @@ sẽ bao gồm các thông tin sau</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T092731Z">
         <seg>Provide examples of cost effective simple designs that are proven for use. (This does not preclude the designers from putting forward alternatives that are more cost effective or can provide other benefits).    /    Cung cấp ví dụ về các thiết kế đơn giản với mức giá tối ưu đã qua kiểm nghiệm thực tế (Điều này không có nghĩa là thiết kế không thể đưa ra các giải pháp khác tối ưu hơn hoặc đem lại các lợi ích khác)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide heating value of LPG:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064830Z" creationid="Kieu Lan" creationdate="20211201T064830Z">
+        <seg>Provide heating value of LPG:     /     Cung cấp giá trị làm nóng của khí ga lỏng</seg>
       </tuv>
     </tu>
     <tu>
@@ -27579,6 +27699,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070650Z" creationid="Kieu Lan" creationdate="20211130T070650Z">
         <seg>Site Address:     /     Địa chỉ dự án</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064936Z" creationid="Kieu Lan" creationdate="20211201T064936Z">
+        <seg>Size:     /     Kích thước</seg>
       </tuv>
     </tu>
     <tu>
