@@ -11612,6 +11612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distance of municipal:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T084809Z" creationid="Kieu Lan" creationdate="20211201T084809Z">
+        <seg>Distance of municipal:     /     Khoảng cách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distance to Main (meters):</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T062114Z" creationid="Kieu Lan" creationdate="20211201T062114Z">
@@ -12683,6 +12691,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064942Z" creationid="Kieu Lan" creationdate="20211201T064942Z">
         <seg>Elevation     /     Ca độ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevation of municipal:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T084814Z" creationid="Kieu Lan" creationdate="20211201T084814Z">
+        <seg>Elevation of municipal:     /     Độ cao</seg>
       </tuv>
     </tu>
     <tu>
@@ -23109,6 +23125,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T084759Z" creationid="Kieu Lan" creationdate="20211201T084759Z">
+        <seg>Other:     /     Khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outdoor Pools</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135540Z" creationid="Kieu Lan" creationdate="20210814T135540Z">
@@ -24868,6 +24892,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Present capacity factor:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095600Z" creationid="Kieu Lan" creationdate="20211201T095600Z">
+        <seg>Present capacity factor:     /     Hệ số công suất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Presentation and functions of the operator workstation(s) and peripherals (where provided)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20211122T073138Z" creationid="LanHK" creationdate="20211122T073128Z">
@@ -26485,8 +26517,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Retention Size/Distance:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T084741Z" creationid="Kieu Lan" creationdate="20211201T084741Z">
-        <seg>Retention Size/Distance:     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T084756Z" creationid="Kieu Lan" creationdate="20211201T084741Z">
+        <seg>Retention Size/Distance:     /     Kích thước bể chứa/ Khoảng cách</seg>
       </tuv>
     </tu>
     <tu>
@@ -27932,6 +27964,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T082828Z" creationid="Kieu Lan" creationdate="20211201T082828Z">
         <seg>Size of filter bed/distance:     /     Kích thước bể lọc/ khoảng cách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size of municipal main:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T084806Z" creationid="Kieu Lan" creationdate="20211201T084806Z">
+        <seg>Size of municipal main:     /     Kích thước đường ống địa phương</seg>
       </tuv>
     </tu>
     <tu>
