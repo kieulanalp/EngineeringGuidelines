@@ -20025,6 +20025,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Limits on peak consumption:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T074755Z" creationid="Kieu Lan" creationdate="20211201T074755Z">
+        <seg>Limits on peak consumption:     /     Giới hạn đối với mức tiêu thụ đỉnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Limits on peak demand:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T074741Z" creationid="Kieu Lan" creationdate="20211201T074741Z">
@@ -23037,6 +23045,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overall water quality:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T075121Z" creationid="Kieu Lan" creationdate="20211201T075121Z">
+        <seg>Overall water quality:     /     Chất lượng nước nói chugn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ozone</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095739Z" creationid="Kieu Lan" creationdate="20210920T095739Z">
@@ -25567,6 +25583,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063635Z" creationid="Kieu Lan" creationdate="20211201T063635Z">
         <seg>Rate schedule attached:     /     Đính kèm danh sách mức phí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate(s) applicable:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T074802Z" creationid="Kieu Lan" creationdate="20211201T074802Z">
+        <seg>Rate(s) applicable:     /     Mức phí áp dụng</seg>
       </tuv>
     </tu>
     <tu>
