@@ -14068,6 +14068,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filter Bed/Percolation/distance:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T082815Z" creationid="Kieu Lan" creationdate="20211201T082815Z">
+        <seg>Filter Bed/Percolation/distance:     /     Bể lọc/ khoảng cách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filter dirty</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061339Z" creationid="Kieu Lan" creationdate="20211117T061339Z">
