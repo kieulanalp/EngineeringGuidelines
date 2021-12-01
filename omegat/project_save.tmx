@@ -6218,6 +6218,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adequacy of System over next 15 years:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080617Z" creationid="Kieu Lan" creationdate="20211201T080617Z">
+        <seg>Adequacy of system over next 15 years:     /     Tính phù hợp của hệ thống trong 15 năm tới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adequacy of System over next 5 years:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080611Z" creationid="Kieu Lan" creationdate="20211201T080611Z">
+        <seg>Adequacy of system over next 5 years:     /     Tính phù hợp của hệ thống trong 5 năm tới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adequacy of system over next 5 years:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041331Z" creationid="Kieu Lan" creationdate="20211201T041331Z">
@@ -7251,6 +7267,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210920T095445Z" creationid="Kieu Lan" creationdate="20210920T095445Z">
         <seg>Application     /     Ứng dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application Lead Time Agency:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080607Z" creationid="Kieu Lan" creationdate="20211201T080607Z">
+        <seg>Application lead time agency:     /     Thời gian sản xuất</seg>
       </tuv>
     </tu>
     <tu>
@@ -10621,6 +10645,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T143438Z" creationid="Kieu Lan" creationdate="20210820T143438Z">
         <seg>Copper Pipe     /     ống đồng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy of rules and regulations attached:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080632Z" creationid="Kieu Lan" creationdate="20211201T080632Z">
+        <seg>Copy of rules and regulations attached:     /      Đính kèm các quy định và luật lệ liên quan</seg>
       </tuv>
     </tu>
     <tu>
@@ -17545,6 +17577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Identify major cause(s) of service disruption:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080455Z" creationid="Kieu Lan" creationdate="20211201T080455Z">
+        <seg>Identify major cause(s) of service disruption:     /     Xác định các nguyên nhân chính gây gián đoạn dịch vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If 2 hour enclosure is provided, only dry type electrical equipment is installed and dedicated room w/o storage.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093801Z" creationid="LanHK" creationdate="20210713T093801Z">
@@ -17629,6 +17669,14 @@
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T034257Z" creationid="LanHK" creationdate="20210714T022535Z">
         <seg>If natural gas is not available, then an analysis must be carried out to determine the preference between oil and LPG. A gas leak detection system shall be provided covering storage and pipe network up to final termination points.     /     Nếu không có khí ga tự nhiên, phải tiến hành phân tích để xác định ưu tiên sử dụng dầu hay khí gas lỏng. Phải có hệ thống phát hiện rò rỉ khí gas, bố trí cho kho và mạng lưới đường ống đến tận điểm sử dụng cuối cùng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no, when is this expected:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080540Z" creationid="Kieu Lan" creationdate="20211201T080540Z">
+        <seg>If no, when is this expected:     /     Nếu không có, bao giờ sẽ ban hành báo cáo</seg>
       </tuv>
     </tu>
     <tu>
@@ -19549,6 +19597,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T070428Z" creationid="Kieu Lan" creationdate="20211130T070428Z">
         <seg>LV System     /     Hệ thống điện nhẹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Laboratory Report attached:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080505Z" creationid="Kieu Lan" creationdate="20211201T080505Z">
+        <seg>Laboratory Report attached:     /     Đính kèm báo cáo lab</seg>
       </tuv>
     </tu>
     <tu>
@@ -29019,6 +29075,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T045609Z" creationid="Kieu Lan" creationdate="20211117T043235Z">
         <seg>Summaries of measured variables     /     Tổng hợp các biến đo lường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summaries treatment proposed to achieve InterContinental Hotels Group water quality requirement as detailed on the next page.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080701Z" creationid="Kieu Lan" creationdate="20211201T080701Z">
+        <seg>Summaries treatment proposed to achieve InterContinental Hotels Group water quality requirement as detailed on the next page.     /     Tóm tắt các phương thức xử lý nước để đạt tiêu chuẩn chất lượng nước của IHG theo như được liệt kê trong trang tới</seg>
       </tuv>
     </tu>
     <tu>
