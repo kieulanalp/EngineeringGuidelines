@@ -7737,6 +7737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Available tariffs:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T041444Z" creationid="Kieu Lan" creationdate="20211201T041444Z">
+        <seg>Available tariffs:     /     Các mức giá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available water supply flow and pressure - are 2 separate independent supplies available to avoid storage?</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T040426Z" creationid="Kieu Lan" creationdate="20210816T033617Z">
@@ -26913,6 +26921,15 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044128Z" creationid="Kieu Lan" creationdate="20210713T044128Z">
         <seg>Send signal to mobile communication system if provided     /     Gửi tín hiệu đến hệ thống liên lạc di động nếu có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>fate rate? chắc là typo của flat rate?</note>
+      <tuv lang="EN-US">
+        <seg>Separate light and power tariffs or fate rate:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T043318Z" creationid="Kieu Lan" creationdate="20211201T043318Z">
+        <seg>Separate light and power tariffs or fate rate:     /     Tách riêng chi phí chiếu sáng và điện hoặc chi phí trọn gói</seg>
       </tuv>
     </tu>
     <tu>
