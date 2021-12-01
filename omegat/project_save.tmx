@@ -22203,6 +22203,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number of annual cooling degree days:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T013156Z" creationid="Kieu Lan" creationdate="20211201T013156Z">
+        <seg>Number of annual cooling degree days:     /     Số ngày cần chạy làm mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of annual heating degree days:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T013147Z" creationid="Kieu Lan" creationdate="20211201T013147Z">
@@ -34276,6 +34284,14 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094441Z" creationid="LanHK" creationdate="20210715T062957Z">
         <seg>Winter     /     Mùa đông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Winter Design Temperatures - DB:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T013205Z" creationid="Kieu Lan" creationdate="20211201T013205Z">
+        <seg>Winter Design Temperatures - DB:     /     Nhiệt độ đặt cho mùa đông</seg>
       </tuv>
     </tu>
     <tu>
