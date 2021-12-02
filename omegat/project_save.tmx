@@ -6282,6 +6282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T045708Z" creationid="Kieu Lan" creationdate="20211202T045708Z">
+        <seg>Administration     /     Khu hành chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adopt Best Management Plan (BMP)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061844Z" creationid="Kieu Lan" creationdate="20210805T061804Z">
@@ -7638,6 +7646,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021747Z" creationid="Kieu Lan" creationdate="20210930T021747Z">
         <seg>Assistance with safety and security for Guests and staff     /     hỗ trợ đảm bảo an toàn và an ninh cho khách và nhân viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assistant Manager</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T045758Z" creationid="Kieu Lan" creationdate="20211202T045758Z">
+        <seg>Assistant Manager     /     Trợ lý điều hành</seg>
       </tuv>
     </tu>
     <tu>
@@ -16033,8 +16049,8 @@
       <tuv lang="EN-US">
         <seg>General Manager</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T092217Z" creationid="LanHK" creationdate="20210405T092217Z">
-        <seg>General Manager Tổng quản lý</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T045714Z" creationid="LanHK" creationdate="20210405T092217Z">
+        <seg>General Manager      /     Tổng quản lý</seg>
       </tuv>
     </tu>
     <tu>
@@ -28001,6 +28017,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210603T015301Z" creationid="LanHK" creationdate="20210603T015301Z">
         <seg>Secondary corridors 1.1m        /       hành lang phụ 1.1m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secretary</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T045724Z" creationid="Kieu Lan" creationdate="20211202T045724Z">
+        <seg>Secretary     /     Trợ lý</seg>
       </tuv>
     </tu>
     <tu>
