@@ -21358,8 +21358,8 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Major Cause of Interruption:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063601Z" creationid="Kieu Lan" creationdate="20211201T063601Z">
-        <seg>Major Cause of Interruption:     /     Nguyên nhân chính của việc tạm dừng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040746Z" creationid="Kieu Lan" creationdate="20211201T063601Z">
+        <seg>Major Cause of Interruption:     /     Nguyên nhân chính gây gián đoạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -28036,8 +28036,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>Service interruption hours annually:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040707Z" creationid="Kieu Lan" creationdate="20211202T040707Z">
-        <seg>Service interruption hours annually:     /     Số giờ </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040812Z" creationid="Kieu Lan" creationdate="20211202T040707Z">
+        <seg>Service interruption hours annually:     /     Số giờ gián đoạn dịch vụ</seg>
       </tuv>
     </tu>
     <tu>
