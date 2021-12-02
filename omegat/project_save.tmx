@@ -7384,6 +7384,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are TV broadcasts in color:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043714Z" creationid="Kieu Lan" creationdate="20211202T043714Z">
+        <seg>Are TV broadcasts in color:     /     Truyền hình có màu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are TV/FM Programmes listed in Newspapers:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043750Z" creationid="Kieu Lan" creationdate="20211202T043750Z">
+        <seg>Are TV/FM Programmes listed in Newspapers:     /     Chương trình TV / FM có được liệt kê trên báo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are effluent standards establish:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095918Z" creationid="Kieu Lan" creationdate="20211201T095918Z">
@@ -8492,6 +8508,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black/White:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043719Z" creationid="Kieu Lan" creationdate="20211202T043719Z">
+        <seg>Black/White:     /     Đen/Trắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiler fail</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061305Z" creationid="Kieu Lan" creationdate="20211117T061305Z">
@@ -9073,6 +9097,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20211122T092434Z" creationid="LanHK" creationdate="20211122T092434Z">
         <seg>Cab Height:     /     Chiều cao cabin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cable:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043657Z" creationid="Kieu Lan" creationdate="20211202T043657Z">
+        <seg>Cable:     /     Truyền hình cáp</seg>
       </tuv>
     </tu>
     <tu>
@@ -15654,6 +15686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furnish similar data on AM stations only in the absence of FM stations.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043933Z" creationid="Kieu Lan" creationdate="20211202T043933Z">
+        <seg>Furnish similar data on AM stations only in the absence of FM stations.     /     Chỉ cung cấp thông tin đài AM trong trường hợp không có đài FM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuses, switches, wiring and earthing must be in compliance with local regulations. Sensor wires should not be run parallel to mains carrying wires that power fans, actuators, pumps, etc.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T065710Z" creationid="Kieu Lan" creationdate="20211006T065710Z">
@@ -17881,6 +17921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If answer to 13 and 14 is no, please last type of programmes available, for example Music (classical, popular, rock, indigenous).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043915Z" creationid="Kieu Lan" creationdate="20211202T043915Z">
+        <seg>If answer to 13 and 14 is no, please last type of programmes available, for example Music (classical, popular, rock, indigenous).     /     Nếu câu hỏi 13 và 14 trả lời là Không, hãy liệt kê các loại chương được phát vd Âm nhạc (cổ điển, pop, rock, dân tộc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If installing an electrically operated device, the AC power source should be supplied from either a dedicated branch circuit or the un-switched portion of the branch circuit also used for power and lighting. Operation of a switch (other than a circuit breaker) or a ground fault circuit interrupter should not cause loss of power to the alarm.</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T085102Z" creationid="Kieu Lan" creationdate="20210628T061934Z">
@@ -18475,6 +18523,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indicate number of FM stations serving the area:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043730Z" creationid="Kieu Lan" creationdate="20211202T043730Z">
+        <seg>Indicate number of FM stations serving the area:     /     Số lượng đài FM phục vụ khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indicate size of cylinders:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064854Z" creationid="Kieu Lan" creationdate="20211201T064854Z">
@@ -19013,6 +19069,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is TV available:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043640Z" creationid="Kieu Lan" creationdate="20211202T043640Z">
+        <seg>Is TV available:     /     Có TV?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is condensate wasted:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033147Z" creationid="Kieu Lan" creationdate="20211202T033147Z">
@@ -19113,6 +19177,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T041346Z" creationid="Kieu Lan" creationdate="20211202T041346Z">
         <seg>Is telex line available:     /     Có đường dây viễn tín?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there censorship for in-house movies:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043950Z" creationid="Kieu Lan" creationdate="20211202T043950Z">
+        <seg>Is there censorship for in-house movies:     /     Có áp dụng kiểm duyệt đối với các phim được chiếu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27621,6 +27693,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Satellite:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043653Z" creationid="Kieu Lan" creationdate="20211202T043653Z">
+        <seg>Satellite:     /     Vệ tinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sauna/Jacuzzi</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061417Z" creationid="Kieu Lan" creationdate="20210805T061417Z">
@@ -29297,6 +29377,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T032903Z" creationid="Kieu Lan" creationdate="20211109T032903Z">
         <seg>Standalone:     /     Độc lập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard Broadcast:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043649Z" creationid="Kieu Lan" creationdate="20211202T043649Z">
+        <seg>Standard Broadcast:     /     Đài truyền hình thông thường</seg>
       </tuv>
     </tu>
     <tu>
