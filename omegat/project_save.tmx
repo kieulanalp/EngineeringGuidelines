@@ -23177,9 +23177,6 @@ file gốc bị nhảy dòng</note>
       <tuv lang="EN-US">
         <seg>Number of exchange lines allowable for the hotel:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040659Z" creationid="Kieu Lan" creationdate="20211202T040659Z">
-        <seg>Number of exchange lines allowable for the hotel:     /     </seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -23619,6 +23616,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T034341Z" creationid="LanHK" creationdate="20210713T091747Z">
         <seg>Over 800mm shall require upturned sprinklers (combustible ceiling).     /     Nếu trên 800mm, cần có sprinkler hướng lên trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall quality and reliability of telephone service:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T043636Z" creationid="Kieu Lan" creationdate="20211202T043636Z">
+        <seg>Overall quality and reliability of telephone service:     /     Chất lượng và độ đảm bảo nói chung của dịch vụ điện thoại</seg>
       </tuv>
     </tu>
     <tu>
