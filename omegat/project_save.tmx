@@ -21684,10 +21684,18 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maintenance Stores</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T050553Z" creationid="Kieu Lan" creationdate="20211202T050553Z">
+        <seg>Maintenance Stores     /     Kho bảo trì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maintenance Workshops</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T050132Z" creationid="Kieu Lan" creationdate="20211202T050132Z">
-        <seg>Maintenance Workshops     /     </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T050550Z" creationid="Kieu Lan" creationdate="20211202T050132Z">
+        <seg>Maintenance Workshops     /     Xưởng bảo trì</seg>
       </tuv>
     </tu>
     <tu>
@@ -27505,6 +27513,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064410Z" creationid="Kieu Lan" creationdate="20210809T064410Z">
         <seg>Room Electrical Services Requirements     /     Yêu cầu về đường điện trong phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Room Service</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T050524Z" creationid="Kieu Lan" creationdate="20211202T050524Z">
+        <seg>Room Service     /     Phục vụ phòng</seg>
       </tuv>
     </tu>
     <tu>
