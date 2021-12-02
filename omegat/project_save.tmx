@@ -10970,6 +10970,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DISTRICT STEAM/HEATING HOT WATER</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T022040Z" creationid="Kieu Lan" creationdate="20211202T022040Z">
+        <seg>DISTRICT STEAM/HEATING HOT WATER     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DLE</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T140030Z" creationid="Kieu Lan" creationdate="20210814T140030Z">
@@ -11793,6 +11801,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095308Z" creationid="Kieu Lan" creationdate="20211124T095308Z">
         <seg>Documentation which will be provided to record results     /     Các form văn bản sử dụng để ghi lại kết quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does controlling agency issue certificate of compliance:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020822Z" creationid="Kieu Lan" creationdate="20211202T020822Z">
+        <seg>Does controlling agency issue certificate of compliance:     /     Cơ quan kiểm soát có phát hành giấy chứng nhận tuân thủ</seg>
       </tuv>
     </tu>
     <tu>
