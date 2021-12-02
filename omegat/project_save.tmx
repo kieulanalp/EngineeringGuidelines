@@ -7343,6 +7343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approvals during construction:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020732Z" creationid="Kieu Lan" creationdate="20211202T020732Z">
+        <seg>Approvals during construction:     /     Nghiệm thu trong quá trình xây dựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aquatherm (mm)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061302Z" creationid="Kieu Lan" creationdate="20210805T061302Z">
@@ -14224,6 +14232,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T080222Z" creationid="LanHK" creationdate="20210609T080222Z">
         <seg>Final Exit         /       Lối thoát cuối cùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final Inspection:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020417Z" creationid="Kieu Lan" creationdate="20211202T020417Z">
+        <seg>Final Inspection:     /     Thanh tra lần cuối</seg>
       </tuv>
     </tu>
     <tu>
