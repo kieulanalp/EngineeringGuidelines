@@ -8242,6 +8242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ballroom/Meeting/Function Rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063522Z" creationid="Kieu Lan" creationdate="20211202T063522Z">
+        <seg>Ballroom/Meeting/Function Rooms     /     Phòng ballroom / phòng họp / phòng chức năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ballrooms</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T061413Z" creationid="Kieu Lan" creationdate="20210805T061413Z">
@@ -9329,6 +9337,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T070841Z" creationid="Kieu Lan" creationdate="20210804T070841Z">
         <seg>Capital Cost     /     Chi phí đầu tư</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Car Park</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063538Z" creationid="Kieu Lan" creationdate="20211202T063538Z">
+        <seg>Car Park     /     Đỗ xe</seg>
       </tuv>
     </tu>
     <tu>
@@ -10902,6 +10918,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094329Z" creationid="Kieu Lan" creationdate="20210713T020623Z">
         <seg>Corridors     /     Hành lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Corridors/Services</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063418Z" creationid="Kieu Lan" creationdate="20211202T063418Z">
+        <seg>Corridors/Services     /     Hành lang / khu phục vụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16643,8 +16667,8 @@
       <tuv lang="EN-US">
         <seg>Guest bathrooms</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210713T093710Z" creationid="LanHK" creationdate="20210713T093710Z">
-        <seg>Guest bathrooms     /     Phòng tắm trong phòng khách</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063341Z" creationid="LanHK" creationdate="20210713T093710Z">
+        <seg>Guest bathrooms     /     Phòng tắm cho khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -16757,6 +16781,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T093927Z" creationid="LanHK" creationdate="20210713T093927Z">
         <seg>Guest “comfort” factor and attraction to corporate companies.     /     Yếu tố "an tâm" đối với khách và thu hút doanh nghiệp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest/Bathrooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063350Z" creationid="Kieu Lan" creationdate="20211202T063323Z">
+        <seg>Guest bathrooms     /     Phòng tắm cho khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -21043,6 +21075,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lobby/Restaurant/Restrooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063506Z" creationid="Kieu Lan" creationdate="20211202T063506Z">
+        <seg>Lobby/Restaurant/Restrooms     /     Lobby / Nhà hàng / Toilet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064621Z" creationid="Kieu Lan" creationdate="20210809T064621Z">
@@ -23665,6 +23705,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210719T014842Z" creationid="LanHK" creationdate="20210719T014817Z">
         <seg>OVERALL BUILDING AIR BALANCE TO PREVENT INFILTRATION     /     Cân bằng không khí trong tòa nhà để tránh khí ngoài thâm nhập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OVERALL TOTAL</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063543Z" creationid="Kieu Lan" creationdate="20211202T063543Z">
+        <seg>OVERALL TOTAL     /     Tổng cuối cùng</seg>
       </tuv>
     </tu>
     <tu>
@@ -26391,6 +26439,14 @@ sẽ bao gồm các thông tin sau</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Public Areas (Floor by Floor)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063442Z" creationid="Kieu Lan" creationdate="20211202T063442Z">
+        <seg>Public Areas (Floor by Floor)     /     Khu vực công côgnj (theo từng tầng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Public Areas A/C and Ventilation</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T082843Z" creationid="Kieu Lan" creationdate="20210802T082843Z">
@@ -27936,8 +27992,8 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       <tuv lang="EN-US">
         <seg>SMOKE DETECTOR - 1 PER 80m2 .</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
-        <seg>SMOKE DETECTOR - 1 PER 80m² .</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063619Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>SMOKE DETECTOR - 1 PER 80m² .     /     Đàu báo khói - 1 trên 80m²</seg>
       </tuv>
     </tu>
     <tu>
@@ -29742,6 +29798,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Staff Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063530Z" creationid="Kieu Lan" creationdate="20211202T063530Z">
+        <seg>Staff Areas     /     Khu vực nhân viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Staff Changing</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094729Z" creationid="LanHK" creationdate="20210715T064444Z">
@@ -30756,6 +30820,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210805T095543Z" creationid="Kieu Lan" creationdate="20210629T065340Z">
         <seg>TO HEAT EXCHANGER ROOM     /    dẫn đến phòng trao đổi nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOTAL</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063426Z" creationid="Kieu Lan" creationdate="20211202T063426Z">
+        <seg>TOTAL     /     Tổng</seg>
       </tuv>
     </tu>
     <tu>
