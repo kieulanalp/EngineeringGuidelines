@@ -8042,6 +8042,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BOILER FUEL OPTIONS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035746Z" creationid="Kieu Lan" creationdate="20211202T035746Z">
+        <seg>BOILER FUEL OPTIONS     /     Các phương án nhiên liệu cho nồi hơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BRAND SAFETY</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T074809Z">
@@ -8464,6 +8472,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095221Z" creationid="Kieu Lan" creationdate="20210728T095221Z">
         <seg>Between 120- 175°C     /     Từ 120-175°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bio Mass</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035819Z" creationid="Kieu Lan" creationdate="20211202T035819Z">
+        <seg>Bio Mass     /     Sinh khối</seg>
       </tuv>
     </tu>
     <tu>
@@ -11704,6 +11720,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064934Z" creationid="Kieu Lan" creationdate="20211201T064934Z">
         <seg>Distance to Main:     /     Khoảng cách đến ống chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distance to main(s):</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035735Z" creationid="Kieu Lan" creationdate="20211202T035735Z">
+        <seg>Distance to main(s):     /     Khoảng cách đến ống chính</seg>
       </tuv>
     </tu>
     <tu>
@@ -15502,6 +15526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuel Oil</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035815Z" creationid="Kieu Lan" creationdate="20211202T035815Z">
+        <seg>Fuel Oil     /     Dầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuel Provision</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T030138Z" creationid="Kieu Lan" creationdate="20210810T025822Z">
@@ -17725,6 +17757,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T013728Z" creationid="Kieu Lan" creationdate="20211201T013728Z">
         <seg>Identify Prevalent Natural Phenomenon:     /     Các thiên tai thường gặp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identify each fuel - type available and cost:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035810Z" creationid="Kieu Lan" creationdate="20211202T035810Z">
+        <seg>Identify each fuel - type available and cost:     /     Xác định mỗi loại nhiên liệu - có gì và chi phí?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19993,6 +20033,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lead Time:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035632Z" creationid="Kieu Lan" creationdate="20211202T035632Z">
+        <seg>Lead time:     /     Thời gian sản xuất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaks in the system could cause problems</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210610T065322Z" creationid="LanHK" creationdate="20210610T065322Z">
@@ -21443,11 +21491,12 @@ file gốc bị nhảy dòng</note>
       </tuv>
     </tu>
     <tu>
+      <note>spread???</note>
       <tuv lang="EN-US">
         <seg>Maximum permitted, i.e. spread:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035259Z" creationid="Kieu Lan" creationdate="20211202T035259Z">
-        <seg>Maximum permitted, i.e. spread:     /     Nhiệt độ tối đa cho phép, vd. </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035625Z" creationid="Kieu Lan" creationdate="20211202T035259Z">
+        <seg>Maximum permitted, i.e. spread:     /     Nhiệt độ tối đa cho phép, vd. spread</seg>
       </tuv>
     </tu>
     <tu>
