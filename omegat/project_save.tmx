@@ -11227,6 +11227,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Describe rescue equipment:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020247Z" creationid="Kieu Lan" creationdate="20211202T020247Z">
+        <seg>Describe rescue equipment:     /     Mô tả thiết bị cứu nạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210504T072013Z" creationid="LanHK" creationdate="20210504T072013Z">
@@ -11777,6 +11785,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095308Z" creationid="Kieu Lan" creationdate="20211124T095308Z">
         <seg>Documentation which will be provided to record results     /     Các form văn bản sử dụng để ghi lại kết quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does fire code exist:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020326Z" creationid="Kieu Lan" creationdate="20211202T020326Z">
+        <seg>Does fire code exist:     /     Có tiêu chuẩn PCCC không?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13381,6 +13397,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T032355Z" creationid="Kieu Lan" creationdate="20210810T031931Z">
         <seg>Essential Component (%)     /     % thiết yếu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Estimated response time:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020142Z" creationid="Kieu Lan" creationdate="20211202T020142Z">
+        <seg>Estimated response time:     /     Ước tính thời gian phản ứng</seg>
       </tuv>
     </tu>
     <tu>
@@ -17321,6 +17345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How is alarm transmitted:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020148Z" creationid="Kieu Lan" creationdate="20211202T020148Z">
+        <seg>How is alarm transmitted:     /     Phương thức truyền báo động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hoyce Ho</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210824T071000Z" creationid="Kieu Lan" creationdate="20210824T071000Z">
@@ -17805,6 +17837,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T041022Z" creationid="Kieu Lan" creationdate="20210802T041022Z">
         <seg>If water cooled chillers used then legionella risk can be high if correct procedures are not put in place.     /     Nếu chiller giải nhiệt nước được sử dụng, có thể gây nguy cơ nhiễm khuẩn Legionella cao nếu không có quy trình xử lý đúng đắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If yes, what standards are acceptable (NFPA/BS, etc.):</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020344Z" creationid="Kieu Lan" creationdate="20211202T020344Z">
+        <seg>If yes, what standards are acceptable (NFPA/BS, etc.):     /     Nếu có, tiêu chuẩn nào được chấp nhận (NFPA/BS, etc.):</seg>
       </tuv>
     </tu>
     <tu>
@@ -18403,6 +18443,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inspection services during construction:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020407Z" creationid="Kieu Lan" creationdate="20211202T020407Z">
+        <seg>Inspection services during construction:     /     Dịch vụ kiểm soát trong quá trình xây dựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation cost</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081825Z" creationid="Kieu Lan" creationdate="20210804T081825Z">
@@ -18785,6 +18833,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024808Z" creationid="Kieu Lan" creationdate="20210816T024759Z">
         <seg>Is Municipal Water available in sufficient quantity and quality to suit the new development?     /     Nguồn nước thành phố có đủ lượng và chất lượng đảm bảo đáp ứng được dự án?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is copy attached:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020350Z" creationid="Kieu Lan" creationdate="20211202T020350Z">
+        <seg>Is copy attached:     /     Có gắn kèm bản sao</seg>
       </tuv>
     </tu>
     <tu>
@@ -25166,6 +25222,14 @@ sẽ bao gồm các thông tin sau</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Private:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020130Z" creationid="Kieu Lan" creationdate="20211202T020130Z">
+        <seg>Private:     /     Tư nhân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pro-active resolution of problems - often before they become an issue for guest complaints</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021845Z" creationid="Kieu Lan" creationdate="20210930T021828Z">
@@ -25226,6 +25290,14 @@ sẽ bao gồm các thông tin sau</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211123T064352Z" creationid="Kieu Lan" creationdate="20211123T064352Z">
         <seg>Professional commissioning of the systems is essential to ensure:     /     Việc chạy thử các hệ thống là cần thiết để đảm bảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Professional:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020128Z" creationid="Kieu Lan" creationdate="20211202T020128Z">
+        <seg>Professional:     /     Chuyên nghiệp</seg>
       </tuv>
     </tu>
     <tu>
@@ -33347,6 +33419,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type of firefighting equipment:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020155Z" creationid="Kieu Lan" creationdate="20211202T020155Z">
+        <seg>Type of firefighting equipment:     /     loại thiết bị chữa cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type of material</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210804T081933Z" creationid="Kieu Lan" creationdate="20210804T081933Z">
@@ -33367,6 +33447,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210525T075557Z">
         <seg>Type of systems    /    Các loại hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of water connection(s) into building:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020253Z" creationid="Kieu Lan" creationdate="20211202T020253Z">
+        <seg>Type of water connection(s) into building:     /     Loại kết nối đường nước vào tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
@@ -34305,6 +34393,22 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211006T075643Z" creationid="Kieu Lan" creationdate="20211006T075643Z">
         <seg>Voltage: max. AC 265 V, min. AC 19 V     /     Tín hiệu đầu ra kỹ thuật số (rơ le)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Volume of required water reserve:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020304Z" creationid="Kieu Lan" creationdate="20211202T020304Z">
+        <seg>Volume of required water reserve:     /     Thể tích trữ lượng nước cần thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Volunteer:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020134Z" creationid="Kieu Lan" creationdate="20211202T020134Z">
+        <seg>Volunteer:     /     Tình nguyện</seg>
       </tuv>
     </tu>
     <tu>
