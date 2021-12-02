@@ -18893,6 +18893,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>International:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040225Z" creationid="Kieu Lan" creationdate="20211202T040225Z">
+        <seg>International:     /     Quốc tế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interpret and translate the various communication protocols from the different subsystems.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T113000Z" creationid="Kieu Lan" creationdate="20210815T112717Z">
@@ -19025,6 +19033,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095928Z" creationid="Kieu Lan" creationdate="20211201T095928Z">
         <seg>Is copy of standard attached:     /     Đã đính kèm bản sao tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is direct dial available for:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040303Z" creationid="Kieu Lan" creationdate="20211202T040303Z">
+        <seg>Is direct dial available for:     /     Có quay số trực tiếp cho:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20650,6 +20666,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040216Z" creationid="Kieu Lan" creationdate="20211202T040216Z">
+        <seg>Local:     /     Địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Location</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064109Z" creationid="LanHK" creationdate="20210715T062502Z">
@@ -20702,6 +20726,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211124T095714Z" creationid="Kieu Lan" creationdate="20211124T095714Z">
         <seg>Logic diagram of the process     /     Sơ đồ logic của quá trình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Long Distance:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040245Z" creationid="Kieu Lan" creationdate="20211202T040221Z">
+        <seg>Long Distance:     /     Đường dài</seg>
       </tuv>
     </tu>
     <tu>
@@ -23122,6 +23154,15 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210815T091344Z" creationid="Kieu Lan" creationdate="20210815T091344Z">
         <seg>Number of cabled RJ45 ports     /     Số cổng RJ45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>??? tổng đài?</note>
+      <tuv lang="EN-US">
+        <seg>Number of exchange lines allowable for the hotel:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040659Z" creationid="Kieu Lan" creationdate="20211202T040659Z">
+        <seg>Number of exchange lines allowable for the hotel:     /     </seg>
       </tuv>
     </tu>
     <tu>
@@ -25975,6 +26016,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033133Z" creationid="Kieu Lan" creationdate="20211202T033133Z">
         <seg>Quality of Steam or temperature/pressure of hot water:     /     Chất lượng hơi nước hoặc nhiệt độ/áp suất của nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quality of service:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040157Z" creationid="Kieu Lan" creationdate="20211202T040157Z">
+        <seg>Quality of service:     /     Chất lượng sóng</seg>
       </tuv>
     </tu>
     <tu>
