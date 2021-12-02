@@ -18813,6 +18813,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is hotel within jurisdiction of a fire district:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020124Z" creationid="Kieu Lan" creationdate="20211202T020124Z">
+        <seg>Is hotel within jurisdiction of a fire district:     /     khách sạn có thuộc phạm vi quản lý của trạm cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is natural gas available to be used as the source of energy for hot water?</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210816T024842Z" creationid="Kieu Lan" creationdate="20210816T024826Z">
