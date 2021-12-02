@@ -7392,6 +7392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are interruptible rate(s) available:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033405Z" creationid="Kieu Lan" creationdate="20211202T033405Z">
+        <seg>Are interruptible rate(s) available:     /     Có dịch vụ cung cấp có thể tạm dừng giữa chừng?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are interruptible rates available?</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063526Z" creationid="Kieu Lan" creationdate="20211201T063526Z">
@@ -11191,6 +11199,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T025640Z" creationid="Kieu Lan" creationdate="20210814T025640Z">
         <seg>Delivery     /     Phục vụ / Giao hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demand Charges:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033349Z" creationid="Kieu Lan" creationdate="20211202T033349Z">
+        <seg>Demand Charges:     /     Phí duy trì cho hoạt động thương mại</seg>
       </tuv>
     </tu>
     <tu>
@@ -17881,6 +17897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If yes, provide details:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033411Z" creationid="Kieu Lan" creationdate="20211202T033411Z">
+        <seg>If yes, provide details:     /     Nếu có, cung cấp thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If yes, what standards are acceptable (NFPA/BS, etc.):</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020344Z" creationid="Kieu Lan" creationdate="20211202T020344Z">
@@ -18877,6 +18901,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is condensate wasted:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033147Z" creationid="Kieu Lan" creationdate="20211202T033147Z">
+        <seg>Is condensate wasted:     /     Nước ngưng có bị lãng phí không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is copy attached:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020350Z" creationid="Kieu Lan" creationdate="20211202T020350Z">
@@ -18905,6 +18937,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033044Z" creationid="Kieu Lan" creationdate="20211202T033044Z">
         <seg>Is district heating or steam available:     /     Có cấp hơi nước / sưởi theo khu vực không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is district hot water available:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033431Z" creationid="Kieu Lan" creationdate="20211202T033431Z">
+        <seg>Is district hot water available:     /     Có cấp nước nóng theo khu vực?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21856,6 +21896,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073510Z" creationid="LanHK" creationdate="20210609T073510Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum Billing:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033333Z" creationid="Kieu Lan" creationdate="20211202T033333Z">
+        <seg>Minimum Billing:     /     Hóa đơn tối thiểu</seg>
       </tuv>
     </tu>
     <tu>
@@ -25971,6 +26019,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rate(s) - Summer/Winter:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033303Z" creationid="Kieu Lan" creationdate="20211202T033303Z">
+        <seg>Rate(s) - Summer/Winter:     /     Chi phí - Mùa hè/mùa đông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rate(s) applicable:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T074802Z" creationid="Kieu Lan" creationdate="20211201T074802Z">
@@ -26499,10 +26555,18 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reliability: Total hours of service distribution annually:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033252Z" creationid="Kieu Lan" creationdate="20211202T033154Z">
+        <seg>Reliability: Total hours of service distribution annually:     /     Độ đảm bảo: tổng số giờ phân phối hàng năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reliability: total hours shut down annually:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T080440Z" creationid="Kieu Lan" creationdate="20211201T080440Z">
-        <seg>Reliability: total hours shut down annually:     /     Độ tin cậy: tổng số giờ mất nước hàng ngăm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033227Z" creationid="Kieu Lan" creationdate="20211201T080440Z">
+        <seg>Reliability: total hours shut down annually:     /     Độ đảm bảo: tổng số giờ mất nước hàng ngăm</seg>
       </tuv>
     </tu>
     <tu>
