@@ -29330,8 +29330,8 @@ Mounting hardware</note>
       <tuv lang="EN-US">
         <seg>Standby lighting is provided to enable a prolonged occupation of the building upon failure of the electrical supply. This could be to mitigate against business interruption or to avoid immediate evacuation of the building.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210702T075554Z" creationid="LanHK" creationdate="20210702T075554Z">
-        <seg>Standby lighting is provided to enable a prolonged occupation of the building upon failure of the electrical supply. This could be to mitigate against business interruption or to avoid immediate evacuation of the building.     /     Chiếu sáng dự phòng được cung cấp để giúp duy trì hoạt động của tòa nhà khi xảy ra sự cố về nguồn điện. Nguồn chiếu sáng này có thể giúp giảm thiểu ảnh hưởng đến hoạt động kinh doanh hoặc tránh phải tiến hành sơ tán khỏi tòa nhà ngay lập tức</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040855Z" creationid="LanHK" creationdate="20210702T075554Z">
+        <seg>Standby lighting is provided to enable a prolonged occupation of the building upon failure of the electrical supply. This could be to mitigate against business interruption or to avoid immediate evacuation of the building.     /     Chiếu sáng dự phòng được cung cấp để giúp duy trì hoạt động của tòa nhà khi xảy ra sự cố về nguồn điện. Nguồn chiếu sáng này có thể giúp giảm thiểu gián đoạn hoạt động kinh doanh hoặc tránh phải tiến hành sơ tán khỏi tòa nhà ngay lập tức</seg>
       </tuv>
     </tu>
     <tu>
@@ -36159,8 +36159,8 @@ LV là gì?? tên hãng? tên mẫu? tính chất gì đó???</note>
       <tuv lang="EN-US">
         <seg>available, then an additional electrical supply system must also be provided in the form of an independent electrical generating plant, or a totally independent power supply from an alternative generating source. An availability in excess of 99.988% is required (i.e. not more than one hour interruption per year) to obviate the need for the generator.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095706Z" creationid="Kieu Lan" creationdate="20210806T103258Z">
-        <seg>available, then an additional electrical supply system must also be provided in the form of an independent electrical generating plant, or a totally independent power supply from an alternative generating source. An availability in excess of 99.988% is required (i.e. not more than one hour interruption per year) to obviate the need for the generator.     /     Nguồn cấp điện phải có độ đảm bảo cậy lớn hơn &gt; 99.988%. Nếu không đạt được mức này, phải có hệ thống cấp điện bổ sung nhờ nguồn phát thay thế khác. </seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040913Z" creationid="Kieu Lan" creationdate="20210806T103258Z">
+        <seg>available, then an additional electrical supply system must also be provided in the form of an independent electrical generating plant, or a totally independent power supply from an alternative generating source. An availability in excess of 99.988% is required (i.e. not more than one hour interruption per year) to obviate the need for the generator.     /     Nguồn cấp điện phải có độ đảm bảo cậy lớn hơn &gt; 99.988% (vd không nhiều hơn một lần gián đoạn trong năm). Nếu không đạt được mức này, phải có hệ thống cấp điện bổ sung nhờ nguồn phát thay thế khác. </seg>
       </tuv>
     </tu>
     <tu>
