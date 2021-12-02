@@ -7407,6 +7407,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Are roads accessible year round:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035909Z" creationid="Kieu Lan" creationdate="20211202T035909Z">
+        <seg>Are roads accessible year round:     /     Đường đi vào dự án có thể tiếp cận được quan năm</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>không chắc lắm</note>
       <tuv lang="EN-US">
         <seg>Are two services possible?</seg>
@@ -11219,6 +11227,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delivery time for each type:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035852Z" creationid="Kieu Lan" creationdate="20211202T035852Z">
+        <seg>Delivery time for each type:     /     Thời gian giao hàng cho mỗi loại nhiên liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Demand Charges:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033349Z" creationid="Kieu Lan" creationdate="20211202T033349Z">
@@ -11732,6 +11748,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distance to nearest telephone exchange:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040153Z" creationid="Kieu Lan" creationdate="20211202T040153Z">
+        <seg>Distance to nearest telephone exchange:     /     Khoảng cách tới tháp điện thoại gần nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distance:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033058Z" creationid="Kieu Lan" creationdate="20211202T033058Z">
@@ -11825,6 +11849,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061135Z" creationid="Kieu Lan" creationdate="20210916T061135Z">
         <seg>Diving/Competition Pool     /     Bể bơi nhảy cầu/thi đấu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do emissions standards exist (attach):</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040026Z" creationid="Kieu Lan" creationdate="20211202T040026Z">
+        <seg>Do emissions standards exist (attach):     /     Có tiêu chuẩn về khí thải không? (đính kèm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17761,6 +17793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Identify applicable codes:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040122Z" creationid="Kieu Lan" creationdate="20211202T040122Z">
+        <seg>Identify applicable codes:     /     Xác định các quy định áp dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify each fuel - type available and cost:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035810Z" creationid="Kieu Lan" creationdate="20211202T035810Z">
@@ -19953,6 +19993,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Largest on-site storage permitted:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040011Z" creationid="Kieu Lan" creationdate="20211202T040011Z">
+        <seg>Largest on-site storage permitted:     /     Giới hạn lượng nhiên liệu được phép trữ sẵn tại dự án</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Largest tap permitted:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064956Z" creationid="Kieu Lan" creationdate="20211201T064956Z">
@@ -20413,6 +20461,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210726T071842Z" creationid="LanHK" creationdate="20210602T101133Z">
         <seg>Like other vertical shafts linen chutes must have the same fire resistance as the structure. In addition linen chutes must have:        /       Cũng như các trục ống đứng khác, ống thả đồ giặt phải có mức chống cháy tương đương kết cấu. Ngoài ra ống thả đồ giặt phải có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limits of quality:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035917Z" creationid="Kieu Lan" creationdate="20211202T035917Z">
+        <seg>Limits of quality:     /     Giới hạn về chất lượng</seg>
       </tuv>
     </tu>
     <tu>
@@ -29989,6 +30045,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T063048Z" creationid="Kieu Lan" creationdate="20210805T063048Z">
         <seg>TELECOMMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TELEPHONE &amp; TV</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T040131Z" creationid="Kieu Lan" creationdate="20211202T040131Z">
+        <seg>TELEPHONE &amp; TV     /     Điện thoại &amp; TV</seg>
       </tuv>
     </tu>
     <tu>
