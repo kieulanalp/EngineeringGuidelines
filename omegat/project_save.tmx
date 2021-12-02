@@ -7376,6 +7376,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are effluent standards establish:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095918Z" creationid="Kieu Lan" creationdate="20211201T095918Z">
+        <seg>Are effluent standards establish:     /     Có tiêu chuẩn nước thải không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are interruptible rates available?</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T063526Z" creationid="Kieu Lan" creationdate="20211201T063526Z">
@@ -13843,6 +13851,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIRE PROTECTION</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095948Z" creationid="Kieu Lan" creationdate="20211201T095948Z">
+        <seg>FIRE PROTECTION     /     Phòng cháy chữa cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIRE SAFETY REGULATIONS</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210724T045304Z" creationid="LanHK" creationdate="20210602T014431Z">
@@ -18781,6 +18797,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is copy of standard attached:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095928Z" creationid="Kieu Lan" creationdate="20211201T095928Z">
+        <seg>Is copy of standard attached:     /     Đã đính kèm bản sao tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is frequency change contemplated?</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T061932Z" creationid="Kieu Lan" creationdate="20211201T061932Z">
@@ -22057,6 +22081,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T064906Z" creationid="Kieu Lan" creationdate="20211201T064906Z">
         <seg>Name applicable codes:     /     Các quy định áp dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name approving agency:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T095938Z" creationid="Kieu Lan" creationdate="20211201T095938Z">
+        <seg>Name approving agency:     /     Tên cơ quan phê duyệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -30938,6 +30970,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061053Z" creationid="Kieu Lan" creationdate="20211117T061053Z">
         <seg>The following Schedule of BMS points is not exclusive but indicative of the requirements.     /     Danh sách điểm đo BMS dưới đây không toàn diện mà chỉ mang tính định hướng các yêu cầu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following are services normally provided by municipal authorities. Please identify each service available and furnish as much data on each as possible:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T015953Z" creationid="Kieu Lan" creationdate="20211202T015953Z">
+        <seg>The following are services normally provided by municipal authorities. Please identify each service available and furnish as much data on each as possible:     /     Các dịch vụ sau thường được cung cấp bởi chính quyền địa phương. Đề nghị xác định liệu có các dịch vụ sau không và cung cấp nhiều thông tin nhất có thể</seg>
       </tuv>
     </tu>
     <tu>
