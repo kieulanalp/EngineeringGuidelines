@@ -10632,6 +10632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control Room/Time Keeper</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T062655Z" creationid="Kieu Lan" creationdate="20211202T062655Z">
+        <seg>Control Room/Time Keeper     /     Phòng điều khiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control Systems)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T045859Z" creationid="LanHK" creationdate="20210715T045859Z">
@@ -26658,6 +26666,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Receiving Area</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T061552Z" creationid="Kieu Lan" creationdate="20211202T061552Z">
+        <seg>Receiving Area     /     Khu tiếp nhận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recent Cost Benefit Analysis for Delhi Project 2 year payback</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210724T042007Z" creationid="LanHK" creationdate="20210724T042007Z">
@@ -34134,6 +34150,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T045155Z" creationid="LanHK" creationdate="20210729T045144Z">
         <seg>Tropical or sub-tropical locations     /     Địa điểm nhiệt đới hoặc cận nhiệt đới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Truck Deck/Loading Bay</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T061549Z" creationid="Kieu Lan" creationdate="20211202T061549Z">
+        <seg>Truck Deck/Loading Bay     /     Chỗ đậu xe tải, chở hàng</seg>
       </tuv>
     </tu>
     <tu>
