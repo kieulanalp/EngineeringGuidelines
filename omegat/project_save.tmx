@@ -18299,6 +18299,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incoming Pressure:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033448Z" creationid="Kieu Lan" creationdate="20211202T033448Z">
+        <seg>Incoming Pressure:     /     Áp suất đầu vào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incoming Temperature:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033439Z" creationid="Kieu Lan" creationdate="20211202T033439Z">
+        <seg>Incoming Temperature:     /     Nhiệt độ đầu vào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Incorrect flow rates</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210820T030426Z" creationid="Kieu Lan" creationdate="20210820T030426Z">
@@ -19985,6 +20001,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leaving Temperature:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T033452Z" creationid="Kieu Lan" creationdate="20211202T033452Z">
+        <seg>Leaving Temperature:     /     Nhiệt độ đầu ra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left/Right buttons (L/R) for selecting of:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211115T012015Z" creationid="Kieu Lan" creationdate="20211115T012015Z">
@@ -21416,6 +21440,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T041803Z" creationid="Kieu Lan" creationdate="20211117T041803Z">
         <seg>Maximum electrical load demand control     /     điều khiển nhu cầu tải điện tối đa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum permitted, i.e. spread:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T035259Z" creationid="Kieu Lan" creationdate="20211202T035259Z">
+        <seg>Maximum permitted, i.e. spread:     /     Nhiệt độ tối đa cho phép, vd. </seg>
       </tuv>
     </tu>
     <tu>
