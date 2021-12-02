@@ -8516,6 +8516,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Board Room</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044500Z" creationid="Kieu Lan" creationdate="20211202T044500Z">
+        <seg>Board Room     /     Phòng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiler fail</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061305Z" creationid="Kieu Lan" creationdate="20211117T061305Z">
@@ -8560,6 +8568,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095957Z">
         <seg>Brand Standard Manual        /       Hướng dẫn Tiêu chuẩn Thương hiệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branded Restaurant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044339Z" creationid="Kieu Lan" creationdate="20211202T044339Z">
+        <seg>Branded Restaurant     /     Nhà hàng thương hiệu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9923,6 +9939,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T025604Z" creationid="Kieu Lan" creationdate="20210814T025604Z">
         <seg>Circulation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Circulation, Stairs, etc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044321Z" creationid="Kieu Lan" creationdate="20211202T044321Z">
+        <seg>Circulation, Stairs, etc.     /     Không gian lưu thông, Thang bộ, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15686,10 +15710,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Function Cloaks</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044548Z" creationid="Kieu Lan" creationdate="20211202T044548Z">
+        <seg>Function Cloakroom     /     Khu gửi đồ cho phòng chức năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Function Room</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094528Z" creationid="LanHK" creationdate="20210715T063607Z">
         <seg>Function Room     /     Phòng chức năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Function Room WC</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044511Z" creationid="Kieu Lan" creationdate="20211202T044511Z">
+        <seg>Function Room WC     /     WC phòng chức năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Function Rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044419Z" creationid="Kieu Lan" creationdate="20211202T044419Z">
+        <seg>Function Rooms     /     Phòng chức năng</seg>
       </tuv>
     </tu>
     <tu>
@@ -16340,6 +16388,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210729T062741Z" creationid="LanHK" creationdate="20210729T062741Z">
         <seg>Guest Room A/C and Ventilation     /     A/C và thông gió phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Room Areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044304Z" creationid="Kieu Lan" creationdate="20211202T044304Z">
+        <seg>Guest Room Areas     /     Các khu phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -20297,6 +20353,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leisure Centre (MD, Changing Facility)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T045205Z" creationid="Kieu Lan" creationdate="20211202T045205Z">
+        <seg>Leisure Centre (MD, Changing Facility)     /     Trung tâm giải trí (MD, Khu thay đồ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leisure Pool</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210916T061116Z" creationid="Kieu Lan" creationdate="20210916T061116Z">
@@ -20734,6 +20798,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045009Z" creationid="PHUONG.DTM" creationdate="20210726T063225Z">
         <seg>Lobby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lobby/Reception</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044333Z" creationid="Kieu Lan" creationdate="20211202T044333Z">
+        <seg>Lobby/Reception     /     Lobby/ Lễ tân</seg>
       </tuv>
     </tu>
     <tu>
@@ -25259,6 +25331,14 @@ https://www.starlinepower.com/wp-content/uploads/2015/11/Tech-Brief-DG-vs-IG.pdf
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre-Function Area</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044415Z" creationid="Kieu Lan" creationdate="20211202T044400Z">
+        <seg>Pre-Function Area     /     Khu Pre-Function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pre-Function Foyer</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T094524Z" creationid="LanHK" creationdate="20210715T063600Z">
@@ -26034,6 +26114,14 @@ sẽ bao gồm các thông tin sau</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T093403Z" creationid="LanHK" creationdate="20210715T063342Z">
         <seg>Public Toilets     /     Toilet công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public WC</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044347Z" creationid="Kieu Lan" creationdate="20211202T044347Z">
+        <seg>Public WC     /     WC công cộng</seg>
       </tuv>
     </tu>
     <tu>
@@ -28339,6 +28427,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211109T033042Z" creationid="Kieu Lan" creationdate="20211109T033042Z">
         <seg>Shared networks: TCP/IP or Ethernet (Cat 5)     /     Mạng chung: TCP/IP hoặc Ethernet (Cat 5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shop</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044558Z" creationid="Kieu Lan" creationdate="20211202T044558Z">
+        <seg>Shop     /     Cửa hàng</seg>
       </tuv>
     </tu>
     <tu>
