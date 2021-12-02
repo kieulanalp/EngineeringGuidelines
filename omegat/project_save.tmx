@@ -10665,10 +10665,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooling Load (W)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044118Z" creationid="Kieu Lan" creationdate="20211202T044059Z">
+        <seg>Cooling Load (W)     /     Tải làm mát (W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooling Load (W/ m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
-        <seg>Cooling Load (W/ m²)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044127Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>Cooling Load (W/ m²)     /     Tải làm mát (W/ m²)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11333,8 +11341,8 @@
       <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210504T072013Z" creationid="LanHK" creationdate="20210504T072013Z">
-        <seg>Description Mô tả</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044004Z" creationid="LanHK" creationdate="20210504T072013Z">
+        <seg>Description      /     Mô tả</seg>
       </tuv>
     </tu>
     <tu>
@@ -15422,6 +15430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh Air (l/s)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044138Z" creationid="Kieu Lan" creationdate="20211202T044138Z">
+        <seg>Fresh Air (l/s)     /     Khí tươi (l/s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh Air Delivery</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210806T073807Z" creationid="LanHK" creationdate="20210715T031133Z">
@@ -16968,10 +16984,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heating Load (W)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044115Z" creationid="Kieu Lan" creationdate="20211202T044115Z">
+        <seg>Heating Load (W)     /     Tải sưởi (W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heating Load (W/ m2)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
-        <seg>Heating Load (W/ m²)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044130Z" creationid="Kieu Lan" creationdate="20210817T075740Z">
+        <seg>Heating Load (W/ m²)     /     Tải sưởi (W/ m²)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20125,6 +20149,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210705T064548Z" creationid="Kieu Lan" creationdate="20210705T064548Z">
         <seg>Lasting 2 to 5 seconds     /     từ 2 đến 5 giây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Latent</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044232Z" creationid="Kieu Lan" creationdate="20211202T044232Z">
+        <seg>Latent     /     Ẩn</seg>
       </tuv>
     </tu>
     <tu>
@@ -27325,6 +27357,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SAMPLE MECHANICAL LOAD SCHEDULE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044031Z" creationid="Kieu Lan" creationdate="20211202T043958Z">
+        <seg>SAMPLE MECHANICAL LOAD SCHEDULE     /     Mẫu danh sách các tải cơ học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SBR</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210821T120740Z" creationid="Kieu Lan" creationdate="20210821T120740Z">
@@ -28057,6 +28097,14 @@ https://www.facebook.com/khopnoishurjoint/videos/so-s%C3%A1nh-n%E1%BB%91i-h%C3%A
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T044128Z" creationid="Kieu Lan" creationdate="20210713T044128Z">
         <seg>Send signal to mobile communication system if provided     /     Gửi tín hiệu đến hệ thống liên lạc di động nếu có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensible</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044229Z" creationid="Kieu Lan" creationdate="20211202T044229Z">
+        <seg>Sensible     /     Thực</seg>
       </tuv>
     </tu>
     <tu>
@@ -29890,6 +29938,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210731T031310Z" creationid="Kieu Lan" creationdate="20210713T081212Z">
         <seg>Đầu báo khói ống cấp/hồi khí kích hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supply Air</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T044153Z" creationid="Kieu Lan" creationdate="20211202T044142Z">
+        <seg>Supply Air     /     Khí cấp</seg>
       </tuv>
     </tu>
     <tu>
