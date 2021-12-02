@@ -11885,6 +11885,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Does central office provide meter pulse:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T041426Z" creationid="Kieu Lan" creationdate="20211202T041426Z">
+        <seg>Does central office provide meter pulse:     /     </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Does controlling agency issue certificate of compliance:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020822Z" creationid="Kieu Lan" creationdate="20211202T020822Z">
@@ -23165,7 +23173,7 @@ file gốc bị nhảy dòng</note>
       </tuv>
     </tu>
     <tu>
-      <note>??? tổng đài?</note>
+      <note>??? số đường dây?</note>
       <tuv lang="EN-US">
         <seg>Number of exchange lines allowable for the hotel:</seg>
       </tuv>
