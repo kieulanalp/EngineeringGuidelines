@@ -19101,6 +19101,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is telex line available:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T041346Z" creationid="Kieu Lan" creationdate="20211202T041346Z">
+        <seg>Is telex line available:     /     Có đường dây viễn tín?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is utility, piped-in gas available:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211201T062048Z" creationid="Kieu Lan" creationdate="20211201T062048Z">
