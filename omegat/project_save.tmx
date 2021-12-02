@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>% Essential Load</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063044Z" creationid="Kieu Lan" creationdate="20211202T063044Z">
+        <seg>% Essential Load     /     % tải thiết yếu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp; Foyer</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064830Z" creationid="Kieu Lan" creationdate="20210809T064821Z">
@@ -8114,6 +8122,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BUILDING AIR BALANCE SUMMARY FORM (SAMPLE)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063214Z" creationid="Kieu Lan" creationdate="20211202T063214Z">
+        <seg>BUILDING AIR BALANCE SUMMARY FORM (SAMPLE)     /     Tóm tắt Cân bằng không khí tòa nhà (form mẫu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BUILDING MANAGEMENT SYSTEM (BMS)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210930T021500Z" creationid="Kieu Lan" creationdate="20210930T021500Z">
@@ -8190,6 +8206,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210713T083658Z" creationid="LanHK" creationdate="20210601T101204Z">
         <seg>Bahrain Iran Iraq Israel / Occupied Territories Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen     /     Bahrain Iran Iraq Israel / Lãnh thổ bị chiếm đóng Jordan Kuwait Lebanon Palestinian Authority Saudi Arabia Syria uAe Yemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balance (+/- l/s)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063257Z" creationid="Kieu Lan" creationdate="20211202T063248Z">
+        <seg>Balance (+/- l/s)     /     Cân bằng (+/- l/s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13690,6 +13714,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Essential Load</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063046Z" creationid="Kieu Lan" creationdate="20211202T063046Z">
+        <seg>Essential Load     /     Thiết yếu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Estimated response time:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T020142Z" creationid="Kieu Lan" creationdate="20211202T020142Z">
@@ -13790,6 +13822,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210602T043416Z" creationid="LanHK" creationdate="20210602T043416Z">
         <seg>Executive Corridor        /       Hành lang phòng Executive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust (l/s)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063251Z" creationid="Kieu Lan" creationdate="20211202T063236Z">
+        <seg>Exhaust (l/s)     /     Thải (l/s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15615,6 +15655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh Air Supply (l/s)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063231Z" creationid="Kieu Lan" creationdate="20211202T063219Z">
+        <seg>Fresh Air Supply (l/s)     /     Cấp khí tươi (l/s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh air AHU</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T040233Z" creationid="Kieu Lan" creationdate="20210802T040233Z">
@@ -16533,6 +16581,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210806T045039Z" creationid="Kieu Lan" creationdate="20210806T045039Z">
         <seg>Guest Corridors     /     Hành lang phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Floors (Floor by Floor)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063311Z" creationid="Kieu Lan" creationdate="20211202T063311Z">
+        <seg>Guest Floors (Floor by Floor)     /     Tầng phòng khách (theo từng tầng)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20746,6 +20802,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighting &amp; Power</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063030Z" creationid="Kieu Lan" creationdate="20211202T063030Z">
+        <seg>Lighting &amp; Power     /     Chiếu sáng và điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighting -using wall &amp; ceiling lights</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T143831Z" creationid="Kieu Lan" creationdate="20210814T143753Z">
@@ -22062,6 +22126,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mech. Services</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063145Z" creationid="Kieu Lan" creationdate="20211202T063145Z">
+        <seg>Mech. Services     /     Tải máy cơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211117T061256Z" creationid="Kieu Lan" creationdate="20210405T153537Z">
@@ -23147,6 +23219,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210609T073702Z" creationid="LanHK" creationdate="20210609T073702Z">
         <seg>Non-slip          /       không trơn trượt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NonEssential Load</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063053Z" creationid="Kieu Lan" creationdate="20211202T063053Z">
+        <seg>NonEssential Load     /     Không thiết yếu</seg>
       </tuv>
     </tu>
     <tu>
@@ -33969,6 +34049,14 @@ Mounting hardware</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total (kVA)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063058Z" creationid="Kieu Lan" creationdate="20211202T063058Z">
+        <seg>Total (kVA)     /     Tổng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total Area - Car Parking:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20211130T071347Z" creationid="Kieu Lan" creationdate="20211130T071347Z">
@@ -34021,6 +34109,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210817T075740Z" creationid="LanHK" creationdate="20210717T023108Z">
         <seg>Total Gross area public space BOH (m²)     /     Tổng diện tích gross cho không gian BOH (m²)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Load (kVA)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20211202T063039Z" creationid="Kieu Lan" creationdate="20211202T063039Z">
+        <seg>Total Load (kVA)     /     Tổng tải (kVA)</seg>
       </tuv>
     </tu>
     <tu>
